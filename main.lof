@@ -3,11 +3,16 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces A circle in a square.}}{3}{}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces A disc in a square.}}{3}{}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Two discs in a rectangle.}}{4}{}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces A circle and a disc in a square. We want this caption to be very long to ensure that the formatting of very long captions is handled correctly. The case of short captions has already been dealt with.}}{5}{}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A graphical depiction of choice options in the attraction/repulsion effect. Left panel: preferential choice. Right panel: perceptual choice.}}{3}{figure.1.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Stimulus configuration and example trials from \blx@tocontentsinit {0}\textcite {spektorWhenGoodLooks2018b}, Experiments 3 and 4a. Note that in \blx@tocontentsinit {0}\textcite {spektorWhenGoodLooks2018b}'s experiments, one focal stimulus (i.e., $W$, $H$) was always larger than the other. They collapse across this in their main analyses, and I do include this manipulation in my reported Experiments 1 and 2.}}{8}{figure.1.2}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Data from \blx@tocontentsinit {0}\textcite {spektorWhenGoodLooks2018b}, collapsed across choice set. Error bars are $95\%$ CIs of the mean, computed using the within-subjects error correction from \blx@tocontentsinit {0}\textcite {morey2008confidence}. Dashed lines are drawn at .5 and .33.}}{9}{figure.1.3}%
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Model simulations for the attraction and repulsion effects based on the variation of $\rho _{TD}$ and $\rho _{TC}$. "Regions" of the plot are labeled based on their qualitative predictions for attraction, null, and repulsion effects. The black region is the area where, due to extreme correlations, a positive semi-definite variance-covariance matrix could not be formed and predictions are unavailable. The triangle and circle mark the observed mean correlations from the Experiment 2 triangle and horizontal conditions respectively.}}{16}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Experiment 1, mean choice proportions by stimulus display, TDD, and comparison. td=target-decoy trials, dc=competitor-decoy trials. Model predictions come from the Bayesian hierarchical logistic regression presented in Appendix XXX. Error bars are $95\%$ HDIs on the mean.}}{21}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Example trials from Experiment 2. A: Circle adjustment phase. B: Choice phase. This an example of trials in the horizontal display condition.}}{26}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Boxplot of subject-level mean error in area estimations, split by stimulus pair, TDD, and absolute discrepancy in rectangle area. Note that because the target and competitor rectangles always had equal areas, the true difference is always 0.}}{28}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Scatterplots of target-competitor (A), target-decoy (B), and competitor-decoy (C) correlations, split by display condition and TDD.}}{29}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Placeholder for $\mathbf {\mu }$ estimates.}}{30}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Posterior estimates of $\Omega $ across display conditions. Inner, thick lines show $95\%$ HDIs. Outer lines show the full range of the posterior. Dots indicate means. Figure is a place holder - will show both display conditions and remove the extra whitespace.}}{31}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Mean choice proportions for target, competitor, and decoy options, by TDD and display condition. THIS FIGURE IS A PLACEHOLDER. WILL CHANGE WITH HDIs FROM STAT. MODEL.}}{33}{figure.2.8}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Mean changes in choice proportions across choice sets. FIGURE IS ALSO A PLACEHOLDER}}{34}{figure.2.9}%

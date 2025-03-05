@@ -1,28 +1,25 @@
-\contentsline {FrontMatter}{\MakeTextUppercase []{Acknowledgments}}{v}{}%
-\contentsline {FrontMatter}{\MakeTextUppercase []{\uppercase {Abstract}}}{vi}{}%
-\contentsline {FrontMatter}{\MakeTextUppercase []{List of Tables}}{ix}{}%
-\contentsline {FrontMatter}{\MakeTextUppercase []{List of Figures}}{x}{}%
-\contentsline {Chapter}{\MakeTextUppercase []{Introduction}}{1}{}%
-\contentsline {Chapter}{\numberline {1.}\MakeTextUppercase []{An Introduction to Sheep}}{2}{}%
-\contentsline {section}{\numberline {1.1}Pulling the wool over your eyes}{2}{}%
-\contentsline {subsection}{\numberline {1.1.1}All about sheep noises}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.1.1}Baahs}{5}{}%
-\contentsline {subsection}{\numberline {1.1.2}Even more about sheep noises}{5}{}%
-\contentsline {subsection}{\numberline {1.1.3}And yet more about sheep noises}{5}{}%
-\contentsline {section}{\numberline {1.2}What about wolves?}{5}{}%
-\contentsline {section}{\numberline {1.3}What about shepherds?}{5}{}%
-\contentsline {subsection}{\numberline {1.3.1}A subsection}{6}{}%
-\contentsline {subsection}{\numberline {1.3.2}Another subsection}{6}{}%
-\contentsline {subsubsection}{\numberline {1.3.2.1}A subsubsection}{6}{}%
-\contentsline {paragraph}{\numberline {1.3.2.1.1}A Paragraph}{6}{}%
-\contentsline {subparagraph}{\numberline {1.3.2.1.1.1}A Subparagraph}{6}{}%
-\contentsline {subparagraph}{\numberline {1.3.2.1.1.2}Another Subparagraph}{6}{}%
-\contentsline {paragraph}{\numberline {1.3.2.1.2}Another Paragraph}{6}{}%
-\contentsline {subsubsection}{\numberline {1.3.2.2}Another Subsubsection}{7}{}%
-\contentsline {Chapter}{\numberline {2.}\MakeTextUppercase []{Sheep and Grass}}{8}{}%
-\contentsline {section}{\numberline {2.1}Introduction}{8}{}%
-\contentsline {Chapter}{\numberline {3.}\MakeTextUppercase []{A Wonderfully Long Chapter Title That Is This Long In Order to Test the Chapter Heading Stuff}}{9}{}%
-\contentsline {section}{\numberline {3.1}The antidisestablishmentarainism supercalifragilisticexpialidocious longlonglonglonglongword}{9}{}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{Acknowledgments}}{iv}{chapter*.1}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{\uppercase {Abstract}}}{v}{chapter*.2}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{List of Tables}}{vii}{chapter*.4}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{List of Figures}}{viii}{chapter*.5}%
+\contentsline {Chapter}{\numberline {1.}\MakeTextUppercase []{Introduction}}{1}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Overview}{1}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Introducing the Attraction Effect}{2}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}From preferential to perceptual choice}{6}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.4}Understanding Perceptual Choice Experiments}{10}{subsection.1.0.4}%
+\contentsline {Chapter}{\numberline {2.}\MakeTextUppercase []{Parsing Perceptual and Decisional Effects}}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{13}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Accounting for perception}{15}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Experiments}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Experiment 1}{18}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Methods}{18}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Results}{20}{subsubsection.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Discussion}{20}{subsubsection.2.2.1.3}%
+\contentsline {subsection}{\numberline {2.2.2}Experiment 2}{22}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Methods}{22}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Results}{25}{subsubsection.2.2.2.2}%
+\contentsline {section}{\numberline {2.3}The antidisestablishmentarainism supercalifragilisticexpialidocious longlonglonglonglongword}{32}{section.2.3}%
 \setcounter {tocdepth}{0}
-\contentsline {Appendix}{\numberline {A.}\MakeTextUppercase []{THE FIRST APPENDIX TITLE}}{10}{}%
-\contentsline {Appendix}{\numberline {B.}\MakeTextUppercase []{THE SECOND APPENDIX TITLE}}{11}{}%
+\contentsline {OnlyAppendix}{\MakeTextUppercase []{THE FIRST APPENDIX TITLE}}{36}{appendix.A}%
+\contentsline {OnlyAppendix}{\MakeTextUppercase []{THE SECOND APPENDIX TITLE}}{37}{appendix.B}%
+\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{38}{appendix*.6}%
