@@ -1,11 +1,12 @@
 # Fdb version 3
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1741116711
-  "main.bcf" 0 -1 0 "pdflatex"
+["biber main"] 1741888928 "main.bcf" "main.bbl" "main" 1741888928
+  "Papers.bib" 1741885373 680672 dc1b2e8bc463345366ba3382a32bb4de ""
+  "main.bcf" 1741885400 147481 a6dff8ef130281d25b4d310eb73bb031 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1741116711 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1741116711
-  "/Users/seanconway/Research/Dissertation/thesis/main.tex" 1741116703 61847 7ce43b3a9e968ff23c55eba71bad55e3 ""
+["pdflatex"] 1741885394 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1741885394
+  "/Users/seanconway/Research/Dissertation/thesis/main.tex" 1741885374 63087 7caf678b5db6c5461b821253d81037f6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -129,13 +130,13 @@
   "figures/pref_v_percep.jpg" 1735509096 255859 23b39a33296e89a2d8908b0161d4d5c4 ""
   "figures/spektor_data_collapsed.jpeg" 0 -1 0 ""
   "figures/spektor_stim.png" 0 -1 0 ""
-  "main.aux" 1741116711 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.bbl" 1738713302 130070 0f09b6e47669688b3697cc639dac0675 "biber main"
+  "main.aux" 0 -1 0 "pdflatex"
+  "main.bbl" 1741885386 262842 3cdf9d75c935a6c1424a2e613adda227 "biber main"
   "main.lof" 0 -1 0 "pdflatex"
   "main.lot" 0 -1 0 "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 1741116710 2423 bd1b03e6cf340c6bcd6745097bc8ab1c "pdflatex"
-  "main.tex" 1741116703 61847 7ce43b3a9e968ff23c55eba71bad55e3 ""
+  "main.run.xml" 1741885393 2423 28a55e9e39ef4136b3a992b725310f49 "pdflatex"
+  "main.tex" 1741885374 63087 7caf678b5db6c5461b821253d81037f6 ""
   "main.toc" 0 -1 0 "pdflatex"
   "umassthesis.cls" 1736288086 25871 372c0961d5d3ab1dbc2915d1789050c3 ""
   "umth12pt.clo" 1736288086 545 e35da8c22c00585b5e2845898ba621b3 ""

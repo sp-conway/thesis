@@ -70,30 +70,183 @@
       \field{pages}{437\bibrangedash 466}
       \range{pages}{30}
     \endentry
-    \entry{baltas2001random}{article}{}
+    \entry{ashbyUnifiedTheorySimilarity}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b5e2df74c0843a1cba2f53b7b9c23edc}{%
-           family={Baltas},
-           familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5c45e1b241159700c501e8f4686d8c09}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F.\bibnamedelimi G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=d1cf4a27beb2b662fa903b056dd6ae38}{%
-           family={Doyle},
-           familyi={D\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1789e21a7dfe19d641325d028d4ef0ff}{%
+           family={Perrin},
+           familyi={P\bibinitperiod},
+           given={N.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{fullhash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{bibnamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authorbibnamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authornamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authorfullhash}{2e271169d144fce21558d19d1543bcc1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Toward a {Unified} {Theory} of {Similarity} and {Recognition}}
+      \field{year}{1988}
+      \verb{file}
+      \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ashby1988decision}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68fb33b92ac4b59bd15249296a61436f}{%
+           family={Gott},
+           familyi={G\bibinitperiod},
+           given={Ralph\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Elsevier}%
+        {American Psychological Association}%
       }
-      \strng{namehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{fullhash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{bibnamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authorbibnamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authornamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authorfullhash}{ab152e2140cece4c29d71011dae5706d}
+      \strng{namehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{fullhash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{bibnamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authorbibnamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authornamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authorfullhash}{6ae160f81d4807309061f05adf6fbdf9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{1}
+      \field{title}{Decision rules in the perception and categorization of multidimensional stimuli.}
+      \field{volume}{14}
+      \field{year}{1988}
+      \field{pages}{33}
+      \range{pages}{1}
+    \endentry
+    \entry{ashbyVarietiesPerceptualIndependence1986a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F.\bibnamedelimi Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=842a80904b85b01f55860cbcb1cc0aec}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{fullhash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{bibnamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authorbibnamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authornamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authorfullhash}{f40d310b1b06b8446dcff8966f96f813}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{title}{Varieties of perceptual independence.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{93}
+      \field{year}{1986}
+      \field{urldateera}{ce}
+      \field{pages}{154\bibrangedash 179}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1037/0033-295X.93.2.154
+      \endverb
+      \verb{file}
+      \verb Ashby_Townsend_1986.pdf:/Users/seanconway/Reading/Papers/Ashby_Townsend_1986.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
+      \endverb
+    \endentry
+    \entry{banerjeeFactorsThatPromote2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b5f3844ab3fbbc907576bc5d8ebfad90}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Pronobesh},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a1473de9ad6ee6a830ebc15a6d9f5c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa377097e473384f38017ff25f5c86ff}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Promothesh},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fb5c65881c1b1efd216768d9dc21672}{%
+           family={Masters},
+           familyi={M\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5531d7583ab85851ec04e747c386f0e}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1062a52631453ff99535d3c36361ffe}{%
+           family={Wedell},
+           familyi={W\bibinitperiod},
+           given={Douglas\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a5549ac25f683da57d1f63eee995a6c9}
+      \strng{fullhash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{bibnamehash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{authorbibnamehash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{authornamehash}{a5549ac25f683da57d1f63eee995a6c9}
+      \strng{authorfullhash}{97949abc5e3996069d3b6d11b429486d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -101,13 +254,316 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Business Research}
-      \field{number}{2}
-      \field{title}{Random utility models in marketing research: a survey}
-      \field{volume}{51}
-      \field{year}{2001}
-      \field{pages}{115\bibrangedash 125}
-      \range{pages}{11}
+      \field{abstract}{Inclusion of a decoy alternative dominated by a target option, but not its competitor, typically leads to increased choice for the target over the competitor, known as the attraction effect. However, the reverse sometimes occurs, known as the repulsion effect. This research tested factors that moderate the repulsion effect in preferential choice scenarios with numerical attributes. Experiment 1 used a between-subjects design with a small set of consumer products and demonstrated robust repulsion effects that did not depend on the relative similarity of the decoy and target. Experiments 2 and 4 used a more powerful within-subjects design along with an expanded set of products and showed that repulsion effects were generally enhanced when the decoy and target had more similar attributes; however, the moderating effect of decoy–target similarity appeared to be fragile and sensitive to stimulus presentation factors. These ﬁndings provided mixed support for the hypothesis that the target is tainted by its proximity to the decoy. Experiments 3 and 5 tested whether the extremity of values on the attribute favoring the target moderates the repulsion effect. The results demonstrated that repulsion is more likely when all the alternatives have extremely high values on the target’s better attribute. Extremity of attribute values on the dimension favoring the target may result in a categorical assessment along that dimension and shift focus to the attribute favoring the competitor as one way to foster the repulsion effect.}
+      \field{issn}{1930-2975}
+      \field{journaltitle}{Judgment and Decision Making}
+      \field{title}{Factors that promote the repulsion effect in preferential choice}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{e11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1017/jdm.2023.46
+      \endverb
+      \verb{file}
+      \verb Banerjee_et_al_2024.pdf:/Users/seanconway/Reading/Papers/Banerjee_et_al_2024.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
+      \endverb
+    \endentry
+    \entry{benjamin2009signal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c7bf70e465a13477f45e20cd7fbb1a3b}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cde6bec48991a3c02b224d2863585d09}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6308facc580e02261918439320677fa5}{%
+           family={Wee},
+           familyi={W\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{1418b8f2e1cefcb60b8e6a27888828a5}
+      \strng{fullhash}{a87322449376f241ce028074e863b14c}
+      \strng{bibnamehash}{a87322449376f241ce028074e863b14c}
+      \strng{authorbibnamehash}{a87322449376f241ce028074e863b14c}
+      \strng{authornamehash}{1418b8f2e1cefcb60b8e6a27888828a5}
+      \strng{authorfullhash}{a87322449376f241ce028074e863b14c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological review}
+      \field{number}{1}
+      \field{title}{Signal detection with criterion noise: applications to recognition memory.}
+      \field{volume}{116}
+      \field{year}{2009}
+      \field{pages}{84}
+      \range{pages}{1}
+    \endentry
+    \entry{bergnerVAMPVotingAgent2019b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=02854ff593541f27c17af7f40d51850c}{%
+           family={Bergner},
+           familyi={B\bibinitperiod},
+           given={Anouk\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5979431b1f3e2daad89d06543d0255e8}{%
+           family={Oppenheimer},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46d4b0541411dbec496726e413647ebc}{%
+           family={Detre},
+           familyi={D\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4b89f706abf5f04d333d2bc509151e46}
+      \strng{fullhash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{bibnamehash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{authorbibnamehash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{authornamehash}{4b89f706abf5f04d333d2bc509151e46}
+      \strng{authorfullhash}{727424464b0f5324a0e72f10cdc00737}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper proposes an original account of decision anomalies and a computational alternative to existing dynamic models of multi-attribute choice. To date, most models attempting to account for the “Big Three” decision anomalies (similarity, attraction, and compromise effects) are variants of evidence accumulation models, or rational Bayesian analysis. This paper provides an existence proof of a new approach in the form of a multi-agent system based on the principles of voting geometry. Assuming there are a number of neural systems (agents) within an individual’s brain, the Big Three decision anomalies can arise as a natural consequence of aggregating preferences across these agents. We operationalize these principles in VAMP, (Voting Agent Model of Preferences), and compare its performance to existing computational models as well as to empirical data. This provides a fundamentally different lens for understanding decision anomalies in multi-attribute choice.}
+      \field{issn}{00100277}
+      \field{journaltitle}{Cognition}
+      \field{month}{11}
+      \field{shorttitle}{{VAMP} ({Voting} {Agent} {Model} of {Preferences})}
+      \field{title}{{VAMP} ({Voting} {Agent} {Model} of {Preferences}): {A} computational model of individual multi-attribute choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{192}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{103971}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cognition.2019.05.008
+      \endverb
+      \verb{file}
+      \verb Bergner_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Bergner_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027719301325
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027719301325
+      \endverb
+    \endentry
+    \entry{berkowitschRigorouslyTestingMultialternative2014b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25a96649b9de7827023c20bf8bfb37fa}{%
+           family={Berkowitsch},
+           familyi={B\bibinitperiod},
+           given={Nicolas\bibnamedelimb A.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dfa53663ad7850d27a74b0242312325}{%
+           family={Scheibehenne},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b74dedd867ffca4105fbcbd90181c349}
+      \strng{fullhash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{bibnamehash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{authorbibnamehash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{authornamehash}{b74dedd867ffca4105fbcbd90181c349}
+      \strng{authorfullhash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cognitive models of decision making aim to explain the process underlying observed choices. Here, we test a sequential sampling model of decision making, multialternative decision field theory (MDFT; Roe, Busemeyer, \& Townsend, 2001), on empirical grounds and compare it against 2 established random utility models of choice: the probit and the logit model. Using a within-subject experimental design, participants in 2 studies repeatedly choose among sets of options (consumer products) described on several attributes. The results of Study 1 showed that all models predicted participants’ choices equally well. In Study 2, in which the choice sets were explicitly designed to distinguish the models, MDFT had an advantage in predicting the observed choices. Study 2 further revealed the occurrence of multiple context effects within single participants, indicating an interdependent evaluation of choice options and correlations between different context effects. In sum, the results indicate that sequential sampling models can provide relevant insights into the cognitive process underlying preferential choices and thus can lead to better choice predictions.}
+      \field{issn}{1939-2222, 0096-3445}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{3}
+      \field{title}{Rigorously testing multialternative decision field theory against random utility models.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{143}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{1331\bibrangedash 1348}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/a0035159
+      \endverb
+      \verb{file}
+      \verb Berkowitsch_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Berkowitsch_et_al_2014.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0035159
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0035159
+      \endverb
+    \endentry
+    \entry{bhatiaAssociationsAccumulationPreference2013b}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ecacaa0830832f8f24271135d7f6b2d}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Sudeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{fullhash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{bibnamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authorbibnamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authornamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authorfullhash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a theory of multi-alternative, multi-attribute preferential choice. It is assumed that the associations between an attribute and an available alternative impact the attribute’s accessibility. The values of highly accessible attributes are more likely to be aggregated into preferences. Altering the choice task by adding new alternatives or by increasing the salience of preexisting alternatives can change the accessibility of the underlying attributes and subsequently bias choice. This mechanism is formalized by use of a preference accumulation decision process, embedded in a feed-forward neural network. The resulting model provides a unitary explanation for a large range of choice-set-dependent behaviors, including context effects, alignability effects, and less is more effects. The model also generates a gain–loss asymmetry relative to the reference point, without explicit loss aversion. This asymmetry accounts for all of the reference-dependent anomalies explained by loss aversion, as well as referencedependent phenomena not captured by loss aversion.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Associations and the accumulation of preference.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{120}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{522\bibrangedash 543}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1037/a0032457
+      \endverb
+      \verb{file}
+      \verb Bhatia_2013.pdf:/Users/seanconway/Reading/Papers/Bhatia_2013.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0032457
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0032457
+      \endverb
+    \endentry
+    \entry{bhui2021rational}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7697ede2cb94d5586726e7d3fad8ea99}{%
+           family={Bhui},
+           familyi={B\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa983e0769e57b7f9a497fc98e9a245}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PsyArXiv}%
+      }
+      \strng{namehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{fullhash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{bibnamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authorbibnamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authornamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authorfullhash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A rational account of the repulsion effect}
+      \field{year}{2021}
+    \endentry
+    \entry{brainardPsychophysicsToolbox1997}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61ef2e09a31993155b87dd6df2488ae0}{%
+           family={Brainard},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{fullhash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{bibnamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authorbibnamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authornamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authorfullhash}{61ef2e09a31993155b87dd6df2488ae0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Spatial Vision}
+      \field{title}{The {Psychophysics} {Toolbox}}
+      \field{volume}{10}
+      \field{year}{1997}
+      \field{pages}{433\bibrangedash 436}
+      \range{pages}{4}
     \endentry
     \entry{caiWhenAlternativeHypotheses2023}{article}{}
       \name{author}{2}{}{%
@@ -167,6 +623,64 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722002943
       \endverb
     \endentry
+    \entry{cataldoComparisonProcessAccount2019b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects are changes in preference that occur when alternatives are added to a choice set. Models that account for context effects typically assume a within-dimension comparison process; however, the presentation format of a choice set can influence comparison strategies. The present study jointly tests the influence of presentation format on the attraction, compromise, and similarity effects in a within-subjects design. Participants completed a series of choices designed to elicit each of the three context effects, with either a by-alternative or by-dimension format. Whereas the by-alternative format elicited a standard similarity effect, but null attraction and reverse compromise effects, the by-dimension format elicited standard attraction and compromise effects, but a reverse similarity effect. These novel results are supported by a re-analysis of the eye-tracking data collected by Noguchi and Stewart (Cognition, 132(1), 44–56, 2014) and demonstrate that flexibility in the comparison process should be incorporated into theories of preferential choice.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{The comparison process as an account of variation in the attraction, compromise, and similarity effects}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{934\bibrangedash 942}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3758/s13423-018-1531-9
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2019_Comparison.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2019_Comparison.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+    \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
@@ -217,14 +731,43 @@
       \field{pages}{102790}
       \range{pages}{1}
     \endentry
+    \entry{deleeuwJsPsychJavaScriptLibrary2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=69af92fdd3d5530b3055a0b8466eeeda}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{fullhash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{bibnamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authorbibnamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authornamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authorfullhash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{{jsPsych}: {A} {JavaScript} library for creating behavioral experiments in a web browser.}
+      \field{volume}{47}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
     \entry{doyleRobustnessAsymmetricallyDominated1999}{article}{}
       \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=43aa0f3045d76104aaa7cbef33c77724}{%
+        {{un=0,uniquepart=base,hash=43aa0f3045d76104aaa7cbef33c77724}{%
            family={Doyle},
            familyi={D\bibinitperiod},
            given={John\bibnamedelima R.},
            giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=64dfa7f9a7f1b1cc5c78370d0b47dec0}{%
            family={O'Connor},
            familyi={O\bibinitperiod},
@@ -358,6 +901,171 @@
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000144
       \endverb
     \endentry
+    \entry{frederickLimitsAttraction2014b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7948761e48219771d306c89d9053f7df}{%
+           family={Frederick},
+           familyi={F\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aab477ac50f9f93f200f326c96f889d5}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5415f5ebda1102e52656113454158504}{%
+           family={Baskin},
+           familyi={B\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2d1c7c17e86a6793e1526cbcb5c95f20}
+      \strng{fullhash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{bibnamehash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{authorbibnamehash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{authornamehash}{2d1c7c17e86a6793e1526cbcb5c95f20}
+      \strng{authorfullhash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Consumer research has documented dozens of instances in which the introduction of an “irrelevant” third option affects preferences between the remaining two. In nearly all such cases, the unattractive dominated option enhances the attractiveness of the option it most resembles—a phenomenon known as the “attraction effect.” In the studies presented here, however, the authors contend that this phenomenon may be restricted to stylized product representations in which every product dimension is represented by a number (e.g., a toaster oven that has a durability rating of 7.2 and ease of cleaning rating of 5.5). Such effects do not typically occur when consumers experience the product (e.g., taste a drink) or when even one of the product attributes is represented perceptually (e.g., differently priced hotel rooms whose quality is depicted with a photo). The authors posit that perceptual representations of attributes do not support the sorts of comparisons that drive the attraction effect with highly stylized examples, and they question the practical significance of the effect.}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{title}{The {Limits} of {Attraction}}
+      \field{year}{2014}
+      \verb{file}
+      \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hausman1978conditional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=efa8edfd650dfd234af154959e067af8}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Jerry\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4113665da8685d215771271a11d964c8}{%
+           family={Wise},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{fullhash}{636e905d748145a83f5a504fc6b34950}
+      \strng{bibnamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authorbibnamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authornamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authorfullhash}{636e905d748145a83f5a504fc6b34950}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
+      \field{year}{1978}
+      \field{pages}{403\bibrangedash 426}
+      \range{pages}{24}
+    \endentry
+    \entry{hautus2021detection}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8a70632d58cff394899e473585e44014}{%
+           family={Hautus},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6afc6fc486ec6176743f58ada93f25d3}{%
+           family={Macmillan},
+           familyi={M\bibinitperiod},
+           given={Neil\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14d9016ec69b5412e93bdf47bcdf99dc}{%
+           family={Creelman},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima Douglas},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{b3dc917101b847265c46ad39cdc46535}
+      \strng{fullhash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{bibnamehash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{authorbibnamehash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{authornamehash}{b3dc917101b847265c46ad39cdc46535}
+      \strng{authorfullhash}{ee097098eb9c8d123119d7f6588805d7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Detection theory: A user's guide}
+      \field{year}{2021}
+    \endentry
+    \entry{hayes2024attribute}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=56a1473de9ad6ee6a830ebc15a6d9f5c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima M},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3def8b672b802abc4c64147fdf6dfc72}
+      \strng{fullhash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{bibnamehash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{authorbibnamehash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{authornamehash}{3def8b672b802abc4c64147fdf6dfc72}
+      \strng{authorfullhash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{Attribute commensurability and context effects in preferential choice}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
     \entry{herneDecoyAlternativesPolicy1997b}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=60eb1f2707d1643a139119270268880e}{%
@@ -462,31 +1170,6 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0749597896900060
       \endverb
-    \endentry
-    \entry{hofacker2007mathematical}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=653bb2d8d36ea89ccc48f0b2f2fc695c}{%
-           family={Hofacker},
-           familyi={H\bibinitperiod},
-           given={Charles\bibnamedelima F},
-           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{fullhash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{bibnamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authorbibnamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authornamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authorfullhash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Mathematical Marketing}
-      \field{year}{2007}
     \endentry
     \entry{huber1983market}{article}{}
       \name{author}{2}{}{%
@@ -805,6 +1488,97 @@
       \field{pages}{8942}
       \range{pages}{1}
     \endentry
+    \entry{morey2008confidence}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
+           family={Morey},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{fullhash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{bibnamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authorbibnamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authornamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authorfullhash}{8866e49bae6dd246fb1293490b5d85dc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tutorials in Quantitative Methods for Psychology}
+      \field{number}{2}
+      \field{title}{Confidence intervals from normalized data: A correction to Cousineau (2005)}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{61\bibrangedash 64}
+      \range{pages}{4}
+    \endentry
+    \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{fullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{bibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Sequential sampling of evidence, or evidence accumulation, has been implemented in a variety of models to explain a range of multialternative choice phenomena. But the existing models do not agree on what, exactly, the evidence is that is accumulated. They also do not agree on how this evidence is accumulated. In this article, we use findings from process-tracing studies to constrain the evidence accumulation process. With these constraints, we extend the decision by sampling model and propose the multialternative decision by sampling (MDbS) model. In MDbS, the evidence accumulated is outcomes of pairwise ordinal comparisons between attribute values. MDbS provides a quantitative account of the attraction, compromise, and similarity effects equal to that of other models, and captures a wider range of empirical phenomena than other models.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shorttitle}{Multialternative decision by sampling}
+      \field{title}{Multialternative decision by sampling: {A} model of decision making constrained by process data.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{125}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{512\bibrangedash 544}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1037/rev0000102
+      \endverb
+      \verb{file}
+      \verb Noguchi_Stewart_2018.pdf:/Users/seanconway/Reading/Papers/Noguchi_Stewart_2018.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000102
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000102
+      \endverb
+    \endentry
     \entry{pan1995attractiovoting}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=374842294f3f6323c4d22c747565f716}{%
@@ -850,6 +1624,51 @@
       \field{pages}{85\bibrangedash 101}
       \range{pages}{17}
     \endentry
+    \entry{pittarello2020three}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3f2953b192542234991b23b427afe1d7}{%
+           family={Pittarello},
+           familyi={P\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6b4948b9bf69cf4558220400fc3aed1}{%
+           family={Caserotti},
+           familyi={C\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a784b3cba9ef9c0f0d88e0a7c176643}{%
+           family={Rubaltelli},
+           familyi={R\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7de6b3962b492d9ce4113c1d89452a40}
+      \strng{fullhash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{bibnamehash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{authorbibnamehash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{authornamehash}{7de6b3962b492d9ce4113c1d89452a40}
+      \strng{authorfullhash}{6acfcc640f9df81230b71f38ef376c0b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Psychology}
+      \field{number}{4}
+      \field{title}{‘Three is better than two’: Increasing donations with the attraction effect}
+      \field{volume}{111}
+      \field{year}{2020}
+      \field{pages}{805\bibrangedash 822}
+      \range{pages}{18}
+    \endentry
     \entry{ray1973independence}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f2e4f37e1a0faf8d8e2d0c8370585123}{%
@@ -880,6 +1699,108 @@
       \field{year}{1973}
       \field{pages}{987\bibrangedash 991}
       \range{pages}{5}
+    \endentry
+    \entry{roeMultialternativeDecisionField2001a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4f6a45c2bf6943dafb53fe4ae51616a}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c7c7e9e9f8b570b5e09e76540a07e85}{%
+           family={Busemeyer},
+           familyi={B\bibinitperiod},
+           given={Jermone\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=842a80904b85b01f55860cbcb1cc0aec}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0065ef774147bf67ec1dbec64b40d3a9}
+      \strng{fullhash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{bibnamehash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{authorbibnamehash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{authornamehash}{0065ef774147bf67ec1dbec64b40d3a9}
+      \strng{authorfullhash}{010fa1accc0104a7434d9be205804fb7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{shorttitle}{Multialternative decision field theory}
+      \field{title}{Multialternative decision field theory: {A} dynamic connectionst model of decision making.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{108}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{370\bibrangedash 392}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/0033-295X.108.2.370
+      \endverb
+      \verb{file}
+      \verb Roe_et_al_2001.pdf:/Users/seanconway/Reading/Papers/Roe_et_al_2001.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
+      \endverb
+    \endentry
+    \entry{schwartz1999more}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb75c1a17b38146ed9434e04165ed433}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Janet\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20be9ec70bb3f789de4e6f2fd7306d35}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Gretchen\bibnamedelima B},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{fullhash}{00e62425858478cb46b755c5a82fc858}
+      \strng{bibnamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authorbibnamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authornamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authorfullhash}{00e62425858478cb46b755c5a82fc858}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Decision Making}
+      \field{number}{3}
+      \field{title}{Are more options always better? The attraction effect in physicians' decisions about medications}
+      \field{volume}{19}
+      \field{year}{1999}
+      \field{pages}{315\bibrangedash 323}
+      \range{pages}{9}
     \endentry
     \entry{shepardUniversalLawGeneralization1987c}{article}{}
       \name{author}{1}{}{%
@@ -930,6 +1851,102 @@
       \endverb
       \verb{url}
       \verb https://www.science.org/doi/10.1126/science.3629243
+      \endverb
+    \endentry
+    \entry{simonsonVicesVirtuesMisguided2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{fullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{bibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The likelihood of replicating an effect such as asymmetric dominance (AD) largely depends on other, usually more important choice drivers (e.g., attributes, values). Accordingly, it is not surprising that the AD effect is often not observed when other choice drivers have greater impact and/or when the AD configuration is unlikely to be perceived. However, when price is an attribute (and in many other cases), the AD effect is often observed in both properly designed studies and the real world. The author notes that Frederick, Lee, and Baskin (2014) raise important questions, but they would have made a greater contribution had they (1) systematically studied the drivers of AD perceptions, (2) more accurately tried to replicate previous AD effect demonstrations, and (3) systematically studied the repulsion effect. The author also briefly comments on the Yang and Lynn (2014) studies, which he asserts did not test the AD effect properly in most cases.}
+      \field{journaltitle}{JOURNAL OF MARKETING RESEARCH}
+      \field{title}{Vices and {Virtues} of {Misguided} {Replications}: {The} {Case} of {Asymmetric} {Dominance}}
+      \field{year}{2014}
+      \verb{file}
+      \verb Simonson_2014.pdf:/Users/seanconway/Reading/Papers/Simonson_2014.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{slaughterDecoyEffectsAttributelevel1999b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=196f791d1bc84bad03c7b6d12b7cc12e}{%
+           family={Slaughter},
+           familyi={S\bibinitperiod},
+           given={Jerel\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc91aa9677edcb1520b64d0115be617c}{%
+           family={Sinar},
+           familyi={S\bibinitperiod},
+           given={Evan\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bce2e3ba0143e6f4a9894c303a17cfe}{%
+           family={Highhouse},
+           familyi={H\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6be0464526ba3edd1bd82f581098eba1}
+      \strng{fullhash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{bibnamehash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{authorbibnamehash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{authornamehash}{6be0464526ba3edd1bd82f581098eba1}
+      \strng{authorfullhash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1854, 0021-9010}
+      \field{journaltitle}{Journal of Applied Psychology}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Decoy effects and attribute-level inferences.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{84}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{823\bibrangedash 828}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1037/0021-9010.84.5.823
+      \endverb
+      \verb{file}
+      \verb Slaughter_etal_1999.pdf:/Users/seanconway/Reading/Papers/Slaughter_etal_1999.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.84.5.823
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.84.5.823
       \endverb
     \endentry
     \entry{spektorWhenGoodLooks2018b}{article}{}
@@ -1062,6 +2079,156 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
+    \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5b0a388600f83b2d6842ed395885381e}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d40720b218bb99d52181c1c57d80cb0}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={L\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{fullhash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{bibnamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authorbibnamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authornamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authorfullhash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Observers matched the brightness of a light to the loudness of a noise, and vice versa, at various levels of intensity. The cross-modality functions thereby generated have the form predicted by the psychophysical power law of sensory magnitude, and they demonstrate that the psychophysical functions relating brightness and loudness to the level of stimulus energy have approximately the same exponents.}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Cross-modality matching of brightness and loudness.}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{54}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \field{pages}{407\bibrangedash 411}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.54.2.407
+      \endverb
+      \verb{file}
+      \verb Stevens_1965.pdf:/Users/seanconway/Reading/Papers/Stevens_1965.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
+      \endverb
+      \verb{url}
+      \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
+      \endverb
+    \endentry
+    \entry{octave}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3e3b2931f3ba723c78581645971d281}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelimb Octave\bibnamedelima Development},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{fullhash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{bibnamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authorbibnamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authornamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authorfullhash}{e3e3b2931f3ba723c78581645971d281}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GNU Octave}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.gnu.org/software/octave/
+      \endverb
+      \verb{url}
+      \verb https://www.gnu.org/software/octave/
+      \endverb
+    \endentry
+    \entry{thurstone1927law}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0f6da8c4a112e1350239be9878275cd}{%
+           family={Thurstone},
+           familyi={T\bibinitperiod},
+           given={Louis\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{fullhash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{bibnamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authorbibnamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authornamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authorfullhash}{b0f6da8c4a112e1350239be9878275cd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{title}{A law of comparative judgment.}
+      \field{volume}{34}
+      \field{year}{1927}
+      \field{pages}{273\bibrangedash 286}
+      \range{pages}{14}
+    \endentry
+    \entry{train2009discrete}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb49649475647614b53241e5cdccd584}{%
+           family={Train},
+           familyi={T\bibinitperiod},
+           given={Kenneth\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{bb49649475647614b53241e5cdccd584}
+      \strng{fullhash}{bb49649475647614b53241e5cdccd584}
+      \strng{bibnamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authorbibnamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authornamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authorfullhash}{bb49649475647614b53241e5cdccd584}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discrete choice methods with simulation}
+      \field{year}{2009}
+    \endentry
     \entry{truebloodMultialternativeContextEffects2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
@@ -1114,6 +2281,49 @@
       \verb http://link.springer.com/10.3758/s13423-012-0288-9
       \endverb
     \endentry
+    \entry{truebloodMultiattributeLinearBallistic}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bb22242239c3eb5e15c610279ecb3af3}
+      \strng{fullhash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{bibnamehash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{authorbibnamehash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{authornamehash}{bb22242239c3eb5e15c610279ecb3af3}
+      \strng{authorfullhash}{223a179c4823c954be0dd493d66e3f4f}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects occur when a choice between 2 options is altered by adding a 3rd alternative. Three major context effects—similarity, compromise, and attraction— have wide-ranging implications across applied and theoretical domains, and have driven the development of new dynamic models of multiattribute and multialternative choice. We propose the multiattribute linear ballistic accumulator (MLBA), a new dynamic model that provides a quantitative account of all 3 context effects. Our account applies not only to traditional paradigms involving choices among hedonic stimuli, but also to recent demonstrations of context effects with nonhedonic stimuli. Because of its computational tractability, the MLBA model is more easily applied than previous dynamic models. We show that the model also accounts for a range of other phenomena in multiattribute, multialternative choice, including time pressure effects, and that it makes a new prediction about the relationship between deliberation time and the magnitude of the similarity effect, which we confirm experimentally.}
+      \field{title}{The {Multiattribute} {Linear} {Ballistic} {Accumulator} {Model} of {Context} {Effects} in {Multialternative} {Choice}}
+      \verb{file}
+      \verb Trueblood_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Trueblood_et_al_2014.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{trueblood2013not}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
@@ -1150,6 +2360,7 @@
       \strng{authorbibnamehash}{bb9d86363efb98b73620c0ecdb0facf2}
       \strng{authornamehash}{bb22242239c3eb5e15c610279ecb3af3}
       \strng{authorfullhash}{bb9d86363efb98b73620c0ecdb0facf2}
+      \field{extraname}{2}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -1233,6 +2444,195 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000089
+      \endverb
+    \endentry
+    \entry{tversky1993context}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{fullhash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{bibnamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authorbibnamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authornamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authorfullhash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management science}
+      \field{number}{10}
+      \field{title}{Context-dependent preferences}
+      \field{volume}{39}
+      \field{year}{1993}
+      \field{pages}{1179\bibrangedash 1189}
+      \range{pages}{11}
+    \endentry
+    \entry{usherLossAversionInhibition2004a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa623109668f355db4430ccca298f768}{%
+           family={McClelland},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{fullhash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{bibnamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authorbibnamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authornamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authorfullhash}{ada2493790a66b2a72873dc68f60a60e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Loss {Aversion} and {Inhibition} in {Dynamical} {Models} of {Multialternative} {Choice}.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{111}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{757\bibrangedash 769}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0033-295X.111.3.757
+      \endverb
+      \verb{file}
+      \verb Usher_McClelland_2004.pdf:/Users/seanconway/Reading/Papers/Usher_McClelland_2004.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.111.3.757
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.111.3.757
+      \endverb
+    \endentry
+    \entry{van2021attract}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1748f7977e8bc419475ca02be23d9e4a}{%
+           family={Enden},
+           familyi={E\bibinitperiod},
+           given={Gitta},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5e0ffe30d03881689adfaf6973a79902}{%
+           family={Geyskens},
+           familyi={G\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{fullhash}{846aadd34f52132c8456a67bc7627422}
+      \strng{bibnamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authorbibnamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authornamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authorfullhash}{846aadd34f52132c8456a67bc7627422}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos one}
+      \field{number}{11}
+      \field{title}{Attract the best: The attraction effect as an effective strategy to enhance healthy choices}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{pages}{e0259521}
+      \range{pages}{-1}
+    \endentry
+    \entry{wollschlager2NaryChoiceTree2012a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=635f670a546984808ce14668ab728cd2}{%
+           family={Wollschläger},
+           familyi={W\bibinitperiod},
+           given={Lena\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b90d5de9be5c78215ccdd23bf58eba7}{%
+           family={Diederich},
+           familyi={D\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{fullhash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{bibnamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authorbibnamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authornamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authorfullhash}{99c2e974f8d03333d31d415509d0a59d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{The {2N}-ary {Choice} {Tree} {Model} for {N}-{Alternative} {Preferential} {Choice}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2012.00189
+      \endverb
+      \verb{file}
+      \verb Wollschlager_Diederich_2012.pdf:/Users/seanconway/Reading/Papers/Wollschlager_Diederich_2012.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00189/abstract
+      \endverb
+      \verb{url}
+      \verb http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00189/abstract
       \endverb
     \endentry
     \entry{yearsleyContextEffectsSimilarity2022}{article}{}
@@ -1364,30 +2764,183 @@
       \field{pages}{437\bibrangedash 466}
       \range{pages}{30}
     \endentry
-    \entry{baltas2001random}{article}{}
+    \entry{ashbyUnifiedTheorySimilarity}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b5e2df74c0843a1cba2f53b7b9c23edc}{%
-           family={Baltas},
-           familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5c45e1b241159700c501e8f4686d8c09}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F.\bibnamedelimi G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=d1cf4a27beb2b662fa903b056dd6ae38}{%
-           family={Doyle},
-           familyi={D\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1789e21a7dfe19d641325d028d4ef0ff}{%
+           family={Perrin},
+           familyi={P\bibinitperiod},
+           given={N.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{fullhash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{bibnamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authorbibnamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authornamehash}{2e271169d144fce21558d19d1543bcc1}
+      \strng{authorfullhash}{2e271169d144fce21558d19d1543bcc1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Toward a {Unified} {Theory} of {Similarity} and {Recognition}}
+      \field{year}{1988}
+      \verb{file}
+      \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ashby1988decision}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68fb33b92ac4b59bd15249296a61436f}{%
+           family={Gott},
+           familyi={G\bibinitperiod},
+           given={Ralph\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Elsevier}%
+        {American Psychological Association}%
       }
-      \strng{namehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{fullhash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{bibnamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authorbibnamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authornamehash}{ab152e2140cece4c29d71011dae5706d}
-      \strng{authorfullhash}{ab152e2140cece4c29d71011dae5706d}
+      \strng{namehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{fullhash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{bibnamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authorbibnamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authornamehash}{6ae160f81d4807309061f05adf6fbdf9}
+      \strng{authorfullhash}{6ae160f81d4807309061f05adf6fbdf9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{1}
+      \field{title}{Decision rules in the perception and categorization of multidimensional stimuli.}
+      \field{volume}{14}
+      \field{year}{1988}
+      \field{pages}{33}
+      \range{pages}{1}
+    \endentry
+    \entry{ashbyVarietiesPerceptualIndependence1986a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F.\bibnamedelimi Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=842a80904b85b01f55860cbcb1cc0aec}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{fullhash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{bibnamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authorbibnamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authornamehash}{f40d310b1b06b8446dcff8966f96f813}
+      \strng{authorfullhash}{f40d310b1b06b8446dcff8966f96f813}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{title}{Varieties of perceptual independence.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{93}
+      \field{year}{1986}
+      \field{urldateera}{ce}
+      \field{pages}{154\bibrangedash 179}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1037/0033-295X.93.2.154
+      \endverb
+      \verb{file}
+      \verb Ashby_Townsend_1986.pdf:/Users/seanconway/Reading/Papers/Ashby_Townsend_1986.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
+      \endverb
+    \endentry
+    \entry{banerjeeFactorsThatPromote2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b5f3844ab3fbbc907576bc5d8ebfad90}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Pronobesh},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a1473de9ad6ee6a830ebc15a6d9f5c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa377097e473384f38017ff25f5c86ff}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Promothesh},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fb5c65881c1b1efd216768d9dc21672}{%
+           family={Masters},
+           familyi={M\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5531d7583ab85851ec04e747c386f0e}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1062a52631453ff99535d3c36361ffe}{%
+           family={Wedell},
+           familyi={W\bibinitperiod},
+           given={Douglas\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a5549ac25f683da57d1f63eee995a6c9}
+      \strng{fullhash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{bibnamehash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{authorbibnamehash}{97949abc5e3996069d3b6d11b429486d}
+      \strng{authornamehash}{a5549ac25f683da57d1f63eee995a6c9}
+      \strng{authorfullhash}{97949abc5e3996069d3b6d11b429486d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1395,13 +2948,316 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Business Research}
-      \field{number}{2}
-      \field{title}{Random utility models in marketing research: a survey}
-      \field{volume}{51}
-      \field{year}{2001}
-      \field{pages}{115\bibrangedash 125}
-      \range{pages}{11}
+      \field{abstract}{Inclusion of a decoy alternative dominated by a target option, but not its competitor, typically leads to increased choice for the target over the competitor, known as the attraction effect. However, the reverse sometimes occurs, known as the repulsion effect. This research tested factors that moderate the repulsion effect in preferential choice scenarios with numerical attributes. Experiment 1 used a between-subjects design with a small set of consumer products and demonstrated robust repulsion effects that did not depend on the relative similarity of the decoy and target. Experiments 2 and 4 used a more powerful within-subjects design along with an expanded set of products and showed that repulsion effects were generally enhanced when the decoy and target had more similar attributes; however, the moderating effect of decoy–target similarity appeared to be fragile and sensitive to stimulus presentation factors. These ﬁndings provided mixed support for the hypothesis that the target is tainted by its proximity to the decoy. Experiments 3 and 5 tested whether the extremity of values on the attribute favoring the target moderates the repulsion effect. The results demonstrated that repulsion is more likely when all the alternatives have extremely high values on the target’s better attribute. Extremity of attribute values on the dimension favoring the target may result in a categorical assessment along that dimension and shift focus to the attribute favoring the competitor as one way to foster the repulsion effect.}
+      \field{issn}{1930-2975}
+      \field{journaltitle}{Judgment and Decision Making}
+      \field{title}{Factors that promote the repulsion effect in preferential choice}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{e11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1017/jdm.2023.46
+      \endverb
+      \verb{file}
+      \verb Banerjee_et_al_2024.pdf:/Users/seanconway/Reading/Papers/Banerjee_et_al_2024.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
+      \endverb
+    \endentry
+    \entry{benjamin2009signal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c7bf70e465a13477f45e20cd7fbb1a3b}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Aaron\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cde6bec48991a3c02b224d2863585d09}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6308facc580e02261918439320677fa5}{%
+           family={Wee},
+           familyi={W\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{1418b8f2e1cefcb60b8e6a27888828a5}
+      \strng{fullhash}{a87322449376f241ce028074e863b14c}
+      \strng{bibnamehash}{a87322449376f241ce028074e863b14c}
+      \strng{authorbibnamehash}{a87322449376f241ce028074e863b14c}
+      \strng{authornamehash}{1418b8f2e1cefcb60b8e6a27888828a5}
+      \strng{authorfullhash}{a87322449376f241ce028074e863b14c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological review}
+      \field{number}{1}
+      \field{title}{Signal detection with criterion noise: applications to recognition memory.}
+      \field{volume}{116}
+      \field{year}{2009}
+      \field{pages}{84}
+      \range{pages}{1}
+    \endentry
+    \entry{bergnerVAMPVotingAgent2019b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=02854ff593541f27c17af7f40d51850c}{%
+           family={Bergner},
+           familyi={B\bibinitperiod},
+           given={Anouk\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5979431b1f3e2daad89d06543d0255e8}{%
+           family={Oppenheimer},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46d4b0541411dbec496726e413647ebc}{%
+           family={Detre},
+           familyi={D\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4b89f706abf5f04d333d2bc509151e46}
+      \strng{fullhash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{bibnamehash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{authorbibnamehash}{727424464b0f5324a0e72f10cdc00737}
+      \strng{authornamehash}{4b89f706abf5f04d333d2bc509151e46}
+      \strng{authorfullhash}{727424464b0f5324a0e72f10cdc00737}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper proposes an original account of decision anomalies and a computational alternative to existing dynamic models of multi-attribute choice. To date, most models attempting to account for the “Big Three” decision anomalies (similarity, attraction, and compromise effects) are variants of evidence accumulation models, or rational Bayesian analysis. This paper provides an existence proof of a new approach in the form of a multi-agent system based on the principles of voting geometry. Assuming there are a number of neural systems (agents) within an individual’s brain, the Big Three decision anomalies can arise as a natural consequence of aggregating preferences across these agents. We operationalize these principles in VAMP, (Voting Agent Model of Preferences), and compare its performance to existing computational models as well as to empirical data. This provides a fundamentally different lens for understanding decision anomalies in multi-attribute choice.}
+      \field{issn}{00100277}
+      \field{journaltitle}{Cognition}
+      \field{month}{11}
+      \field{shorttitle}{{VAMP} ({Voting} {Agent} {Model} of {Preferences})}
+      \field{title}{{VAMP} ({Voting} {Agent} {Model} of {Preferences}): {A} computational model of individual multi-attribute choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{192}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{103971}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cognition.2019.05.008
+      \endverb
+      \verb{file}
+      \verb Bergner_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Bergner_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027719301325
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027719301325
+      \endverb
+    \endentry
+    \entry{berkowitschRigorouslyTestingMultialternative2014b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25a96649b9de7827023c20bf8bfb37fa}{%
+           family={Berkowitsch},
+           familyi={B\bibinitperiod},
+           given={Nicolas\bibnamedelimb A.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dfa53663ad7850d27a74b0242312325}{%
+           family={Scheibehenne},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b74dedd867ffca4105fbcbd90181c349}
+      \strng{fullhash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{bibnamehash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{authorbibnamehash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \strng{authornamehash}{b74dedd867ffca4105fbcbd90181c349}
+      \strng{authorfullhash}{b17e9fbe5b95c68a4141e8d906992d28}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cognitive models of decision making aim to explain the process underlying observed choices. Here, we test a sequential sampling model of decision making, multialternative decision field theory (MDFT; Roe, Busemeyer, \& Townsend, 2001), on empirical grounds and compare it against 2 established random utility models of choice: the probit and the logit model. Using a within-subject experimental design, participants in 2 studies repeatedly choose among sets of options (consumer products) described on several attributes. The results of Study 1 showed that all models predicted participants’ choices equally well. In Study 2, in which the choice sets were explicitly designed to distinguish the models, MDFT had an advantage in predicting the observed choices. Study 2 further revealed the occurrence of multiple context effects within single participants, indicating an interdependent evaluation of choice options and correlations between different context effects. In sum, the results indicate that sequential sampling models can provide relevant insights into the cognitive process underlying preferential choices and thus can lead to better choice predictions.}
+      \field{issn}{1939-2222, 0096-3445}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{3}
+      \field{title}{Rigorously testing multialternative decision field theory against random utility models.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{143}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{1331\bibrangedash 1348}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/a0035159
+      \endverb
+      \verb{file}
+      \verb Berkowitsch_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Berkowitsch_et_al_2014.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0035159
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0035159
+      \endverb
+    \endentry
+    \entry{bhatiaAssociationsAccumulationPreference2013b}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ecacaa0830832f8f24271135d7f6b2d}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Sudeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{fullhash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{bibnamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authorbibnamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authornamehash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \strng{authorfullhash}{7ecacaa0830832f8f24271135d7f6b2d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a theory of multi-alternative, multi-attribute preferential choice. It is assumed that the associations between an attribute and an available alternative impact the attribute’s accessibility. The values of highly accessible attributes are more likely to be aggregated into preferences. Altering the choice task by adding new alternatives or by increasing the salience of preexisting alternatives can change the accessibility of the underlying attributes and subsequently bias choice. This mechanism is formalized by use of a preference accumulation decision process, embedded in a feed-forward neural network. The resulting model provides a unitary explanation for a large range of choice-set-dependent behaviors, including context effects, alignability effects, and less is more effects. The model also generates a gain–loss asymmetry relative to the reference point, without explicit loss aversion. This asymmetry accounts for all of the reference-dependent anomalies explained by loss aversion, as well as referencedependent phenomena not captured by loss aversion.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Associations and the accumulation of preference.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{120}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{522\bibrangedash 543}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1037/a0032457
+      \endverb
+      \verb{file}
+      \verb Bhatia_2013.pdf:/Users/seanconway/Reading/Papers/Bhatia_2013.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0032457
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0032457
+      \endverb
+    \endentry
+    \entry{bhui2021rational}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7697ede2cb94d5586726e7d3fad8ea99}{%
+           family={Bhui},
+           familyi={B\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa983e0769e57b7f9a497fc98e9a245}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PsyArXiv}%
+      }
+      \strng{namehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{fullhash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{bibnamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authorbibnamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authornamehash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \strng{authorfullhash}{c9e7972aa6c6dd7658ea3a96300c9209}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A rational account of the repulsion effect}
+      \field{year}{2021}
+    \endentry
+    \entry{brainardPsychophysicsToolbox1997}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61ef2e09a31993155b87dd6df2488ae0}{%
+           family={Brainard},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{fullhash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{bibnamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authorbibnamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authornamehash}{61ef2e09a31993155b87dd6df2488ae0}
+      \strng{authorfullhash}{61ef2e09a31993155b87dd6df2488ae0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Spatial Vision}
+      \field{title}{The {Psychophysics} {Toolbox}}
+      \field{volume}{10}
+      \field{year}{1997}
+      \field{pages}{433\bibrangedash 436}
+      \range{pages}{4}
     \endentry
     \entry{caiWhenAlternativeHypotheses2023}{article}{}
       \name{author}{2}{}{%
@@ -1461,6 +3317,64 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722002943
       \endverb
     \endentry
+    \entry{cataldoComparisonProcessAccount2019b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects are changes in preference that occur when alternatives are added to a choice set. Models that account for context effects typically assume a within-dimension comparison process; however, the presentation format of a choice set can influence comparison strategies. The present study jointly tests the influence of presentation format on the attraction, compromise, and similarity effects in a within-subjects design. Participants completed a series of choices designed to elicit each of the three context effects, with either a by-alternative or by-dimension format. Whereas the by-alternative format elicited a standard similarity effect, but null attraction and reverse compromise effects, the by-dimension format elicited standard attraction and compromise effects, but a reverse similarity effect. These novel results are supported by a re-analysis of the eye-tracking data collected by Noguchi and Stewart (Cognition, 132(1), 44–56, 2014) and demonstrate that flexibility in the comparison process should be incorporated into theories of preferential choice.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{The comparison process as an account of variation in the attraction, compromise, and similarity effects}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{934\bibrangedash 942}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3758/s13423-018-1531-9
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2019_Comparison.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2019_Comparison.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+    \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
@@ -1511,14 +3425,43 @@
       \field{pages}{102790}
       \range{pages}{1}
     \endentry
+    \entry{deleeuwJsPsychJavaScriptLibrary2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=69af92fdd3d5530b3055a0b8466eeeda}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{fullhash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{bibnamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authorbibnamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authornamehash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \strng{authorfullhash}{69af92fdd3d5530b3055a0b8466eeeda}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{{jsPsych}: {A} {JavaScript} library for creating behavioral experiments in a web browser.}
+      \field{volume}{47}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
     \entry{doyleRobustnessAsymmetricallyDominated1999}{article}{}
       \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=43aa0f3045d76104aaa7cbef33c77724}{%
+        {{un=0,uniquepart=base,hash=43aa0f3045d76104aaa7cbef33c77724}{%
            family={Doyle},
            familyi={D\bibinitperiod},
            given={John\bibnamedelima R.},
            giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=64dfa7f9a7f1b1cc5c78370d0b47dec0}{%
            family={O'Connor},
            familyi={O\bibinitperiod},
@@ -1652,6 +3595,171 @@
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000144
       \endverb
     \endentry
+    \entry{frederickLimitsAttraction2014b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7948761e48219771d306c89d9053f7df}{%
+           family={Frederick},
+           familyi={F\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aab477ac50f9f93f200f326c96f889d5}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5415f5ebda1102e52656113454158504}{%
+           family={Baskin},
+           familyi={B\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2d1c7c17e86a6793e1526cbcb5c95f20}
+      \strng{fullhash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{bibnamehash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{authorbibnamehash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \strng{authornamehash}{2d1c7c17e86a6793e1526cbcb5c95f20}
+      \strng{authorfullhash}{ac3f1290bc9265b0dc056c3ede1c0d26}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Consumer research has documented dozens of instances in which the introduction of an “irrelevant” third option affects preferences between the remaining two. In nearly all such cases, the unattractive dominated option enhances the attractiveness of the option it most resembles—a phenomenon known as the “attraction effect.” In the studies presented here, however, the authors contend that this phenomenon may be restricted to stylized product representations in which every product dimension is represented by a number (e.g., a toaster oven that has a durability rating of 7.2 and ease of cleaning rating of 5.5). Such effects do not typically occur when consumers experience the product (e.g., taste a drink) or when even one of the product attributes is represented perceptually (e.g., differently priced hotel rooms whose quality is depicted with a photo). The authors posit that perceptual representations of attributes do not support the sorts of comparisons that drive the attraction effect with highly stylized examples, and they question the practical significance of the effect.}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{title}{The {Limits} of {Attraction}}
+      \field{year}{2014}
+      \verb{file}
+      \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hausman1978conditional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=efa8edfd650dfd234af154959e067af8}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Jerry\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4113665da8685d215771271a11d964c8}{%
+           family={Wise},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{fullhash}{636e905d748145a83f5a504fc6b34950}
+      \strng{bibnamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authorbibnamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authornamehash}{636e905d748145a83f5a504fc6b34950}
+      \strng{authorfullhash}{636e905d748145a83f5a504fc6b34950}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
+      \field{year}{1978}
+      \field{pages}{403\bibrangedash 426}
+      \range{pages}{24}
+    \endentry
+    \entry{hautus2021detection}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8a70632d58cff394899e473585e44014}{%
+           family={Hautus},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6afc6fc486ec6176743f58ada93f25d3}{%
+           family={Macmillan},
+           familyi={M\bibinitperiod},
+           given={Neil\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14d9016ec69b5412e93bdf47bcdf99dc}{%
+           family={Creelman},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima Douglas},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{b3dc917101b847265c46ad39cdc46535}
+      \strng{fullhash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{bibnamehash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{authorbibnamehash}{ee097098eb9c8d123119d7f6588805d7}
+      \strng{authornamehash}{b3dc917101b847265c46ad39cdc46535}
+      \strng{authorfullhash}{ee097098eb9c8d123119d7f6588805d7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Detection theory: A user's guide}
+      \field{year}{2021}
+    \endentry
+    \entry{hayes2024attribute}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=56a1473de9ad6ee6a830ebc15a6d9f5c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima M},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3def8b672b802abc4c64147fdf6dfc72}
+      \strng{fullhash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{bibnamehash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{authorbibnamehash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \strng{authornamehash}{3def8b672b802abc4c64147fdf6dfc72}
+      \strng{authorfullhash}{484c1bdd371f8aa811e782f04f42b3c6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{Attribute commensurability and context effects in preferential choice}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
     \entry{herneDecoyAlternativesPolicy1997b}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=60eb1f2707d1643a139119270268880e}{%
@@ -1756,31 +3864,6 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0749597896900060
       \endverb
-    \endentry
-    \entry{hofacker2007mathematical}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=653bb2d8d36ea89ccc48f0b2f2fc695c}{%
-           family={Hofacker},
-           familyi={H\bibinitperiod},
-           given={Charles\bibnamedelima F},
-           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{fullhash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{bibnamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authorbibnamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authornamehash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \strng{authorfullhash}{653bb2d8d36ea89ccc48f0b2f2fc695c}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Mathematical Marketing}
-      \field{year}{2007}
     \endentry
     \entry{huberAddingAsymmetricallyDominated1982d}{article}{}
       \name{author}{3}{}{%
@@ -2099,6 +4182,97 @@
       \field{pages}{8942}
       \range{pages}{1}
     \endentry
+    \entry{morey2008confidence}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
+           family={Morey},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{fullhash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{bibnamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authorbibnamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authornamehash}{8866e49bae6dd246fb1293490b5d85dc}
+      \strng{authorfullhash}{8866e49bae6dd246fb1293490b5d85dc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tutorials in Quantitative Methods for Psychology}
+      \field{number}{2}
+      \field{title}{Confidence intervals from normalized data: A correction to Cousineau (2005)}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{61\bibrangedash 64}
+      \range{pages}{4}
+    \endentry
+    \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{fullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{bibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Sequential sampling of evidence, or evidence accumulation, has been implemented in a variety of models to explain a range of multialternative choice phenomena. But the existing models do not agree on what, exactly, the evidence is that is accumulated. They also do not agree on how this evidence is accumulated. In this article, we use findings from process-tracing studies to constrain the evidence accumulation process. With these constraints, we extend the decision by sampling model and propose the multialternative decision by sampling (MDbS) model. In MDbS, the evidence accumulated is outcomes of pairwise ordinal comparisons between attribute values. MDbS provides a quantitative account of the attraction, compromise, and similarity effects equal to that of other models, and captures a wider range of empirical phenomena than other models.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shorttitle}{Multialternative decision by sampling}
+      \field{title}{Multialternative decision by sampling: {A} model of decision making constrained by process data.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{125}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{512\bibrangedash 544}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1037/rev0000102
+      \endverb
+      \verb{file}
+      \verb Noguchi_Stewart_2018.pdf:/Users/seanconway/Reading/Papers/Noguchi_Stewart_2018.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000102
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000102
+      \endverb
+    \endentry
     \entry{pan1995attractiovoting}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=374842294f3f6323c4d22c747565f716}{%
@@ -2144,6 +4318,51 @@
       \field{pages}{85\bibrangedash 101}
       \range{pages}{17}
     \endentry
+    \entry{pittarello2020three}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3f2953b192542234991b23b427afe1d7}{%
+           family={Pittarello},
+           familyi={P\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6b4948b9bf69cf4558220400fc3aed1}{%
+           family={Caserotti},
+           familyi={C\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a784b3cba9ef9c0f0d88e0a7c176643}{%
+           family={Rubaltelli},
+           familyi={R\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7de6b3962b492d9ce4113c1d89452a40}
+      \strng{fullhash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{bibnamehash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{authorbibnamehash}{6acfcc640f9df81230b71f38ef376c0b}
+      \strng{authornamehash}{7de6b3962b492d9ce4113c1d89452a40}
+      \strng{authorfullhash}{6acfcc640f9df81230b71f38ef376c0b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Psychology}
+      \field{number}{4}
+      \field{title}{‘Three is better than two’: Increasing donations with the attraction effect}
+      \field{volume}{111}
+      \field{year}{2020}
+      \field{pages}{805\bibrangedash 822}
+      \range{pages}{18}
+    \endentry
     \entry{ray1973independence}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f2e4f37e1a0faf8d8e2d0c8370585123}{%
@@ -2174,6 +4393,108 @@
       \field{year}{1973}
       \field{pages}{987\bibrangedash 991}
       \range{pages}{5}
+    \endentry
+    \entry{roeMultialternativeDecisionField2001a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4f6a45c2bf6943dafb53fe4ae51616a}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c7c7e9e9f8b570b5e09e76540a07e85}{%
+           family={Busemeyer},
+           familyi={B\bibinitperiod},
+           given={Jermone\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=842a80904b85b01f55860cbcb1cc0aec}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0065ef774147bf67ec1dbec64b40d3a9}
+      \strng{fullhash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{bibnamehash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{authorbibnamehash}{010fa1accc0104a7434d9be205804fb7}
+      \strng{authornamehash}{0065ef774147bf67ec1dbec64b40d3a9}
+      \strng{authorfullhash}{010fa1accc0104a7434d9be205804fb7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{shorttitle}{Multialternative decision field theory}
+      \field{title}{Multialternative decision field theory: {A} dynamic connectionst model of decision making.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{108}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{370\bibrangedash 392}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/0033-295X.108.2.370
+      \endverb
+      \verb{file}
+      \verb Roe_et_al_2001.pdf:/Users/seanconway/Reading/Papers/Roe_et_al_2001.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
+      \endverb
+    \endentry
+    \entry{schwartz1999more}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb75c1a17b38146ed9434e04165ed433}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Janet\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20be9ec70bb3f789de4e6f2fd7306d35}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Gretchen\bibnamedelima B},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{fullhash}{00e62425858478cb46b755c5a82fc858}
+      \strng{bibnamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authorbibnamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authornamehash}{00e62425858478cb46b755c5a82fc858}
+      \strng{authorfullhash}{00e62425858478cb46b755c5a82fc858}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Decision Making}
+      \field{number}{3}
+      \field{title}{Are more options always better? The attraction effect in physicians' decisions about medications}
+      \field{volume}{19}
+      \field{year}{1999}
+      \field{pages}{315\bibrangedash 323}
+      \range{pages}{9}
     \endentry
     \entry{shepardUniversalLawGeneralization1987c}{article}{}
       \name{author}{1}{}{%
@@ -2224,6 +4545,102 @@
       \endverb
       \verb{url}
       \verb https://www.science.org/doi/10.1126/science.3629243
+      \endverb
+    \endentry
+    \entry{simonsonVicesVirtuesMisguided2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{fullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{bibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The likelihood of replicating an effect such as asymmetric dominance (AD) largely depends on other, usually more important choice drivers (e.g., attributes, values). Accordingly, it is not surprising that the AD effect is often not observed when other choice drivers have greater impact and/or when the AD configuration is unlikely to be perceived. However, when price is an attribute (and in many other cases), the AD effect is often observed in both properly designed studies and the real world. The author notes that Frederick, Lee, and Baskin (2014) raise important questions, but they would have made a greater contribution had they (1) systematically studied the drivers of AD perceptions, (2) more accurately tried to replicate previous AD effect demonstrations, and (3) systematically studied the repulsion effect. The author also briefly comments on the Yang and Lynn (2014) studies, which he asserts did not test the AD effect properly in most cases.}
+      \field{journaltitle}{JOURNAL OF MARKETING RESEARCH}
+      \field{title}{Vices and {Virtues} of {Misguided} {Replications}: {The} {Case} of {Asymmetric} {Dominance}}
+      \field{year}{2014}
+      \verb{file}
+      \verb Simonson_2014.pdf:/Users/seanconway/Reading/Papers/Simonson_2014.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{slaughterDecoyEffectsAttributelevel1999b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=196f791d1bc84bad03c7b6d12b7cc12e}{%
+           family={Slaughter},
+           familyi={S\bibinitperiod},
+           given={Jerel\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc91aa9677edcb1520b64d0115be617c}{%
+           family={Sinar},
+           familyi={S\bibinitperiod},
+           given={Evan\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bce2e3ba0143e6f4a9894c303a17cfe}{%
+           family={Highhouse},
+           familyi={H\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6be0464526ba3edd1bd82f581098eba1}
+      \strng{fullhash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{bibnamehash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{authorbibnamehash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \strng{authornamehash}{6be0464526ba3edd1bd82f581098eba1}
+      \strng{authorfullhash}{149bd5140b2e488caa4cb7ca48d56c7b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1854, 0021-9010}
+      \field{journaltitle}{Journal of Applied Psychology}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Decoy effects and attribute-level inferences.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{84}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{823\bibrangedash 828}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1037/0021-9010.84.5.823
+      \endverb
+      \verb{file}
+      \verb Slaughter_etal_1999.pdf:/Users/seanconway/Reading/Papers/Slaughter_etal_1999.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.84.5.823
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.84.5.823
       \endverb
     \endentry
     \entry{spektorWhenGoodLooks2018b}{article}{}
@@ -2356,6 +4773,156 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
+    \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5b0a388600f83b2d6842ed395885381e}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d40720b218bb99d52181c1c57d80cb0}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={L\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{fullhash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{bibnamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authorbibnamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authornamehash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \strng{authorfullhash}{1a23a9ce348fe8c20c27867d886a03ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Observers matched the brightness of a light to the loudness of a noise, and vice versa, at various levels of intensity. The cross-modality functions thereby generated have the form predicted by the psychophysical power law of sensory magnitude, and they demonstrate that the psychophysical functions relating brightness and loudness to the level of stimulus energy have approximately the same exponents.}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Cross-modality matching of brightness and loudness.}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{54}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \field{pages}{407\bibrangedash 411}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.54.2.407
+      \endverb
+      \verb{file}
+      \verb Stevens_1965.pdf:/Users/seanconway/Reading/Papers/Stevens_1965.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
+      \endverb
+      \verb{url}
+      \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
+      \endverb
+    \endentry
+    \entry{octave}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3e3b2931f3ba723c78581645971d281}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelimb Octave\bibnamedelima Development},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{fullhash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{bibnamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authorbibnamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authornamehash}{e3e3b2931f3ba723c78581645971d281}
+      \strng{authorfullhash}{e3e3b2931f3ba723c78581645971d281}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GNU Octave}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.gnu.org/software/octave/
+      \endverb
+      \verb{url}
+      \verb https://www.gnu.org/software/octave/
+      \endverb
+    \endentry
+    \entry{thurstone1927law}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0f6da8c4a112e1350239be9878275cd}{%
+           family={Thurstone},
+           familyi={T\bibinitperiod},
+           given={Louis\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{fullhash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{bibnamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authorbibnamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authornamehash}{b0f6da8c4a112e1350239be9878275cd}
+      \strng{authorfullhash}{b0f6da8c4a112e1350239be9878275cd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{2}
+      \field{title}{A law of comparative judgment.}
+      \field{volume}{34}
+      \field{year}{1927}
+      \field{pages}{273\bibrangedash 286}
+      \range{pages}{14}
+    \endentry
+    \entry{train2009discrete}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb49649475647614b53241e5cdccd584}{%
+           family={Train},
+           familyi={T\bibinitperiod},
+           given={Kenneth\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{bb49649475647614b53241e5cdccd584}
+      \strng{fullhash}{bb49649475647614b53241e5cdccd584}
+      \strng{bibnamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authorbibnamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authornamehash}{bb49649475647614b53241e5cdccd584}
+      \strng{authorfullhash}{bb49649475647614b53241e5cdccd584}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discrete choice methods with simulation}
+      \field{year}{2009}
+    \endentry
     \entry{truebloodMultialternativeContextEffects2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
@@ -2408,6 +4975,49 @@
       \verb http://link.springer.com/10.3758/s13423-012-0288-9
       \endverb
     \endentry
+    \entry{truebloodMultiattributeLinearBallistic}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bb22242239c3eb5e15c610279ecb3af3}
+      \strng{fullhash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{bibnamehash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{authorbibnamehash}{223a179c4823c954be0dd493d66e3f4f}
+      \strng{authornamehash}{bb22242239c3eb5e15c610279ecb3af3}
+      \strng{authorfullhash}{223a179c4823c954be0dd493d66e3f4f}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects occur when a choice between 2 options is altered by adding a 3rd alternative. Three major context effects—similarity, compromise, and attraction— have wide-ranging implications across applied and theoretical domains, and have driven the development of new dynamic models of multiattribute and multialternative choice. We propose the multiattribute linear ballistic accumulator (MLBA), a new dynamic model that provides a quantitative account of all 3 context effects. Our account applies not only to traditional paradigms involving choices among hedonic stimuli, but also to recent demonstrations of context effects with nonhedonic stimuli. Because of its computational tractability, the MLBA model is more easily applied than previous dynamic models. We show that the model also accounts for a range of other phenomena in multiattribute, multialternative choice, including time pressure effects, and that it makes a new prediction about the relationship between deliberation time and the magnitude of the similarity effect, which we confirm experimentally.}
+      \field{title}{The {Multiattribute} {Linear} {Ballistic} {Accumulator} {Model} of {Context} {Effects} in {Multialternative} {Choice}}
+      \verb{file}
+      \verb Trueblood_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Trueblood_et_al_2014.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{trueblood2013not}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
@@ -2444,6 +5054,7 @@
       \strng{authorbibnamehash}{bb9d86363efb98b73620c0ecdb0facf2}
       \strng{authornamehash}{bb22242239c3eb5e15c610279ecb3af3}
       \strng{authorfullhash}{bb9d86363efb98b73620c0ecdb0facf2}
+      \field{extraname}{2}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -2529,6 +5140,195 @@
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000089
       \endverb
     \endentry
+    \entry{tversky1993context}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{fullhash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{bibnamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authorbibnamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authornamehash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \strng{authorfullhash}{0f6151ab7a07ad2f51b0ddd5f1ebd579}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management science}
+      \field{number}{10}
+      \field{title}{Context-dependent preferences}
+      \field{volume}{39}
+      \field{year}{1993}
+      \field{pages}{1179\bibrangedash 1189}
+      \range{pages}{11}
+    \endentry
+    \entry{usherLossAversionInhibition2004a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa623109668f355db4430ccca298f768}{%
+           family={McClelland},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{fullhash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{bibnamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authorbibnamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authornamehash}{ada2493790a66b2a72873dc68f60a60e}
+      \strng{authorfullhash}{ada2493790a66b2a72873dc68f60a60e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{3}
+      \field{title}{Loss {Aversion} and {Inhibition} in {Dynamical} {Models} of {Multialternative} {Choice}.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{111}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{757\bibrangedash 769}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0033-295X.111.3.757
+      \endverb
+      \verb{file}
+      \verb Usher_McClelland_2004.pdf:/Users/seanconway/Reading/Papers/Usher_McClelland_2004.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.111.3.757
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.111.3.757
+      \endverb
+    \endentry
+    \entry{van2021attract}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1748f7977e8bc419475ca02be23d9e4a}{%
+           family={Enden},
+           familyi={E\bibinitperiod},
+           given={Gitta},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5e0ffe30d03881689adfaf6973a79902}{%
+           family={Geyskens},
+           familyi={G\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{fullhash}{846aadd34f52132c8456a67bc7627422}
+      \strng{bibnamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authorbibnamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authornamehash}{846aadd34f52132c8456a67bc7627422}
+      \strng{authorfullhash}{846aadd34f52132c8456a67bc7627422}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos one}
+      \field{number}{11}
+      \field{title}{Attract the best: The attraction effect as an effective strategy to enhance healthy choices}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{pages}{e0259521}
+      \range{pages}{-1}
+    \endentry
+    \entry{wollschlager2NaryChoiceTree2012a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=635f670a546984808ce14668ab728cd2}{%
+           family={Wollschläger},
+           familyi={W\bibinitperiod},
+           given={Lena\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b90d5de9be5c78215ccdd23bf58eba7}{%
+           family={Diederich},
+           familyi={D\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{fullhash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{bibnamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authorbibnamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authornamehash}{99c2e974f8d03333d31d415509d0a59d}
+      \strng{authorfullhash}{99c2e974f8d03333d31d415509d0a59d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{The {2N}-ary {Choice} {Tree} {Model} for {N}-{Alternative} {Preferential} {Choice}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2012.00189
+      \endverb
+      \verb{file}
+      \verb Wollschlager_Diederich_2012.pdf:/Users/seanconway/Reading/Papers/Wollschlager_Diederich_2012.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00189/abstract
+      \endverb
+      \verb{url}
+      \verb http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00189/abstract
+      \endverb
+    \endentry
     \entry{yearsleyContextEffectsSimilarity2022}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=6a485a57f7a8425b45586041dd6f9487}{%
@@ -2606,6 +5406,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{tversky1993}
 \endrefsection
 \endinput
 

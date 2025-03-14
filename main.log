@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  4 MAR 2025 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  13 MAR 2025 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,7 +484,7 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 Disabled uppercase in PDF strings
 \@quotelevel=\count425
 \@quotereset=\count426
-(./main.aux)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
@@ -509,7 +509,7 @@ Package hyperref Info: Link coloring OFF on input line 116.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
- (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count427
 \scratchdimen=\dimen170
@@ -557,7 +557,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                tversky1993
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 116.
 Package biblatex Info: Reference segment=0 on input line 116.
  [1
@@ -610,56 +618,11 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [1
 
 
-]
-
-LaTeX Warning: Citation 'roeMultialternativeDecisionField2001a' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'usherLossAversionInhibition2004a' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'truebloodMultiattributeLinearBallistic' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'wollschlager2NaryChoiceTree2012a' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'bergnerVAMPVotingAgent2019b' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'noguchiMultialternativeDecisionSampling2018a' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'bhatiaAssociationsAccumulationPreference2013b' on page 2 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'tversky1993context' on page 2 undefined on input line 242.
-
-
-Overfull \hbox (9.6693pt too wide) in paragraph at lines 242--243
-\OT1/cmr/m/n/12 ([]; [];
- []
-
-
-Overfull \hbox (11.38876pt too wide) in paragraph at lines 242--243
-[]\OT1/cmr/m/n/12 ; [];
- []
-
-
-Overfull \hbox (50.73735pt too wide) in paragraph at lines 242--243
-[]\OT1/cmr/m/n/12 ; [];
- []
-
-
-Overfull \hbox (17.93925pt too wide) in paragraph at lines 242--243
-[]\OT1/cmr/m/n/12 ; []). These
- []
-
-[2]
+] [2]
 
 LaTeX Warning: Reference `fig:fig_opts' on page 3 undefined on input line 246.
 
-<figures/pref_v_percep.jpg, id=69, 3431.82124pt x 1701.35625pt>
+<figures/pref_v_percep.jpg, id=86, 3431.82124pt x 1701.35625pt>
 File: figures/pref_v_percep.jpg Graphic file (type jpg)
 <use figures/pref_v_percep.jpg>
 Package pdftex.def Info: figures/pref_v_percep.jpg  used on input line 249.
@@ -844,9 +807,6 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-
-LaTeX Warning: Reference `fig:fig_opts' on page 4 undefined on input line 273.
-
 [4]
 
 ! LaTeX Error: Environment align undefined.
@@ -913,55 +873,24 @@ and I'll forget about whatever was undefined.
 
 [5]
 
-LaTeX Warning: Reference `fig:fig_opts' on page 6 undefined on input line 288.
+LaTeX Warning: Reference `fig:fig_opts' on page 6 undefined on input line 290.
 
 
-LaTeX Warning: Citation 'tversky1993' on page 6 undefined on input line 288.
+LaTeX Warning: Citation 'tversky1993' on page 6 undefined on input line 290.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 288.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 290.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 288.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 290.
 
 
-LaTeX Warning: Citation '' on page 6 undefined on input line 288.
-
-
-LaTeX Warning: Citation 'usherLossAversionInhibition2004a' on page 6 undefined on input line 288.
-
-
-LaTeX Warning: Citation '' on page 6 undefined on input line 288.
-
-
-LaTeX Warning: Citation 'ashbyVarietiesPerceptualIndependence1986a' on page 6 undefined on input line 290.
+LaTeX Warning: Citation '' on page 6 undefined on input line 290.
 
 [6]
 
-LaTeX Warning: Citation 'simonsonVicesVirtuesMisguided2014' on page 7 undefined on input line 292.
-
-
-LaTeX Warning: Citation 'frederickLimitsAttraction2014b' on page 7 undefined on input line 292.
-
-
-LaTeX Warning: Citation 'banerjeeFactorsThatPromote2024' on page 7 undefined on input line 292.
-
-
-LaTeX Warning: Citation 'bhui2021rational' on page 7 undefined on input line 292.
-
-
-Overfull \hbox (15.361pt too wide) in paragraph at lines 292--293
-\OT1/cmr/m/n/12 share is higher than the tar-get's choice share ([];
- []
-
-
-Overfull \hbox (64.87248pt too wide) in paragraph at lines 292--293
-[]\OT1/cmr/m/n/12 ; []; [];
- []
-
-
-LaTeX Warning: File `figures/spektor_stim.png' not found on input line 295.
+LaTeX Warning: File `figures/spektor_stim.png' not found on input line 297.
 
 
 ! Package pdftex.def Error: File `figures/spektor_stim.png' not found: using draft setting.
@@ -970,22 +899,23 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.295 ...dth=\linewidth]{figures/spektor_stim.png}
+l.297 ...dth=\linewidth]{figures/spektor_stim.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:spektor_stim' on page 7 undefined on input line 300.
-
-
-LaTeX Warning: Reference `fig:spektor_stim' on page 7 undefined on input line 300.
+LaTeX Warning: Reference `fig:spektor_stim' on page 7 undefined on input line 302.
 
 
 LaTeX Warning: Reference `fig:spektor_stim' on page 7 undefined on input line 302.
 
+[7] [8]
 
-LaTeX Warning: File `figures/spektor_data_collapsed.jpeg' not found on input line 305.
+LaTeX Warning: Reference `fig:spektor_stim' on page 9 undefined on input line 304.
+
+
+LaTeX Warning: File `figures/spektor_data_collapsed.jpeg' not found on input line 307.
 
 
 ! Package pdftex.def Error: File `figures/spektor_data_collapsed.jpeg' not found: using draft setting.
@@ -994,81 +924,17 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.305 ...dth]{figures/spektor_data_collapsed.jpeg}
+l.307 ...dth]{figures/spektor_data_collapsed.jpeg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[9] [10] [11]
 
-LaTeX Warning: Citation 'morey2008confidence' on page 7 undefined on input line 306.
+Package biblatex Warning: Package option 'sortcites' enabled.
+(biblatex)                Verify postnote placement on input line 326.
 
-
-LaTeX Warning: Citation '' on page 7 undefined on input line 306.
-
-
-LaTeX Warning: Citation 'morey2008confidence' on page 7 undefined on input line 306.
-
-
-LaTeX Warning: Citation '' on page 7 undefined on input line 306.
-
-[7] [8] [9] [10]
-
-LaTeX Warning: Citation 'hayes2024attribute' on page 11 undefined on input line 320.
-
-
-LaTeX Warning: Citation 'banerjeeFactorsThatPromote2024' on page 11 undefined on input line 320.
-
-
-LaTeX Warning: Citation 'cataldoComparisonProcessAccount2019b' on page 11 undefined on input line 320.
-
-
-LaTeX Warning: Citation 'berkowitschRigorouslyTestingMultialternative2014b' on page 11 undefined on input line 320.
-
-
-Overfull \hbox (1.55258pt too wide) in paragraph at lines 320--321
-\OT1/cmr/m/n/12 sen-ta-tions ([]). The de-coy op-tion, there-
- []
-
-[11]
-
-LaTeX Warning: Citation 'thurstone1927law' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation '' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'thurstone1927law' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation '' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'hautus2021detection' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'ashbyVarietiesPerceptualIndependence1986a' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'ashby1988decision' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'ashbyUnifiedTheorySimilarity' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'hausman1978conditional' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'train2009discrete' on page 12 undefined on input line 324.
-
-
-LaTeX Warning: Citation 'benjamin2009signal' on page 12 undefined on input line 324.
-
-
-Overfull \hbox (141.32428pt too wide) in paragraph at lines 324--325
-\OT1/cmr/m/n/12 ran-dom vari-able. In his fa-mous "Law of Com-par-a-tive Judg-ment" pa-per, [][]
- []
-
-[12]
+[12] [13]
 Chapter 2.
 
 ! LaTeX Error: Environment align undefined.
@@ -1077,7 +943,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.333 \begin{align}
+l.335 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1090,7 +956,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334    \mathbf
+l.336    \mathbf
                 {X_{i}}\sim\mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1098,13 +964,13 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.334    \mathbf{X_
+l.336    \mathbf{X_
                    {i}}\sim\mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.334    \mathbf{X_{i}}
+l.336    \mathbf{X_{i}}
                        \sim\mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1119,7 +985,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.336 \end{align}
+l.338 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1128,7 +994,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.336 \end{align}
+l.338 \end{align}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1139,7 +1005,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.336 \end{align}
+l.338 \end{align}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1154,7 +1020,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.339 \begin{align}
+l.341 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1163,7 +1029,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.341       \mu
+l.343       \mu
                _{T} \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1171,7 +1037,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.344       \end{pmatrix}
+l.346       \end{pmatrix}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1186,7 +1052,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.346 \end{align}
+l.348 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1199,7 +1065,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350 \begin{align}
+l.352 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1212,7 +1078,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351    \mathbf
+l.353    \mathbf
                 {\Sigma}=S\mathbf{\Omega}S
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1220,13 +1086,13 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.351    \mathbf{\Sigma
+l.353    \mathbf{\Sigma
                        }=S\mathbf{\Omega}S
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.351    \mathbf{\Sigma}
+l.353    \mathbf{\Sigma}
                         =S\mathbf{\Omega}S
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1241,7 +1107,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.353 \end{align}
+l.355 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1250,7 +1116,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.353 \end{align}
+l.355 \end{align}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1261,7 +1127,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.353 \end{align}
+l.355 \end{align}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1276,7 +1142,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.357 \begin{align}
+l.359 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1285,13 +1151,13 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.359       \sigma
+l.361       \sigma
                   _{T} & 0 & 0 \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.359       \sigma_{T} &
+l.361       \sigma_{T} &
                          0 & 0 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1301,7 +1167,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.359       \sigma_{T} & 0 &
+l.361       \sigma_{T} & 0 &
                              0 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1311,7 +1177,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.360       0 &
+l.362       0 &
                 \sigma_{C} & 0 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1321,7 +1187,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.360       0 & \sigma_{C} &
+l.362       0 & \sigma_{C} &
                              0 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1331,7 +1197,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.361       0 &
+l.363       0 &
                 0 & \sigma_{D} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1341,7 +1207,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.361       0 & 0 &
+l.363       0 & 0 &
                     \sigma_{D} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1353,7 +1219,7 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.362    \end{pmatrix}
+l.364    \end{pmatrix}
                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1368,7 +1234,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.364 \end{align}
+l.366 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1381,7 +1247,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.368 \begin{align}
+l.370 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1390,16 +1256,16 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.370       1
+l.372       1
               & \rho_{TC} & \rho_{TD} \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[13
+[14
 
 ]
 ! Misplaced alignment tab character &.
-l.370       1 &
+l.372       1 &
                 \rho_{TC} & \rho_{TD} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1409,7 +1275,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.370       1 & \rho_{TC} &
+l.372       1 & \rho_{TC} &
                             \rho_{TD} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1419,7 +1285,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.371       \rho_{TC} &
+l.373       \rho_{TC} &
                         1 & \rho_{CD} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1429,7 +1295,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.371       \rho_{TC} & 1 &
+l.373       \rho_{TC} & 1 &
                             \rho_{CD} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1439,7 +1305,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.372       \rho_{TD} &
+l.374       \rho_{TD} &
                         \rho_{CD} & 1 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1449,7 +1315,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.372       \rho_{TD} & \rho_{CD} &
+l.374       \rho_{TD} & \rho_{CD} &
                                     1 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1461,7 +1327,7 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.373    \end{pmatrix}
+l.375    \end{pmatrix}
                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1476,7 +1342,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.375 \end{align}
+l.377 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1489,7 +1355,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 \begin{align}
+l.383 \begin{align}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1498,13 +1364,13 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.382    P(S_
+l.384    P(S_
              {i,j} | X_{i}) &= P(X_{i,j} > X_{i,k}, \, j \notin k)
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.382    P(S_{i,j} | X_{i}) &
+l.384    P(S_{i,j} | X_{i}) &
                              = P(X_{i,j} > X_{i,k}, \, j \notin k)
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1520,7 +1386,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.384 \end{align}
+l.386 \end{align}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1529,7 +1395,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.384 \end{align}
+l.386 \end{align}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1538,17 +1404,14 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-LaTeX Warning: Citation 'train2009discrete' on page 14 undefined on input line 386.
+LaTeX Warning: Reference `fig:3d_model' on page 15 undefined on input line 390.
 
 
-LaTeX Warning: Reference `fig:3d_model' on page 14 undefined on input line 388.
+LaTeX Warning: Reference `fig:3d_model' on page 15 undefined on input line 392.
 
+[15]
 
-LaTeX Warning: Reference `fig:3d_model' on page 14 undefined on input line 390.
-
-[14]
-
-LaTeX Warning: File `figures/3d_sim_rst.jpg' not found on input line 397.
+LaTeX Warning: File `figures/3d_sim_rst.jpg' not found on input line 399.
 
 
 ! Package pdftex.def Error: File `figures/3d_sim_rst.jpg' not found: using draft setting.
@@ -1557,34 +1420,14 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.397 ...width=\linewidth]{figures/3d_sim_rst.jpg}
+l.399 ...width=\linewidth]{figures/3d_sim_rst.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[15] [16]
-
-LaTeX Warning: Citation 'roeMultialternativeDecisionField2001a' on page 17 undefined on input line 405.
-
-
-LaTeX Warning: Citation 'usherLossAversionInhibition2004a' on page 17 undefined on input line 405.
-
-
-LaTeX Warning: Citation 'bhatiaAssociationsAccumulationPreference2013b' on page 17 undefined on input line 405.
-
-
-Overfull \hbox (110.06548pt too wide) in paragraph at lines 405--406
-\OT1/cmr/m/n/12 com-par-i-son pro-cess ([]; [];
- []
-
-
-Overfull \hbox (2.791pt too wide) in paragraph at lines 405--406
-[]\OT1/cmr/m/n/12 ; []True-blood et al., []2013[]). Un-
- []
-
-[17]
+[16] [17] [18]
 ! Undefined control sequence.
-l.420 \subsubsubsection
+l.422 \subsubsubsection
                        {Participants.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1593,7 +1436,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.421 ...ials with response times (RTs) $<100\text
+l.423 ...ials with response times (RTs) $<100\text
                                                   {ms}$ or  $>10000\text{ms}...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1602,7 +1445,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.421 ...es (RTs) $<100\text{ms}$ or  $>10000\text
+l.423 ...es (RTs) $<100\text{ms}$ or  $>10000\text
                                                   {ms}$ were also excluded f...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1611,79 +1454,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (9.61662pt too wide) in paragraph at lines 420--422
+Overfull \hbox (9.61662pt too wide) in paragraph at lines 422--424
 []\OT1/cmr/m/n/12 Participants. Data col-lec-tion took place at the Uni-ver-sity of Mas-sachusetts Amherst.
  []
 
 ! Undefined control sequence.
-l.423 \subsubsubsection
+l.425 \subsubsubsection
                        {Stimuli.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[18]
-! Undefined control sequence.
-l.427 \subsubsubsection
-                       {Design.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.430 ...e rectangle was $260 \pm U(-40, 40) \text
-                                                  {x} 200 \pm U(-40, 40)$ pi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.430 ...rectangles were $180 \pm U(-40, 40) \text
-                                                  {x} 120 \pm U(-40, 40)$ pi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Reference `fig:spektor_stim' on page 19 undefined on input line 432.
-
-
-LaTeX Warning: Citation 'deleeuwJsPsychJavaScriptLibrary2015' on page 19 undefined on input line 434.
-
-
-Overfull \hbox (63.97957pt too wide) in paragraph at lines 434--435
-\OT1/cmr/m/n/12 els. The ex-per-i-ment was pro-grammed with jsPsych ([]). 
- []
-
-! Undefined control sequence.
-l.436 \subsubsubsection
-                       {Procedure.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.441 \subsubsubsection
-                       {Catch Trials.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.444 \subsubsubsection
-                       {Critical Trials.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1692,64 +1469,7 @@ and I'll forget about whatever was undefined.
 
 [19]
 ! Undefined control sequence.
-<recently read> \text 
-                      
-l.445 ...etween all pairs of options in the $\text
-                                                  {TDD}=0\%$ trials, so we d...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Reference `fig:e1_data' on page 20 undefined on input line 447.
-
-
-LaTeX Warning: File `figures/m6_model_preds_v_data.jpeg' not found on input line 450.
-
-
-! Package pdftex.def Error: File `figures/m6_model_preds_v_data.jpeg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.450 ...idth]{figures/m6_model_preds_v_data.jpeg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[20] [21]
-
-LaTeX Warning: Citation 'stevensCrossmodalityMatchingBrightness1965' on page 22 undefined on input line 459.
-
-! Undefined control sequence.
-l.462 \subsubsubsection
-                       {Participants.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (9.61662pt too wide) in paragraph at lines 462--464
-[]\OT1/cmr/m/n/12 Participants. Data col-lec-tion took place at the Uni-ver-sity of Mas-sachusetts Amherst.
- []
-
-! Undefined control sequence.
-l.465 \subsubsubsection
-                       {Stimuli.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[22]
-! Undefined control sequence.
-l.474 \subsubsubsection
+l.429 \subsubsubsection
                        {Design.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1758,7 +1478,119 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.481 \subsubsubsection
+l.432 ...e rectangle was $260 \pm U(-40, 40) \text
+                                                  {x} 200 \pm U(-40, 40)$ pi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.432 ...rectangles were $180 \pm U(-40, 40) \text
+                                                  {x} 120 \pm U(-40, 40)$ pi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:spektor_stim' on page 20 undefined on input line 434.
+
+! Undefined control sequence.
+l.438 \subsubsubsection
+                       {Procedure.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.443 \subsubsubsection
+                       {Catch Trials.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.446 \subsubsubsection
+                       {Critical Trials.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[20]
+! Undefined control sequence.
+<recently read> \text 
+                      
+l.447 ...etween all pairs of options in the $\text
+                                                  {TDD}=0\%$ trials, so we d...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:e1_data' on page 21 undefined on input line 449.
+
+
+LaTeX Warning: File `figures/m6_model_preds_v_data.jpeg' not found on input line 452.
+
+
+! Package pdftex.def Error: File `figures/m6_model_preds_v_data.jpeg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.452 ...idth]{figures/m6_model_preds_v_data.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[21] [22]
+! Undefined control sequence.
+l.464 \subsubsubsection
+                       {Participants.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (9.61662pt too wide) in paragraph at lines 464--466
+[]\OT1/cmr/m/n/12 Participants. Data col-lec-tion took place at the Uni-ver-sity of Mas-sachusetts Amherst.
+ []
+
+! Undefined control sequence.
+l.467 \subsubsubsection
+                       {Stimuli.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[23]
+! Undefined control sequence.
+l.476 \subsubsubsection
+                       {Design.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.483 \subsubsubsection
                        {Procedure.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1767,10 +1599,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:circle_exp_display' on page 23 undefined on input line 485.
+LaTeX Warning: Reference `fig:circle_exp_display' on page 24 undefined on input line 487.
 
 ! Undefined control sequence.
-l.485 ...A small amount of jitter ($U(-15,15)\text
+l.487 ...A small amount of jitter ($U(-15,15)\text
                                                   {px}$) was added to the po...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1778,15 +1610,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[23] [24]
+[24] [25]
 
-LaTeX Warning: Citation 'octave' on page 25 undefined on input line 497.
-
-
-LaTeX Warning: Citation 'brainardPsychophysicsToolbox1997' on page 25 undefined on input line 497.
-
-
-LaTeX Warning: File `figures/circle_exp_display.jpg' not found on input line 500.
+LaTeX Warning: File `figures/circle_exp_display.jpg' not found on input line 502.
 
 
 ! Package pdftex.def Error: File `figures/circle_exp_display.jpg' not found: using draft setting.
@@ -1795,13 +1621,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.500 ...inewidth]{figures/circle_exp_display.jpg}
+l.502 ...inewidth]{figures/circle_exp_display.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.506 \subsubsubsection
+l.508 \subsubsubsection
                        {Data Processing}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1809,9 +1635,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[25] [26]
+[26] [27]
 ! Undefined control sequence.
-l.523 \subsubsubsection
+l.525 \subsubsubsection
                        {Circle Phase Results - Critical Trials}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1820,10 +1646,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:circle_boxplots' on page 27 undefined on input line 526.
+LaTeX Warning: Reference `fig:circle_boxplots' on page 28 undefined on input line 528.
 
 
-LaTeX Warning: File `figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg' not found on input line 530.
+LaTeX Warning: File `figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg' not found on input line 532.
 
 
 ! Package pdftex.def Error: File `figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg' not found: using draft setting.
@@ -1832,16 +1658,16 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.530 ...se_boxplot_meanlogdiffs_no_outliers.jpeg}
+l.532 ...se_boxplot_meanlogdiffs_no_outliers.jpeg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:raw_cors' on page 27 undefined on input line 535.
+LaTeX Warning: Reference `fig:raw_cors' on page 28 undefined on input line 537.
 
 
-LaTeX Warning: File `figures/circleAreaPhase_cor_plot_all_no_outliers.jpg' not found on input line 538.
+LaTeX Warning: File `figures/circleAreaPhase_cor_plot_all_no_outliers.jpg' not found on input line 540.
 
 
 ! Package pdftex.def Error: File `figures/circleAreaPhase_cor_plot_all_no_outliers.jpg' not found: using draft setting.
@@ -1850,20 +1676,20 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.538 ...leAreaPhase_cor_plot_all_no_outliers.jpg}
+l.540 ...leAreaPhase_cor_plot_all_no_outliers.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[27] [28] [29]
+[28] [29] [30]
 
-LaTeX Warning: Reference `fig:e2mu' on page 30 undefined on input line 551.
-
-
-LaTeX Warning: Reference `fig:omega' on page 30 undefined on input line 551.
+LaTeX Warning: Reference `fig:e2mu' on page 31 undefined on input line 553.
 
 
-LaTeX Warning: File `figures/cor_intervals_plot.jpeg' not found on input line 559.
+LaTeX Warning: Reference `fig:omega' on page 31 undefined on input line 553.
+
+
+LaTeX Warning: File `figures/cor_intervals_plot.jpeg' not found on input line 561.
 
 
 ! Package pdftex.def Error: File `figures/cor_intervals_plot.jpeg' not found: using draft setting.
@@ -1872,13 +1698,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.559 ...xtwidth]{figures/cor_intervals_plot.jpeg}
+l.561 ...xtwidth]{figures/cor_intervals_plot.jpeg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.566 \subsubsubsection
+l.568 \subsubsubsection
                        {Choice Results}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1887,14 +1713,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:e2_choiceprops' on page 30 undefined on input line 568.
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 31 undefined on input line 570.
 
 
-LaTeX Warning: Reference `fig:e2_choicedeltas' on page 30 undefined on input line 570.
+LaTeX Warning: Reference `fig:e2_choicedeltas' on page 31 undefined on input line 572.
 
-[30] [31]
+[31] [32]
 
-LaTeX Warning: File `figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg' not found on input line 573.
+LaTeX Warning: File `figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg' not found on input line 575.
 
 
 ! Package pdftex.def Error: File `figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg' not found: using draft setting.
@@ -1903,13 +1729,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.573 ...t_trials_mean_choice_props_collapsed.jpg}
+l.575 ...t_trials_mean_choice_props_collapsed.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: File `figures/choicePhase_delta_means.jpeg' not found on input line 579.
+LaTeX Warning: File `figures/choicePhase_delta_means.jpeg' not found on input line 581.
 
 
 ! Package pdftex.def Error: File `figures/choicePhase_delta_means.jpeg' not found: using draft setting.
@@ -1918,13 +1744,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.579 ...th]{figures/choicePhase_delta_means.jpeg}
+l.581 ...th]{figures/choicePhase_delta_means.jpeg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.584 \subsubsubsection
+l.586 \subsubsubsection
                        {Model Simulations}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1933,26 +1759,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:e2_model_preds' on page 32 undefined on input line 587.
+LaTeX Warning: Reference `fig:e2_model_preds' on page 33 undefined on input line 589.
 
-[32] [33] [34] [35]
+[33] [34] [35] [36]
 Appendix.
 
 Package hyperref Warning: bookmark level for unknown OnlyAppendix defaults to 0.
 
-[36
+[37
 
 ]
 Appendix.
-[37
+[38
 
 ]
 
 Package hyperref Warning: bookmark level for unknown BackMatter defaults to 0.
 
-[38
+[39
 
-] [39] [40] (./main.aux)
+] [40] [41] [42] [43] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1982,18 +1808,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17562 strings out of 474116
- 325826 string characters out of 5743681
- 1938187 words of memory out of 5000000
- 39622 multiletter control sequences out of 15000+600000
+ 17716 strings out of 474116
+ 334466 string characters out of 5743681
+ 1939187 words of memory out of 5000000
+ 39745 multiletter control sequences out of 15000+600000
  564789 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,2231b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (48 pages, 554582 bytes).
+Output written on main.pdf (51 pages, 566113 bytes).
 PDF statistics:
- 521 PDF objects out of 1000 (max. 8388607)
- 422 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
+ 632 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
+ 154 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

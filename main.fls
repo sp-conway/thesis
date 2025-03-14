@@ -144,9 +144,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT ./main.aux
-INPUT ./main.aux
-INPUT main.aux
 OUTPUT main.aux
 OUTPUT main.out
 OUTPUT main.pdf
