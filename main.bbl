@@ -106,6 +106,74 @@
       \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
       \endverb
     \endentry
+    \entry{ashby2019state}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
+      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
+      \field{volume}{91}
+      \field{year}{2019}
+      \field{pages}{195\bibrangedash 200}
+      \range{pages}{6}
+    \endentry
+    \entry{ashby2022state}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
+           family={Bamber},
+           familyi={B\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{fullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{bibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authorbibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authornamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authorfullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State trace analysis: What it can and cannot do}
+      \field{volume}{108}
+      \field{year}{2022}
+      \field{pages}{102655}
+      \range{pages}{1}
+    \endentry
     \entry{ashby1988decision}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -278,6 +346,44 @@
       \verb{url}
       \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
       \endverb
+    \endentry
+    \entry{beck2016best}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5c0db97bbca6cb34986b8cb64ba41c5}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d3f8ec62f8e8407d49659c2091ca57f}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{fullhash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{bibnamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authorbibnamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authornamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authorfullhash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Part A: Policy and Practice}
+      \field{title}{The best of times and the worst of times: A new best--worst measure of attitudes toward public transport experiences}
+      \field{volume}{86}
+      \field{year}{2016}
+      \field{pages}{108\bibrangedash 123}
+      \range{pages}{16}
     \endentry
     \entry{benjamin2009signal}{article}{}
       \name{author}{3}{}{%
@@ -565,6 +671,65 @@
       \field{pages}{433\bibrangedash 436}
       \range{pages}{4}
     \endentry
+    \entry{brownSimplestCompleteModel2008b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{fullhash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{bibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorbibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authornamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorfullhash}{c14140e0f3c68518c15475c7dd274859}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We propose a linear ballistic accumulator (LBA) model of decision making and reaction time. The LBA is simpler than other models of choice response time, with independent accumulators that race towards a common response threshold. Activity in the accumulators increases in a linear and deterministic manner. The simplicity of the model allows complete analytic solutions for choices between any number of alternatives. These solutions (and freely-available computer code) make the model easy to apply to both binary and multiple choice situations. Using data from ﬁve previously published experiments, we demonstrate that the LBA model successfully accommodates empirical phenomena from binary and multiple choice tasks that have proven diﬃcult for other theoretical accounts. Our results are encouraging in a ﬁeld beset by the tradeoﬀ between complexity and completeness.}
+      \field{issn}{00100285}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{month}{11}
+      \field{number}{3}
+      \field{shorttitle}{The simplest complete model of choice response time}
+      \field{title}{The simplest complete model of choice response time: {Linear} ballistic accumulation}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{57}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{153\bibrangedash 178}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/j.cogpsych.2007.12.002
+      \endverb
+      \verb{file}
+      \verb Brown_Heathcote_2008.pdf:/Users/seanconway/Reading/Papers/Brown_Heathcote_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010028507000722
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010028507000722
+      \endverb
+    \endentry
     \entry{caiWhenAlternativeHypotheses2023}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cf56080c17f0ebef7347cc909eb76ced}{%
@@ -647,6 +812,7 @@
       \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -680,6 +846,184 @@
       \verb{url}
       \verb http://link.springer.com/10.3758/s13423-018-1531-9
       \endverb
+    \endentry
+    \entry{cataldoModelingPreferenceReversals2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects constitute benchmark behavioral phenomena for theories of choice. Previous research using signal-to-respond paradigms suggests that these phenomena develop differentially over time. Importantly, however, such time pressure manipulations correspond to an externally controlled stopping rule, which may produce different behavior compared to an internally controlled stopping rule. The first goal of this work was to examine context effects as a function of internally controlled response time. Across eight data sets, we find a consistent crossover pattern such that the attraction and compromise effects are associated with slower response times and the similarity effect is associated with faster response times. The second goal is to utilize state-ofthe-art methodology (Evans et al. in Psychonomic Bulletin \& Review, 26, 1–33, 2019; Turner and Sederberg in Psychonomic Bulletin \& Review, 21(2), 227–250, 2014) to determine whether four information-accumulation models (MDFT, the LCA, the AAM, and the MLBA) can correctly capture the direction in which preference evolves over time in each context when fit to joint choice and response time data with an internal stopping rule. Whereas the MLBA best fit the means, and MDFT and the AAM partially captured the qualitative patterns, none of the models captured the full spectrum of results. Despite a strong historical trend for empirical work in consumer choice, recent response time modeling has focused on fundamentally different nonconsumer tasks. The third goal is to generalize that modeling to the consumer choice domain, providing a bridge to a wide range of prior work. The present work provides new insights into the relationship between choice and response times and sets important constraints for models that seek to account for such behavior.}
+      \field{issn}{2522-0861, 2522-087X}
+      \field{journaltitle}{Computational Brain \& Behavior}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Modeling {Preference} {Reversals} in {Context} {Effects} over {Time}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{101\bibrangedash 123}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s42113-020-00078-8
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2020.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2020.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s42113-020-00078-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s42113-020-00078-8
+      \endverb
+    \endentry
+    \entry{cheung2016using}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Kei\bibnamedelima Long},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8302a0f788dfff803769643ead666f2}{%
+           family={Wijnen},
+           familyi={W\bibinitperiod},
+           given={Ben\bibnamedelima FM},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=296d34806ca94bb88b102105cb179f64}{%
+           family={Hollin},
+           familyi={H\bibinitperiod},
+           given={Ilene\bibnamedelima L},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c26aa9a245f8f5db71753439946db91}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Ellen\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4109584b77fd06acb5a35577b2332b}{%
+           family={Bridges},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e800e8a3c1e434df26cd1190f28721}{%
+           family={Evers},
+           familyi={E\bibinitperiod},
+           given={Silvia\bibnamedelima MAA},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5666a99d83ea1c92a21ea4c91c9ca030}{%
+           family={Hiligsmann},
+           familyi={H\bibinitperiod},
+           given={Mickael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{51bc49c44bde33831f8063c23fe256f0}
+      \strng{fullhash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{bibnamehash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{authorbibnamehash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{authornamehash}{51bc49c44bde33831f8063c23fe256f0}
+      \strng{authorfullhash}{624ad9fc955b26d0f9b87236f5094816}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmacoeconomics}
+      \field{title}{Using best--worst scaling to investigate preferences in health care}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{1195\bibrangedash 1209}
+      \range{pages}{15}
+    \endentry
+    \entry{davis2016bayes}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
+           family={Davis-Stober},
+           familyi={D\bibinithyphendelim S\bibinitperiod},
+           given={Clintin\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
+           family={Morey},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
+           family={Gretton},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
+      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
+      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of mathematical psychology}
+      \field{title}{Bayes factors for state-trace analysis}
+      \field{volume}{72}
+      \field{year}{2016}
+      \field{pages}{116\bibrangedash 129}
+      \range{pages}{14}
     \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
@@ -717,6 +1061,7 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
+      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -831,6 +1176,71 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6793(199905)16:3%3C225::AID-MAR3%3E3.0.CO;2-X
       \endverb
     \endentry
+    \entry{evansResponsetimeDataProvide2019b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c53130be257f186d898c5b1c0b64120a}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Nathan\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
+      \strng{fullhash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{bibnamehash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{authorbibnamehash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
+      \strng{authorfullhash}{3091f1a2387a03fef8080e77df5429d9}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding the cognitive processes involved in multi-alternative, multi-attribute choice is of interest to a wide range of fields including psychology, neuroscience, and economics. Prior investigations in this domain have relied primarily on choice data to compare different theories. Despite numerous such studies, results have largely been inconclusive. Our study uses state-of-the-art response-time modeling and data from 12 different experiments appearing in six different published studies to compare four previously proposed theories/models of these effects: multi-alternative decision field theory (MDFT), the leaky-competing accumulator (LCA), the multi-attribute linear ballistic accumulator (MLBA), and the associative accumulation model (AAM). All four models are, by design, dynamic process models and thus a comprehensive evaluation of their theoretical properties requires quantitative evaluation with both choice and response-time data. Our results show that response-time data is critical at distinguishing among these models and that using choice data alone can lead to inconclusive results for some datasets. In conclusion, we encourage future research to include response-time data in the evaluation of these models.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Response-time data provide critical constraints on dynamic models of multi-alternative, multi-attribute choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{901\bibrangedash 933}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.3758/s13423-018-1557-z
+      \endverb
+      \verb{file}
+      \verb Evans_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Evans_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/s13423-018-1557-z
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/s13423-018-1557-z
+      \endverb
+    \endentry
     \entry{evansImpactPresentationOrder2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c53130be257f186d898c5b1c0b64120a}{%
@@ -867,6 +1277,7 @@
       \strng{authorbibnamehash}{bc43f99e2d4a747598a1b806d3ecc412}
       \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
       \strng{authorfullhash}{bc43f99e2d4a747598a1b806d3ecc412}
+      \field{extraname}{2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -899,6 +1310,171 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000144
+      \endverb
+    \endentry
+    \entry{finn1992determining}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16ab31222d26d6721f9fb7721df4826f}{%
+           family={Finn},
+           familyi={F\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{fullhash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{bibnamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authorbibnamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authornamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authorfullhash}{84c50c53d03f73e6d3924da9020c0477}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Policy \& Marketing}
+      \field{number}{2}
+      \field{title}{Determining the appropriate response to evidence of public concern: the case of food safety}
+      \field{volume}{11}
+      \field{year}{1992}
+      \field{pages}{12\bibrangedash 25}
+      \range{pages}{14}
+    \endentry
+    \entry{flynn2007best}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=376734075f5014aa92aa5d24a2dc11ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Tim\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d6b2416b2d88b49e290fd4145b6df01}{%
+           family={Coast},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{fullhash}{e0dbd696e44194af335ea3622177039a}
+      \strng{bibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authorbibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authornamehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{authorfullhash}{e0dbd696e44194af335ea3622177039a}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of health economics}
+      \field{number}{1}
+      \field{title}{Best--worst scaling: what it can do for health care research and how to do it}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{171\bibrangedash 189}
+      \range{pages}{19}
+    \endentry
+    \entry{flynnBestWorstScaling2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=376734075f5014aa92aa5d24a2dc11ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Tim\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d6b2416b2d88b49e290fd4145b6df01}{%
+           family={Coast},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{fullhash}{e0dbd696e44194af335ea3622177039a}
+      \strng{bibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authorbibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authornamehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{authorfullhash}{e0dbd696e44194af335ea3622177039a}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Statements like “quality of care is more highly valued than waiting time” can neither be supported nor refuted by comparisons of utility parameters from a traditional discrete choice experiment (DCE). Best–worst scaling can overcome this problem because it asks respondents to perform a different choice task. However, whilst the nature of the best–worst task is generally understood, there are a number of issues relating to the design and analysis of a best–worst choice experiment that require further exposition. This paper illustrates how to aggregate and analyse such data and using a quality of life pilot study demonstrates how richer insights can be drawn by the use of best–worst tasks.}
+      \field{issn}{01676296}
+      \field{journaltitle}{Journal of Health Economics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Best–worst scaling}
+      \field{title}{Best–worst scaling: {What} it can do for health care research and how to do it}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{171\bibrangedash 189}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.jhealeco.2006.04.002
+      \endverb
+      \verb{file}
+      \verb Flynn_et_al_2007.pdf:/Users/seanconway/Reading/Papers/Flynn_et_al_2007.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
       \endverb
     \endentry
     \entry{frederickLimitsAttraction2014b}{article}{}
@@ -946,14 +1522,101 @@
       \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
       \endverb
     \endentry
+    \entry{haaijer1998utility}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7b8a79794b399d9301e2cf0d9be89007}{%
+           family={Haaijer},
+           familyi={H\bibinitperiod},
+           given={Rinus},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc97ff839d13a6e6133f3a8fc9a52c25}{%
+           family={Wedel},
+           familyi={W\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38abb387178e52fbe4c6a3e2f38332a9}{%
+           family={Vriens},
+           familyi={V\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba59cdeeae9634227444f8d0a13a3322}{%
+           family={Wansbeek},
+           familyi={W\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{786d90af5dbb96fe5c512011021c6895}
+      \strng{fullhash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{bibnamehash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{authorbibnamehash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{authornamehash}{786d90af5dbb96fe5c512011021c6895}
+      \strng{authorfullhash}{4780b738601276f9ecff46e762ed5b33}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marketing Science}
+      \field{number}{3}
+      \field{title}{Utility covariances and context effects in conjoint MNP models}
+      \field{volume}{17}
+      \field{year}{1998}
+      \field{pages}{236\bibrangedash 252}
+      \range{pages}{17}
+    \endentry
+    \entry{hausman1984specification}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=6b05590b027efa53665c79a23d66dacf}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{fullhash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{bibnamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authorbibnamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authornamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authorfullhash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{title}{Specification tests for the multinomial logit model}
+      \field{year}{1984}
+      \field{pages}{1219\bibrangedash 1240}
+      \range{pages}{22}
+    \endentry
     \entry{hausman1978conditional}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=efa8edfd650dfd234af154959e067af8}{%
+        {{un=1,uniquepart=given,hash=efa8edfd650dfd234af154959e067af8}{%
            family={Hausman},
            familyi={H\bibinitperiod},
            given={Jerry\bibnamedelima A},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=4113665da8685d215771271a11d964c8}{%
            family={Wise},
            familyi={W\bibinitperiod},
@@ -974,7 +1637,6 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Econometrica: Journal of the econometric society}
@@ -1022,6 +1684,170 @@
       \field{labeltitlesource}{title}
       \field{title}{Detection theory: A user's guide}
       \field{year}{2021}
+    \endentry
+    \entry{hawkinsBestTimesWorst2014}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{17914f0e59be597279476806aab3db21}
+      \strng{fullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{bibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authorbibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authornamehash}{17914f0e59be597279476806aab3db21}
+      \strng{authorfullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We commonly determine the most preferred (best) and least preferred (worst) of a set of options, yet it is unclear whether the 2 choices are based on the same or different information. We examined best and worst choices using discrete choice tasks, in which participants selected either the best option from a set, the worst option, or selected both the best and the worst options. One experiment used perceptual judgments of area, and another used consumer preferences for various attributes of mobile phones. In both domains, we found that the task (best, worst, or best and worst) does not alter the preferences expressed for the best (respectively, the worst) option. We also observed that the choice probabilities were consistent with a single latent dimension— options that were frequently selected as best were infrequently selected as worst, and vice versa— both within and between respondents. A quantitative model of choice and response time provided convergent evidence on those relations, with model variants that assumed an inverse relationship between the estimated parameters for best and worst choices accounting well for the data. We conclude that the diverse types of best and worst choices that we studied can be conceived as opposing ends of a single continuous dimension rather than distinct latent entities. We discuss these results in the light of rather different results for accepting (e.g., purchasing) and rejecting (e.g., not purchasing) options from a set.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{The best of times and the worst of times are interchangeable.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{1}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{192\bibrangedash 214}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/dec0000012
+      \endverb
+      \verb{file}
+      \verb Hawkins_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Hawkins_et_al_2014.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000012
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000012
+      \endverb
+    \endentry
+    \entry{hawkinsIntegratingCognitiveProcess2014a}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{17914f0e59be597279476806aab3db21}
+      \strng{fullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{bibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authorbibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authornamehash}{17914f0e59be597279476806aab3db21}
+      \strng{authorfullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discrete choice experiments—selecting the best and/or worst from a set of options—are increasingly used to provide more efﬁcient and valid measurement of attitudes or preferences than conventional methods such as Likert scales. Discrete choice data have traditionally been analyzed with random utility models that have good measurement properties but provide limited insight into cognitive processes. We extend a well-established cognitive model, which has successfully explained both choices and response times for simple decision tasks, to complex, multi-attribute discrete choice data. The ﬁts, and parameters, of the extended model for two sets of choice data (involving patient preferences for dermatology appointments, and consumer attitudes toward mobile phones) agree with those of standard choice models. The extended model also accounts for choice and response time data in a perceptual judgment task designed in a manner analogous to best–worst discrete choice experiments. We conclude that several research ﬁelds might beneﬁt from discrete choice experiments, and that the particular accumulator-based models of decision making used in response time research can also provide process-level instantiations for random utility models.}
+      \field{issn}{0364-0213, 1551-6709}
+      \field{journaltitle}{Cognitive Science}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{Integrating {Cognitive} {Process} and {Descriptive} {Models} of {Attitudes} and {Preferences}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{38}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{701\bibrangedash 735}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1111/cogs.12094
+      \endverb
+      \verb{file}
+      \verb Hawkins_et_al_2013.pdf:/Users/seanconway/Reading/Papers/Hawkins_et_al_2013.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/cogs.12094
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/cogs.12094
+      \endverb
     \endentry
     \entry{hayes2024attribute}{article}{}
       \name{author}{3}{}{%
@@ -1410,6 +2236,248 @@
       \verb https://www.cambridge.org/core/product/identifier/S1930297500007889/type/journal_article
       \endverb
     \endentry
+    \entry{marleyProbabilisticModelsBest2005}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{49}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{464\bibrangedash 480}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2005.05.003
+      \endverb
+      \verb{file}
+      \verb Marley_Louvierre_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louvierre_2005.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+    \endentry
+    \entry{marleyProbabilisticModelsBest2005a}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{464\bibrangedash 480}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2005.05.003
+      \endverb
+      \verb{file}
+      \verb Marley_Louviere_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louviere_2005.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+    \endentry
+    \entry{marleyModelsBestWorst2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=84e7b76a94aece96b88ce6d4360892e6}{%
+           family={Pihlens},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{fullhash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{bibnamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authorbibnamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authornamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authorfullhash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We develop and characterize new representations for the maxdiff model (Marley \& Louviere, 2005) for best–worst choice between multiattribute options; in particular, we state conditions under which the scale value of a multiattribute option is a product of independent ratio scales on each attribute. We show that there is a vector of simple ‘‘scores’’ that are sufficient for the model, with each score a closed-form function of the maximum likelihood estimates of the model’s parameters. Several related models are developed for rank orders obtained by repeated best and/or worst choices, and two of these models are tested on stated preferences between mobile phones.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Models of best–worst choice and ranking among multiattribute options (profiles)}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{56}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{24\bibrangedash 34}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2011.09.001
+      \endverb
+      \verb{file}
+      \verb Marley_Pihlens_2012.pdf:/Users/seanconway/Reading/Papers/Marley_Pihlens_2012.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
+      \endverb
+    \endentry
+    \entry{marleyProbabilisticModelsSetdependent2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e9001e79f8cb1812dd45cbaf3b170738}
+      \strng{fullhash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{bibnamehash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{authorbibnamehash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{authornamehash}{e9001e79f8cb1812dd45cbaf3b170738}
+      \strng{authorfullhash}{377d3afe72851b3cc3559482d16b00fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We characterize a class of probabilistic choice models where the choice probabilities depend on two scales, one with a value for each available option and the other with a value for the set of available options. Then, we develop similar results for a task in which a person is presented with a proﬁle of attributes, each at a pre-speciﬁed level, and chooses the best or the best and the worst of those attribute-levels. The latter design is an important variant on previous designs using best–worst choice to elicit preference information, and there is various evidence that it yields reliable interpretable data. Nonetheless, the data from a single such task cannot yield separate measures of the “importance” of an attribute and the “utility” of an attribute-level. We discuss various empirical designs, involving more than one task of the above general type, that may allow such separation of importance and utility.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Probabilistic models of set-dependent and attribute-level best–worst choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{52}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{281\bibrangedash 296}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2008.02.002
+      \endverb
+      \verb{file}
+      \verb Marley_et_al_2008.pdf:/Users/seanconway/Reading/Papers/Marley_et_al_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
+      \endverb
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -1488,6 +2556,83 @@
       \field{pages}{8942}
       \range{pages}{1}
     \endentry
+    \entry{molloyWhatResponseTime2019a}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f088d76d7191b4fa7fa184db261cc55d}{%
+           family={Molloy},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi Fiona},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d842a01fc4d634aa3dc43f80db893b8}{%
+           family={Galdo},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea1ef8ae9dff075da0bac718a9604bec}{%
+           family={Bahg},
+           familyi={B\bibinitperiod},
+           given={Giwon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00b157d50e522eac804553031d3cdc05}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qingfang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0577a5b4325c8d6b2d1512328e2956cd}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a70addb151552c3d32ab73ab3e60ddb0}
+      \strng{fullhash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{bibnamehash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{authorbibnamehash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{authornamehash}{a70addb151552c3d32ab73ab3e60ddb0}
+      \strng{authorfullhash}{a143ea587f199ad29447c59051b63bb9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Context effects are phenomena of multiattribute, multialternative decision-making that contradict normative models of preference. Numerous computational models have been created to explain these effects, communicated through the estimation of model parameters. Historically, parameters have been estimated by ﬁtting these models to choice response data alone. In other contexts, such as those conventionally studied in perceptual decision-making, the times associated with choice responses have proven effective in improving understanding and testing competing theoretical accounts of various experimental manipulations. Here, we explore the advantages of incorporating response time distributions into the inference procedure, using the most recent model of context effects—the multiattribute linear ballistic accumulator (MLBA) model—as a case study. First, we establish in a simulation study that incorporating response time data in the inference procedure does indeed produce more constrained estimates of the model parameters, and the extent of this constraint is modulated by the number of observations within the data. Second, we generalize our results beyond the MLBA model by using likelihood-free techniques to estimate model parameters. Finally, we investigate parameter differences when choice or choice response time data are used to ﬁt the MLBA model by ﬁtting different model variants to real data from a perceptual decision-making experiment with context effects. Based on likelihood-free and likelihood-based estimations of both simulated and real data, we conclude that response time measures offer an important source of constraint for models of context effects.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{What’s in a response time?}
+      \field{title}{What’s in a response time?: {On} the importance of response time measures in constraining models of context effects.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{171\bibrangedash 200}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1037/dec0000097
+      \endverb
+      \verb{file}
+      \verb Molloy_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Molloy_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000097
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000097
+      \endverb
+    \endentry
     \entry{morey2008confidence}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -1519,6 +2664,45 @@
       \field{year}{2008}
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
+    \endentry
+    \entry{newell2008dimensions}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Ben\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in cognitive sciences}
+      \field{number}{8}
+      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{285\bibrangedash 290}
+      \range{pages}{6}
     \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
@@ -1762,6 +2946,46 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
       \endverb
+    \endentry
+    \entry{sadil2018hierarchical}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
+           family={Sadil},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
+           family={Cowell},
+           familyi={C\bibinitperiod},
+           given={Rosemary},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
+      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
+      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
+      \field{year}{2018}
     \endentry
     \entry{schwartz1999more}{article}{}
       \name{author}{2}{}{%
@@ -2078,6 +3302,50 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
+    \endentry
+    \entry{stephens2020state}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Rachel\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
+           family={Matzke},
+           familyi={M\bibinitperiod},
+           given={Dora},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Brett\bibnamedelima K},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{102342}
+      \range{pages}{1}
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
@@ -2444,6 +3712,42 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000089
+      \endverb
+    \endentry
+    \entry{tverskyEliminationAspectsTheory1972}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{fullhash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{bibnamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authorbibnamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authornamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authorfullhash}{031d0d5f9391d970f6f089af958f701d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Elimination by aspects: {A} theory of choice}
+      \field{volume}{79}
+      \field{year}{1972}
+      \field{pages}{281\bibrangedash 299}
+      \range{pages}{19}
+      \verb{file}
+      \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
@@ -2800,6 +4104,74 @@
       \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
       \endverb
     \endentry
+    \entry{ashby2019state}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
+      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
+      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
+      \field{volume}{91}
+      \field{year}{2019}
+      \field{pages}{195\bibrangedash 200}
+      \range{pages}{6}
+    \endentry
+    \entry{ashby2022state}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
+           family={Bamber},
+           familyi={B\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{fullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{bibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authorbibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authornamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \strng{authorfullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State trace analysis: What it can and cannot do}
+      \field{volume}{108}
+      \field{year}{2022}
+      \field{pages}{102655}
+      \range{pages}{1}
+    \endentry
     \entry{ashby1988decision}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -2972,6 +4344,44 @@
       \verb{url}
       \verb https://www.cambridge.org/core/product/identifier/S1930297523000463/type/journal_article
       \endverb
+    \endentry
+    \entry{beck2016best}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5c0db97bbca6cb34986b8cb64ba41c5}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d3f8ec62f8e8407d49659c2091ca57f}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{fullhash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{bibnamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authorbibnamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authornamehash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \strng{authorfullhash}{c4bee3e108a0b3e1ff46e6218859cc9d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Part A: Policy and Practice}
+      \field{title}{The best of times and the worst of times: A new best--worst measure of attitudes toward public transport experiences}
+      \field{volume}{86}
+      \field{year}{2016}
+      \field{pages}{108\bibrangedash 123}
+      \range{pages}{16}
     \endentry
     \entry{benjamin2009signal}{article}{}
       \name{author}{3}{}{%
@@ -3259,6 +4669,65 @@
       \field{pages}{433\bibrangedash 436}
       \range{pages}{4}
     \endentry
+    \entry{brownSimplestCompleteModel2008b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{fullhash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{bibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorbibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authornamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorfullhash}{c14140e0f3c68518c15475c7dd274859}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We propose a linear ballistic accumulator (LBA) model of decision making and reaction time. The LBA is simpler than other models of choice response time, with independent accumulators that race towards a common response threshold. Activity in the accumulators increases in a linear and deterministic manner. The simplicity of the model allows complete analytic solutions for choices between any number of alternatives. These solutions (and freely-available computer code) make the model easy to apply to both binary and multiple choice situations. Using data from ﬁve previously published experiments, we demonstrate that the LBA model successfully accommodates empirical phenomena from binary and multiple choice tasks that have proven diﬃcult for other theoretical accounts. Our results are encouraging in a ﬁeld beset by the tradeoﬀ between complexity and completeness.}
+      \field{issn}{00100285}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{month}{11}
+      \field{number}{3}
+      \field{shorttitle}{The simplest complete model of choice response time}
+      \field{title}{The simplest complete model of choice response time: {Linear} ballistic accumulation}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{57}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{153\bibrangedash 178}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/j.cogpsych.2007.12.002
+      \endverb
+      \verb{file}
+      \verb Brown_Heathcote_2008.pdf:/Users/seanconway/Reading/Papers/Brown_Heathcote_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010028507000722
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010028507000722
+      \endverb
+    \endentry
     \entry{caiWhenAlternativeHypotheses2023}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cf56080c17f0ebef7347cc909eb76ced}{%
@@ -3341,6 +4810,7 @@
       \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -3374,6 +4844,133 @@
       \verb{url}
       \verb http://link.springer.com/10.3758/s13423-018-1531-9
       \endverb
+    \endentry
+    \entry{cataldoModelingPreferenceReversals2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context effects constitute benchmark behavioral phenomena for theories of choice. Previous research using signal-to-respond paradigms suggests that these phenomena develop differentially over time. Importantly, however, such time pressure manipulations correspond to an externally controlled stopping rule, which may produce different behavior compared to an internally controlled stopping rule. The first goal of this work was to examine context effects as a function of internally controlled response time. Across eight data sets, we find a consistent crossover pattern such that the attraction and compromise effects are associated with slower response times and the similarity effect is associated with faster response times. The second goal is to utilize state-ofthe-art methodology (Evans et al. in Psychonomic Bulletin \& Review, 26, 1–33, 2019; Turner and Sederberg in Psychonomic Bulletin \& Review, 21(2), 227–250, 2014) to determine whether four information-accumulation models (MDFT, the LCA, the AAM, and the MLBA) can correctly capture the direction in which preference evolves over time in each context when fit to joint choice and response time data with an internal stopping rule. Whereas the MLBA best fit the means, and MDFT and the AAM partially captured the qualitative patterns, none of the models captured the full spectrum of results. Despite a strong historical trend for empirical work in consumer choice, recent response time modeling has focused on fundamentally different nonconsumer tasks. The third goal is to generalize that modeling to the consumer choice domain, providing a bridge to a wide range of prior work. The present work provides new insights into the relationship between choice and response times and sets important constraints for models that seek to account for such behavior.}
+      \field{issn}{2522-0861, 2522-087X}
+      \field{journaltitle}{Computational Brain \& Behavior}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Modeling {Preference} {Reversals} in {Context} {Effects} over {Time}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{101\bibrangedash 123}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s42113-020-00078-8
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2020.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2020.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s42113-020-00078-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s42113-020-00078-8
+      \endverb
+    \endentry
+    \entry{cheung2016using}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Kei\bibnamedelima Long},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8302a0f788dfff803769643ead666f2}{%
+           family={Wijnen},
+           familyi={W\bibinitperiod},
+           given={Ben\bibnamedelima FM},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=296d34806ca94bb88b102105cb179f64}{%
+           family={Hollin},
+           familyi={H\bibinitperiod},
+           given={Ilene\bibnamedelima L},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c26aa9a245f8f5db71753439946db91}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Ellen\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4109584b77fd06acb5a35577b2332b}{%
+           family={Bridges},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e800e8a3c1e434df26cd1190f28721}{%
+           family={Evers},
+           familyi={E\bibinitperiod},
+           given={Silvia\bibnamedelima MAA},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5666a99d83ea1c92a21ea4c91c9ca030}{%
+           family={Hiligsmann},
+           familyi={H\bibinitperiod},
+           given={Mickael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{51bc49c44bde33831f8063c23fe256f0}
+      \strng{fullhash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{bibnamehash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{authorbibnamehash}{624ad9fc955b26d0f9b87236f5094816}
+      \strng{authornamehash}{51bc49c44bde33831f8063c23fe256f0}
+      \strng{authorfullhash}{624ad9fc955b26d0f9b87236f5094816}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmacoeconomics}
+      \field{title}{Using best--worst scaling to investigate preferences in health care}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{1195\bibrangedash 1209}
+      \range{pages}{15}
     \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
@@ -3411,6 +5008,7 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
+      \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -3424,6 +5022,57 @@
       \field{year}{2023}
       \field{pages}{102790}
       \range{pages}{1}
+    \endentry
+    \entry{davis2016bayes}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
+           family={Davis-Stober},
+           familyi={D\bibinithyphendelim S\bibinitperiod},
+           given={Clintin\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
+           family={Morey},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
+           family={Gretton},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
+      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
+      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
+      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of mathematical psychology}
+      \field{title}{Bayes factors for state-trace analysis}
+      \field{volume}{72}
+      \field{year}{2016}
+      \field{pages}{116\bibrangedash 129}
+      \range{pages}{14}
     \endentry
     \entry{deleeuwJsPsychJavaScriptLibrary2015}{article}{}
       \name{author}{1}{}{%
@@ -3561,6 +5210,7 @@
       \strng{authorbibnamehash}{bc43f99e2d4a747598a1b806d3ecc412}
       \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
       \strng{authorfullhash}{bc43f99e2d4a747598a1b806d3ecc412}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -3593,6 +5243,236 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000144
+      \endverb
+    \endentry
+    \entry{evansResponsetimeDataProvide2019b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c53130be257f186d898c5b1c0b64120a}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Nathan\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
+      \strng{fullhash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{bibnamehash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{authorbibnamehash}{3091f1a2387a03fef8080e77df5429d9}
+      \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
+      \strng{authorfullhash}{3091f1a2387a03fef8080e77df5429d9}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding the cognitive processes involved in multi-alternative, multi-attribute choice is of interest to a wide range of fields including psychology, neuroscience, and economics. Prior investigations in this domain have relied primarily on choice data to compare different theories. Despite numerous such studies, results have largely been inconclusive. Our study uses state-of-the-art response-time modeling and data from 12 different experiments appearing in six different published studies to compare four previously proposed theories/models of these effects: multi-alternative decision field theory (MDFT), the leaky-competing accumulator (LCA), the multi-attribute linear ballistic accumulator (MLBA), and the associative accumulation model (AAM). All four models are, by design, dynamic process models and thus a comprehensive evaluation of their theoretical properties requires quantitative evaluation with both choice and response-time data. Our results show that response-time data is critical at distinguishing among these models and that using choice data alone can lead to inconclusive results for some datasets. In conclusion, we encourage future research to include response-time data in the evaluation of these models.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Response-time data provide critical constraints on dynamic models of multi-alternative, multi-attribute choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{901\bibrangedash 933}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.3758/s13423-018-1557-z
+      \endverb
+      \verb{file}
+      \verb Evans_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Evans_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/s13423-018-1557-z
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/s13423-018-1557-z
+      \endverb
+    \endentry
+    \entry{finn1992determining}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16ab31222d26d6721f9fb7721df4826f}{%
+           family={Finn},
+           familyi={F\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{fullhash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{bibnamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authorbibnamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authornamehash}{84c50c53d03f73e6d3924da9020c0477}
+      \strng{authorfullhash}{84c50c53d03f73e6d3924da9020c0477}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Policy \& Marketing}
+      \field{number}{2}
+      \field{title}{Determining the appropriate response to evidence of public concern: the case of food safety}
+      \field{volume}{11}
+      \field{year}{1992}
+      \field{pages}{12\bibrangedash 25}
+      \range{pages}{14}
+    \endentry
+    \entry{flynn2007best}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=376734075f5014aa92aa5d24a2dc11ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Tim\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d6b2416b2d88b49e290fd4145b6df01}{%
+           family={Coast},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{fullhash}{e0dbd696e44194af335ea3622177039a}
+      \strng{bibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authorbibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authornamehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{authorfullhash}{e0dbd696e44194af335ea3622177039a}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of health economics}
+      \field{number}{1}
+      \field{title}{Best--worst scaling: what it can do for health care research and how to do it}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{171\bibrangedash 189}
+      \range{pages}{19}
+    \endentry
+    \entry{flynnBestWorstScaling2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=376734075f5014aa92aa5d24a2dc11ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Tim\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d6b2416b2d88b49e290fd4145b6df01}{%
+           family={Coast},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{fullhash}{e0dbd696e44194af335ea3622177039a}
+      \strng{bibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authorbibnamehash}{e0dbd696e44194af335ea3622177039a}
+      \strng{authornamehash}{3af3365b427e414fe3e85286472a6c57}
+      \strng{authorfullhash}{e0dbd696e44194af335ea3622177039a}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Statements like “quality of care is more highly valued than waiting time” can neither be supported nor refuted by comparisons of utility parameters from a traditional discrete choice experiment (DCE). Best–worst scaling can overcome this problem because it asks respondents to perform a different choice task. However, whilst the nature of the best–worst task is generally understood, there are a number of issues relating to the design and analysis of a best–worst choice experiment that require further exposition. This paper illustrates how to aggregate and analyse such data and using a quality of life pilot study demonstrates how richer insights can be drawn by the use of best–worst tasks.}
+      \field{issn}{01676296}
+      \field{journaltitle}{Journal of Health Economics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Best–worst scaling}
+      \field{title}{Best–worst scaling: {What} it can do for health care research and how to do it}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{171\bibrangedash 189}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.jhealeco.2006.04.002
+      \endverb
+      \verb{file}
+      \verb Flynn_et_al_2007.pdf:/Users/seanconway/Reading/Papers/Flynn_et_al_2007.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
       \endverb
     \endentry
     \entry{frederickLimitsAttraction2014b}{article}{}
@@ -3640,14 +5520,101 @@
       \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
       \endverb
     \endentry
+    \entry{haaijer1998utility}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7b8a79794b399d9301e2cf0d9be89007}{%
+           family={Haaijer},
+           familyi={H\bibinitperiod},
+           given={Rinus},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc97ff839d13a6e6133f3a8fc9a52c25}{%
+           family={Wedel},
+           familyi={W\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38abb387178e52fbe4c6a3e2f38332a9}{%
+           family={Vriens},
+           familyi={V\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba59cdeeae9634227444f8d0a13a3322}{%
+           family={Wansbeek},
+           familyi={W\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{786d90af5dbb96fe5c512011021c6895}
+      \strng{fullhash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{bibnamehash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{authorbibnamehash}{4780b738601276f9ecff46e762ed5b33}
+      \strng{authornamehash}{786d90af5dbb96fe5c512011021c6895}
+      \strng{authorfullhash}{4780b738601276f9ecff46e762ed5b33}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marketing Science}
+      \field{number}{3}
+      \field{title}{Utility covariances and context effects in conjoint MNP models}
+      \field{volume}{17}
+      \field{year}{1998}
+      \field{pages}{236\bibrangedash 252}
+      \range{pages}{17}
+    \endentry
+    \entry{hausman1984specification}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=6b05590b027efa53665c79a23d66dacf}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{fullhash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{bibnamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authorbibnamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authornamehash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \strng{authorfullhash}{c7fe7b5b3ef8efd3b2b904204418cbfd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{title}{Specification tests for the multinomial logit model}
+      \field{year}{1984}
+      \field{pages}{1219\bibrangedash 1240}
+      \range{pages}{22}
+    \endentry
     \entry{hausman1978conditional}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=efa8edfd650dfd234af154959e067af8}{%
+        {{un=1,uniquepart=given,hash=efa8edfd650dfd234af154959e067af8}{%
            family={Hausman},
            familyi={H\bibinitperiod},
            given={Jerry\bibnamedelima A},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=4113665da8685d215771271a11d964c8}{%
            family={Wise},
            familyi={W\bibinitperiod},
@@ -3668,7 +5635,6 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Econometrica: Journal of the econometric society}
@@ -3716,6 +5682,170 @@
       \field{labeltitlesource}{title}
       \field{title}{Detection theory: A user's guide}
       \field{year}{2021}
+    \endentry
+    \entry{hawkinsBestTimesWorst2014}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{17914f0e59be597279476806aab3db21}
+      \strng{fullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{bibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authorbibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authornamehash}{17914f0e59be597279476806aab3db21}
+      \strng{authorfullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We commonly determine the most preferred (best) and least preferred (worst) of a set of options, yet it is unclear whether the 2 choices are based on the same or different information. We examined best and worst choices using discrete choice tasks, in which participants selected either the best option from a set, the worst option, or selected both the best and the worst options. One experiment used perceptual judgments of area, and another used consumer preferences for various attributes of mobile phones. In both domains, we found that the task (best, worst, or best and worst) does not alter the preferences expressed for the best (respectively, the worst) option. We also observed that the choice probabilities were consistent with a single latent dimension— options that were frequently selected as best were infrequently selected as worst, and vice versa— both within and between respondents. A quantitative model of choice and response time provided convergent evidence on those relations, with model variants that assumed an inverse relationship between the estimated parameters for best and worst choices accounting well for the data. We conclude that the diverse types of best and worst choices that we studied can be conceived as opposing ends of a single continuous dimension rather than distinct latent entities. We discuss these results in the light of rather different results for accepting (e.g., purchasing) and rejecting (e.g., not purchasing) options from a set.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{The best of times and the worst of times are interchangeable.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{1}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{192\bibrangedash 214}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/dec0000012
+      \endverb
+      \verb{file}
+      \verb Hawkins_et_al_2014.pdf:/Users/seanconway/Reading/Papers/Hawkins_et_al_2014.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000012
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000012
+      \endverb
+    \endentry
+    \entry{hawkinsIntegratingCognitiveProcess2014a}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{17914f0e59be597279476806aab3db21}
+      \strng{fullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{bibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authorbibnamehash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \strng{authornamehash}{17914f0e59be597279476806aab3db21}
+      \strng{authorfullhash}{61fa0bf5d977f6119d2032aeeeda2fb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discrete choice experiments—selecting the best and/or worst from a set of options—are increasingly used to provide more efﬁcient and valid measurement of attitudes or preferences than conventional methods such as Likert scales. Discrete choice data have traditionally been analyzed with random utility models that have good measurement properties but provide limited insight into cognitive processes. We extend a well-established cognitive model, which has successfully explained both choices and response times for simple decision tasks, to complex, multi-attribute discrete choice data. The ﬁts, and parameters, of the extended model for two sets of choice data (involving patient preferences for dermatology appointments, and consumer attitudes toward mobile phones) agree with those of standard choice models. The extended model also accounts for choice and response time data in a perceptual judgment task designed in a manner analogous to best–worst discrete choice experiments. We conclude that several research ﬁelds might beneﬁt from discrete choice experiments, and that the particular accumulator-based models of decision making used in response time research can also provide process-level instantiations for random utility models.}
+      \field{issn}{0364-0213, 1551-6709}
+      \field{journaltitle}{Cognitive Science}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{Integrating {Cognitive} {Process} and {Descriptive} {Models} of {Attitudes} and {Preferences}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{38}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{701\bibrangedash 735}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1111/cogs.12094
+      \endverb
+      \verb{file}
+      \verb Hawkins_et_al_2013.pdf:/Users/seanconway/Reading/Papers/Hawkins_et_al_2013.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/cogs.12094
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/cogs.12094
+      \endverb
     \endentry
     \entry{hayes2024attribute}{article}{}
       \name{author}{3}{}{%
@@ -4104,6 +6234,248 @@
       \verb https://www.cambridge.org/core/product/identifier/S1930297500007889/type/journal_article
       \endverb
     \endentry
+    \entry{marleyProbabilisticModelsSetdependent2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e9001e79f8cb1812dd45cbaf3b170738}
+      \strng{fullhash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{bibnamehash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{authorbibnamehash}{377d3afe72851b3cc3559482d16b00fc}
+      \strng{authornamehash}{e9001e79f8cb1812dd45cbaf3b170738}
+      \strng{authorfullhash}{377d3afe72851b3cc3559482d16b00fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We characterize a class of probabilistic choice models where the choice probabilities depend on two scales, one with a value for each available option and the other with a value for the set of available options. Then, we develop similar results for a task in which a person is presented with a proﬁle of attributes, each at a pre-speciﬁed level, and chooses the best or the best and the worst of those attribute-levels. The latter design is an important variant on previous designs using best–worst choice to elicit preference information, and there is various evidence that it yields reliable interpretable data. Nonetheless, the data from a single such task cannot yield separate measures of the “importance” of an attribute and the “utility” of an attribute-level. We discuss various empirical designs, involving more than one task of the above general type, that may allow such separation of importance and utility.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Probabilistic models of set-dependent and attribute-level best–worst choice}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{52}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{281\bibrangedash 296}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2008.02.002
+      \endverb
+      \verb{file}
+      \verb Marley_et_al_2008.pdf:/Users/seanconway/Reading/Papers/Marley_et_al_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
+      \endverb
+    \endentry
+    \entry{marleyProbabilisticModelsBest2005}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{49}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{464\bibrangedash 480}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2005.05.003
+      \endverb
+      \verb{file}
+      \verb Marley_Louvierre_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louvierre_2005.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+    \endentry
+    \entry{marleyProbabilisticModelsBest2005a}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
+      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{464\bibrangedash 480}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2005.05.003
+      \endverb
+      \verb{file}
+      \verb Marley_Louviere_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louviere_2005.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
+      \endverb
+    \endentry
+    \entry{marleyModelsBestWorst2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={A.A.J.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=84e7b76a94aece96b88ce6d4360892e6}{%
+           family={Pihlens},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{fullhash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{bibnamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authorbibnamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authornamehash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \strng{authorfullhash}{2db6db0b34642e9bb174abfcbad0a1dc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We develop and characterize new representations for the maxdiff model (Marley \& Louviere, 2005) for best–worst choice between multiattribute options; in particular, we state conditions under which the scale value of a multiattribute option is a product of independent ratio scales on each attribute. We show that there is a vector of simple ‘‘scores’’ that are sufficient for the model, with each score a closed-form function of the maximum likelihood estimates of the model’s parameters. Several related models are developed for rank orders obtained by repeated best and/or worst choices, and two of these models are tested on stated preferences between mobile phones.}
+      \field{issn}{00222496}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Models of best–worst choice and ranking among multiattribute options (profiles)}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{56}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{24\bibrangedash 34}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jmp.2011.09.001
+      \endverb
+      \verb{file}
+      \verb Marley_Pihlens_2012.pdf:/Users/seanconway/Reading/Papers/Marley_Pihlens_2012.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
+      \endverb
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -4182,6 +6554,83 @@
       \field{pages}{8942}
       \range{pages}{1}
     \endentry
+    \entry{molloyWhatResponseTime2019a}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f088d76d7191b4fa7fa184db261cc55d}{%
+           family={Molloy},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi Fiona},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d842a01fc4d634aa3dc43f80db893b8}{%
+           family={Galdo},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea1ef8ae9dff075da0bac718a9604bec}{%
+           family={Bahg},
+           familyi={B\bibinitperiod},
+           given={Giwon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00b157d50e522eac804553031d3cdc05}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qingfang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0577a5b4325c8d6b2d1512328e2956cd}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a70addb151552c3d32ab73ab3e60ddb0}
+      \strng{fullhash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{bibnamehash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{authorbibnamehash}{a143ea587f199ad29447c59051b63bb9}
+      \strng{authornamehash}{a70addb151552c3d32ab73ab3e60ddb0}
+      \strng{authorfullhash}{a143ea587f199ad29447c59051b63bb9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Context effects are phenomena of multiattribute, multialternative decision-making that contradict normative models of preference. Numerous computational models have been created to explain these effects, communicated through the estimation of model parameters. Historically, parameters have been estimated by ﬁtting these models to choice response data alone. In other contexts, such as those conventionally studied in perceptual decision-making, the times associated with choice responses have proven effective in improving understanding and testing competing theoretical accounts of various experimental manipulations. Here, we explore the advantages of incorporating response time distributions into the inference procedure, using the most recent model of context effects—the multiattribute linear ballistic accumulator (MLBA) model—as a case study. First, we establish in a simulation study that incorporating response time data in the inference procedure does indeed produce more constrained estimates of the model parameters, and the extent of this constraint is modulated by the number of observations within the data. Second, we generalize our results beyond the MLBA model by using likelihood-free techniques to estimate model parameters. Finally, we investigate parameter differences when choice or choice response time data are used to ﬁt the MLBA model by ﬁtting different model variants to real data from a perceptual decision-making experiment with context effects. Based on likelihood-free and likelihood-based estimations of both simulated and real data, we conclude that response time measures offer an important source of constraint for models of context effects.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{What’s in a response time?}
+      \field{title}{What’s in a response time?: {On} the importance of response time measures in constraining models of context effects.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{171\bibrangedash 200}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1037/dec0000097
+      \endverb
+      \verb{file}
+      \verb Molloy_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Molloy_et_al_2019.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000097
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000097
+      \endverb
+    \endentry
     \entry{morey2008confidence}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -4213,6 +6662,45 @@
       \field{year}{2008}
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
+    \endentry
+    \entry{newell2008dimensions}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Ben\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in cognitive sciences}
+      \field{number}{8}
+      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{285\bibrangedash 290}
+      \range{pages}{6}
     \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
@@ -4456,6 +6944,46 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
       \endverb
+    \endentry
+    \entry{sadil2018hierarchical}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
+           family={Sadil},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
+           family={Cowell},
+           familyi={C\bibinitperiod},
+           given={Rosemary},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
+      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
+      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
+      \field{year}{2018}
     \endentry
     \entry{schwartz1999more}{article}{}
       \name{author}{2}{}{%
@@ -4772,6 +7300,50 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
+    \endentry
+    \entry{stephens2020state}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Rachel\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
+           family={Matzke},
+           familyi={M\bibinitperiod},
+           given={Dora},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Brett\bibnamedelima K},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{102342}
+      \range{pages}{1}
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
@@ -5138,6 +7710,42 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000089
+      \endverb
+    \endentry
+    \entry{tverskyEliminationAspectsTheory1972}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{fullhash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{bibnamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authorbibnamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authornamehash}{031d0d5f9391d970f6f089af958f701d}
+      \strng{authorfullhash}{031d0d5f9391d970f6f089af958f701d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Elimination by aspects: {A} theory of choice}
+      \field{volume}{79}
+      \field{year}{1972}
+      \field{pages}{281\bibrangedash 299}
+      \range{pages}{19}
+      \verb{file}
+      \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
