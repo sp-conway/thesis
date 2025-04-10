@@ -106,74 +106,6 @@
       \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
       \endverb
     \endentry
-    \entry{ashby2019state}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
-      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
-      \field{volume}{91}
-      \field{year}{2019}
-      \field{pages}{195\bibrangedash 200}
-      \range{pages}{6}
-    \endentry
-    \entry{ashby2022state}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
-           family={Bamber},
-           familyi={B\bibinitperiod},
-           given={Donald},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{fullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{bibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authorbibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authornamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authorfullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State trace analysis: What it can and cannot do}
-      \field{volume}{108}
-      \field{year}{2022}
-      \field{pages}{102655}
-      \range{pages}{1}
-    \endentry
     \entry{ashby1988decision}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -974,57 +906,6 @@
       \field{pages}{1195\bibrangedash 1209}
       \range{pages}{15}
     \endentry
-    \entry{davis2016bayes}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
-           family={Davis-Stober},
-           familyi={D\bibinithyphendelim S\bibinitperiod},
-           given={Clintin\bibnamedelima P},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
-           family={Morey},
-           familyi={M\bibinitperiod},
-           given={Richard\bibnamedelima D},
-           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
-           family={Gretton},
-           familyi={G\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
-           family={Heathcote},
-           familyi={H\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
-      \field{extraname}{1}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of mathematical psychology}
-      \field{title}{Bayes factors for state-trace analysis}
-      \field{volume}{72}
-      \field{year}{2016}
-      \field{pages}{116\bibrangedash 129}
-      \range{pages}{14}
-    \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
@@ -1061,7 +942,6 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
-      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -1350,6 +1230,43 @@
       \field{year}{1992}
       \field{pages}{12\bibrangedash 25}
       \range{pages}{14}
+    \endentry
+    \entry{flynn2014best}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=8b75f5656a809b26e05052ae089e8341}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={Anthony\bibnamedelima AJ},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{fullhash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{bibnamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authorbibnamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authornamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authorfullhash}{66474e5a1e8937b737fbff39a87df5e8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of choice modelling}
+      \field{title}{Best-worst scaling: theory and methods}
+      \field{year}{2014}
+      \field{pages}{178\bibrangedash 201}
+      \range{pages}{24}
     \endentry
     \entry{flynn2007best}{article}{}
       \name{author}{4}{}{%
@@ -2665,45 +2582,6 @@
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
     \endentry
-    \entry{newell2008dimensions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
-           family={Newell},
-           familyi={N\bibinitperiod},
-           given={Ben\bibnamedelima R},
-           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
-           family={Dunn},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in cognitive sciences}
-      \field{number}{8}
-      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
-      \field{volume}{12}
-      \field{year}{2008}
-      \field{pages}{285\bibrangedash 290}
-      \range{pages}{6}
-    \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -2946,46 +2824,6 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
       \endverb
-    \endentry
-    \entry{sadil2018hierarchical}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
-           family={Sadil},
-           familyi={S\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
-           family={Cowell},
-           familyi={C\bibinitperiod},
-           given={Rosemary},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={David\bibnamedelima E},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
-      \field{year}{2018}
     \endentry
     \entry{schwartz1999more}{article}{}
       \name{author}{2}{}{%
@@ -3302,50 +3140,6 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
-    \endentry
-    \entry{stephens2020state}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
-           family={Stephens},
-           familyi={S\bibinitperiod},
-           given={Rachel\bibnamedelima G},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
-           family={Matzke},
-           familyi={M\bibinitperiod},
-           given={Dora},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
-           family={Hayes},
-           familyi={H\bibinitperiod},
-           given={Brett\bibnamedelima K},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
-      \field{volume}{96}
-      \field{year}{2020}
-      \field{pages}{102342}
-      \range{pages}{1}
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
@@ -4104,74 +3898,6 @@
       \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
       \endverb
     \endentry
-    \entry{ashby2019state}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
-      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
-      \field{volume}{91}
-      \field{year}{2019}
-      \field{pages}{195\bibrangedash 200}
-      \range{pages}{6}
-    \endentry
-    \entry{ashby2022state}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
-           family={Bamber},
-           familyi={B\bibinitperiod},
-           given={Donald},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{fullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{bibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authorbibnamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authornamehash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \strng{authorfullhash}{dc4b7938f8fe1fb93d956af38a7f1a57}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State trace analysis: What it can and cannot do}
-      \field{volume}{108}
-      \field{year}{2022}
-      \field{pages}{102655}
-      \range{pages}{1}
-    \endentry
     \entry{ashby1988decision}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -5008,7 +4734,6 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
-      \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -5022,57 +4747,6 @@
       \field{year}{2023}
       \field{pages}{102790}
       \range{pages}{1}
-    \endentry
-    \entry{davis2016bayes}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
-           family={Davis-Stober},
-           familyi={D\bibinithyphendelim S\bibinitperiod},
-           given={Clintin\bibnamedelima P},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
-           family={Morey},
-           familyi={M\bibinitperiod},
-           given={Richard\bibnamedelima D},
-           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
-           family={Gretton},
-           familyi={G\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
-           family={Heathcote},
-           familyi={H\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
-      \field{extraname}{2}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of mathematical psychology}
-      \field{title}{Bayes factors for state-trace analysis}
-      \field{volume}{72}
-      \field{year}{2016}
-      \field{pages}{116\bibrangedash 129}
-      \range{pages}{14}
     \endentry
     \entry{deleeuwJsPsychJavaScriptLibrary2015}{article}{}
       \name{author}{1}{}{%
@@ -5474,6 +5148,43 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
       \endverb
+    \endentry
+    \entry{flynn2014best}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7e2a97ffa1fc4e315a954735ccca7fbe}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Terry\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=8b75f5656a809b26e05052ae089e8341}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={Anthony\bibnamedelima AJ},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{fullhash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{bibnamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authorbibnamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authornamehash}{66474e5a1e8937b737fbff39a87df5e8}
+      \strng{authorfullhash}{66474e5a1e8937b737fbff39a87df5e8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of choice modelling}
+      \field{title}{Best-worst scaling: theory and methods}
+      \field{year}{2014}
+      \field{pages}{178\bibrangedash 201}
+      \range{pages}{24}
     \endentry
     \entry{frederickLimitsAttraction2014b}{article}{}
       \name{author}{3}{}{%
@@ -6663,45 +6374,6 @@
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
     \endentry
-    \entry{newell2008dimensions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
-           family={Newell},
-           familyi={N\bibinitperiod},
-           given={Ben\bibnamedelima R},
-           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
-           family={Dunn},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in cognitive sciences}
-      \field{number}{8}
-      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
-      \field{volume}{12}
-      \field{year}{2008}
-      \field{pages}{285\bibrangedash 290}
-      \range{pages}{6}
-    \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -6944,46 +6616,6 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.108.2.370
       \endverb
-    \endentry
-    \entry{sadil2018hierarchical}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
-           family={Sadil},
-           familyi={S\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
-           family={Cowell},
-           familyi={C\bibinitperiod},
-           given={Rosemary},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={David\bibnamedelima E},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
-      \field{year}{2018}
     \endentry
     \entry{schwartz1999more}{article}{}
       \name{author}{2}{}{%
@@ -7300,50 +6932,6 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
-    \endentry
-    \entry{stephens2020state}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
-           family={Stephens},
-           familyi={S\bibinitperiod},
-           given={Rachel\bibnamedelima G},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
-           family={Matzke},
-           familyi={M\bibinitperiod},
-           given={Dora},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
-           family={Hayes},
-           familyi={H\bibinitperiod},
-           given={Brett\bibnamedelima K},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
-      \field{volume}{96}
-      \field{year}{2020}
-      \field{pages}{102342}
-      \range{pages}{1}
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
@@ -8014,7 +7602,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{tversky1993}
 \endrefsection
 \endinput
 
