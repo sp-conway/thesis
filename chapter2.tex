@@ -1,63 +1,67 @@
-\section{Introduction}
+\subsection{Introduction}
 
-I now introduce the model I explore throughout the paper.  This model is simplistic, as it treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual, rather than decision tasks. It also completely eschews the possibility of higher level decision processes. I use this model to understand the extent to which. My model treats value (perceived area) as stochastic and choice as deterministic. In my current modeling framework, I do not treat height and width as independent attributes but rather consider perceived area to be unidimensional. In my model, I consider a perceptual choice experiment, where participants are presented with 3 perceptual stimuli on each trial. I asssume that on each trial $i$ with choice set $K$, The perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\mathbf{\mu}$ and variance-covariance matrix $\mathbf{\Sigma}$:
+I now introduce the model I explore throughout the dissertation.  This model is simplistic, as it treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual, rather than decision tasks. This also completely eschews the possibility of higher level decision processes. I use this model to understand the extent to which. My model treats value (perceived area) as stochastic and choice as deterministic. In the current modeling framework, I do not treat height and width as independent attributes but rather consider perceived area to be unidimensional. In my model, I consider a perceptual choice experiment, where participants are presented with 3 perceptual stimuli on each trial. I asssume that on each trial $i$ with choice set $K$, The perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\mathbf{\mu}$ and variance-covariance matrix $\mathbf{\Sigma}$:
 
-\begin{align}
+\begin{equation}
    \mathbf{X_{i}}\sim\mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})
    \label{eqn:mvnorm}
-\end{align}
+\end{equation}
 
 where $\mathbf{\mu}$ is a column vector consisting of:
-\begin{align}
+\begin{equation}
    \begin{pmatrix}
       \mu_{T} \\
       \mu_{C} \\
       \mu_{D}
       \end{pmatrix}
    \label{eqn:mu}
-\end{align}
+\end{equation}
 
 where the subscripts $T$, $C$, and $D$ indicate target, decoy, and competitor, respectively, and $\mathbf{\Sigma}$ is a positive semi-definite 3x3 covariance matrix computed as:
 
-\begin{align}
+\begin{equation}
    \mathbf{\Sigma}=S\mathbf{\Omega}S
    \label{eqn:Sigma}
-\end{align}
+\end{equation}
 
 where $S$ is a diagonal matrix consisting of: 
 
-\begin{align}
+\begin{equation}
    \begin{pmatrix}
       \sigma_{T} & 0 & 0 \\
       0 & \sigma_{C} & 0 \\
       0 & 0 & \sigma_{D} \\
    \end{pmatrix}
-   \label{eqn:S}
-\end{align}
+\label{eqn:S}
+\end{equation}
 
-and $\Omega$ is a correlation matrix:
 
-\begin{align}
+and $\mathbf{\Omega}$ is a correlation matrix:
+
+\begin{equation}
    \begin{pmatrix}
       1 & \rho_{TC} & \rho_{TD} \\
       \rho_{TC} & 1 & \rho_{CD} \\
       \rho_{TD} & \rho_{CD} & 1 \\
    \end{pmatrix}
-   \label{eqn:O}
-\end{align}
-
+\label{eqn:O}
+\end{equation}
 with $\rho_{TD}$, for example, indicating the population-level correlation between target and decoy stimuli.
 
 As mentioned above, the model assumes that value is stochastic while choice is deterministic\footnote{This also assumes ties are not possible, which is true if and only if perceived area is absolutely continuous.}. The model always "selects" the option perceived the largest, regardless of the magnitude of the difference between the "winner" and "runners-up". That is, given a vector $X_{i}$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $i$ is:
 
-\begin{align}
+\begin{equation}
    P(i|K)=P(X_{i}>X_{j}, j \in K, i \neq j)
    \label{eqn:pchoice}
-\end{align}
+\end{equation}
 
-When any elements of $\Omega$ are non-zero, the closed form solution of this model does not exist, and to compute predictions, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. In all applications of these model through this dissertation, I use simulation to generate model predictions.
+If all off-diagonal elements of $\mathbf{\Omega}$ are $0$, the model collapses to the standard Thurstonian Case CHECK CASE XX \parencite{thurstone1927law} often used by cognitive psychology researchers. Models of this form have closed form solutions and their predictions are easy to compute.
 
-I consider the role of perceptual correlations between all pairs of stimuli, i.e., $\rho_{TC}$, $\rho_{TD}$, and $\rho_{CD}$. I vary both $\rho_{TD}$ and $\rho_{TC}$ from -1 to 1; in other words, all rectangles oriented the same way share one correlation and those oriented differently share another correlation. I show model predictions that result from varying these correlations in Figure \ref{fig:3d_model}. Here, I assume that $\mathbf{\mu_{T}=\mu_{C}>\mu_{D}$ and that $\mathbf{\Sigma_{T}=\sigma_{C}=\sigma_{D}$\footnote{In Experiment 2 I present evidence supporting the former assumption. I also relax the latter assumption when modeling Experiment 2}. 
+On the other hand, if any elements of $\mathbf{\Omega}$ are non-zero, the closed form solution of this model does not exist, and to compute predictions and estimate model parameters, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. In all applications of these model through this dissertation, I use simulation to generate model predictions. 
+
+This model is capable of generating a(n) attraction (repulsion) effect by assuming $\mu_{T}>\mu_{C}$ ($\mu_{C}>\mu_{T}$), i.e., that on average target and competitor stimuli differ inherently in their perceived areas.
+
+I now consider the role of perceptual correlations between all pairs of stimuli, i.e., $\rho_{TC}$, $\rho_{TD}$, and $\rho_{CD}$. I vary both $\rho_{TD}$ and $\rho_{TC}$ from -1 to 1; in other words, all rectangles oriented the same way share one correlation and those oriented differently share another correlation. I show model predictions that result from varying these correlations in Figure \ref{fig:3d_model}. Here, I assume that $\mu_{T}=\mu_{C}>\mu_{D}$ and that $\sigma_{T}=\sigma_{C}=\sigma_{D}$\footnote{In Experiment 2 I present evidence supporting the former assumption. I also relax the latter assumption when modeling Experiment 2}. 
 
 \ref{fig:3d_model} shows model predictions in the form of $RST$ (Relative Share of the Target), where RST values above .5 indicate an attraction effect and values below .5 indicate a repulsion effect. My model can, depending on the relationship between $\rho_{TD}$ and $\rho_{TC}$, predict a repulsion, attraction, or a null context effect. If $\rho_{TD}>\rho_{TC}$, the model predicts a repulsion effect. If the target and decoy are correlated more strongly than competitor and decoy, it is more likely that if on a particular trial the target perception is large, that the decoy is even \textit{larger}, causing the decoy to "steal" choice shares from the target more than the competitor, i.e., a repulsion effect.
 
@@ -217,21 +221,21 @@ Computing raw correlations, without accounting for subject and trial-level diffe
 
 I assume that, for participant $i$, on each critical trial $j$, the perceived target, competitor, and decoy areas $X_{i}$ are sampled from a multivariate normal distribution with mean vector $\mathbf{\mu_{ij}$ and variance-covariance matrix $\mathbf{\Sigma}$. 
 
-As discussed in the Introduction, I decompose sigma into the $S\mathbf{\Omega}S$, where the diagonal elements of $S$ are population standard deviations and the off diagonal elements are $0$. $\Omega$ is $3x3$ correlation matrix.  
+As discussed in the Introduction, I decompose sigma into the $S\mathbf{\Omega}S$, where the diagonal elements of $S$ are population standard deviations and the off diagonal elements are $0$. $\mathbf{\Omega}$ is $3x3$ correlation matrix.  
 
-I focus on our estimates of $\mathbf{\mu$ and $\Omega$ in the main text and discuss the details of the modeling, along with $\S$ estimates, in Appendix XXX. 
+I focus on our estimates of $\mathbf{\mu}$ and $\mathbf{\Omega}$ in the main text and discuss the details of the modeling, along with $\S$ estimates, in Appendix XXX. 
 
 I show mean estimates of $\mathbf{\mu}$ in Figure \ref{fig:e2mu} and show estimates of $\mathbf{\Omega}$ in Figure \ref{fig:omega}. In both conditions, $\rho_{TD}$ is larger than both $\rho_{CD}$ and $\rho_{TC}$, while $\rho_{CD}$ and $\rho_{TC}$ do not differ from each other. 
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg}
-   \caption{$\mathbf{\mu$ estimates from Experiment 2.}
+   \caption{$\mathbf{\mu}$ estimates from Experiment 2.}
    \label{fig:e2mu}
 \end{figure}
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg}
-   \caption{Posterior estimate of $\Omega$ (off-diagonal parameters) across display conditions. Lines show $95\%$ HDIs.  Dots indicate means.}
+   \caption{Posterior estimate of $\mathbf{\Omega}$ (off-diagonal parameters) across display conditions. Lines show $95\%$ HDIs.  Dots indicate means.}
    \label{fig:omega}
 \end{figure}
 
