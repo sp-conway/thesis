@@ -1,58 +1,126 @@
-\chapter{Experiment 1: Bayesian Logistic Regression Model of 2AFC Discriminability}
+\chapter{Bayesian Logistic Regression Model of 2AFC Discriminability from Experiment 1}
 I analyzed the 2AFC data from Experiment 1 using Bayesian Hierarchical Logistic Regression. 
 
-Recall that in this experiment, participants were presented with three stimuli (target, competitor, and decoy rectangles). They were then asked to select the largest rectangle out of a pair of two of these options. In other words, there are three trial types: target/competitor (TC), target/decoy (TD), and competitor/decoy (CD). As discussed in the main text, I remove the TC trials from all substantive analyses. 
+Recall that in this experiment, participants were presented with three stimuli (target, competitor, and decoy rectangles). They were then asked to select the largest rectangle out of a pair of two of these options. In other words, there are three trial types: target/competitor (TC), target/decoy (TD), and competitor/decoy (CD). As discussed in the main text, I remove the TC trials from all substantive analyses, as well as the $TDD=0\%$ trials. 
 
-The model predicts the probability of discriminating the target/competitor from the decoy option. According to the model, discrimination $D$ for participant $i$ on trial $i$ is:
-\begin{equation}
-    $D_{ij} \sim Bernoulli(\theta_{ij})$
-\end{equation}
+\section{Model Details} 
 
-To compute $\theta_{ij}$, I first compute $\eta_{ij}$:
+The model predicts the probability of discriminating the target/competitor from the decoy option. According to the model, discrimination $D$ for participant $i$ on trial $j$ is:
+\begin{align}
+    D_{ij} \sim Bernoulli(\theta_{ij})
+\end{align}
 
-\begin{equation}
-    $\eta_{ij}=(\beta_{0}+S_{0}) + (\beta_{or}+S_{or}_{i})*or_{j} + (\beta_{horiz}+S_{horiz}_{i})*horiz_{j} +
-    (\beta_{TD}+S_{TD}_{i})*TD_{j} + (\beta_{TDD5}+S_{TDD5}_{i})*TDD5_{j} + (\beta_{TDD9}+S_{TDD9}_{i})*TDD9_{j}+
-    (\beta_{TDD14}+S_{TDD14}_{i})*TDD14_{j} + (\beta_{TDD5xTD}+S_{TDD5xTD}_{i})*TDD5_{j}*TD_{j} +
-    (\beta_{TDD9xTD}+S_{TDD9xTD}_{i})*TDD9_{j}*TD_{j} (\beta_{TDD14xTD}+S_{TDD14xTD}_{i})*TDD14_{j}*TD_{j}$
-\end{equation}
+To compute $\theta_{ij}$, I first compute $\eta_{ij}$ from linear combination of the relevant variables.
 
-All $\beta$ terms are fixed effects, and all $S$ terms are random (participant) effects. $\beta_{or}$ is the fixed effect of orientation, where $\or_{T}_{j}$ is a dummy variable which $=0$ if the the competitor is taller than wide and $=1$ if the competitor is wider than tall. $\beta_{TD}$ is the fixed effect of comparison, where $TD_{j}$=0 for CD trials and $TD_{j}=1$ for TD trials. 
+\begin{align}
+    \eta_{ij} &= (\beta_{0} + S_{0_{i}}) + (\beta_{\mathrm{or}} + S_{\mathrm{or}_{i}}) \cdot \mathrm{or}_{j} + (\beta_{\mathrm{horiz}} + S_{\mathrm{horiz}_{i}}) \cdot \mathrm{horiz}_{j} \\
+    &\quad + (\beta_{\mathrm{TD}} + S_{\mathrm{TD}_{i}}) \cdot \mathrm{TD}_{j} + (\beta_{\mathrm{TDD5}} + S_{\mathrm{TDD5}_{i}}) \cdot \mathrm{TDD5}_{j} + (\beta_{\mathrm{TDD9}} + S_{\mathrm{TDD9}_{i}}) \cdot \mathrm{TDD9}_{j} \\
+    &\quad + (\beta_{\mathrm{TDD14}} + S_{\mathrm{TDD14}_{i}}) \cdot \mathrm{TDD14}_{j} + (\beta_{\mathrm{TDD5xTD}} + S_{\mathrm{TDD5xTD}_{i}}) \cdot \mathrm{TDD5}_{j} \cdot \mathrm{TD}_{j} \\
+    &\quad + (\beta_{\mathrm{TDD9xTD}} + S_{\mathrm{TDD9xTD}_{i}}) \cdot \mathrm{TDD9}_{j} \cdot \mathrm{TD}_{j} + (\beta_{\mathrm{TDD14xTD}} + S_{\mathrm{TDD14xTD}_{i}}) \cdot \mathrm{TDD14}_{j} \cdot \mathrm{TD}_{j}
+\end{align}
+
+All $\beta$ terms are fixed effects, and all $S$ terms are random (participant) effects. $\beta_{or}$ is the fixed effect of orientation, where $\text{or}_{j}$ is a dummy variable which $=0$ if the the target and decoy are taller than wide and $=1$ if the target and decoy are wider than tall. $\beta_{TD}$ is the fixed effect of comparison, where $TD_{j}$=0 for CD trials and $TD_{j}=1$ for TD trials.  The $TDD$ variable has 4 levels ($2\%$, $5\%$, $9\%$, and $14\%$), so I include three dummy variables ($TDD5$, $TDD9$, and $TDD14$) and treat $2\%$ as the reference level for $TDD$. I also include the interaction to capture the additional boost / decrement to $TD$ over $TC$ trials at each level of $TDD$. 
 
 $\eta_{ij}$ is then transformed to the probability scale using the logit function:
 
-\begin{equation}
-    $\theta_{ij}=\frac{1}{1+e^{-\eta_{ij}}}$
-\end{equation}
+\begin{align}
+    \theta_{ij}=\frac{1}{1+e^{-\eta_{ij}}}
+\end{align}
+
+\section{Prior Distributions on Parameters}
+
+\begin{itemize}
+    \item $\beta_{0} \sim \mathcal{N}(0,5)$
+    \item $\beta_{or} \sim \mathcal{N}(0,5)$
+    \item $\beta_{horiz} \sim \mathcal{N}(0,5)$
+    \item $\beta_{TD} \sim \mathcal{N}(0,5)$
+    \item $\beta_{TDD5} \sim \mathcal{N}(0,5)$
+    \item $\beta_{TDD9} \sim \mathcal{N}(0,5)$
+    \item $\beta_{TDD14} \sim \mathcal{N}(0,5)$
+    \item $\beta_{TDD5xTD} \sim \mathcal{N}(0,2.5)$
+    \item $\beta_{TDD9xTD} \sim \mathcal{N}(0,2.5)$
+    \item $\beta_{TDD14xTD} \sim \mathcal{N}(0,2.5)$
+    \item $S_{0_{i}} \sim \mathcal{N}(0, \sigma_{S_0})$
+    \item $S_{or_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{horiz_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TD_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD5_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD9_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD14_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD5xTD_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD9xTD_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $S_{TDD14xTD_{i}} \sim \mathcal{N}(0, \sigma_{S})$
+    \item $\sigma_{S_{0}} \sim LogNormal(0,2.5)$
+    \item $\sigma_{S} \sim LogNormal(0,2.5)$
+\end{itemize}
+
+Note that the model assumes equal variance for all random effect distributions aside from the random intercepts.
+
+\section{Modeling Results}
+The model was coded in Stan \parencite{carpenter2017stan} and implemented using the RStan package \parencite{rstan}. The sampler ran 5 chains, each for 2500 iterations. Posterior diagnostics indicated that the sampler converged.
+
+\subsection{Parameter estimates.}
+
+Table XXX shows parameter estimates, including means and $95\%$ credible intervals. 
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{lrrr}
+        \toprule
+        Parameter & M & SD & CI low & CI high \\
+        \midrule
+        $\beta_{0}$ & 0.44 & 0.06 & 0.32 & 0.57 \\
+        $\beta_{or}$ & -0.54 & 0.06 & -0.66 & -0.43\\
+        $\beta_{horiz}$ & 0.23 & 0.06 & 0.12 & 0.34\\
+        $\beta_{TD}$ & 0.17 & 0.08 & 0.01 & 0.33\\
+        $\beta_{TDD5}$ & 0.40 & 0.08 & 0.23 & 0.56\\
+        $\beta_{TDD9}$ & 0.81 & 0.09 & 0.64 & 0.98\\
+        $\beta_{TDD14}$ & 1.45 & 0.10 & 1.25 & 1.64\\
+        $\beta_{TDD5xTD}$ & 0.14 & 0.12 & -0.09 & 0.36\\
+        $\beta_{TDD9xTD}$ & 0.61 & 0.13 & 0.36 & 0.85\\
+        $\beta_{TDD14xTD}$ & 0.79 & 0.15 & 0.50 & 1.10\\
+        $\sigma_{S_{0}}$ & 0.20 & 0.04 & 0.12 & 0.29 \\
+        $\sigma_{S}$ & 0.34 & 0.03 & 0.29 & 0.39 \\
+    \bottomrule 
+    \end{tabular}
+    \caption{Table XXX. Parameter estimates for Bayesian Hierarchical Logistic Regression from Experiment 1 Data, including means, standard deviations, and $95\%$ Credible Intervals.}
+    \label{tab:e1_params}
+    \end{table}
+ \end{table}
+    
+ Inference by examining the posterior distributions of the fixed effect parameters (i.e., all $\beta$ values). 
 
 \chapter{Experiment 2: Bayesian Hierarchical Modeling of Circle Estimation Data}
 
-I analyzed the circle estimation data using the multivariate perceptual model first presented in Chapter 2. The model predicts that, for participant $i$ on trial $j$, the vector of perceived areas $\mathbf{X}_{ij}$ is sampled from a multivariate normal distribution with parameters $\mathbf{\mu}_{ij}$ and $\mathbf{\Sigma}$. That is,
-\begin{equation}
-    $\mathbf{X}_{ij} \sim \mathcal{N}(\mathbf{\mu}_{ij},\mathbf{\Sigma})$
-\end{equation}
+I analyzed the circle estimation data (Experiment 2) using the multivariate perceptual model first presented in Chapter 2. 
 
-Using Bayesian statistical modeling, I simultaneously estimated the parameters  $\mathbf{\mu$ and $\mathbf{\Sigma}$ for the model outlined in Chapter 2. Note that I allow $\mathbf{\mu}$ to vary sytematically over trials and participants, but $\Sigma$ remains constant. I estimate $\mathbf{\mu}$ using hierarchical regression while allowing the components of $\mathbf{\Sigma}$ (i.e., $\mathbf{\sigma_{T}}$, $\mathbf{\sigma_{C}}$, $\mathbf{\srigma_{D}}$, $\rho_{TD}$, $\rho_{TC}$, $\rho_{CD}$) to vary freely. 
+\section{Model Details}
 
-I estimated the model separately for the triangle and horizontal condition. I first walk through the computation of $\mathbf{\mu$}, followed by the computation $\mathbf{\Sigma}$. I also show the prior distributions on each parameter separately for each of these components, and then I explain the modeling procedure and results. Note that the model predicts mean-centered log-transformed estimated area.
+The model predicts that, for participant $i$ on trial $j$, the vector of perceived areas $\mathbf{X}_{ij}$ is sampled from a multivariate normal distribution with parameters $\boldsymbol{\mu}_{ij}$ and $\boldsymbol{\Sigma}$. That is,
+\begin{align}
+    \mathbf{X}_{ij} \sim \mathcal{N}(\boldsymbol{\mu}_{ij},\boldsymbol{\Sigma})
+\end{align}
 
-\section{$\mathbf{\mu}$ Estimation}
-I use the model to predict the mean area $\mu_{ijk}$ for the $i$th participant on the $j$th trial for the $k$th stimulus. There are $k=3$ stimuli on each trial. If $k=1$, the stimulus is the competitor; If $k=2$, the stimulus is the competitor; If $k=3$, the stimulus is the decoy. Thus, $\mathbf{\mu}$ can be broken down into $\mu_{T}_{ij}$, $\mu_{C}_{ij}$, $\mu_{D}_{ij}$,. Note that some parameters are common to all stimuli (e.g., the effects of diagonal or orientation), while others are common only to a particular option (e.g., the effect of competitor vs. decoy vs. competitor). 
+Using Bayesian statistical modeling, I simultaneously estimated the parameters  $\mathbf{\mu$ and $\boldsymbol{\Sigma}$ for the model outlined in Chapter 2. Note that I allow $\boldsymbol{\mu}$ to vary sytematically over trials and participants, but $\Sigma$ remains constant. I estimate $\boldsymbol{\mu}$ using hierarchical regression while allowing the components of $\boldsymbol{\Sigma}$ (i.e., $\mathbf{\sigma_{T}}$, $\mathbf{\sigma_{C}}$, $\mathbf{\srigma_{D}}$, $\rho_{TD}$, $\rho_{TC}$, $\rho_{CD}$) to vary freely. 
+
+I estimated the model separately for the triangle and horizontal condition. I first walk through the computation of $\mathbf{\mu$}, followed by the computation $\boldsymbol{\Sigma}$. I also show the prior distributions on each parameter separately for each of these components, and then I explain the modeling procedure and results. Note that the model predicts mean-centered log-transformed estimated area.
+
+\subsection{\texorpdfstring{$\boldsymbol{\mu}$} Parameterization}
+I use the model to predict the mean area $\mu_{ijk}$ for the $i$th participant on the $j$th trial for the $k$th stimulus. There are $k=3$ stimuli on each trial. If $k=1$, the stimulus is the competitor; If $k=2$, the stimulus is the competitor; If $k=3$, the stimulus is the decoy. Thus, $\boldsymbol{\mu}$ can be broken down into $\mu_{T}_{ij}$, $\mu_{C}_{ij}$, $\mu_{D}_{ij}$,. Note that some parameters are common to all stimuli (e.g., the effects of diagonal or orientation), while others are common only to a particular option (e.g., the effect of competitor vs. decoy vs. competitor). 
 
 $\mu_{T}_{ij}$ is computed as:
 
-\begin{equation}
-    $\mu_{T}_{ij}=(S_{0}_{i} + \beta_{0}) + \beta_{or}*or_{T}_{ij} + \beta_{diag2}*diag2_{ij}+ \beta_{diag3}*diag3_{ij} + \beta_{tdd5}*tdd5_{ij} + \beta_{tdd9}*tdd9_{ij} + \beta_{tdd14}*tdd14_{ij}$
+\begin{align}
+    \mu_{T}_{ij}=(S_{0}_{i} + \beta_{0}) + \beta_{or}*\mathrm{or}_{T}_{ij} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + \beta_{\mathrm{tdd}5}*\mathrm{tdd}5_{ij} + \beta_{\mathrm{tdd}9}*\mathrm{tdd}9_{ij} + \beta_{\mathrm{tdd}14}*\mathrm{tdd}14_{ij}
     \label{circle_mu_eqn1}
-\end{equation}
+\end{align}
 
 $S_{0}_{i}$ is a random intercept for participant $i$. $\beta_{0}$ is the fixed intercept. $\beta_{or}$ is the fixed effect of orientation, where $\or_{T}_{ij}$ is a dummy variable which $=0$ if the the competitor is taller than wide and $=1$ if the competitor is wider than tall. $\beta_{diag2}$ is the fixed effect of the middle diagonal, which $=1$ if the all stimuli on the trial fall on the middle diagonal and $=0$ otherwise. $\beta_{diag2}$ is the fixed effect of the upper diagonal, which $=1$ if all stimuli on the trial fall on the upper diagonal and $=0$ otherwise. $\beta_{tdd5}$ is the fixed effect of TDD 5, and $tdd5_{ij}$ is a dummy variable which $=1$ if $TDD=5\%$ and $=0$ otherwise. $\beta_{tdd9}$ is the fixed effect of TDD 9, and $tdd9_{ij}$ is a dummy variable which $=1$ if $TDD=9\%$ and $=0$ otherwise. $\beta_{tdd14}$ is the fixed effect of TDD 14, and $tdd14_{ij}$ is a dummy variable which $=1$ if $TDD=14\%$ and $=0$ otherwise. 
 
 $\mu_{C}_{ij}$ is computed as:
 
 \begin{align}
-    \mu_{C}_{ij}=(S_{0}_{i} + |beta_{0}) + \beta_{or}*or_{C}_{ij} + \beta_{diag2}*diag2_{ij}+ \beta_{diag3}*diag3_{ij} + \beta_{tdd5}*tdd5_{ij} + \beta_{tdd9}*tdd9_{ij} + \beta_{tdd14}*tdd14_{ij} + \beta_{comp}
-    \label{circle_mu_eqn}
+    \mu_{C}_{ij}=(S_{0}_{i} + \beta_{0}) + \beta_{\mathrm{or}}*\mathrm{or}_{C}_{ij} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + \beta_{\mathrm{tdd}5}*\mathrm{tdd}5_{ij} + \beta_{\mathrm{tdd}9}*\mathrm{tdd}9_{ij} + \beta_{\mathrm{tdd}14}*\mathrm{tdd}14_{ij} + \beta_{\mathrm{comp}}
+    \label{circle_mu_eqn2}
 \end{align}
 
 $S_{0}_{i}$ is a random intercept for participant $i$. $\beta_{0}$ is the fixed intercept. $\beta_{or}$ is the fixed effect of orientation, where $\or_{C}_{ij}$ is a dummy variable which $=0$ if the the competitor is taller than wide and $=1$ if the competitor is wider than tall. $\beta_{diag2}$ is the fixed effect of the middle diagonal, which $=1$ if the all stimuli on the trial fall on the middle diagonal and $=0$ otherwise. $\beta_{diag2}$ is the fixed effect of the upper diagonal, which $=1$ if all stimuli on the trial fall on the upper diagonal and $=0$ otherwise. $\beta_{tdd5}$ is the fixed effect of TDD 5, and $tdd5_{ij}$ is a dummy variable which $=1$ if $TDD=5\%$ and $=0$ otherwise. $\beta_{tdd9}$ is the fixed effect of TDD 9, and $tdd9_{ij}$ is a dummy variable which $=1$ if $TDD=9\%$ and $=0$ otherwise. $\beta_{tdd14}$ is the fixed effect of TDD 14, and $tdd14_{ij}$ is a dummy variable which $=1$ if $TDD=14\%$ and $=0$ otherwise. $\beta_{comp}$ is a paramter that reflects the possibility of estimation bias for the competitor.
@@ -60,8 +128,8 @@ $S_{0}_{i}$ is a random intercept for participant $i$. $\beta_{0}$ is the fixed 
 $\mu_{D}_{ij}$ is computed as:
 
 \begin{align}
-    \mu_{D}_{ij}=(S_{0}_{i} + \beta_{0}) + \beta_{or}*or_{D}_{ij} + \beta_{diag2}*diag2_{ij}+ \beta_{diag3}*diag3_{ij} + (\beta_{tdd5} + |beta_{tdd5D})*tdd5D_{ij} + (\beta_{tdd9} + |beta_{tdd9D})*tdd9D_{ij} + (\beta_{tdd14} + \beta_{tdd14D})*tdd14D_{ij}
-    \label{circle_mu_eqn}
+    \mu_{D}_{ij}=(S_{0}_{i} + \beta_{0}) + \beta_{\mathrm{or}}*\mathrm{or}_{D}_{ij} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + (\beta_{\mathrm{tdd}5} + \beta_{\mathrm{tdd}5D})*\mathrm{tdd}5D_{ij} + (\beta_{\mathrm{tdd}9} + \beta_{\mathrm{tdd}9D})*\mathrm{tdd}9D_{ij} + (\beta_{\mathrm{tdd}14} + \beta_{\mathrm{tdd}14D})*\mathrm{tdd}14D_{ij}
+    \label{circle_mu_eqn3}
 \end{align}
 
 $S_{0}_{i}$ is a random intercept for participant $i$. $\beta_{0}$ is the fixed intercept. $\beta_{or}$ is the fixed effect of orientation, where $\or_{D}_{ij}$ is a dummy variable which $=0$ if the the decoy is taller than wide and $=1$ if the decoy is wider than tall. $\beta_{diag2}$ is the fixed effect of the middle diagonal, which $=1$ if the all stimuli on the trial fall on the middle diagonal and $=0$ otherwise. $\beta_{diag2}$ is the fixed effect of the upper diagonal, which $=1$ if all stimuli on the trial fall on the upper diagonal and $=0$ otherwise. $\beta_{tdd5D}$ is the fixed effect of TDD=5, and $tdd5D_{ij}$ is a dummy variable which $=1$ if $TDD=5\%$ for the decoy and $=0$ otherwise. $\beta_{tdd9D}$ is the fixed effect of TDD 9 for the decoy, and $TDD9D_{ij}$ is a dummy variable which $=1$ if $TDD=9\%$ and $=0$ otherwise. $\beta_{TDD14D}$ is the fixed effect of TDD 14 for the decoy, and $TDD14D_{ij}$ is a dummy variable which $=1$ if $TDD=14\%$ and $=0$ otherwise. 
@@ -78,8 +146,8 @@ Note the following reference point for each variable:
 
 In other words, the $\beta_{0}$ and $S_{0}_{i}$ parameters capture the fixed and random effects, respectively, for a tall target on the lower diagonal at $2\%$ TDD, and all other parameters reflect deflections from this.
 
-\subsection{Prior Distributions}
-Below are shown the following prior distributions on each parameter relevant to $\mathbf{\mu}$:
+\subsubsection{Prior Distributions on Parameters}
+Below are shown the following prior distributions on each parameter relevant to $\boldsymbol{\mu}$:
 \begin{itemize}
     \item $\beta_{0} \sim \mathcal{N}(0,5)$
     \item $\beta_{or} \sim \mathcal{N}(0,5)$
@@ -93,14 +161,14 @@ Below are shown the following prior distributions on each parameter relevant to 
     \item $\beta_{TDD14D} \sim \mathcal{N}(0,5)$
     \item $\beta_{comp} \sim \mathcal{N}(0,5)$
     \item $S_{0}_{i} \sim \mathcal{N}(0,\sigma_{S}_{0})$
-    \item $\sigma_{S}_{0} \sim HalfCauchy(0,2.5)$
+    \item $\sigma_{S}_{0} \sim Half-Cauchy(0,2.5)$
 \end{itemize}
 
-\section{$\mathbf{\Sigma}$ Estimation}
+\section{$\boldsymbol{\Sigma}$ Parameterization}
 As discussed in Chapter 2, $\Sigma$ is a positive semi-definite 3x3 covariance matrix computed as:
 
 \begin{align}
-   \mathbf{\Sigma}=S\mathbf{\Omega}S
+   \boldsymbol{\Sigma}=S\boldsymbol{\Omega}S
    \label{eqn:Sigma}
 \end{align}
 
@@ -115,7 +183,7 @@ where $S$ is a diagonal matrix consisting of:
    \label{eqn:S}
 \end{align}
 
-and $\mathbf{\Omega}$ is a correlation matrix:
+and $\boldsymbol{\Omega}$ is a correlation matrix:
 
 \begin{align}
    \begin{pmatrix}
@@ -128,23 +196,22 @@ and $\mathbf{\Omega}$ is a correlation matrix:
 
 Estimation of $S$ is straightforward. I simply freely estimate the three standard deviation parameters $\sigma_{T}$, $\sigma_{C}$, and $\sigma_{D}$.
 
-To estimate $\mathbf{\Omega}$, I used the LKJ distribution \parencite{lewandowski2009generating} to set priors on the Cholesky factorization of a correlation matrix. This was done to ensure that the resulting covariance matrix $\mathbf{\Sigma}$ is positive semi-definite. I set priors on the entire correlation matrix $\mathbf{\Omega}$, though I perform inference on the three off-diagonal elements $\rho_{TC}$, $\rho_{TD}$, $\rho_{CD}$. 
+To estimate $\boldsymbol{\Omega}$, I used the LKJ distribution \parencite{lewandowski2009generating} to set priors on the Cholesky factorization of the correlation matrix $\Omega$. This was done to ensure that the resulting variance-covariance matrix $\boldsymbol{\Sigma}$ is positive semi-definite, a requirement of the multivariate Gaussian distribution. The critical inferences, however, are performed on the off-diagonal elements $\rho_{TC}$, $\rho_{TD}$, $\rho_{CD}$ in each display condition. I set priors on the $\sigma$ parameters using the Half-Cauchy distribution \parencite{gelman2006prior}. 
 
-\subsection{Prior Distributions}
-Below are shown the following prior distributions on each parameter relevant to $\mathbf{\Sigma}$:
+\subsubsection{Prior Distributions on Parameters}
+Below are shown the following prior distributions on each parameter relevant to $\boldsymbol{\Sigma}$.
 \begin{itemize}
-    \item $\sigma_{T} \sim HalfCauchy(0,2.5)$
-    \item $\sigma_{C} \sim HalfCauchy(0,2.5)$
-    \item $\sigma_{D} \sim HalfCauchy(0,2.5)$
-    \item $\mathbf{\Omega} \sim LKJCorr(1)$
+    \item $\sigma_{T} \sim Half-Cauchy(0,2.5)$
+    \item $\sigma_{C} \sim Half-Cauchy(0,2.5)$
+    \item $\sigma_{D} \sim Half-Cauchy(0,2.5)$
+    \item $\boldsymbol{\Omega} \sim LKJCorr(1)$
 \end{itemize}
 
 \section{Modeling Results}
 The model was implemented as a Bayesian model using the Stan programming language \parencite{carpenter2017stan} using the cmdstanr interface \parencite{cmdstanr}, which allows the R programming language to interface with the cmdstan implementation of Stan.
 
-I ran the model for 2500 iterations (not including warmup) with 4 chains for each display condition. Posterior diagnostics indicated that the sampler converged.
+I ran the model for 2500 iterations (not including warm-up) with 4 chains for each display condition. Posterior diagnostics indicated that the sampler converged.
 
-Below I show parameter estimates for each display condition and relevant parameter. I exclude the estimates of the participant effects $\S_{0}$ for brevity.
+Below I show parameter estimates for each display condition and relevant parameter. I exclude the estimates of the participant effects $S_{0}$ for brevity.
 
-XXX INCLUDE parameters
 

@@ -87,11 +87,13 @@
 %% umassthesis changes the default font size to 12pt, but you may specify 10pt or
 %%   11pt in the options.
 \documentclass{umassthesis}          % for Ph.D. dissertation or proposal
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{amsmath}
 \usepackage[hidelinks]{hyperref}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{multirow}
-\usepackage{amsmath}
 \usepackage{soul}
 
 \usepackage[style=apa, backend=biber]{biblatex}
@@ -232,9 +234,9 @@ Thank you to...
 \label{chapter_2}
 \input{chapter2.tex}
 
-%\chapter{Extending a Perceptual Model to Best-Worst Choice}
-%\label{chapter_3}
-%\input{chapter3.tex}
+\chapter{Extending a Perceptual Model to Best-Worst Choice}
+\label{chapter_3}
+\input{chapter3.tex}
 
 %\chapter{Valuations and Correlations in Preferential Choice}
 %\label{chapter_4}
@@ -251,8 +253,8 @@ Thank you to...
 %% End of body
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\appendix
-%\input{appendix.tex}
+% \appendix
+% \input{appendix.tex}
 
 
 %%

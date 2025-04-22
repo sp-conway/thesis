@@ -1,65 +1,65 @@
-\subsection{Introduction}
+\section{Introduction}
 
-I now introduce the model I explore throughout the dissertation.  This model is simplistic, as it treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual, rather than decision tasks. This also completely eschews the possibility of higher level decision processes. I use this model to understand the extent to which. My model treats value (perceived area) as stochastic and choice as deterministic. In the current modeling framework, I do not treat height and width as independent attributes but rather consider perceived area to be unidimensional. In my model, I consider a perceptual choice experiment, where participants are presented with 3 perceptual stimuli on each trial. I asssume that on each trial $i$ with choice set $K$, The perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\mathbf{\mu}$ and variance-covariance matrix $\mathbf{\Sigma}$:
+I now introduce the model I explore throughout the dissertation.  This model is simplistic, as it treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual, rather than decision tasks. This also completely eschews the possibility of higher level decision processes. I use this model to understand the extent to which. My model treats value (perceived area) as stochastic and choice as deterministic. In the current modeling framework, I do not treat height and width as independent attributes but rather consider perceived area to be unidimensional. In my model, I consider a perceptual choice experiment, where participants are presented with 3 perceptual stimuli on each trial. I assume that on each trial $i$ with choice set $K$, The perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\boldsymbol{\mu}$ and variance-covariance matrix $\boldsymbol{\Sigma}$:
 
-\begin{equation}
-   \mathbf{X_{i}}\sim\mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})
+\begin{align}
+   \mathbf{X}_{i} \sim \mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\Sigma})
    \label{eqn:mvnorm}
-\end{equation}
+\end{align}
 
-where $\mathbf{\mu}$ is a column vector consisting of:
-\begin{equation}
+where $\boldsymbol{\mu}$ is a column vector consisting of:
+\begin{align}
    \begin{pmatrix}
       \mu_{T} \\
       \mu_{C} \\
       \mu_{D}
       \end{pmatrix}
    \label{eqn:mu}
-\end{equation}
+\end{align}
 
-where the subscripts $T$, $C$, and $D$ indicate target, decoy, and competitor, respectively, and $\mathbf{\Sigma}$ is a positive semi-definite 3x3 covariance matrix computed as:
+where the subscripts $T$, $C$, and $D$ indicate target, decoy, and competitor, respectively, and $\boldsymbol{\Sigma}$ is a positive semi-definite 3 x 3 covariance matrix computed as:
 
-\begin{equation}
-   \mathbf{\Sigma}=S\mathbf{\Omega}S
+\begin{align}
+   \boldsymbol{\Sigma}=S\boldsymbol{\Omega}S
    \label{eqn:Sigma}
-\end{equation}
+\end{align}
 
 where $S$ is a diagonal matrix consisting of: 
 
-\begin{equation}
+\begin{align}
    \begin{pmatrix}
       \sigma_{T} & 0 & 0 \\
       0 & \sigma_{C} & 0 \\
-      0 & 0 & \sigma_{D} \\
+      0 & 0 & \sigma_{D} 
    \end{pmatrix}
 \label{eqn:S}
-\end{equation}
+\end{align}
 
 
-and $\mathbf{\Omega}$ is a correlation matrix:
+and $\boldsymbol{\Omega}$ is a correlation matrix:
 
-\begin{equation}
+\begin{align}
    \begin{pmatrix}
       1 & \rho_{TC} & \rho_{TD} \\
       \rho_{TC} & 1 & \rho_{CD} \\
-      \rho_{TD} & \rho_{CD} & 1 \\
+      \rho_{TD} & \rho_{CD} & 1 
    \end{pmatrix}
 \label{eqn:O}
-\end{equation}
+\end{align}
 with $\rho_{TD}$, for example, indicating the population-level correlation between target and decoy stimuli.
 
-As mentioned above, the model assumes that value is stochastic while choice is deterministic\footnote{This also assumes ties are not possible, which is true if and only if perceived area is absolutely continuous.}. The model always "selects" the option perceived the largest, regardless of the magnitude of the difference between the "winner" and "runners-up". That is, given a vector $X_{i}$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $i$ is:
+As mentioned above, the model assumes that value is stochastic while choice is deterministic\footnote{This also assumes ties are not possible, which is true if and only if perceived area is absolutely continuous.}. The model always "selects" the option perceived the largest, regardless of the magnitude of the difference between the "winner" and "runners-up". That is, given a vector $\mathbf{X}_i$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $i$ is:
 
-\begin{equation}
-   P(i|K)=P(X_{i}>X_{j}, j \in K, i \neq j)
+\begin{align}
+   P(i|K)=P(\mathbf{X}_{i}>\mathbf{X}_{j}, j \in K, i \neq j)
    \label{eqn:pchoice}
-\end{equation}
+\end{align}
 
-If all off-diagonal elements of $\mathbf{\Omega}$ are $0$, the model collapses to the standard Thurstonian Case CHECK CASE XX \parencite{thurstone1927law} often used by cognitive psychology researchers. Models of this form have closed form solutions and their predictions are easy to compute.
+If all off-diagonal elements of $\boldsymbol{\Omega}$ are $0$, the model collapses to the standard Thurstonian Case CHECK CASE XX \parencite{thurstone1927law} often used by cognitive psychology researchers. Models of this form have closed form solutions and their predictions are easy to compute.
 
-On the other hand, if any elements of $\mathbf{\Omega}$ are non-zero, the closed form solution of this model does not exist, and to compute predictions and estimate model parameters, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. In all applications of these model through this dissertation, I use simulation to generate model predictions. 
+On the other hand, if any elements of $\boldsymbol{\Omega}$ are non-zero, the closed form solution of this model does not exist, and to compute predictions and estimate model parameters, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. In all applications of these model through this dissertation, I use simulation to generate model predictions. 
 
-This model is capable of generating a(n) attraction (repulsion) effect by assuming $\mu_{T}>\mu_{C}$ ($\mu_{C}>\mu_{T}$), i.e., that on average target and competitor stimuli differ inherently in their perceived areas.
+This model is capable of generating a(n) attraction (repulsion) effect by assuming $\mu_{T}>\mu_{C}$ ($\mu_{C}>\mu_{T}$), i.e., that on average target and competitor stimuli differ inherently in their perceived areas. This, however, is an ad hoc assumption that may describe the data well but will generate limited theoretical insight. Moreover, I wil later present empirical data in this dissertation that, generally speaking, $\mu_{T}=\mu_{C}$. 
 
 I now consider the role of perceptual correlations between all pairs of stimuli, i.e., $\rho_{TC}$, $\rho_{TD}$, and $\rho_{CD}$. I vary both $\rho_{TD}$ and $\rho_{TC}$ from -1 to 1; in other words, all rectangles oriented the same way share one correlation and those oriented differently share another correlation. I show model predictions that result from varying these correlations in Figure \ref{fig:3d_model}. Here, I assume that $\mu_{T}=\mu_{C}>\mu_{D}$ and that $\sigma_{T}=\sigma_{C}=\sigma_{D}$\footnote{In Experiment 2 I present evidence supporting the former assumption. I also relax the latter assumption when modeling Experiment 2}. 
 
@@ -80,9 +80,9 @@ I propose that these perceptual correlations may be driving the repulsion effect
 
 Modern psychological models of context effects often assume an attribute-wise comparison process \parencite{roeMultialternativeDecisionField2001a,trueblood2013not,usherLossAversionInhibition2004a,bhatiaAssociationsAccumulationPreference2013b}. Under this class of models, participants arrive at a decision by comparing pairs of options on a single attribute, where the modeller assumes attribute values are veridical. This assumption is quite reasonable when modeling choices where each attribute is presented separately and discriminability issues are minimal or non-existent. In this article, I present evidence that this assumption may not be appropriate. ELABORATE HERE
 
-In Experiment 1, I first present results from a two-alternative forced-choice experiment to show that these stimuli are easily confusable and that the triangle display of \textcite{spektorWhenGoodLooks2018b} decreases discriminability relative to the triangle display. I also show that, consistent with the predictions of a perceptual model where $\rho_{TD}>\rho_{TC}>\rho_{CD}$, target-decoy discriminability is in fact \textit{easier} than competitor-decoy discriminability and that target-decoy discriminability increases with TDD. 
+In Experiment 1, I first present results from a two-alternative forced-choice experiment to show that these stimuli are easily confusable and that the triangle display of \textcite{spektorWhenGoodLooks2018b} decreases discriminability relative to the horizontal display. I also show that, consistent with the predictions of a perceptual model where $\rho_{TD}>\rho_{TC}>\rho_{CD}$, target-decoy discriminability is in fact \textit{easier} than competitor-decoy discriminability and that target-decoy discriminability increases with TDD. 
 
-In Experiment 2, I combined a psychophysics task with a choice task to estimate the parameters of my perceptual model. In the first phase of the experiment, participants estimate the size of target, decoy, and competitor rectangles on each trial. In the second phase of the experiment, I conducted a standard choice experiment, replicating \textcite{spektorWhenGoodLooks2018b}'s results. I use the data from the first phase of Experiment 2 to obtain stable estimates of  $\mathbf{\mu}$ and $\mathbf{\Sigma}$ in my perceptual model. Finally, I show that the model, conditioned on the observed parameter estimates, naturally predicts a repulsion effect but not an attraction effect.  
+In Experiment 2, I combined a psychophysics task with a choice task to estimate the parameters of my perceptual model. In the first phase of the experiment, participants estimate the size of target, decoy, and competitor rectangles on each trial. In the second phase of the experiment, I conducted a standard choice experiment, replicating \textcite{spektorWhenGoodLooks2018b}'s results. I use the data from the first phase of Experiment 2 to obtain stable estimates of  $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ in my perceptual model. Finally, I show that the model, conditioned on the observed parameter estimates, naturally predicts a repulsion effect but not an attraction effect.  
 
 \section{Experiment 1}
 
@@ -123,7 +123,7 @@ The primary analysis was performed on the target-decoy and competitor-decoy tria
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/m13_model_preds_v_data.jpeg}
-   \caption{Experiment 1, mean choice proportions by stimulus display, TDD, and comparison. td=target-decoy trials, dc=competitor-decoy trials. Model predictions come from the Bayesian hierarchical logistic regression presented in Appendix XXX. Error bars are $95\%$ HDIs on the mean.}
+   \caption{Experiment 1, mean choice proportions by stimulus display, TDD, and comparison. td=target-decoy trials, dc=competitor-decoy trials. Model predictions come from the Bayesian hierarchical logistic regression presented in Appendix. Error bars are $95\%$ HDIs on the mean.}
    \label{fig:e1_data}
 \end{figure}
 
@@ -135,27 +135,27 @@ These results, in fact, are natually predicted by a model where $\rho_{TD}>\rho_
 \section{Experiment 2}
 I continue this line of research in Experiment 2, where I used a psychophysics task to estimate the mean perceived area and correlations between perceived area to the target, competitor, and decoy rectangles. Experiment 2 used the \textit{method of cross-modal matching} \parencite{stevensCrossmodalityMatchingBrightness1965}, where participants adjusted the size of a circle to match the perceived area for each rectangle. On each trial, participants saw three rectangles and three circles, each labeled 1, 2, and 3. Participants adjusted the size of the circle corresponding to each rectangle, until they believed the two to have equal area. I also replicate \textcite{spektorWhenGoodLooks2018b}'s choice data in a second phase of the experiment. Finally, I used a between-subjects manipulation to display the rectangle stimuli in either the horizontal or triangle displays of \textcite{spektorWhenGoodLooks2018b}.
 
-\subsubsection{Methods}
-\subsubsubsection{Participants.}
+\subsection{Methods}
+\subsubsection{Participants.}
 Data collection took place at the University of Massachusetts Amherst. 521 undergraduate students participated in exchange for course credit. 68 participants did not complete the full experiment within the 1 hour time limit and were removed from all analyses. 
 
-\subsubsubsection{Stimuli.}
-In the circle adjustment phase there were three types of trials: critical trials, filler trials, and catch trials. On each critical trial, the target and competitor had the same area but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. I varied TDD at $2\%$, $5\%$, $9\%$, and $14\%$. I also varied the target, competitor, and decoy stimuli to fall on three diagonals. In pixels, the small and larger focal stimulus dimension values on the lower, middle, and upper diagonals were $[60, 135]$, $[90, 165]$, and $[120,195]$. I reduced the absolute size of the target/competitor stimuli from Experiment 1 to Experiment 2 to accomodate the circle adjustment phase (see procedure  below).
+\subsubsection{Stimuli.}
+In the circle adjustment phase there were three types of trials: critical trials, filler trials, and catch trials. On each critical trial, the target and competitor had the same area but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. I varied TDD from $2\%$, $5\%$, $9\%$, and $14\%$. I also varied the target, competitor, and decoy stimuli to fall on three diagonals. In pixels, the small and larger focal stimulus dimension values on the lower, middle, and upper diagonals were $[60, 135]$, $[90, 165]$, and $[120,195]$. I reduced the absolute size of the target/competitor stimuli from Experiment 1 to Experiment 2 to accomodate the circle adjustment phase (see procedure  below).
 
 On filler trials, I randomly sampled three rectangles by sampling a height and width from the distribution $U(56,195)$, encompassing the full range of stimuli from the critical trials.
 
-On the catch trials, I randomly sampled one rectangle from the lower diagonal and two from the upper diagonal, so one stimulus was clearly larger than the other two.
+On the catch trials, I randomly sampled one rectangle from the lower diagonal and two from the upper diagonal, such that one stimulus was clearly larger than the other two stimuli.
 
 The choice phase had identical trial types with the exception that there were no catch trials, only critical and filler trials.
 
-\subsubsubsection{Design.}
+\subsubsection{Design.}
 Across both phases, I varied display condition between-subjects and TDD, diagonal, target-decoy orientation within-subjects. After removing subjects, there were 218 participants in the horizontal display condition and 225 participants in the triangle display condition. 
 
 In the circle adjustment phase, there were 4 blocks, each 40 trials. Each block consisted of 24 critical trials, 14 filler trials, and 2 catch trials. Within the critical trials, there were 6 trials at each level of TDD. In 3 of these 6 trials the target and decoy were oriented wide (choice set $[w,h,d_{w}]$), and in the other 3 target and decoy were oriented tall (choice set $[w,h,d_{h}]$). 
 
 In the choice phase, there were 4 blocks, each with 34 trials. 24 of these trials were critical trials and 10 were filler trials. Of these 24 critical trials, there were 6 trials at each level of TDD. Within each 6, there were 3 trials where target and decoy were oriented wide and 3 were target and decoy were oriented tall. 
 
-\subsubsubsection{Procedure.}
+\subsubsection{Procedure.}
 
 The experiment took place in two phases: 
 
@@ -179,8 +179,8 @@ Stimuli were presented on computer monitors with a resolution of 1920 x 1080 pix
    \label{fig:circle_exp_display}
 \end{figure}
 
-\subsubsection{Results}
-\subsubsubsection{Data Processing}
+\subsection{Results}
+\subsubsection{Data Processing}
 Given the difficulty of the circle adjustment task, the data required processing to ensure that outlier trials and participants did not influence our estimates of $\mathbf{Omega}$.
 
 First, I removed all participants who did not give correct responses on $75\%$ ($6/8)$ of the catch trials. A correct response entails estimating the larger rectangle to be the largest on the trial. 10 participants were removed from all analyses after they failed to achieve at least $75\%$ correct on catch trials (see below for details). This left a total of 443 participants.
@@ -197,7 +197,7 @@ After all circle phase data processing, I were left with $20371$ trials in the t
 
 For the choice phase, I only retained participants whose data I retained in the circle phase.
 
-\subsubsubsection{Circle Phase Results - Critical Trials}
+\subsubsection{Circle Phase Results - Critical Trials}
 Before modeling our data, I wanted to ensure that participants could successfully perform the task. While I do not expect perfect performance in an absolute sense, I do require adequate relative performance. 
 
 To assess performance on the critical trials, I computed the mean difference between actual log area and estimated log area for each subject, stimulus pair (i.e., target-competitor, target-decoy, competitor-decoy), and actual difference. I plot these via a set of boxplots in Figure \ref{fig:circle_boxplots}. Although participants vary considerably in their judgments, I find that on average, participants' adjusted circle areas increase with the absolute size of rectangles. 
@@ -217,31 +217,31 @@ I next present scatterplots of all pairwise circle areas from each trial, see Fi
    \label{fig:raw_cors}
 \end{figure}
 
-Computing raw correlations, without accounting for subject and trial-level differences, will grossly inflate the size of these correlations. Moreover, any differences between, say, $\rho_{TD}$ and $\rho_{CD}$ are bound to be small. I used Bayesian hierarchical modeling to estimate the parameters of a multivariate normal distribution (as outlined in the introduction), with parameters $\mathbf{\mu}$ and $\mathbf{\sigma}$. I present the details of the model in Appendix XXX but present the main results below.
+Computing raw correlations, without accounting for subject and trial-level differences, will grossly inflate the size of these correlations. Moreover, any differences between, say, $\rho_{TD}$ and $\rho_{CD}$ are bound to be small. I used Bayesian hierarchical modeling to estimate the parameters of a multivariate normal distribution (as outlined in the introduction), with parameters $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$. I present the details of the model in Appendix XXX but present the main results below.
 
-I assume that, for participant $i$, on each critical trial $j$, the perceived target, competitor, and decoy areas $X_{i}$ are sampled from a multivariate normal distribution with mean vector $\mathbf{\mu_{ij}$ and variance-covariance matrix $\mathbf{\Sigma}$. 
+I assume that, for participant $i$, on each critical trial $j$, the perceived target, competitor, and decoy areas $\mathbf{X}_i$ are sampled from a multivariate normal distribution with mean vector $\boldsymbol{\mu_{ij}}$ and variance-covariance matrix $\boldsymbol{\Sigma}$. 
 
-As discussed in the Introduction, I decompose sigma into the $S\mathbf{\Omega}S$, where the diagonal elements of $S$ are population standard deviations and the off diagonal elements are $0$. $\mathbf{\Omega}$ is $3x3$ correlation matrix.  
+As discussed in the Introduction, I decompose sigma into the $S\boldsymbol{\Omega}S$, where the diagonal elements of $S$ are population standard deviations and the off diagonal elements are $0$. $\boldsymbol{\Omega}$ is 3 x 3 correlation matrix.  
 
-I focus on our estimates of $\mathbf{\mu}$ and $\mathbf{\Omega}$ in the main text and discuss the details of the modeling, along with $\S$ estimates, in Appendix XXX. 
+I focus on the estimates of $\boldsymbol{\mu}$ and $\boldsymbol{\Omega}$ in the main text and discuss the details of the modeling, along with $\S$ estimates, in Appendix XXX. 
 
-I show mean estimates of $\mathbf{\mu}$ in Figure \ref{fig:e2mu} and show estimates of $\mathbf{\Omega}$ in Figure \ref{fig:omega}. In both conditions, $\rho_{TD}$ is larger than both $\rho_{CD}$ and $\rho_{TC}$, while $\rho_{CD}$ and $\rho_{TC}$ do not differ from each other. 
+I show mean estimates of $\boldsymbol{\mu}$ in Figure~\ref{fig:e2mu} and show estimates of $\boldsymbol{\Omega}$ in Figure~\ref{fig:omega}. In both conditions, $\rho_{TD}$ is larger than both $\rho_{CD}$ and $\rho_{TC}$, while $\rho_{CD}$ and $\rho_{TC}$ do not differ from each other. 
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg}
-   \caption{$\mathbf{\mu}$ estimates from Experiment 2.}
+   \caption{$\boldsymbol{\mu}$ estimates from Experiment 2.}
    \label{fig:e2mu}
 \end{figure}
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg}
-   \caption{Posterior estimate of $\mathbf{\Omega}$ (off-diagonal parameters) across display conditions. Lines show $95\%$ HDIs.  Dots indicate means.}
+   \caption{Posterior estimate of $\boldsymbol{\Omega}$ (off-diagonal parameters) across display conditions. Lines show $95\%$ HDIs.  Dots indicate means.}
    \label{fig:omega}
 \end{figure}
 
-\subsubsubsection{Choice Results}
+\subsubsection{Choice Results}
 
-I present mean choice proportions across display conditions and TDD in figure \ref{fig:e2_choiceprops}. I replicate the qualitative results of \textcite{spektorWhenGoodLooks2018b}. At low levels of TDD, I find a repulsion effect in both display conditions. At higher levels of TDD, I either find a null effect (triangle condition) or an attraction effect (horizontal condition). 
+I present mean choice proportions across display conditions and TDD in Figure~\ref{fig:e2_choiceprops}. I replicate the qualitative results of \textcite{spektorWhenGoodLooks2018b}. At low levels of TDD, I find a repulsion effect in both display conditions. At higher levels of TDD, I either find a null effect (triangle condition) or an attraction effect (horizontal condition). 
 
 To ensure that this result is not an artifact of averaging across choice sets, I present mean changes in choice proportion for the options $w$ and $h$ across the two choice sets $[w,h,d_{w}]$ and $[w,h,d_{h}]$ (see \ref{fig:e2_choicedeltas}). These results also show that low levels of TDD create a repulsion effect, while higher levels create a null or attraction effect. See Appendix XXX for inferential statistics that support these conclusions.
 
@@ -257,10 +257,10 @@ To ensure that this result is not an artifact of averaging across choice sets, I
    \label{e2_choicedeltas}
 \end{figure}
 
-\subsubsubsection{Model Simulations}
+\subsection{Model Simulations}
 After estimating the parameters of the perceptual model and analyzing the choice data, I sought to test whether the model can predict the choice data. Though I showed in the introduction that this is possible, it was an open question whether the parameters estimated from actual data would produce qualitatively interesting predictions.
 
-I used mean estimates of $\mathbf{\mu}$ and $\mathbf{\Sigma}$ (see Appendix XXX) to generate predictions at each level of TDD in both display conditions. I present the predictions in Figure \ref{fig:e2_model_preds}. 
+I used mean estimates of $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ (see Appendix XXX) to generate predictions at each level of TDD in both display conditions. I present the predictions in Figure \ref{fig:e2_model_preds}. 
 
 Given the estimated parameters, the model is able to produce a repulsion effect, but not an attraction effect. This aligns with our predictions from the introduction; the repulsion effect, at least in some forms, can be generated by a higher correlation between target and decoy stimuli compared to target-competitor and competitor-decoy pairs.
 
