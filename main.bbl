@@ -986,6 +986,65 @@
       \verb http://link.springer.com/10.1007/s42113-020-00078-8
       \endverb
     \endentry
+    \entry{changWhichCompromiseOption2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=052643919c46dca9c6d860e93c4f507c}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chung‐Chau},
+           giveni={C\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=643853b8aa3e7afe572a1429ccb18c92}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hsin‐Hsien},
+           giveni={H\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{fullhash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{bibnamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authorbibnamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authornamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authorfullhash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{When consumers must make a decision but are uncertain of their preferences, they often select a compromise choice. Early studies emphasized the relational properties of choice alternatives and indicated that the middle option, whose attribute values fall between the values of other alternatives, is always the compromise option. More recent studies have suggested that when consumers rate two attributes with the same metrics, the attribute–balance choice whose two attributes have equal ratings, might represent the compromise choice. We propose that the different characteristics of the middle and attribute–balance options—which may be compatible with certain determinants such as information and task formats—might be more salient and affect the relative attractiveness of each option. The results of three experiments conﬁrmed this prediction: the middle option was more attractive in list-by-attributes and rejecting conditions, whereas the attribute–balance option was more attractive in list-by-alternatives and choosing conditions. Copyright \# 2007 John Wiley \& Sons, Ltd.}
+      \field{issn}{0894-3257, 1099-0771}
+      \field{journaltitle}{Journal of Behavioral Decision Making}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Which is the compromise option?}
+      \field{title}{Which is the compromise option? {Information} format and task format as determinants}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{21}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{59\bibrangedash 75}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/bdm.574
+      \endverb
+      \verb{file}
+      \verb Chang_Liu_2008.pdf:/Users/seanconway/Reading/Papers/Chang_Liu_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
+      \endverb
+    \endentry
     \entry{cheung2016using}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
@@ -1830,6 +1889,54 @@
       \field{pages}{236\bibrangedash 252}
       \range{pages}{17}
     \endentry
+    \entry{hasan2025registered}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=157b27b4995ee42f9242dcf699c01e28}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Eeshan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3296b4a89287bd4fec55f6b394a6580}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yanjun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad123550844fdfb147896e3597a80abf}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ac8a31e7cb81d415f53f2456085c809}
+      \strng{fullhash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{bibnamehash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{authorbibnamehash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{authornamehash}{0ac8a31e7cb81d415f53f2456085c809}
+      \strng{authorfullhash}{5ae0edb57b14e057852e769f14b07044}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Judgment and Decision Making}
+      \field{number}{e6}
+      \field{title}{A registered report on presentation factors that influence the attraction effect}
+      \field{volume}{20}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
     \entry{hausman1984specification}{article}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=6b05590b027efa53665c79a23d66dacf}{%
@@ -2653,10 +2760,8 @@
       \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
       \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
       \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -2681,66 +2786,6 @@
       \endverb
       \verb{file}
       \verb Marley_Louvierre_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louvierre_2005.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
-      \endverb
-    \endentry
-    \entry{marleyProbabilisticModelsBest2005a}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
-           family={Marley},
-           familyi={M\bibinitperiod},
-           given={A.A.J.},
-           giveni={A\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
-           family={Louviere},
-           familyi={L\bibinitperiod},
-           given={J.J.},
-           giveni={J\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \field{extraname}{2}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
-      \field{issn}{00222496}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{month}{12}
-      \field{number}{6}
-      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
-      \field{urlday}{11}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
-      \field{volume}{49}
-      \field{year}{2005}
-      \field{urldateera}{ce}
-      \field{pages}{464\bibrangedash 480}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1016/j.jmp.2005.05.003
-      \endverb
-      \verb{file}
-      \verb Marley_Louviere_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louviere_2005.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
@@ -2871,6 +2916,34 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
       \endverb
     \endentry
+    \entry{martin2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48034aa583703422ccd846b19d175ed5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{fullhash}{48034aa583703422ccd846b19d175ed5}
+      \strng{bibnamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authorbibnamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authornamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authorfullhash}{48034aa583703422ccd846b19d175ed5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/}}
+      \field{month}{4}
+      \field{note}{Blog post}
+      \field{title}{Informative priors for correlation matrices: An easy approach}
+      \field{year}{2021}
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -2902,6 +2975,53 @@
       \field{volume}{91}
       \field{year}{2001}
       \field{pages}{351\bibrangedash 378}
+      \range{pages}{28}
+    \endentry
+    \entry{merkle2023opaque}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=01403a2f502c0cc8065ef8b146c0e565}{%
+           family={Merkle},
+           familyi={M\bibinitperiod},
+           given={Edgar\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be3614d52d63ab83599871511071b26}{%
+           family={Ariyo},
+           familyi={A\bibinitperiod},
+           given={Oludare},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8109f9bba2b4245bf74e9ce0e4df3db8}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Sonja\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06242224f9878d11ed369a302bdb2399}{%
+           family={Garnier-Villarreal},
+           familyi={G\bibinithyphendelim V\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3738fc4314dfbc86557f1f4b21aad9b}
+      \strng{fullhash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{bibnamehash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{authorbibnamehash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{authornamehash}{f3738fc4314dfbc86557f1f4b21aad9b}
+      \strng{authorfullhash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methodology}
+      \field{title}{Opaque prior distributions in Bayesian latent variable models}
+      \field{volume}{19}
+      \field{year}{2023}
+      \field{pages}{228\bibrangedash 255}
       \range{pages}{28}
     \endentry
     \entry{miller2011should}{article}{}
@@ -3109,6 +3229,39 @@
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
     \endentry
+    \entry{natenzon2019random}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=279248070b550e2c49e1a70e51194c69}{%
+           family={Natenzon},
+           familyi={N\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{fullhash}{279248070b550e2c49e1a70e51194c69}
+      \strng{bibnamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authorbibnamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authornamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authorfullhash}{279248070b550e2c49e1a70e51194c69}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{1}
+      \field{title}{Random choice and learning}
+      \field{volume}{127}
+      \field{year}{2019}
+      \field{pages}{419\bibrangedash 457}
+      \range{pages}{39}
+    \endentry
     \entry{newell2008dimensions}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
@@ -3148,6 +3301,46 @@
       \field{pages}{285\bibrangedash 290}
       \range{pages}{6}
     \endentry
+    \entry{noguchi2014attraction}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{fullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{bibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{1}
+      \field{title}{In the attraction, compromise, and similarity effects, alternatives are repeatedly compared in pairs on single dimensions}
+      \field{volume}{132}
+      \field{year}{2014}
+      \field{pages}{44\bibrangedash 56}
+      \range{pages}{13}
+    \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -3172,6 +3365,7 @@
       \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
       \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
       \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -5821,6 +6015,65 @@
       \verb http://link.springer.com/10.1007/s42113-020-00078-8
       \endverb
     \endentry
+    \entry{changWhichCompromiseOption2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=052643919c46dca9c6d860e93c4f507c}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chung‐Chau},
+           giveni={C\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=643853b8aa3e7afe572a1429ccb18c92}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hsin‐Hsien},
+           giveni={H\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{fullhash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{bibnamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authorbibnamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authornamehash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \strng{authorfullhash}{37ce1b3a3a60bbca27d29142568bb4a3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{When consumers must make a decision but are uncertain of their preferences, they often select a compromise choice. Early studies emphasized the relational properties of choice alternatives and indicated that the middle option, whose attribute values fall between the values of other alternatives, is always the compromise option. More recent studies have suggested that when consumers rate two attributes with the same metrics, the attribute–balance choice whose two attributes have equal ratings, might represent the compromise choice. We propose that the different characteristics of the middle and attribute–balance options—which may be compatible with certain determinants such as information and task formats—might be more salient and affect the relative attractiveness of each option. The results of three experiments conﬁrmed this prediction: the middle option was more attractive in list-by-attributes and rejecting conditions, whereas the attribute–balance option was more attractive in list-by-alternatives and choosing conditions. Copyright \# 2007 John Wiley \& Sons, Ltd.}
+      \field{issn}{0894-3257, 1099-0771}
+      \field{journaltitle}{Journal of Behavioral Decision Making}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Which is the compromise option?}
+      \field{title}{Which is the compromise option? {Information} format and task format as determinants}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{21}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{59\bibrangedash 75}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/bdm.574
+      \endverb
+      \verb{file}
+      \verb Chang_Liu_2008.pdf:/Users/seanconway/Reading/Papers/Chang_Liu_2008.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
+      \endverb
+    \endentry
     \entry{cheung2016using}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
@@ -6664,6 +6917,54 @@
       \field{year}{1998}
       \field{pages}{236\bibrangedash 252}
       \range{pages}{17}
+    \endentry
+    \entry{hasan2025registered}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=157b27b4995ee42f9242dcf699c01e28}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Eeshan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3296b4a89287bd4fec55f6b394a6580}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yanjun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad123550844fdfb147896e3597a80abf}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
+           family={Trueblood},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ac8a31e7cb81d415f53f2456085c809}
+      \strng{fullhash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{bibnamehash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{authorbibnamehash}{5ae0edb57b14e057852e769f14b07044}
+      \strng{authornamehash}{0ac8a31e7cb81d415f53f2456085c809}
+      \strng{authorfullhash}{5ae0edb57b14e057852e769f14b07044}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Judgment and Decision Making}
+      \field{number}{e6}
+      \field{title}{A registered report on presentation factors that influence the attraction effect}
+      \field{volume}{20}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
     \endentry
     \entry{hausman1984specification}{article}{}
       \name{author}{2}{}{%
@@ -7552,10 +7853,8 @@
       \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
       \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
       \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -7580,66 +7879,6 @@
       \endverb
       \verb{file}
       \verb Marley_Louvierre_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louvierre_2005.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
-      \endverb
-    \endentry
-    \entry{marleyProbabilisticModelsBest2005a}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
-           family={Marley},
-           familyi={M\bibinitperiod},
-           given={A.A.J.},
-           giveni={A\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=43c6634b1d38bb5e46692c26bf297249}{%
-           family={Louviere},
-           familyi={L\bibinitperiod},
-           given={J.J.},
-           giveni={J\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{fullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{bibnamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authorbibnamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authornamehash}{32b43c688bf57f5b352598621fb5e80b}
-      \strng{authorfullhash}{32b43c688bf57f5b352598621fb5e80b}
-      \field{extraname}{2}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Over the past decade or so, a choice design in which a person is asked to select both the best and the worst option in an available set of options has been gaining favor over more traditional designs, such as where the person is asked, for instance, to: select the best option; select the worst option; rank the options; or rate the options. In this paper, we develop theoretical results for three overlapping classes of probabilistic models for best, worst, and best–worst choices, with the models in each class proposing speciﬁc ways in which such choices might be related. The models in these three classes are called random ranking and random utility, joint and sequential, and ratio scale. We include some models that belong to more than one class, with the best known being the maximum-difference (maxdiff) model, summarize estimation issues related to the models, and formulate a number of open theoretical problems.}
-      \field{issn}{00222496}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{month}{12}
-      \field{number}{6}
-      \field{title}{Some probabilistic models of best, worst, and best–worst choices}
-      \field{urlday}{11}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
-      \field{volume}{49}
-      \field{year}{2005}
-      \field{urldateera}{ce}
-      \field{pages}{464\bibrangedash 480}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1016/j.jmp.2005.05.003
-      \endverb
-      \verb{file}
-      \verb Marley_Louviere_2005.pdf:/Users/seanconway/Reading/Papers/Marley_Louviere_2005.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249605000441
@@ -7706,6 +7945,34 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
       \endverb
     \endentry
+    \entry{martin2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48034aa583703422ccd846b19d175ed5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{fullhash}{48034aa583703422ccd846b19d175ed5}
+      \strng{bibnamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authorbibnamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authornamehash}{48034aa583703422ccd846b19d175ed5}
+      \strng{authorfullhash}{48034aa583703422ccd846b19d175ed5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/}}
+      \field{month}{4}
+      \field{note}{Blog post}
+      \field{title}{Informative priors for correlation matrices: An easy approach}
+      \field{year}{2021}
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -7737,6 +8004,53 @@
       \field{volume}{91}
       \field{year}{2001}
       \field{pages}{351\bibrangedash 378}
+      \range{pages}{28}
+    \endentry
+    \entry{merkle2023opaque}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=01403a2f502c0cc8065ef8b146c0e565}{%
+           family={Merkle},
+           familyi={M\bibinitperiod},
+           given={Edgar\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be3614d52d63ab83599871511071b26}{%
+           family={Ariyo},
+           familyi={A\bibinitperiod},
+           given={Oludare},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8109f9bba2b4245bf74e9ce0e4df3db8}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Sonja\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06242224f9878d11ed369a302bdb2399}{%
+           family={Garnier-Villarreal},
+           familyi={G\bibinithyphendelim V\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3738fc4314dfbc86557f1f4b21aad9b}
+      \strng{fullhash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{bibnamehash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{authorbibnamehash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \strng{authornamehash}{f3738fc4314dfbc86557f1f4b21aad9b}
+      \strng{authorfullhash}{e7e7a61ce8dd47d942f5785cd5f0c23b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methodology}
+      \field{title}{Opaque prior distributions in Bayesian latent variable models}
+      \field{volume}{19}
+      \field{year}{2023}
+      \field{pages}{228\bibrangedash 255}
       \range{pages}{28}
     \endentry
     \entry{miller2011should}{article}{}
@@ -7944,6 +8258,39 @@
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
     \endentry
+    \entry{natenzon2019random}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=279248070b550e2c49e1a70e51194c69}{%
+           family={Natenzon},
+           familyi={N\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{fullhash}{279248070b550e2c49e1a70e51194c69}
+      \strng{bibnamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authorbibnamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authornamehash}{279248070b550e2c49e1a70e51194c69}
+      \strng{authorfullhash}{279248070b550e2c49e1a70e51194c69}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{1}
+      \field{title}{Random choice and learning}
+      \field{volume}{127}
+      \field{year}{2019}
+      \field{pages}{419\bibrangedash 457}
+      \range{pages}{39}
+    \endentry
     \entry{newell2008dimensions}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
@@ -7983,6 +8330,46 @@
       \field{pages}{285\bibrangedash 290}
       \range{pages}{6}
     \endentry
+    \entry{noguchi2014attraction}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{fullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{bibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{1}
+      \field{title}{In the attraction, compromise, and similarity effects, alternatives are repeatedly compared in pairs on single dimensions}
+      \field{volume}{132}
+      \field{year}{2014}
+      \field{pages}{44\bibrangedash 56}
+      \range{pages}{13}
+    \endentry
     \entry{noguchiMultialternativeDecisionSampling2018a}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -8007,6 +8394,7 @@
       \strng{authorbibnamehash}{aa2fa7ca0730cea75a4abc578174a19e}
       \strng{authornamehash}{aa2fa7ca0730cea75a4abc578174a19e}
       \strng{authorfullhash}{aa2fa7ca0730cea75a4abc578174a19e}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}

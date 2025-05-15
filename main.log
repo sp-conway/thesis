@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  12 MAY 2025 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  14 MAY 2025 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -685,7 +685,7 @@ Chapter 1.
 
 
 ] [2]
-<figures/pref_v_percep.jpg, id=452, 3431.82124pt x 1701.35625pt>
+<figures/pref_v_percep.jpg, id=466, 3431.82124pt x 1701.35625pt>
 File: figures/pref_v_percep.jpg Graphic file (type jpg)
 <use figures/pref_v_percep.jpg>
 Package pdftex.def Info: figures/pref_v_percep.jpg  used on input line 24.
@@ -700,86 +700,91 @@ Chapter 2.
 (./chapter2.tex [8
 
 ]
-<figures/spektor_stim.png, id=602, 3215.01125pt x 1590.94376pt>
+<figures/spektor_stim.png, id=616, 3215.01125pt x 1590.94376pt>
 File: figures/spektor_stim.png Graphic file (type png)
 <use figures/spektor_stim.png>
 Package pdftex.def Info: figures/spektor_stim.png  used on input line 12.
 (pdftex.def)             Requested size: 433.62pt x 214.57393pt.
  [9]
-<figures/spektor_data_collapsed.jpeg, id=626, 2609.75pt x 2007.5pt>
+<figures/spektor_data_collapsed.jpeg, id=641, 2609.75pt x 2007.5pt>
 File: figures/spektor_data_collapsed.jpeg Graphic file (type jpg)
 <use figures/spektor_data_collapsed.jpeg>
 Package pdftex.def Info: figures/spektor_data_collapsed.jpeg  used on input line 24.
 (pdftex.def)             Requested size: 433.62pt x 333.55124pt.
  [10 <./figures/spektor_stim.png>] [11 <./figures/spektor_data_collapsed.jpeg>] [12] [13] [14] [15] [16] [17]
-<figures/3d_sim_rst.jpg, id=727, 3011.25pt x 3011.25pt>
+<figures/3d_sim_rst.jpg, id=741, 3011.25pt x 3011.25pt>
 File: figures/3d_sim_rst.jpg Graphic file (type jpg)
 <use figures/3d_sim_rst.jpg>
-Package pdftex.def Info: figures/3d_sim_rst.jpg  used on input line 122.
+Package pdftex.def Info: figures/3d_sim_rst.jpg  used on input line 118.
 (pdftex.def)             Requested size: 433.62pt x 433.61049pt.
- [18] [19] [20 <./figures/3d_sim_rst.jpg>] [21] [22] [23]
-<figures/m14_model_preds_v_data.jpeg, id=776, 2509.375pt x 2007.5pt>
+ [18] [19 <./figures/3d_sim_rst.jpg>] [20] [21] [22] [23]
+<figures/m14_model_preds_v_data.jpeg, id=790, 2509.375pt x 2007.5pt>
 File: figures/m14_model_preds_v_data.jpeg Graphic file (type jpg)
 <use figures/m14_model_preds_v_data.jpeg>
 Package pdftex.def Info: figures/m14_model_preds_v_data.jpeg  used on input line 172.
 (pdftex.def)             Requested size: 433.62pt x 346.87613pt.
- [24] [25 <./figures/m14_model_preds_v_data.jpeg>] [26] [27]
-<figures/circle_exp_display.jpg, id=802, 2009.5075pt x 2087.8pt>
+ [24] [25 <./figures/m14_model_preds_v_data.jpeg>] [26] [27] [28]
+<figures/circle_exp_display.jpg, id=822, 2009.5075pt x 2087.8pt>
 File: figures/circle_exp_display.jpg Graphic file (type jpg)
 <use figures/circle_exp_display.jpg>
-Package pdftex.def Info: figures/circle_exp_display.jpg  used on input line 222.
+Package pdftex.def Info: figures/circle_exp_display.jpg  used on input line 224.
 (pdftex.def)             Requested size: 433.62pt x 450.49297pt.
- [28] [29] [30 <./figures/circle_exp_display.jpg>]
-<figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg, id=819, 1806.75pt x 1505.625pt>
+ [29] [30 <./figures/circle_exp_display.jpg>] [31]
+<figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg, id=842, 1806.75pt x 1505.625pt>
 File: figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg Graphic file (type jpg)
 <use figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg>
 Package pdftex.def Info: figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg  used on input line 252.
 (pdftex.def)             Requested size: 433.62pt x 361.33441pt.
-<figures/circleAreaPhase_cor_plot_all_no_outliers.jpg, id=821, 2409.0pt x 1204.5pt>
+<figures/circleAreaPhase_cor_plot_all_no_outliers.jpg, id=844, 2409.0pt x 1204.5pt>
 File: figures/circleAreaPhase_cor_plot_all_no_outliers.jpg Graphic file (type jpg)
 <use figures/circleAreaPhase_cor_plot_all_no_outliers.jpg>
 Package pdftex.def Info: figures/circleAreaPhase_cor_plot_all_no_outliers.jpg  used on input line 260.
 (pdftex.def)             Requested size: 433.62pt x 216.80064pt.
- [31] [32 <./figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg>]
-<figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg, id=833, 4818.0pt x 4015.0pt>
+ [32 <./figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg>] [33 <./figures/circleAreaPhase_cor_plot_all_no_outliers.jpg>]
+<figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg, id=858, 4818.0pt x 4015.0pt>
 File: figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg Graphic file (type jpg)
 <use figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg>
-Package pdftex.def Info: figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg  used on input line 276.
+Package pdftex.def Info: figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg  used on input line 278.
 (pdftex.def)             Requested size: 433.62pt x 361.33441pt.
-<figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg, id=834, 1505.625pt x 903.375pt>
+<figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg, id=859, 1505.625pt x 903.375pt>
 File: figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg Graphic file (type jpg)
 <use figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg>
-Package pdftex.def Info: figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg  used on input line 282.
+Package pdftex.def Info: figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg  used on input line 284.
 (pdftex.def)             Requested size: 433.62pt x 260.16629pt.
- [33 <./figures/circleAreaPhase_cor_plot_all_no_outliers.jpg>] [34 <./figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg>]
-
-LaTeX Warning: Reference `fig:e2_choicedeltas' on page 35 undefined on input line 291.
-
-<figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg, id=846, 3613.5pt x 1806.75pt>
+ [34 <./figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg>]
+<figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg, id=867, 3613.5pt x 1806.75pt>
 File: figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg Graphic file (type jpg)
 <use figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg>
-Package pdftex.def Info: figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg  used on input line 294.
+Package pdftex.def Info: figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg  used on input line 296.
 (pdftex.def)             Requested size: 433.62pt x 216.80064pt.
-<figures/choicePhase_delta_means.jpeg, id=847, 1806.75pt x 2107.875pt>
+<figures/choicePhase_delta_means.jpeg, id=868, 1806.75pt x 2107.875pt>
 File: figures/choicePhase_delta_means.jpeg Graphic file (type jpg)
 <use figures/choicePhase_delta_means.jpeg>
-Package pdftex.def Info: figures/choicePhase_delta_means.jpeg  used on input line 300.
+Package pdftex.def Info: figures/choicePhase_delta_means.jpeg  used on input line 302.
 (pdftex.def)             Requested size: 433.62pt x 505.86818pt.
-[35 <./figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg>]
-
-LaTeX Warning: Reference `fig:e2_model_preds' on page 36 undefined on input line 308.
-
-) [36 <./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg>] [37 <./figures/choicePhase_delta_means.jpeg>] [38]
+ [35 <./figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg>]
+<figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg, id=874, 1505.625pt x 1505.625pt>
+File: figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg Graphic file (type jpg)
+<use figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg>
+Package pdftex.def Info: figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg  used on input line 310.
+(pdftex.def)             Requested size: 433.62pt x 433.61049pt.
+ [36 <./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg>] [37 <./figures/choicePhase_delta_means.jpeg>] [38 <./figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg>]
+<figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg, id=889, 3613.5pt x 1806.75pt>
+File: figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg Graphic file (type jpg)
+<use figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg>
+Package pdftex.def Info: figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg  used on input line 321.
+(pdftex.def)             Requested size: 433.62pt x 216.80064pt.
+ [39 <./figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg>] [40] [41]) [42]
 Chapter 3.
-(./chapter3.tex [39
+(./chapter3.tex [43
 
-] [40] [41] [42] [43] [44]
-<figures/bw_design_fig.jpg, id=954, 2796.4475pt x 1973.3725pt>
+] [44] [45] [46] [47] [48]
+<figures/bw_design_fig.jpg, id=1011, 2796.4475pt x 1973.3725pt>
 File: figures/bw_design_fig.jpg Graphic file (type jpg)
 <use figures/bw_design_fig.jpg>
 Package pdftex.def Info: figures/bw_design_fig.jpg  used on input line 97.
 (pdftex.def)             Requested size: 433.62pt x 305.99002pt.
- [45] [46 <./figures/bw_design_fig.jpg>]
+ [49] [50 <./figures/bw_design_fig.jpg>]
 Overfull \hbox (22.7911pt too wide) in paragraph at lines 115--116
 \OT1/cmr/m/n/12 89\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 83%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 = 30\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 23)$, and the mean per-cent-age cor-rect for worst choices was $88\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 95%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 =
  []
@@ -789,8 +794,8 @@ Overfull \hbox (4.01418pt too wide) in paragraph at lines 115--116
 \OT1/cmr/m/n/12 13\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 09)$. The mean per-cent-age cor-rect for both best and worst choices was $96\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 98%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 =
  []
 
-[47]
-<figures/crit_mean_choice_by_set_dist_labelHW.jpeg, id=971, 1204.5pt x 1806.75pt>
+[51]
+<figures/crit_mean_choice_by_set_dist_labelHW.jpeg, id=1028, 1204.5pt x 1806.75pt>
 File: figures/crit_mean_choice_by_set_dist_labelHW.jpeg Graphic file (type jpg)
 <use figures/crit_mean_choice_by_set_dist_labelHW.jpeg>
 Package pdftex.def Info: figures/crit_mean_choice_by_set_dist_labelHW.jpeg  used on input line 127.
@@ -799,7 +804,7 @@ Package pdftex.def Info: figures/crit_mean_choice_by_set_dist_labelHW.jpeg  used
 
 LaTeX Warning: Float too large for page by 55.99953pt on input line 130.
 
-<figures/crit_mean_props_by_dist.jpeg, id=972, 1204.5pt x 1806.75pt>
+<figures/crit_mean_props_by_dist.jpeg, id=1029, 1204.5pt x 1806.75pt>
 File: figures/crit_mean_props_by_dist.jpeg Graphic file (type jpg)
 <use figures/crit_mean_props_by_dist.jpeg>
 Package pdftex.def Info: figures/crit_mean_props_by_dist.jpeg  used on input line 133.
@@ -807,78 +812,66 @@ Package pdftex.def Info: figures/crit_mean_props_by_dist.jpeg  used on input lin
 
 LaTeX Warning: Float too large for page by 55.99953pt on input line 136.
 
-
-LaTeX Warning: Reference `eqn:maxdiff_equation' on page 48 undefined on input line 145.
-
-[48] [49 <./figures/crit_mean_choice_by_set_dist_labelHW.jpeg>] [50 <./figures/crit_mean_props_by_dist.jpeg>]
-<figures/maxdiff_2_means_model_v_data.jpeg, id=989, 1806.75pt x 2409.0pt>
+[52] [53 <./figures/crit_mean_choice_by_set_dist_labelHW.jpeg>] [54 <./figures/crit_mean_props_by_dist.jpeg>]
+<figures/maxdiff_2_means_model_v_data.jpeg, id=1046, 1806.75pt x 2409.0pt>
 File: figures/maxdiff_2_means_model_v_data.jpeg Graphic file (type jpg)
 <use figures/maxdiff_2_means_model_v_data.jpeg>
 Package pdftex.def Info: figures/maxdiff_2_means_model_v_data.jpeg  used on input line 155.
 (pdftex.def)             Requested size: 433.62pt x 578.13507pt.
-<figures/maxdiff_2_subjectmeans_model_v_data.jpeg, id=990, 2409.0pt x 2409.0pt>
+<figures/maxdiff_2_subjectmeans_model_v_data.jpeg, id=1047, 2409.0pt x 2409.0pt>
 File: figures/maxdiff_2_subjectmeans_model_v_data.jpeg Graphic file (type jpg)
 <use figures/maxdiff_2_subjectmeans_model_v_data.jpeg>
 Package pdftex.def Info: figures/maxdiff_2_subjectmeans_model_v_data.jpeg  used on input line 161.
 (pdftex.def)             Requested size: 433.62pt x 433.6013pt.
-) [51] [52 <./figures/maxdiff_2_means_model_v_data.jpeg>] [53 <./figures/maxdiff_2_subjectmeans_model_v_data.jpeg>]
+) [55] [56 <./figures/maxdiff_2_means_model_v_data.jpeg>] [57 <./figures/maxdiff_2_subjectmeans_model_v_data.jpeg>]
 Chapter 4.
-(./chapter4.tex [54
+(./chapter4.tex [58
 
 ]
 Overfull \hbox (0.8167pt too wide) in paragraph at lines 12--13
 []\OT1/cmr/m/n/12 Other re-searchers have demon-strated con-text ef-fects with rat-ings mea-sures. []Wedell
  []
 
-) [55]
+) [59]
 
 Package hyperref Warning: bookmark level for unknown BackMatter defaults to 0.
 
-[56
+[60
 
-] [57] [58] [59]
+] [61] [62] [63]
 Overfull \hbox (0.48807pt too wide) in paragraph at lines 274--274
 \OT1/cmr/m/n/12 best{worst choices. \OT1/cmr/m/it/12 Jour-nal of Math-e-mat-i-cal Psy-chol-ogy\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 49\OT1/cmr/m/n/12 (6), 464{480. []$https :
  []
 
-
-Overfull \hbox (0.48807pt too wide) in paragraph at lines 274--274
-\OT1/cmr/m/n/12 best{worst choices. \OT1/cmr/m/it/12 Jour-nal of Math-e-mat-i-cal Psy-chol-ogy\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 49\OT1/cmr/m/n/12 (6), 464{480. []$https :
- []
-
-[60] [61]
+[64] [65] [66]
 Overfull \hbox (14.83795pt too wide) in paragraph at lines 274--274
 [][]\OT1/cmr/m/n/12 Stephens, R. G., Matzke, D., & Hayes, B. K. (2020). State-trace anal-y-sis|misrepresented
  []
 
-[62] [63] [64] (./main.aux)
+[67] [68] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B3388A9BEBCBDB8282C063F03D9F24AE;8698.
+(rerunfilecheck)             Checksum: 409C0E946E5EBEAAA028161EB95A5B69;8967.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19425 strings out of 474116
- 359491 string characters out of 5743681
- 1943187 words of memory out of 5000000
- 41276 multiletter control sequences out of 15000+600000
+ 19491 strings out of 474116
+ 361953 string characters out of 5743681
+ 1944187 words of memory out of 5000000
+ 41330 multiletter control sequences out of 15000+600000
  567231 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,14n,81p,2252b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (75 pages, 8708013 bytes).
+Output written on main.pdf (79 pages, 9748471 bytes).
 PDF statistics:
- 1275 PDF objects out of 1440 (max. 8388607)
- 1128 compressed objects within 12 object streams
- 270 named destinations out of 1000 (max. 500000)
- 526 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1334 PDF objects out of 1440 (max. 8388607)
+ 1181 compressed objects within 12 object streams
+ 282 named destinations out of 1000 (max. 500000)
+ 544 words of extra memory for PDF output out of 10000 (max. 10000000)
 
