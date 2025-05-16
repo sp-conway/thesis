@@ -2,7 +2,6 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces A graphical depiction of choice options in the attraction/repulsion effect. Left panel: preferential choice. Right panel: perceptual choice.}}{4}{figure.1.1}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Stimulus configuration and example trials from \blx@tocontentsinit {0}\textcite {spektorWhenGoodLooks2018b}, Experiments 3 and 4a.}}{10}{figure.2.1}%
@@ -19,10 +18,11 @@
 \contentsline {figure}{\numberline {2.12}{\ignorespaces Mean target, competitor, and decoy choice proportions (y axis) for each TDD level, plotted against mean target-decoy discriminability for each TDD level from Experiment 1. The x axis error bars are $95\%$ HDIs on the mean, computed via the Bayesian hierarchical logistic regression from Experiment 1 (see Appendix), and the y axis error bars are $95\%$ CIs on the mean.}}{38}{figure.2.12}%
 \contentsline {figure}{\numberline {2.13}{\ignorespaces Model predictions for the choice data, conditioned on the mean estimated parameters from Experiment 2.}}{39}{figure.2.13}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Best-worst choice simulations. Each row is a different TDD value from Experiment 2.}}{46}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces An example experimental trial for Experiment 3. Note that this is a trial in the best-worst condition.}}{50}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Mean best and worst-choice proportions for the $h$, $w$, and $d$ rectangles, conditioned on TDD (rows) and choice set (shapes).}}{53}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Mean best and worst-choice proportions for the target, competitor and decoy rectangles, conditioned on TDD (rows).}}{54}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Maxdiff model predictions for the mean target, competitor, and decoy best-worst choice proportions.}}{56}{figure.3.5}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Maxdiff model predictions for the mean target, competitor, and decoy best-worst participant-level choice proportions, conditioned on TDD (rows) and choice type, i.e. best v. worst (columns). Vertical error bars are $95\%$ HDIs.}}{57}{figure.3.6}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Best-worst choice simulations. Each row is a different TDD value from Experiment 2.}}{48}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces An example experimental trial for Experiment 3. Note that this is a trial in the best-worst condition.}}{51}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Marginal mean best and worst-choice proportions for all unique rectangles, collapsed across choice set. X and Y axis error bars are $95\%$ CIs.}}{53}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Mean best and worst-choice proportions for the $h$, $w$, and $d$ rectangles, conditioned on TDD (rows) and choice set (shapes).}}{55}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Mean best and worst-choice proportions for the target, competitor and decoy rectangles, conditioned on TDD (rows).}}{56}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Maxdiff model predictions for the mean target, competitor, and decoy best-worst choice proportions.}}{58}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Maxdiff model predictions for the mean target, competitor, and decoy best-worst participant-level choice proportions, conditioned on TDD (rows) and choice type, i.e. best v. worst (columns). Vertical error bars are $95\%$ HDIs.}}{59}{figure.3.7}%
 \addvspace {10\p@ }

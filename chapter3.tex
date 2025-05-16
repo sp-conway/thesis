@@ -4,7 +4,7 @@ In Chapters 1 and 2, I presented a model of perceptual choice and showed it can 
 
 \subsection{Introducing Best-Worst Choice}
 
-Best-worst choice (also known as best-worst scaling) is an experimental paradigm where participants select their most and least preferred options from a choice set. Originally proposed by \textcite{finn1992determining}, best-worst choice is widely used in a number of applied fields, such as transportation \parencite{beck2016best} and healthcare economics \parencite{cheung2016using,flynn2007best}. One key advantage here, when compared to traditional discrete choice research, is that researchers can use best-worst choices to gain information about participants' ranking of options while never requiring them to complete a full ranking task, which may be quite difficult \parencite{marleyProbabilisticModelsBest2005}.
+Best-worst choice is an experimental paradigm where participants select their most and least preferred options from a choice set. Originally proposed by \textcite{finn1992determining}, best-worst choice is widely used in a number of applied fields, such as transportation \parencite{beck2016best} and healthcare economics \parencite{cheung2016using,flynn2007best,muhlbacher2016experimental}. One key advantage here, when compared to traditional discrete choice research, is that researchers can use best-worst choices to gain information about participants' ranking of options while never requiring them to complete a full ranking task, which may be quite difficult \parencite{marleyProbabilisticModelsBest2005}.
 
 Researchers have developed theoretical models to account for best-worst choice data. Most best-worst choice models relate best-worst choices to an underlying utility function. \textcite{marleyProbabilisticModelsBest2005} developed a class of models known as the \textit{maxdiff} (maximum difference) models of best-worst choice\footnote{Note that the term maxdiff is sometimes erroneously used to refer to best-worst experiments in the generic sense. Following \textcite{marleyProbabilisticModelsBest2005}, I use maxdiff to refer to a specific class and parameterization of their choice model.}. According to the maxdiff model, given choice set $K$, the probability of selecting option $x$ as best and option $y$ as worst, where $x \neq y$, is defined computed as:
 
@@ -19,51 +19,56 @@ There are several variants of this model \parencite{marleyProbabilisticModelsBes
 
 Researchers have explored whether this monotonicity holds empirically. \textcite{hawkinsIntegratingCognitiveProcess2014a} examined both preferential and perceptual best-worst choice data using response time modeling. They used the linear ballistic accumulator model (LBA) \textcite{brownSimplestCompleteModel2008b}, which casts the decision process as a race between "accumulators" towards a threshold, where the average accumulation across trials is captured by the drift rate parameter. Modeling datasets containing both preferential and perceptual best-worst choice data, they were able to successfully account for choice data by assuming a parallel race between "best" and "worst" accumulators for each option. Furthermore, they showed that the utility values estimated for each option using a MNL model were positively linearly related to the log drift rate values from the LBA, suggesting an underlying utility representation that captures choices. 
 
-In a follow-up \textcite{hawkinsBestTimesWorst2014} found that, collapsing across choice sets, best-choice probabilities are (negatively) monotonically related to worst-choice probabilities. They also showed that, using the parallel best-worst LBA as a model, the drift rate parameter for worst choice can be parameterized as the reciprocal of the best choice drift rate. Formally, if $d_{b}(i)$ is the drift rate for selecting option $i$ as best, then $d_{w}(i)=1/d_{b}(i)$, where $d_{w}(i)$ is option $i$'s drift rate for best choices. 
+In a follow-up article, \textcite{hawkinsBestTimesWorst2014} found that, collapsing across choice sets, best-choice probabilities are (negatively) monotonically related to worst-choice probabilities. Options that were most likely to be selected as best were least likely to be selected as worst, and vice versa. This finding held for perceptual choice and consumer choice. They also showed that, using the parallel best-worst LBA as a model, the drift rate parameter for worst choice can be parameterized as the reciprocal of the best choice drift rate. Formally, if $d_{b}(i)$ is the drift rate for selecting option $i$ as best, then $d_{w}(i)=1/d_{b}(i)$, where $d_{w}(i)$ is option $i$'s drift rate for worst choices. 
 
 We can think of the parallel best-worst LBA as a process implementation of the maxdiff model \parencite{hawkinsIntegratingCognitiveProcess2014a}, which proposes set independence. While researchers have proposed models that allow set dependence \parencite{marleyProbabilisticModelsSetdependent2008}, these models still predict a monotonic relationship between best and worst choices. 
 
 It is not always the case, however, that a single latent variable (i.e., utility) underlies choices. Indeed, as I show below, the model from Chapters 1 and 2 predicts, under certain conditions, a dissociation between best and worst choices.
 
-\subsection{Model Predicted Dissociations Between Best Choices and Worst Choices}
+\subsection{Model-Based Dissociations in Best-Worst Choice}
 
-Let $K$ be a choice set consistings of options $T$, $C$, and $D$ (i.e., target, competitor, and decoy). As in Experiments 1 and 2, these are rectangles in a perceptual choice experiment. As above, I asssume that on each trial $i$ with choice set $K$, The perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\boldsymbol{\mu}$ and variance-covariance matrix $\boldsymbol{\Sigma}$ (see \ref{eqn:mvnorm}).
+Let $K$ be a choice set consisting of options $T$, $C$, and $D$ (i.e., target, competitor, and decoy). As in Experiments 1 and 2, the options are rectangles in a perceptual choice experiment. As in Chapter 2, I assume that on each trial $i$ with choice set $K$, the perception $\mathbf{X_i}$ of all 3 stimuli is sampled from a multivariate Gaussian distribution with a mean vector $\boldsymbol{\mu}$ and variance-covariance matrix $\boldsymbol{\Sigma}$ (see \ref{eqn:mvnorm}).
 
 $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ are parameterized the same as in Chapters 1 and 2. 
 
-In this chapter, I apply the model to best worst choice by assuming that, given a vector $\mathbf{X_{i}}$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $i$ is as best is:
+In this chapter, I apply the model to best worst choice. Following conventions in the literature, I use $B(j)$ to denote the probability of selecting option $j$ as best and $W(j)$ to denote the probability of selecting option $j$ as worst. 
+
+I assume that, given a vector $\mathbf{X_{i}}$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $j$ as best is:
 
 \begin{equation}
-   P(i|K)=P(X_{i}>X_{j}, j \in K, i \neq j)
+   B(j|i,K)=P(\mathbf{X}_{ij}>\mathbf{X}_{ik}, \forall k \in K, j \neq k)
    \label{eqn:bchoice1}
 \end{equation}
 
-while the probability of selecting stimulus $k$ as worst (where $i \neq k$) is:
+while the probability of selecting stimulus $j$ as worst is:
 
 \begin{equation}
-   P(k|K)=P(X_{k}<X_{j}, j \in K, k \neq j)
+   W(j|i,K)=P(\mathbf{X}_{ij}<\mathbf{X}_{ik}, \forall k \in K, j \neq k)
    \label{eqn:wchoice1}
 \end{equation}
 
+Simply put, the option with the largest perceived area is selected as best, while the option with the smallest perceived area is selected as worst. 
+
 As it happens, the correlations (i.e., $\Omega$) estimated from Experiment 2 predict that, in a best-worst choice paradigm, best and worst-choice probabilities are non-monotonically related. I demonstrate this using simulations.
 
-To simulate best-worst choice, I simply used the mean parameters ($\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$) estimated from Experiment 2\footnote{I used only those estimated from the triangle condition (See Experiment 2).} and simulated a large ($N=10000$) number of choice trials. I collapse over choice set (as in previous reported simulations) and focus on target, competitor, and decoy choice proportions at each level of TDD. I show these results in figure \ref{fig:bw_sim}, in a state-trace plot \parencite{newell2008dimensions}. State-trace analyses plot the values of two dependent variables against each other for a particular experimental condition. State-trace analysis can be controversial \parencite{ashby2019state,ashby2022state,stephens2020state}, and statistical inference on state-trace data is not straightforward \parencite{sadil2018hierarchical,davis2016bayes}. In principle, however, if the analyst can reliably conclude that the data points do not fall on a single curve, they conclude that the data vary on at least $2$ dimensions.
+I computed predictions for best worst choice by simulating the model using the mean parameters ($\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$) estimated from Experiment 2\footnote{I used only those estimated from the triangle condition (See Experiment 2).} and simulated a large ($N=1000000$) number of trials. I collapse over choice set (i.e., whether the target is wide or tall, as in previous simulations) and focus on target, competitor, and decoy choice proportions at each level of TDD. I show these results in figure \ref{fig:bw_sim}, in a state-trace plot \parencite{newell2008dimensions}. In a state-trace plot, the analyst plots the values of two dependent variables against each other for a particular experimental condition. State-trace analysis can be controversial \parencite{ashby2019state,ashby2022state,stephens2020state}, and statistical inference on state-trace data is not straightforward \parencite{sadil2018hierarchical,davis2016bayes}. In principle, however, if the analyst can reliably conclude that the data points do not fall on a single curve, they conclude that the data vary on at least $2$ latent dimensions. Here, these dimensions are likely means and correlations. 
 
 \begin{figure}
+   \includegraphics[width=\linewidth]{figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg}
    \caption{Best-worst choice simulations. Each row is a different TDD value from Experiment 2.}
    \label{fig:bw_sim}
 \end{figure}
 
-The model, conditioned on the estimated parameters, predicts an interesting result. Although the competitor is most frequently chosen as best, due to the repulsion effect from Experiment 2 and from \textcite{spektorWhenGoodLooks2018b}, it is not, however, least frequently chosen as worst. Specifically, $B(C)>B(T)>B(D)$, while $W(T)<W(C)<W(D)$, where $B(i)$ and $W(i)$ are the probabilities that option $i$ is chosen as best and worst, respectively.
+The model, conditioned on the estimated parameters, predicts an interesting result. Although the competitor is most frequently chosen as best, due to the repulsion effect from Experiment 2 and from \textcite{spektorWhenGoodLooks2018b}, it is not, however, least frequently chosen as worst. Specifically, $B(C)>B(T)$, while $W(T)<W(C)$, where $B(i)$ and $W(i)$ are the probabilities that option $i$ is chosen as best and worst, respectively. At lower levels of $TDD$, the model even predicts that competitor and decoy are chosen at similar rates. As we will see, this prediction does not bear out empirically, and this prediction is likely due to the fact that participants are less sensitive to perceptual differences when providing ratings than when making choices \parencite{gronau2023choice}.
 
-The reason for this prediction is that because $\rho_{TD}>\rho_{CD}\approx\rho_{TC}$, on the (relatively few) trials where $X_{D}$ is largest, it is more likely that $X_{D}>X_{T}>X_{C}$ than $X_{D}>X_{C}>X_{T}$. In other words, the high $\rho_{TD}$ value "pulls up" the target more than the competitor.
+The models predict this because $\rho_{TD}>\rho_{CD}\approx\rho_{TC}$. On the (relatively few) trials where $X_{D}$ is largest, it is more likely that $X_{D}>X_{T}>X_{C}$ than $X_{D}>X_{C}>X_{T}$. In other words, the high $\rho_{TD}$ value "pulls up" the target more than the competitor. The similarity, and comparability, of target and decoy entail that the repulsion effect at the best-choice level (Experiment 2) does not necessarily show up at the worst-choice level.
 
-This dissociation is subtle, and the predicted effect size is small. Indeed, all predicted $W(C)-W(T)$ probabilities were $<.05$. However, In Experiment 3, I show the empirical and modeling results from a best-worst choice experiment designed to test this prediction. I show that the dissociation between best and worst choices does indeed occur, and the maxdiff model cannot account for these results.
+This dissociation is subtle, and the predicted effect size is small. Indeed, all predicted $W(C)-W(T)$ probabilities were $<.05$. In Experiment 3, I show the empirical and modeling results from a best-worst choice experiment designed to test this prediction. I show that the dissociation between best and worst choices does indeed occur. I also show that the assumption of monotonicity required by the maxdiff model of best-worst choice can fail empirically.
 
 \section{Experiment 3}
 
-The goal of Experiment 3 was to test the predictions of the perceptual choice model. Specifically, the perceptual model predicts that $B(C)>B(T)>B(D)$, while $W(T)<W(C)<W(D)$. I conducted a best-worst perceptual choice experiment. I used stimuli identical to those of Experiment 2 and presented stimuli in the triangle display of Experiments 1 and 2.
-I show that 1) this prediction (generally) holds empirically and 2)the maxdiff model cannot account for these results, even its parameters are free to vary. 
+The goal of Experiment 3 was to test the predictions of the perceptual choice model. Specifically, the perceptual model predicts that $B(C)>B(T)$ but $W(T)<W(C)$. To test this prediction, I used stimuli identical to those of Experiment 2 and presented stimuli in the triangle display of Experiments 1 and 2.
+I show that $1)$ this prediction (generally) holds empirically and $2)$ the maxdiff model cannot account for these results, even when all its parameters are free to vary. 
 
 \subsection{Methods}
 
@@ -72,9 +77,10 @@ Data collection took place at the University of Massachusetts Amherst. 392 under
 
 \subsubsection{Stimuli.}
 The experiment had three types of trials: critical trials, filler trials, and catch trials. 
-On each critical trial, the target and competitor had the same area but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. I varied TDD at $2\%$, $5\%$, $9\%$, and $14\%$. I also varied the target, competitor, and decoy stimuli to fall on three diagonals. Note that these stimuli are identical to those of Experiment 2.
 
-On each filler trial, three stimuli were uniformly sampled the space between the largest and smallest diagonals.
+Stimuli on critical trials were identical to those of Experiment 2. On each critical trial, the target and competitor had the same area but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. I varied TDD at $2\%$, $5\%$, $9\%$, and $14\%$. I also varied the target, competitor, and decoy rectangles along three diagonals as in Experiment 2. 
+
+On each filler trial, three stimuli were uniformly sampled from the space between the largest and smallest diagonals.
 
 On each catch trial, one stimulus was sampled from the largest diagonal, while two stimuli were sampled from the smallest diagonal.
 
@@ -115,30 +121,41 @@ Participants performed well on the catch trials. The mean percentage correct for
 Participants performed worse on the filler trials compared to the catch trials, but still well above chance. The mean percentage correct for best choices was $89.83\% (SD=30.23)$, and the mean percentage correct for worst choices was $88.95\% (SD=13.09)$. The mean percentage correct for both best and worst choices was $96.98\% (SD=17.12)$. 
 
 \subsubsection{Critical Trials.}
-I first consider participants choice proportions, conditioned on TDD and choice set. Mean choice proportions for these data are plotted in \ref{fig:bw_mean_choice_by_set}. 
 
-The results show a consistent bias to choose the $w$ (i.e. the option wider than tall) as largest, a finding also shown in Experiments 1 and 2. Participants also (on average) regularly choose the decoy rectangle as smallest, with the exception of the choice set $h,w,d_{w}$ and $TDD=2\%$, where they select the $h$ rectangle as smallest, on average. This can be attributed to the difficulty of the $TDD=2\%$ condition and the overall wide rectangle bias. However, consistent with the predictions of the model, the target is still less likely to be chosen as worst than the competitor, $W(h|{h,w,d_{h}})<W(h|{h,w,d_{w}})$ and $W(w|{h,w,d_{w}})<W(w|{h,w,d_{h}})$, while the competitor option is more likely to be chosen as best, $B(h|{h,w,d_{w}})>B(h|{h,w,d_{h}})$ and $B(w|{h,w,d_{h}})>B(w|{h,w,d_{w}})$. See the Appendix for inferential statistics which support these conclusions.
+First, I compute the mean choice proportions for each distinct rectangle, \textit{collapsed across choice} set. Here, I replicate the findings of \textcite{hawkinsBestTimesWorst2014}, that, when ignoring the effect of context, best choices and worst choices appear to be (negatively) monotonically related. These data are plotted in Figure~\ref{fig:bw_marginal}.
 
-These results are more easily understood by plotting mean target, competitor, and decoy choice proportions across TDD levels, collapsed over choice set. See \ref{fig:bw_mean_choice_collapsed} for these data. First, the best-choice proportions replicate the repulsion effect initially found by \textcite{spektorWhenGoodLooks2018b} and replicated in the current Experiment 2, where the competitor is more likely to be chosen as best at low TDD levels, while the target and competitor are chosen equally often at high TDD levels. Decoy best-choice proportions also decrease systematically with TDD. See the Appendix for inferential statistics which support these conclusions. 
+\begin{figure}
+   \includegraphics[width=\linewidth]{figures/crit_mean_props_marginal.jpeg}
+   \caption{Marginal mean best and worst-choice proportions for all unique rectangles, collapsed across choice set. X and Y axis error bars are $95\%$ CIs.}
+   \label{fig:bw_marginal}
+\end{figure}
 
-Furthermore, the target is always more likely to be chosen as worst, compared to the competitor and decoy, at all TDD levels, $W(T)<W(C)<W(D)$, as predicted by the perceptual model outlined in Chapter 2. This model still cannot predict the null repulsion effect when $TDD=14\%$, as discussed in Chapter 2, which suggests that effect may be due to higher level decision processes.
+I now consider choice proportions conditioned on TDD and choice set. Mean choice proportions for these data are plotted in Figure~\ref{fig:bw_mean_choice_by_set}. 
+
+Participants show a consistent bias to choose the $w$ (i.e. the wider rectangle) as largest, a finding also shown in Experiments 1 and 2. Participants also (on average) regularly choose the decoy rectangle as smallest, with the exception of the choice set $h,w,d_{w}$ and $TDD=2\%$, where they select the $h$ rectangle as smallest, on average. This can be attributed to the difficulty of the $TDD=2\%$ condition and the overall wide rectangle bias. However, consistent with the predictions of the model, the target is still less likely to be chosen as worst than the competitor, $W(h|{h,w,d_{h}})<W(h|{h,w,d_{w}})$ and $W(w|{h,w,d_{w}})<W(w|{h,w,d_{h}})$, while the competitor option is more likely to be chosen as best, $B(h|{h,w,d_{w}})>B(h|{h,w,d_{h}})$ and $B(w|{h,w,d_{h}})>B(w|{h,w,d_{w}})$. See the Appendix for inferential statistics which support these conclusions.
+
+These results are more easily understood by plotting mean target, competitor, and decoy choice proportions across TDD levels, collapsed over choice set. See Figure~\ref{fig:bw_mean_choice_collapsed} for these data. 
+
+The best-choice proportions replicate the repulsion effect initially found by \textcite{spektorWhenGoodLooks2018b} and replicated in the current Experiment 2, where the competitor is more likely to be chosen as best at low TDD levels, while the target and competitor are chosen equally often at high TDD levels. Decoy best-choice proportions also decrease systematically with TDD. 
+
+Furthermore, the target is always more likely to be chosen as worst, compared to the competitor and decoy, at all TDD levels, $W(T)<W(C)$, as predicted by the perceptual model outlined in Chapter 2. This model still cannot predict the null best-choice repulsion effect when $TDD=14\%$, as discussed in Chapter 2, which suggests that this effect may be due to higher level decision processes.
 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/crit_mean_choice_by_set_dist_labelHW.jpeg}
    \caption{Mean best and worst-choice proportions for the $h$, $w$, and $d$ rectangles, conditioned on TDD (rows) and choice set (shapes).}
    \label{fig:bw_mean_choice_by_set}
- \end{figure}
+\end{figure}
 
- \begin{figure}
+\begin{figure}
    \includegraphics[width=\linewidth]{figures/crit_mean_props_by_dist.jpeg}
    \caption{Mean best and worst-choice proportions for the target, competitor and decoy rectangles, conditioned on TDD (rows).}
    \label{fig:bw_mean_choice_collapsed}
- \end{figure}
+\end{figure}
 
 
 \subsubsection{Modeling.}
 
-To analyze the data, I fitted both the maxdiff model and a Dircihlet-multinomial model XXX CITE. The goal of this modeling analysis is to test the ability of a standard best-worst choice model to account for the observed dissociations in the data. The Dirichlet-multinomial is a flexible model that estimates probability distributions around the choice proportions for each participant in each condition. I first consider the maxdiff model.
+To analyze the data, I fitted both the maxdiff model and a hierarchical Dirichlet-multinomial model. The goal of the former modeling analysis is to test the ability of a standard best-worst choice model to account for the observed dissociations in the data. The goal of the latter modeling analysis is to provide a statistical account of the data and ensure the main conclusions (i.e., $B(C)>B(T)$ and $W(C)>W(T)$ are reliable. I show the substantive aspects of the maxdiff modeling here, but I present the hierarchical Dirichlet-multinomial model in the Appendix.
 
 \subsubsection{Maxdiff Modeling}
 
@@ -150,7 +167,7 @@ The model clearly mispredicts the data. It predicts that target and competitor a
 
 The target-competitor misprediction stems from the fact that the model choices ceom from the utility of each option, calculated through a linear combination of experimental factors and model coefficients, including target/competitor/decoy status. The model could, if the data suggest it, predict that the target has greater utility than the competitor or vice versa. However, because best-choice proportions are positively related to utility and worst-choice proportions are negatively related to utility, the model cannot simultaneously predict $B(C)>B(T)$ and $W(T)<W(C)$. 
 
-I also show participant-level predictions in \ref{fig:maxdiff_sub_preds}. The generally does a poor job at accounting for participant worst-choice proportions, though it performs fair in the best choice 
+I also show participant-level predictions in \ref{fig:maxdiff_sub_preds}. The generally does a poor job at accounting for participant worst-choice proportions, though it performs fair in the best choice condition. 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/maxdiff_2_means_model_v_data.jpeg}
    \caption{Maxdiff model predictions for the mean target, competitor, and decoy best-worst choice proportions.}
@@ -163,5 +180,11 @@ I also show participant-level predictions in \ref{fig:maxdiff_sub_preds}. The ge
    \label{fig:maxdiff_sub_preds}
 \end{figure}
 
-\subsubsection{Dirichlet-Multinomial Modeling}
+\section{Discussion}
+In Experiment 3, I showed that, in support of the perceptual choice model introduced in Chapter 2, perceptual correlations can induce dissociations in best-worst choices through the effect of context. Spefically, given a target, competitor, and decoy option, the competitor is more likely than the target to be selected as best ($B(C)>B(T)$), but the competitor is also more likely than the target to be selected as worst ($W(C)>W(T)$). This prediction was made using the perceptual choice model of Chapter 2, conditioned on the parameters estimated from Experiment 3. Furthermore, the prediction was made with different set of participants and a completely different experimental task. This level of predictive success is quite atypical in psychology and even relatively uncommon in the cognitive modeling literature. 
 
+In demonstrating this effect, I provide evidence that the assumption of a common utility scale, which underlies both best and worst choices, is incorrect. This assumption is held by the maxdiff model, the most common analysis technique for best-worst choice \parencite{marleyProbabilisticModelsBest2005,hawkinsBestTimesWorst2014}. For example, in a review of best-worst choice in healthcare economics,\textcircled{muhlbacher2016experimental} recommended the maxdiff model as an analysis approach. Note that, due to the small effect size, I required amount of data to estimate this dissociation. Most best-worst choice research is applied (for example in transportation and healthcare economics research), where researchers do not have access the amount of participant-level data as I have in this study. Thus, researchers are unlikely to observe the dissociations in best-worst choice and will analyze the data using the maxdiff model. They may then arrive at incorrect conclusions regarding participants' preferences. 
+
+Note that while the most common, the maxdiff model is not the only method of analysis for best-worst choice. \textcite{marleyProbabilisticModelsBest2005} explored numerous theoretical models, including the case where best and worst utilities exist on independent ratio scales, though such a model does not seem to have been adopted by substantive researchers. \textcite{marleyProbabilisticModelsSetdependent2008} demonstrated set-dependent best-worst choice models, which allows for different context dependence based on choice sets, albeit with best and worst choices still a function on a common underlying utility scale. 
+
+\textcite{gervzinivc2021estimating} also argued that participants engage in two distinct processes in best-worst choice. They argued that when participants select the best option, they use a compensatory strategy (i.e., allowing tradeoffs between attributes), while they use a non-compensatory strategy in worst choice (i.e., disallowing tradeoffs and aiming to minimize regret by choosing an option that performs particularly poor on an attribute). They provided statistical evidence that, in a transportation choice study, participants' data can be best accounted for by assuming these two distinct processes. Their study differs from the current Experiment 3, where stimuli are assumed to be unidimensional and participants (presumably) are less interested in miniziming regret. Furthermore, their models assume a common underlying utility scale for choice options, with different transformations applied to these utilities based on whether the decision maker is in the best or worst stage of a best-choice trial. Such a result is interesting but theoretically distinct from the current conclusiosn.

@@ -1838,6 +1838,120 @@
       \field{pages}{124\bibrangedash 132}
       \range{pages}{9}
     \endentry
+    \entry{gervzinivc2021estimating}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=45ee86e951c4cade7c3ced335f5ac98b}{%
+           family={Geržinič},
+           familyi={G\bibinitperiod},
+           given={Nejc},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00428a2e8872d6bffc4f8d2233eba81}{%
+           family={Cranenburgh},
+           familyi={C\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=28029da6230f4cb17e76c3f1be2a5682}{%
+           family={Cats},
+           familyi={C\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dbdf417aef87a25d327f8b0cbdb7d4b}{%
+           family={Lancsar},
+           familyi={L\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=584a6504a010733f6fa17cc7b24b84bc}{%
+           family={Chorus},
+           familyi={C\bibinitperiod},
+           given={Caspar},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ddf9fe6780374b025b81892b40cdaf99}
+      \strng{fullhash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{bibnamehash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{authorbibnamehash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{authornamehash}{ddf9fe6780374b025b81892b40cdaf99}
+      \strng{authorfullhash}{982053d2ab5308e9a1c4f020d79156bc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{title}{Estimating decision rule differences between ‘best’and ‘worst’choices in a sequential best worst discrete choice experiment}
+      \field{volume}{41}
+      \field{year}{2021}
+      \field{pages}{100307}
+      \range{pages}{1}
+    \endentry
+    \entry{gronau2023choice}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fa7094b2d75ad1d457f8089a8f6937ff}{%
+           family={Gronau},
+           familyi={G\bibinitperiod},
+           given={Quentin\bibnamedelima F},
+           giveni={Q\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=317f036f71345b5f82c0f093d13a24d8}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Murray\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=702bd9f517ccedb2aeaf52c4d62802f8}{%
+           family={Eidels},
+           familyi={E\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cd93aa0b0e35cb4f659fb16fa78d6e02}
+      \strng{fullhash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{bibnamehash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{authorbibnamehash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{authornamehash}{cd93aa0b0e35cb4f659fb16fa78d6e02}
+      \strng{authorfullhash}{d8003cd417ee2264d4f11d3d825290c6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{title}{Do choice tasks and rating scales elicit the same judgments?}
+      \field{volume}{49}
+      \field{year}{2023}
+      \field{pages}{100437}
+      \range{pages}{1}
+    \endentry
     \entry{haaijer1998utility}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7b8a79794b399d9301e2cf0d9be89007}{%
@@ -3228,6 +3342,56 @@
       \field{year}{2008}
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
+    \endentry
+    \entry{muhlbacher2016experimental}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=68cf8121f3481806c0f366c52a3b17fb}{%
+           family={Mühlbacher},
+           familyi={M\bibinitperiod},
+           given={Axel\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3658ddf79e638e0af2d88afdb9ecfab3}{%
+           family={Zweifel},
+           familyi={Z\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=670d11e004b70ecc533f34ae1328cb91}{%
+           family={Kaczynski},
+           familyi={K\bibinitperiod},
+           given={Anika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63a4d8770c4cad71327d578f86066d01}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={F\bibnamedelima Reed},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d600361e85e35a8ae235e14c5c66fcf6}
+      \strng{fullhash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{bibnamehash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{authorbibnamehash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{authornamehash}{d600361e85e35a8ae235e14c5c66fcf6}
+      \strng{authorfullhash}{72a155c877c04ec2f17750aaad84ac5b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health economics review}
+      \field{title}{Experimental measurement of preferences in health care using best-worst scaling (BWS): theoretical and statistical issues}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
     \endentry
     \entry{natenzon2019random}{article}{}
       \name{author}{1}{}{%
@@ -6867,6 +7031,120 @@
       \field{pages}{124\bibrangedash 132}
       \range{pages}{9}
     \endentry
+    \entry{gervzinivc2021estimating}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=45ee86e951c4cade7c3ced335f5ac98b}{%
+           family={Geržinič},
+           familyi={G\bibinitperiod},
+           given={Nejc},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00428a2e8872d6bffc4f8d2233eba81}{%
+           family={Cranenburgh},
+           familyi={C\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=28029da6230f4cb17e76c3f1be2a5682}{%
+           family={Cats},
+           familyi={C\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dbdf417aef87a25d327f8b0cbdb7d4b}{%
+           family={Lancsar},
+           familyi={L\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=584a6504a010733f6fa17cc7b24b84bc}{%
+           family={Chorus},
+           familyi={C\bibinitperiod},
+           given={Caspar},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ddf9fe6780374b025b81892b40cdaf99}
+      \strng{fullhash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{bibnamehash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{authorbibnamehash}{982053d2ab5308e9a1c4f020d79156bc}
+      \strng{authornamehash}{ddf9fe6780374b025b81892b40cdaf99}
+      \strng{authorfullhash}{982053d2ab5308e9a1c4f020d79156bc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{title}{Estimating decision rule differences between ‘best’and ‘worst’choices in a sequential best worst discrete choice experiment}
+      \field{volume}{41}
+      \field{year}{2021}
+      \field{pages}{100307}
+      \range{pages}{1}
+    \endentry
+    \entry{gronau2023choice}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fa7094b2d75ad1d457f8089a8f6937ff}{%
+           family={Gronau},
+           familyi={G\bibinitperiod},
+           given={Quentin\bibnamedelima F},
+           giveni={Q\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=317f036f71345b5f82c0f093d13a24d8}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Murray\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=702bd9f517ccedb2aeaf52c4d62802f8}{%
+           family={Eidels},
+           familyi={E\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cd93aa0b0e35cb4f659fb16fa78d6e02}
+      \strng{fullhash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{bibnamehash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{authorbibnamehash}{d8003cd417ee2264d4f11d3d825290c6}
+      \strng{authornamehash}{cd93aa0b0e35cb4f659fb16fa78d6e02}
+      \strng{authorfullhash}{d8003cd417ee2264d4f11d3d825290c6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{title}{Do choice tasks and rating scales elicit the same judgments?}
+      \field{volume}{49}
+      \field{year}{2023}
+      \field{pages}{100437}
+      \range{pages}{1}
+    \endentry
     \entry{haaijer1998utility}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7b8a79794b399d9301e2cf0d9be89007}{%
@@ -8257,6 +8535,56 @@
       \field{year}{2008}
       \field{pages}{61\bibrangedash 64}
       \range{pages}{4}
+    \endentry
+    \entry{muhlbacher2016experimental}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=68cf8121f3481806c0f366c52a3b17fb}{%
+           family={Mühlbacher},
+           familyi={M\bibinitperiod},
+           given={Axel\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3658ddf79e638e0af2d88afdb9ecfab3}{%
+           family={Zweifel},
+           familyi={Z\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=670d11e004b70ecc533f34ae1328cb91}{%
+           family={Kaczynski},
+           familyi={K\bibinitperiod},
+           given={Anika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63a4d8770c4cad71327d578f86066d01}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={F\bibnamedelima Reed},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d600361e85e35a8ae235e14c5c66fcf6}
+      \strng{fullhash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{bibnamehash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{authorbibnamehash}{72a155c877c04ec2f17750aaad84ac5b}
+      \strng{authornamehash}{d600361e85e35a8ae235e14c5c66fcf6}
+      \strng{authorfullhash}{72a155c877c04ec2f17750aaad84ac5b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health economics review}
+      \field{title}{Experimental measurement of preferences in health care using best-worst scaling (BWS): theoretical and statistical issues}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
     \endentry
     \entry{natenzon2019random}{article}{}
       \name{author}{1}{}{%
