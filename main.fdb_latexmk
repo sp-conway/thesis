@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1747419917 "main.bcf" "main.bbl" "main" 1747419950
-  "Papers.bib" 1747419144 687774 06b6ec4a527f3f279c77c78b4223af7d ""
-  "main.bcf" 1747419950 158707 80838899095f097288ada9c011aa7af0 "pdflatex"
+["biber main"] 1747432871 "main.bcf" "main.bbl" "main" 1747432915
+  "Papers.bib" 1747432436 689336 bcf4b5db6e65172d9b41d45d982b236d ""
+  "main.bcf" 1747432915 159777 a814f04c1682986f69261af640f36530 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1747419939 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1747419950
+["pdflatex"] 1747432904 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1747432915
   "/Users/seanconway/Research/Dissertation/thesis/main.tex" 1747407232 9843 4d14d3069c7467433792500bd2b12286 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -135,8 +135,8 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "abstract.tex" 0 -1 0 ""
   "chapter2.tex" 1747413488 54245 37012bf195a52e37d074bb1ba9c06cf7 ""
-  "chapter3.tex" 1747419914 25186 2ea5ced6ec82ae866aa5eec29aced565 ""
-  "chapter4.tex" 1745595565 3565 b39d397e13ee91679b75aab970c22738 ""
+  "chapter3.tex" 1747432860 27472 17073a7f39b48a970d01fe7274f7ebc9 ""
+  "chapter4.tex" 1747431204 3552 33c67ab47cf3ac6e17d223e486cd025f ""
   "figures/3d_sim_rst.jpg" 1736445933 925095 090995841c4eb857f2530f811339b89d ""
   "figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg" 1744204755 1209760 0c77aff71c0da0bbf3c3c3e41c408c57 ""
   "figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg" 1743522893 130319 9b4baf470ff457f8cc655bc24d4b9ca3 ""
@@ -159,14 +159,14 @@
   "figures/spektor_data_collapsed.jpeg" 1747066181 669050 d4039e012396c5048bfc05812285cf63 ""
   "figures/spektor_stim.png" 1737145948 260906 2450c2a9be4562ff95247e1576895d65 ""
   "introduction.tex" 1747229261 14679 f7c338d1a9e518227a7e76b9479f3f4c ""
-  "main.aux" 1747419950 74345 98086e41e4c743474846a3dd55d34a14 "pdflatex"
-  "main.bbl" 1747419928 496052 883784a7a7eed14c24d0fc1790711f2c "biber main"
-  "main.lof" 1747419950 5357 8bab12afe15b455a9b85d92372a9e655 "pdflatex"
-  "main.lot" 1747419950 140 104a8a462b27a2267fd07b368245cdd0 "pdflatex"
-  "main.out" 1747419950 8588 d9ca71ba1c62700fac115466bc4cbc8b "pdflatex"
-  "main.run.xml" 1747419950 2423 cb3259ea20f8a77c88badc7eed279573 "pdflatex"
+  "main.aux" 1747432915 77145 a5a5b9843c31a864ed9aaca9860cc9f8 "pdflatex"
+  "main.bbl" 1747432880 543752 cc2950dcdcfe94c69a17ffd97f4ded54 "biber main"
+  "main.lof" 1747432915 5357 8bab12afe15b455a9b85d92372a9e655 "pdflatex"
+  "main.lot" 1747432915 140 104a8a462b27a2267fd07b368245cdd0 "pdflatex"
+  "main.out" 1747432915 8588 d9ca71ba1c62700fac115466bc4cbc8b "pdflatex"
+  "main.run.xml" 1747432915 2423 cb3259ea20f8a77c88badc7eed279573 "pdflatex"
   "main.tex" 1747407232 9843 4d14d3069c7467433792500bd2b12286 ""
-  "main.toc" 1747419950 5080 310de18b520ab8971edbac211ec9b645 "pdflatex"
+  "main.toc" 1747432915 5080 43d70be75a58f86bc88096ed4117765a "pdflatex"
   "umassthesis.cls" 1736288086 25871 372c0961d5d3ab1dbc2915d1789050c3 ""
   "umth12pt.clo" 1736288086 545 e35da8c22c00585b5e2845898ba621b3 ""
   "umthstd.clo" 1736288086 4314 d52c76fcb0f430f9d60dbaa6fa33c5bd ""

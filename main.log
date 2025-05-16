@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  16 MAY 2025 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  16 MAY 2025 18:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,32 +832,37 @@ File: figures/maxdiff_2_subjectmeans_model_v_data.jpeg Graphic file (type jpg)
 <use figures/maxdiff_2_subjectmeans_model_v_data.jpeg>
 Package pdftex.def Info: figures/maxdiff_2_subjectmeans_model_v_data.jpeg  used on input line 178.
 (pdftex.def)             Requested size: 433.62pt x 433.6013pt.
- [57] [58 <./figures/maxdiff_2_means_model_v_data.jpeg>] [59 <./figures/maxdiff_2_subjectmeans_model_v_data.jpeg>] [60]) [61]
+ [57] [58 <./figures/maxdiff_2_means_model_v_data.jpeg>] [59 <./figures/maxdiff_2_subjectmeans_model_v_data.jpeg>] [60] [61]) [62]
 Chapter 4.
-(./chapter4.tex [62
+(./chapter4.tex [63
 
 ]
 Overfull \hbox (0.8167pt too wide) in paragraph at lines 12--13
 []\OT1/cmr/m/n/12 Other re-searchers have demon-strated con-text ef-fects with rat-ings mea-sures. []Wedell
  []
 
-) [63]
+) [64]
 
 Package hyperref Warning: bookmark level for unknown BackMatter defaults to 0.
 
-[64
+[65
 
-] [65] [66] [67]
+] [66] [67] [68] [69]
+Overfull \hbox (2.20251pt too wide) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 Mod-el-ing the choices of in-di-vid-ual decision-makers by com-bin-ing ef-fi-cient choice
+ []
+
+
 Overfull \hbox (0.48807pt too wide) in paragraph at lines 274--274
 \OT1/cmr/m/n/12 best{worst choices. \OT1/cmr/m/it/12 Jour-nal of Math-e-mat-i-cal Psy-chol-ogy\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 49\OT1/cmr/m/n/12 (6), 464{480. []$https :
  []
 
-[68] [69] [70]
+[70] [71] [72]
 Overfull \hbox (14.83795pt too wide) in paragraph at lines 274--274
 [][]\OT1/cmr/m/n/12 Stephens, R. G., Matzke, D., & Hayes, B. K. (2020). State-trace anal-y-sis|misrepresented
  []
 
-[71] [72] (./main.aux)
+[73] [74] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -869,18 +874,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19531 strings out of 474116
- 363507 string characters out of 5743681
- 1944187 words of memory out of 5000000
- 41366 multiletter control sequences out of 15000+600000
+ 19606 strings out of 474116
+ 366518 string characters out of 5743681
+ 1943187 words of memory out of 5000000
+ 41429 multiletter control sequences out of 15000+600000
  567231 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,14n,81p,2252b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (83 pages, 10285348 bytes).
+Output written on main.pdf (85 pages, 10290886 bytes).
 PDF statistics:
- 1366 PDF objects out of 1440 (max. 8388607)
- 1206 compressed objects within 13 object streams
- 289 named destinations out of 1000 (max. 500000)
+ 1405 PDF objects out of 1440 (max. 8388607)
+ 1243 compressed objects within 13 object streams
+ 301 named destinations out of 1000 (max. 500000)
  546 words of extra memory for PDF output out of 10000 (max. 10000000)
 

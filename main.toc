@@ -49,7 +49,7 @@
 \contentsline {subsubsection}{\numberline {3.2.2.4}Modeling.}{54}{subsubsection.3.2.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.2.5}Maxdiff Modeling}{57}{subsubsection.3.2.2.5}%
 \contentsline {section}{\numberline {3.3}Discussion}{60}{section.3.3}%
-\contentsline {Chapter}{\numberline {4.}\MakeTextUppercase []{Valuations and Correlations in Preferential Choice}}{62}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{62}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Previous Research}{63}{subsection.4.1.1}%
-\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{64}{chapter*.5}%
+\contentsline {Chapter}{\numberline {4.}\MakeTextUppercase []{Valuations and Correlations in Preferential Choice}}{63}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{63}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Previous Research}{64}{subsection.4.1.1}%
+\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{65}{chapter*.5}%

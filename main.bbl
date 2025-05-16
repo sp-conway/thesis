@@ -704,6 +704,88 @@
       \field{pages}{433\bibrangedash 436}
       \range{pages}{4}
     \endentry
+    \entry{brazellNochoiceOptionDual2006b}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7629fca8f9aba73b923ae33ecdb879b8}{%
+           family={Brazell},
+           familyi={B\bibinitperiod},
+           given={Jeff\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3347f55310316a33378afd19809adb88}{%
+           family={Diener},
+           familyi={D\bibinitperiod},
+           given={Christopher\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f6092e34d6e31c7c78493e4649402e1}{%
+           family={Karniouchina},
+           familyi={K\bibinitperiod},
+           given={Ekaterina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f866d5e70495865208a1d910d79edbe0}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9f216674f7dc00dce13893d484e03ba}{%
+           family={Séverin},
+           familyi={S\bibinitperiod},
+           given={Válerie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed40b72b185ee41f5e8974bda9da025a}{%
+           family={Uldry},
+           familyi={U\bibinitperiod},
+           given={Pierre-Francois},
+           giveni={P\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13e194a05a289eb5907d48938843ea8a}
+      \strng{fullhash}{aa58b02301e122fa676e2babde922643}
+      \strng{bibnamehash}{aa58b02301e122fa676e2babde922643}
+      \strng{authorbibnamehash}{aa58b02301e122fa676e2babde922643}
+      \strng{authornamehash}{13e194a05a289eb5907d48938843ea8a}
+      \strng{authorfullhash}{aa58b02301e122fa676e2babde922643}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Choice set designs that include a constant or no-choice option have increased efﬁciency, better mimic consumer choices, and allow one to model changes in market size. However, when the no-choice option is selected no information is obtained on the relative attractiveness of the available alternatives. One potential solution to this problem is to use a dual response format in which respondents ﬁrst choose among a set of available alternatives in a forced-choice task and then choose among the available alternatives and a no-choice option.}
+      \field{issn}{0923-0645, 1573-059X}
+      \field{journaltitle}{Marketing Letters}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{The no-choice option and dual response choice designs}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{255\bibrangedash 268}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11002-006-7943-8
+      \endverb
+      \verb{file}
+      \verb Brazell_et_al_2006.pdf:/Users/seanconway/Reading/Papers/Brazell_et_al_2006.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11002-006-7943-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11002-006-7943-8
+      \endverb
+    \endentry
     \entry{breidertREVIEWMETHODSMEASURING2006}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=dafc194e475513562fc7590b4078dda3}{%
@@ -1045,6 +1127,71 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
       \endverb
     \endentry
+    \entry{chernevChoiceOverloadConceptual2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7cec4202fba318743c2d3da032dc1af6}{%
+           family={Chernev},
+           familyi={C\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=860d2259b4f106fccf008da1226ea569}{%
+           family={Böckenholt},
+           familyi={B\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfe862484a4c7866abcf8f123015d6c8}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13edcd45f916cf358bdc1ac4d53aa94e}
+      \strng{fullhash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{bibnamehash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{authorbibnamehash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{authornamehash}{13edcd45f916cf358bdc1ac4d53aa94e}
+      \strng{authorfullhash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Despite the voluminous evidence in support of the paradoxical ﬁnding that providing individuals with more options can be detrimental to choice, the question of whether and when large assortments impede choice remains open. Even though extant research has identiﬁed a variety of antecedents and consequences of choice overload, the ﬁndings of the individual studies fail to come together into a cohesive understanding of when large assortments can beneﬁt choice and when they can be detrimental to choice. In a meta-analysis of 99 observations (N = 7202) reported by prior research, we identify four key factors—choice set complexity, decision task difﬁculty, preference uncertainty, and decision goal—that moderate the impact of assortment size on choice overload. We further show that each of these four factors has a reliable and signiﬁcant impact on choice overload, whereby higher levels of decision task difﬁculty, greater choice set complexity, higher preference uncertainty, and a more prominent, effort-minimizing goal facilitate choice overload. We also ﬁnd that four of the measures of choice overload used in prior research—satisfaction/conﬁdence, regret, choice deferral, and switching likelihood—are equally powerful measures of choice overload and can be used interchangeably. Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is signiﬁcant—a ﬁnding counter to the data reported by prior meta-analytic research.}
+      \field{issn}{10577408}
+      \field{journaltitle}{Journal of Consumer Psychology}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Choice overload}
+      \field{title}{Choice overload: {A} conceptual review and meta-analysis}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{333\bibrangedash 358}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/j.jcps.2014.08.002
+      \endverb
+      \verb{file}
+      \verb Chernev_et_al_2015.pdf:/Users/seanconway/Reading/Papers/Chernev_et_al_2015.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1016/j.jcps.2014.08.002
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1016/j.jcps.2014.08.002
+      \endverb
+    \endentry
     \entry{cheung2016using}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
@@ -1344,6 +1491,162 @@
       \field{year}{2015}
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
+    \endentry
+    \entry{dhar1997consumer}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{fullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{bibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorbibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authornamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorfullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of consumer research}
+      \field{number}{2}
+      \field{title}{Consumer preference for a no-choice option}
+      \field{volume}{24}
+      \field{year}{1997}
+      \field{pages}{215\bibrangedash 231}
+      \range{pages}{17}
+    \endentry
+    \entry{dhar1997context}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{fullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{bibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorbibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authornamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorfullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marketing Letters}
+      \field{title}{Context and task effects on choice deferral}
+      \field{volume}{8}
+      \field{year}{1997}
+      \field{pages}{119\bibrangedash 130}
+      \range{pages}{12}
+    \endentry
+    \entry{dhar1996effect}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8440aeb4c1cf3fdbe27a97ea1a5043a}{%
+           family={Sherman},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{fullhash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{bibnamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authorbibnamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authornamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authorfullhash}{209c1da445d2cc3ecf165a2829f740af}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Consumer Research}
+      \field{number}{3}
+      \field{title}{The effect of common and unique features in consumer choice}
+      \field{volume}{23}
+      \field{year}{1996}
+      \field{pages}{193\bibrangedash 203}
+      \range{pages}{11}
+    \endentry
+    \entry{dharEffectForcedChoice2003b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{fullhash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{bibnamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authorbibnamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authornamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authorfullhash}{6b342195c9830557a9a90f3dc2d89937}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{number}{2}
+      \field{title}{The {Effect} of {Forced} {Choice} on {Choice}}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{pages}{146\bibrangedash 160}
+      \range{pages}{15}
+      \verb{file}
+      \verb Dhar_Simonson_2003.pdf:/Users/seanconway/Reading/Papers/Dhar_Simonson_2003.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/30038845
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/30038845
+      \endverb
     \endentry
     \entry{doyleRobustnessAsymmetricallyDominated1999}{article}{}
       \name{author}{4}{}{%
@@ -2713,6 +3016,69 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.2220
       \endverb
     \endentry
+    \entry{louviere2008modeling}{article}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=88e741b265d140f3545b5aab60a0e1ae}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f78472a3c28f7cc1ad530533b6893fb}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Leonie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64af1e8e05c06f451268d1054d472293}{%
+           family={Wasi},
+           familyi={W\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31d69bf9aa105275c4b7032685e9d873}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Towhidul},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b75f5656a809b26e05052ae089e8341}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={Anthony\bibnamedelima AJ},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{fullhash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{bibnamehash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{authorbibnamehash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{authornamehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{authorfullhash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{number}{1}
+      \field{title}{Modeling the choices of individual decision-makers by combining efficient choice experiment designs with extra preference information}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{128\bibrangedash 164}
+      \range{pages}{37}
+    \endentry
     \entry{mackay1995probabilistic}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=649ac69e667f42e001a393930a14c560}{%
@@ -3465,6 +3831,64 @@
       \field{pages}{285\bibrangedash 290}
       \range{pages}{6}
     \endentry
+    \entry{noguchiDescriptionexperienceGapChoice2016a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d30155347005b5482dbb51ab873f7f47}{%
+           family={Hills},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{fullhash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{bibnamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authorbibnamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authornamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authorfullhash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Facing a large set of alternatives has previously been reported to lead to choice overload, including choice deferral. Recent studies, however, imply that choice deferral is more tightly associated with the difﬁculty in evaluating alternatives than with set size: when alternatives are difﬁcult to evaluate, people often defer a choice. This implication is examined in the present study, using alternatives with probabilistic payoffs in 2 paradigms: the description paradigm—with full probability and payoff information provided at 1 time—and the sampling paradigm—with search revealing 1 payoff at a time and repeated search required to derive probabilities and payoffs. The results show that in both paradigms, choice deferral is less frequent when set size is large. Also, the difﬁculty in evaluating alternatives inﬂuences choice deferral in the description paradigm but not in the sampling paradigm: when a payoff from an alternative can take many possible values, a choice is more likely deferred in the description paradigm. In the sampling paradigm, in contrast, information search is often insufﬁcient for people to recognize the difﬁculty in evaluating alternatives. These results point to a description-experience gap in choice deferral.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Description-experience gap in choice deferral.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{54\bibrangedash 61}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1037/dec0000044
+      \endverb
+      \verb{file}
+      \verb Noguchi_Hills_2016.pdf:/Users/seanconway/Reading/Papers/Noguchi_Hills_2016.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000044
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000044
+      \endverb
+    \endentry
     \entry{noguchi2014attraction}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -3609,6 +4033,45 @@
       \field{year}{1995}
       \field{pages}{85\bibrangedash 101}
       \range{pages}{17}
+    \endentry
+    \entry{parker2011rejectable}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9d41e5250fe05162c07c4de9e9f23c75}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Jeffrey\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac8c0b6bfab06ef02fd66df70bc090ec}{%
+           family={Schrift},
+           familyi={S\bibinitperiod},
+           given={Rom\bibnamedelima Y},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{fullhash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{bibnamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authorbibnamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authornamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authorfullhash}{718b867d6969080112499d17c5ad2fc6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of marketing research}
+      \field{number}{5}
+      \field{title}{Rejectable choice sets: How seemingly irrelevant no-choice options affect consumer decision processes}
+      \field{volume}{48}
+      \field{year}{2011}
+      \field{pages}{840\bibrangedash 854}
+      \range{pages}{15}
     \endentry
     \entry{pettiboneExaminingModelsNondominated2000}{article}{}
       \name{author}{2}{}{%
@@ -4869,6 +5332,55 @@
       \range{pages}{19}
       \verb{file}
       \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{tverskyChoiceConflictDynamics1992a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95914e1fa470b15a1f841b7b75fcc9f0}{%
+           family={Shafir},
+           familyi={S\bibinitperiod},
+           given={Eldar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{fullhash}{601d466faf167077fddd52dac68dd70a}
+      \strng{bibnamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authorbibnamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authornamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authorfullhash}{601d466faf167077fddd52dac68dd70a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Choice often produces conflict. This notion, however, plays no role in classical decision theory, in which each alternative is assigned a value, and the decision maker selects from every choice set the option with the highest value. We contrast this principle of value maximization with the hypothesis that the option to delay choice or seek new alternatives is more likely to be selected when conflict is high than when it is low. This hypothesis is supported by several studies showing that the tendency to defer decision, search for new alternatives, or choose the default option can be increased when the offered set is enlarged or improved, contrary to the principle of value maximization.}
+      \field{journaltitle}{Psychological Science}
+      \field{number}{6}
+      \field{title}{Choice under {Conflict}: {The} {Dynamics} of {Deferred} {Decision}}
+      \field{volume}{3}
+      \field{year}{1992}
+      \field{pages}{358\bibrangedash 361}
+      \range{pages}{4}
+      \verb{file}
+      \verb Tversky_Shafir_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Shafir_1992.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/40062808
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/40062808
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
@@ -5897,6 +6409,88 @@
       \field{pages}{433\bibrangedash 436}
       \range{pages}{4}
     \endentry
+    \entry{brazellNochoiceOptionDual2006b}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7629fca8f9aba73b923ae33ecdb879b8}{%
+           family={Brazell},
+           familyi={B\bibinitperiod},
+           given={Jeff\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3347f55310316a33378afd19809adb88}{%
+           family={Diener},
+           familyi={D\bibinitperiod},
+           given={Christopher\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f6092e34d6e31c7c78493e4649402e1}{%
+           family={Karniouchina},
+           familyi={K\bibinitperiod},
+           given={Ekaterina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f866d5e70495865208a1d910d79edbe0}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9f216674f7dc00dce13893d484e03ba}{%
+           family={Séverin},
+           familyi={S\bibinitperiod},
+           given={Válerie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed40b72b185ee41f5e8974bda9da025a}{%
+           family={Uldry},
+           familyi={U\bibinitperiod},
+           given={Pierre-Francois},
+           giveni={P\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13e194a05a289eb5907d48938843ea8a}
+      \strng{fullhash}{aa58b02301e122fa676e2babde922643}
+      \strng{bibnamehash}{aa58b02301e122fa676e2babde922643}
+      \strng{authorbibnamehash}{aa58b02301e122fa676e2babde922643}
+      \strng{authornamehash}{13e194a05a289eb5907d48938843ea8a}
+      \strng{authorfullhash}{aa58b02301e122fa676e2babde922643}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Choice set designs that include a constant or no-choice option have increased efﬁciency, better mimic consumer choices, and allow one to model changes in market size. However, when the no-choice option is selected no information is obtained on the relative attractiveness of the available alternatives. One potential solution to this problem is to use a dual response format in which respondents ﬁrst choose among a set of available alternatives in a forced-choice task and then choose among the available alternatives and a no-choice option.}
+      \field{issn}{0923-0645, 1573-059X}
+      \field{journaltitle}{Marketing Letters}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{The no-choice option and dual response choice designs}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{255\bibrangedash 268}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11002-006-7943-8
+      \endverb
+      \verb{file}
+      \verb Brazell_et_al_2006.pdf:/Users/seanconway/Reading/Papers/Brazell_et_al_2006.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11002-006-7943-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11002-006-7943-8
+      \endverb
+    \endentry
     \entry{breidertREVIEWMETHODSMEASURING2006}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=dafc194e475513562fc7590b4078dda3}{%
@@ -6238,6 +6832,71 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.574
       \endverb
     \endentry
+    \entry{chernevChoiceOverloadConceptual2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7cec4202fba318743c2d3da032dc1af6}{%
+           family={Chernev},
+           familyi={C\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=860d2259b4f106fccf008da1226ea569}{%
+           family={Böckenholt},
+           familyi={B\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfe862484a4c7866abcf8f123015d6c8}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13edcd45f916cf358bdc1ac4d53aa94e}
+      \strng{fullhash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{bibnamehash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{authorbibnamehash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \strng{authornamehash}{13edcd45f916cf358bdc1ac4d53aa94e}
+      \strng{authorfullhash}{a0f5326f7652b4ce81b80da849eee9cc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Despite the voluminous evidence in support of the paradoxical ﬁnding that providing individuals with more options can be detrimental to choice, the question of whether and when large assortments impede choice remains open. Even though extant research has identiﬁed a variety of antecedents and consequences of choice overload, the ﬁndings of the individual studies fail to come together into a cohesive understanding of when large assortments can beneﬁt choice and when they can be detrimental to choice. In a meta-analysis of 99 observations (N = 7202) reported by prior research, we identify four key factors—choice set complexity, decision task difﬁculty, preference uncertainty, and decision goal—that moderate the impact of assortment size on choice overload. We further show that each of these four factors has a reliable and signiﬁcant impact on choice overload, whereby higher levels of decision task difﬁculty, greater choice set complexity, higher preference uncertainty, and a more prominent, effort-minimizing goal facilitate choice overload. We also ﬁnd that four of the measures of choice overload used in prior research—satisfaction/conﬁdence, regret, choice deferral, and switching likelihood—are equally powerful measures of choice overload and can be used interchangeably. Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is signiﬁcant—a ﬁnding counter to the data reported by prior meta-analytic research.}
+      \field{issn}{10577408}
+      \field{journaltitle}{Journal of Consumer Psychology}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Choice overload}
+      \field{title}{Choice overload: {A} conceptual review and meta-analysis}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{333\bibrangedash 358}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/j.jcps.2014.08.002
+      \endverb
+      \verb{file}
+      \verb Chernev_et_al_2015.pdf:/Users/seanconway/Reading/Papers/Chernev_et_al_2015.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1016/j.jcps.2014.08.002
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1016/j.jcps.2014.08.002
+      \endverb
+    \endentry
     \entry{cheung2016using}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=106aa709ded6767b770c3d54859ff46b}{%
@@ -6537,6 +7196,162 @@
       \field{year}{2015}
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
+    \endentry
+    \entry{dhar1997consumer}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{fullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{bibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorbibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authornamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorfullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of consumer research}
+      \field{number}{2}
+      \field{title}{Consumer preference for a no-choice option}
+      \field{volume}{24}
+      \field{year}{1997}
+      \field{pages}{215\bibrangedash 231}
+      \range{pages}{17}
+    \endentry
+    \entry{dhar1997context}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{fullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{bibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorbibnamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authornamehash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \strng{authorfullhash}{571deea59f83fbf4df92c3b9f0267ef2}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marketing Letters}
+      \field{title}{Context and task effects on choice deferral}
+      \field{volume}{8}
+      \field{year}{1997}
+      \field{pages}{119\bibrangedash 130}
+      \range{pages}{12}
+    \endentry
+    \entry{dhar1996effect}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8440aeb4c1cf3fdbe27a97ea1a5043a}{%
+           family={Sherman},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{fullhash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{bibnamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authorbibnamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authornamehash}{209c1da445d2cc3ecf165a2829f740af}
+      \strng{authorfullhash}{209c1da445d2cc3ecf165a2829f740af}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Consumer Research}
+      \field{number}{3}
+      \field{title}{The effect of common and unique features in consumer choice}
+      \field{volume}{23}
+      \field{year}{1996}
+      \field{pages}{193\bibrangedash 203}
+      \range{pages}{11}
+    \endentry
+    \entry{dharEffectForcedChoice2003b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
+           family={Simonson},
+           familyi={S\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{fullhash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{bibnamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authorbibnamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authornamehash}{6b342195c9830557a9a90f3dc2d89937}
+      \strng{authorfullhash}{6b342195c9830557a9a90f3dc2d89937}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{number}{2}
+      \field{title}{The {Effect} of {Forced} {Choice} on {Choice}}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{pages}{146\bibrangedash 160}
+      \range{pages}{15}
+      \verb{file}
+      \verb Dhar_Simonson_2003.pdf:/Users/seanconway/Reading/Papers/Dhar_Simonson_2003.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/30038845
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/30038845
+      \endverb
     \endentry
     \entry{doyleRobustnessAsymmetricallyDominated1999}{article}{}
       \name{author}{4}{}{%
@@ -7906,6 +8721,69 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.2220
       \endverb
     \endentry
+    \entry{louviere2008modeling}{article}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=88e741b265d140f3545b5aab60a0e1ae}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f78472a3c28f7cc1ad530533b6893fb}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Leonie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64af1e8e05c06f451268d1054d472293}{%
+           family={Wasi},
+           familyi={W\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31d69bf9aa105275c4b7032685e9d873}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Towhidul},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b75f5656a809b26e05052ae089e8341}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={Anthony\bibnamedelima AJ},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{fullhash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{bibnamehash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{authorbibnamehash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \strng{authornamehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{authorfullhash}{4f754f7b14ef239fe2a1812c45b3f3d7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of choice modelling}
+      \field{number}{1}
+      \field{title}{Modeling the choices of individual decision-makers by combining efficient choice experiment designs with extra preference information}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{128\bibrangedash 164}
+      \range{pages}{37}
+    \endentry
     \entry{mackay1995probabilistic}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=649ac69e667f42e001a393930a14c560}{%
@@ -8658,6 +9536,64 @@
       \field{pages}{285\bibrangedash 290}
       \range{pages}{6}
     \endentry
+    \entry{noguchiDescriptionexperienceGapChoice2016a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d30155347005b5482dbb51ab873f7f47}{%
+           family={Hills},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{fullhash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{bibnamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authorbibnamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authornamehash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \strng{authorfullhash}{d95d91aedd9c508ddc12bfa5c91db074}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Facing a large set of alternatives has previously been reported to lead to choice overload, including choice deferral. Recent studies, however, imply that choice deferral is more tightly associated with the difﬁculty in evaluating alternatives than with set size: when alternatives are difﬁcult to evaluate, people often defer a choice. This implication is examined in the present study, using alternatives with probabilistic payoffs in 2 paradigms: the description paradigm—with full probability and payoff information provided at 1 time—and the sampling paradigm—with search revealing 1 payoff at a time and repeated search required to derive probabilities and payoffs. The results show that in both paradigms, choice deferral is less frequent when set size is large. Also, the difﬁculty in evaluating alternatives inﬂuences choice deferral in the description paradigm but not in the sampling paradigm: when a payoff from an alternative can take many possible values, a choice is more likely deferred in the description paradigm. In the sampling paradigm, in contrast, information search is often insufﬁcient for people to recognize the difﬁculty in evaluating alternatives. These results point to a description-experience gap in choice deferral.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Description-experience gap in choice deferral.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{54\bibrangedash 61}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1037/dec0000044
+      \endverb
+      \verb{file}
+      \verb Noguchi_Hills_2016.pdf:/Users/seanconway/Reading/Papers/Noguchi_Hills_2016.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000044
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000044
+      \endverb
+    \endentry
     \entry{noguchi2014attraction}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=406e9983646cd5634a2e928bdcb44e79}{%
@@ -8802,6 +9738,45 @@
       \field{year}{1995}
       \field{pages}{85\bibrangedash 101}
       \range{pages}{17}
+    \endentry
+    \entry{parker2011rejectable}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9d41e5250fe05162c07c4de9e9f23c75}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Jeffrey\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac8c0b6bfab06ef02fd66df70bc090ec}{%
+           family={Schrift},
+           familyi={S\bibinitperiod},
+           given={Rom\bibnamedelima Y},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{fullhash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{bibnamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authorbibnamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authornamehash}{718b867d6969080112499d17c5ad2fc6}
+      \strng{authorfullhash}{718b867d6969080112499d17c5ad2fc6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of marketing research}
+      \field{number}{5}
+      \field{title}{Rejectable choice sets: How seemingly irrelevant no-choice options affect consumer decision processes}
+      \field{volume}{48}
+      \field{year}{2011}
+      \field{pages}{840\bibrangedash 854}
+      \range{pages}{15}
     \endentry
     \entry{pettiboneExaminingModelsNondominated2000}{article}{}
       \name{author}{2}{}{%
@@ -10062,6 +11037,55 @@
       \range{pages}{19}
       \verb{file}
       \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{tverskyChoiceConflictDynamics1992a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95914e1fa470b15a1f841b7b75fcc9f0}{%
+           family={Shafir},
+           familyi={S\bibinitperiod},
+           given={Eldar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{fullhash}{601d466faf167077fddd52dac68dd70a}
+      \strng{bibnamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authorbibnamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authornamehash}{601d466faf167077fddd52dac68dd70a}
+      \strng{authorfullhash}{601d466faf167077fddd52dac68dd70a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Choice often produces conflict. This notion, however, plays no role in classical decision theory, in which each alternative is assigned a value, and the decision maker selects from every choice set the option with the highest value. We contrast this principle of value maximization with the hypothesis that the option to delay choice or seek new alternatives is more likely to be selected when conflict is high than when it is low. This hypothesis is supported by several studies showing that the tendency to defer decision, search for new alternatives, or choose the default option can be increased when the offered set is enlarged or improved, contrary to the principle of value maximization.}
+      \field{journaltitle}{Psychological Science}
+      \field{number}{6}
+      \field{title}{Choice under {Conflict}: {The} {Dynamics} of {Deferred} {Decision}}
+      \field{volume}{3}
+      \field{year}{1992}
+      \field{pages}{358\bibrangedash 361}
+      \range{pages}{4}
+      \verb{file}
+      \verb Tversky_Shafir_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Shafir_1992.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/40062808
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/40062808
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
