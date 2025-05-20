@@ -2630,6 +2630,51 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1111/cogs.12094
       \endverb
     \endentry
+    \entry{hawkins2019like}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31d69bf9aa105275c4b7032685e9d873}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Towhidul},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={AAJ},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Educational Publishing Foundation}%
+      }
+      \strng{namehash}{b440e02a0bbdf86f270e6ac999e96973}
+      \strng{fullhash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{bibnamehash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{authorbibnamehash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{authornamehash}{b440e02a0bbdf86f270e6ac999e96973}
+      \strng{authorfullhash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Decision}
+      \field{number}{3}
+      \field{title}{Like it or not, you are using one value representation.}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{237}
+      \range{pages}{1}
+    \endentry
     \entry{hayes2024attribute}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=56a1473de9ad6ee6a830ebc15a6d9f5c}{%
@@ -8170,6 +8215,51 @@
       \field{labeltitlesource}{title}
       \field{title}{Detection theory: A user's guide}
       \field{year}{2021}
+    \endentry
+    \entry{hawkins2019like}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b2bcbb7c326a4eac19349721500a99f2}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Guy\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31d69bf9aa105275c4b7032685e9d873}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Towhidul},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b86c07d73a4fc54d9b14b416f4317ac4}{%
+           family={Marley},
+           familyi={M\bibinitperiod},
+           given={AAJ},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Educational Publishing Foundation}%
+      }
+      \strng{namehash}{b440e02a0bbdf86f270e6ac999e96973}
+      \strng{fullhash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{bibnamehash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{authorbibnamehash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \strng{authornamehash}{b440e02a0bbdf86f270e6ac999e96973}
+      \strng{authorfullhash}{39fd1e07e2edd99b8df7fc966c4133fd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Decision}
+      \field{number}{3}
+      \field{title}{Like it or not, you are using one value representation.}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{237}
+      \range{pages}{1}
     \endentry
     \entry{hawkinsBestTimesWorst2014}{article}{}
       \name{author}{6}{ul=2}{%

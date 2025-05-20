@@ -244,11 +244,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 OUTPUT main.lof
 INPUT ./introduction.tex
 INPUT ./introduction.tex
 INPUT introduction.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT ./figures/pref_v_percep.jpg
@@ -368,6 +368,11 @@ INPUT ./figures/maxdiff_2_subjectmeans_model_v_data.jpeg
 INPUT ./chapter4.tex
 INPUT ./chapter4.tex
 INPUT chapter4.tex
+INPUT ./figures/banerjee_stim.jpeg
+INPUT ./figures/banerjee_stim.jpeg
+INPUT ./figures/banerjee_stim.jpeg
+INPUT ./figures/banerjee_stim.jpeg
+INPUT ./figures/banerjee_stim.jpeg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
