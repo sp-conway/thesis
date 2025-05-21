@@ -70,73 +70,6 @@
       \field{pages}{437\bibrangedash 466}
       \range{pages}{30}
     \endentry
-    \entry{ashbyUnifiedTheorySimilarity}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=5c45e1b241159700c501e8f4686d8c09}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F.\bibnamedelimi G.},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1789e21a7dfe19d641325d028d4ef0ff}{%
-           family={Perrin},
-           familyi={P\bibinitperiod},
-           given={N.\bibnamedelimi A.},
-           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{fullhash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{bibnamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authorbibnamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authornamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authorfullhash}{2e271169d144fce21558d19d1543bcc1}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Toward a {Unified} {Theory} of {Similarity} and {Recognition}}
-      \field{year}{1988}
-      \verb{file}
-      \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{ashby2019state}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
-      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
-      \field{volume}{91}
-      \field{year}{2019}
-      \field{pages}{195\bibrangedash 200}
-      \range{pages}{6}
-    \endentry
     \entry{ashby2022state}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -165,6 +98,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Mathematical Psychology}
@@ -202,6 +136,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
@@ -210,6 +145,45 @@
       \field{volume}{14}
       \field{year}{1988}
       \field{pages}{33}
+      \range{pages}{1}
+    \endentry
+    \entry{ashbyUnifiedTheorySimilarity}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494f4ea04c0600d50b4b25121923c006}{%
+           family={Perrin},
+           familyi={P\bibinitperiod},
+           given={Nancy\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{fullhash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{bibnamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authorbibnamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authornamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authorfullhash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{1}
+      \field{title}{Toward a unified theory of similarity and recognition.}
+      \field{volume}{95}
+      \field{year}{1988}
+      \field{pages}{124}
       \range{pages}{1}
     \endentry
     \entry{ashbyVarietiesPerceptualIndependence1986a}{article}{}
@@ -240,6 +214,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1939-1471, 0033-295X}
@@ -266,6 +241,39 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
       \endverb
+    \endentry
+    \entry{bamber1979state}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
+           family={Bamber},
+           familyi={B\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{98058815d157b3fdba77fe017020a529}
+      \strng{fullhash}{98058815d157b3fdba77fe017020a529}
+      \strng{bibnamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authorbibnamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authornamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authorfullhash}{98058815d157b3fdba77fe017020a529}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{number}{2}
+      \field{title}{State-trace analysis: A method of testing simple theories of causation}
+      \field{volume}{19}
+      \field{year}{1979}
+      \field{pages}{137\bibrangedash 181}
+      \range{pages}{45}
     \endentry
     \entry{banerjeeFactorsThatPromote2024}{article}{}
       \name{author}{6}{}{%
@@ -422,7 +430,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{1}
       \field{title}{Signal detection with criterion noise: applications to recognition memory.}
       \field{volume}{116}
@@ -826,7 +834,7 @@
       \field{abstract}{Knowledge about a product’s willingness-to-pay on behalf of its (potential) customers plays a crucial role in many areas of marketing management like pricing decisions or new product development. Numerous approaches to measure willingness-to-pay with differential conceptual foundations and methodological implications have been presented in the relevant literature so far. This article provides the reader with a systematic overview of the relevant literature on these competing approaches and associated schools of thought, recognizes their respective merits and discusses obstacles and issues regarding their adoption to measuring willingness-to-pay. Because of its practical relevance, special focus will be put on indirect surveying techniques and, in particular, conjoint-based applications will be discussed in more detail. The strengths and limitations of the individual approaches are discussed and evaluated from a managerial point of view.}
       \field{journaltitle}{Innovative Marketing}
       \field{number}{4}
-      \field{title}{A {REVIEW} {OF} {METHODS} {FOR} {MEASURING} {WILLINGNESS}-{TO}-{PAY}}
+      \field{title}{A Review of Methods for Measuring Willingess-to-Pay}
       \field{volume}{2}
       \field{year}{2006}
       \verb{file}
@@ -1361,57 +1369,6 @@
       \field{pages}{45\bibrangedash 72}
       \range{pages}{28}
     \endentry
-    \entry{davis2016bayes}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
-           family={Davis-Stober},
-           familyi={D\bibinithyphendelim S\bibinitperiod},
-           given={Clintin\bibnamedelima P},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
-           family={Morey},
-           familyi={M\bibinitperiod},
-           given={Richard\bibnamedelima D},
-           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
-           family={Gretton},
-           familyi={G\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
-           family={Heathcote},
-           familyi={H\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
-      \field{extraname}{1}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of mathematical psychology}
-      \field{title}{Bayes factors for state-trace analysis}
-      \field{volume}{72}
-      \field{year}{2016}
-      \field{pages}{116\bibrangedash 129}
-      \range{pages}{14}
-    \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
@@ -1448,7 +1405,6 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
-      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -1492,6 +1448,52 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
+    \entry{de2017relations}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=324fe5c3745852e710e7e4aa390abe2e}{%
+           family={Palma},
+           familyi={P\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=60fd54cbc25db870ffa03f7f40fff9fe}{%
+           family={Kilani},
+           familyi={K\bibinitperiod},
+           given={Karim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f59462c3dd0d9a433fe197fcd69283c}{%
+           family={Laffond},
+           familyi={L\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6e6844083cfeef7baa56c5f13a095a03}
+      \strng{fullhash}{b179812ef3b74e0334b62e179991346c}
+      \strng{bibnamehash}{b179812ef3b74e0334b62e179991346c}
+      \strng{authorbibnamehash}{b179812ef3b74e0334b62e179991346c}
+      \strng{authornamehash}{6e6844083cfeef7baa56c5f13a095a03}
+      \strng{authorfullhash}{b179812ef3b74e0334b62e179991346c}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{Relations between best, worst, and best--worst choices for random utility models}
+      \field{volume}{76}
+      \field{year}{2017}
+      \field{pages}{51\bibrangedash 58}
+      \range{pages}{8}
+    \endentry
     \entry{dhar1997consumer}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
@@ -1519,7 +1521,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of consumer research}
+      \field{journaltitle}{Journal of Consumer Research}
       \field{number}{2}
       \field{title}{Consumer preference for a no-choice option}
       \field{volume}{24}
@@ -1706,17 +1708,57 @@
       \field{urldateera}{ce}
       \field{pages}{225\bibrangedash 243}
       \range{pages}{19}
-      \verb{doi}
-      \verb 10.1002/(SICI)1520-6793(199905)16:3<225::AID-MAR3>3.0.CO;2-X
-      \endverb
       \verb{file}
       \verb Doyle_et_al_1999.pdf:/Users/seanconway/Reading/Papers/Doyle_et_al_1999.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{octave}{manual}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a789af59278b89f0b2c01d3480e87176}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b23367b24f394bf9ffaf17981484f95e}{%
+           family={Bateman},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7805487ebed7d4da5e57f05533e70b68}{%
+           family={Hauberg},
+           familyi={H\bibinitperiod},
+           given={S{ø}ren},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fdedad9d06c34eaee1c074de00c51c6}{%
+           family={Wehbring},
+           familyi={W\bibinitperiod},
+           given={Rik},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57cc62a2c72167ee23386f5724108c4e}
+      \strng{fullhash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{bibnamehash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{authorbibnamehash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{authornamehash}{57cc62a2c72167ee23386f5724108c4e}
+      \strng{authorfullhash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{GNU Octave} version 6.3.0 manual: a high-level interactive language for numerical computations}
+      \field{year}{2021}
       \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6793(199905)16:3<225::AID-MAR3>3.0.CO;2-X
+      \verb https://www.gnu.org/software/octave/doc/v6.3.0/
       \endverb
       \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6793(199905)16:3%3C225::AID-MAR3%3E3.0.CO;2-X
+      \verb https://www.gnu.org/software/octave/doc/v6.3.0/
       \endverb
     \endentry
     \entry{evansResponsetimeDataProvide2019b}{article}{}
@@ -2248,7 +2290,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of choice modelling}
+      \field{journaltitle}{Journal of Choice Modelling}
       \field{title}{Do choice tasks and rating scales elicit the same judgments?}
       \field{volume}{49}
       \field{year}{2023}
@@ -2384,7 +2426,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
       \field{title}{Specification tests for the multinomial logit model}
       \field{year}{1984}
       \field{pages}{1219\bibrangedash 1240}
@@ -2420,7 +2462,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
       \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
       \field{year}{1978}
       \field{pages}{403\bibrangedash 426}
@@ -2918,7 +2960,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of consumer research}
+      \field{journaltitle}{Journal of Consumer Research}
       \field{number}{1}
       \field{title}{Market boundaries and product choice: Illustrating attraction and substitution effects}
       \field{volume}{10}
@@ -3116,7 +3158,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of choice modelling}
+      \field{journaltitle}{Journal of Choice Modelling}
       \field{number}{1}
       \field{title}{Modeling the choices of individual decision-makers by combining efficient choice experiment designs with extra preference information}
       \field{volume}{1}
@@ -3494,7 +3536,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American economic review}
+      \field{journaltitle}{American Economic Review}
       \field{number}{3}
       \field{title}{Economic choices}
       \field{volume}{91}
@@ -3592,7 +3634,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{1}
       \field{title}{How should consumers’ willingness to pay be measured? An empirical comparison of state-of-the-art approaches}
       \field{volume}{48}
@@ -3637,7 +3679,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Scientific reports}
+      \field{journaltitle}{Scientific Reports}
       \field{number}{1}
       \field{title}{Attraction effect in risky choice can be explained by subjective distance between choice alternatives}
       \field{volume}{7}
@@ -3797,7 +3839,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Health economics review}
+      \field{journaltitle}{Health Economics Review}
       \field{title}{Experimental measurement of preferences in health care using best-worst scaling (BWS): theoretical and statistical issues}
       \field{volume}{6}
       \field{year}{2016}
@@ -3836,45 +3878,6 @@
       \field{year}{2019}
       \field{pages}{419\bibrangedash 457}
       \range{pages}{39}
-    \endentry
-    \entry{newell2008dimensions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
-           family={Newell},
-           familyi={N\bibinitperiod},
-           given={Ben\bibnamedelima R},
-           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
-           family={Dunn},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in cognitive sciences}
-      \field{number}{8}
-      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
-      \field{volume}{12}
-      \field{year}{2008}
-      \field{pages}{285\bibrangedash 290}
-      \range{pages}{6}
     \endentry
     \entry{noguchiDescriptionexperienceGapChoice2016a}{article}{}
       \name{author}{2}{}{%
@@ -4110,7 +4113,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{5}
       \field{title}{Rejectable choice sets: How seemingly irrelevant no-choice options affect consumer decision processes}
       \field{volume}{48}
@@ -4417,46 +4420,6 @@
       \field{pages}{767\bibrangedash 780}
       \range{pages}{14}
     \endentry
-    \entry{sadil2018hierarchical}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
-           family={Sadil},
-           familyi={S\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
-           family={Cowell},
-           familyi={C\bibinitperiod},
-           given={Rosemary},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={David\bibnamedelima E},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
-      \field{year}{2018}
-    \endentry
     \entry{schmidtAccuratelyMeasuringWillingness2020}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7f39e5df2a57b8a4a25b20b2a1cf0367}{%
@@ -4608,41 +4571,6 @@
       \verb https://academic.oup.com/jcr/article-lookup/doi/10.1086/209205
       \endverb
     \endentry
-    \entry{simonsonVicesVirtuesMisguided2014}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
-           family={Simonson},
-           familyi={S\bibinitperiod},
-           given={Itamar},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{fullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{bibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The likelihood of replicating an effect such as asymmetric dominance (AD) largely depends on other, usually more important choice drivers (e.g., attributes, values). Accordingly, it is not surprising that the AD effect is often not observed when other choice drivers have greater impact and/or when the AD configuration is unlikely to be perceived. However, when price is an attribute (and in many other cases), the AD effect is often observed in both properly designed studies and the real world. The author notes that Frederick, Lee, and Baskin (2014) raise important questions, but they would have made a greater contribution had they (1) systematically studied the drivers of AD perceptions, (2) more accurately tried to replicate previous AD effect demonstrations, and (3) systematically studied the repulsion effect. The author also briefly comments on the Yang and Lynn (2014) studies, which he asserts did not test the AD effect properly in most cases.}
-      \field{journaltitle}{JOURNAL OF MARKETING RESEARCH}
-      \field{title}{Vices and {Virtues} of {Misguided} {Replications}: {The} {Case} of {Asymmetric} {Dominance}}
-      \field{year}{2014}
-      \verb{file}
-      \verb Simonson_2014.pdf:/Users/seanconway/Reading/Papers/Simonson_2014.pdf:application/pdf
-      \endverb
-    \endentry
     \entry{simonson2014vices}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
@@ -4661,10 +4589,9 @@
       \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
       \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
       \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -4871,50 +4798,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
-    \entry{stephens2020state}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
-           family={Stephens},
-           familyi={S\bibinitperiod},
-           given={Rachel\bibnamedelima G},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
-           family={Matzke},
-           familyi={M\bibinitperiod},
-           given={Dora},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
-           family={Hayes},
-           familyi={H\bibinitperiod},
-           given={Brett\bibnamedelima K},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
-      \field{volume}{96}
-      \field{year}{2020}
-      \field{pages}{102342}
-      \range{pages}{1}
-    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -4971,37 +4854,6 @@
       \endverb
       \verb{url}
       \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
-      \endverb
-    \endentry
-    \entry{octave}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e3e3b2931f3ba723c78581645971d281}{%
-           family={Team},
-           familyi={T\bibinitperiod},
-           given={The\bibnamedelimb Octave\bibnamedelima Development},
-           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{fullhash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{bibnamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authorbibnamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authornamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authorfullhash}{e3e3b2931f3ba723c78581645971d281}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{GNU Octave}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://www.gnu.org/software/octave/
-      \endverb
-      \verb{url}
-      \verb https://www.gnu.org/software/octave/
       \endverb
     \endentry
     \entry{thurstone1927law}{article}{}
@@ -5459,7 +5311,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Management science}
+      \field{journaltitle}{Management Science}
       \field{number}{10}
       \field{title}{Context-dependent preferences}
       \field{volume}{39}
@@ -5556,7 +5408,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Plos one}
+      \field{journaltitle}{PLoS One}
       \field{number}{11}
       \field{title}{Attract the best: The attraction effect as an effective strategy to enhance healthy choices}
       \field{volume}{16}
@@ -5820,73 +5672,6 @@
       \field{pages}{437\bibrangedash 466}
       \range{pages}{30}
     \endentry
-    \entry{ashbyUnifiedTheorySimilarity}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=5c45e1b241159700c501e8f4686d8c09}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F.\bibnamedelimi G.},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1789e21a7dfe19d641325d028d4ef0ff}{%
-           family={Perrin},
-           familyi={P\bibinitperiod},
-           given={N.\bibnamedelimi A.},
-           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{fullhash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{bibnamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authorbibnamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authornamehash}{2e271169d144fce21558d19d1543bcc1}
-      \strng{authorfullhash}{2e271169d144fce21558d19d1543bcc1}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Toward a {Unified} {Theory} of {Similarity} and {Recognition}}
-      \field{year}{1988}
-      \verb{file}
-      \verb Ashby_Perrin_1988.pdf:/Users/seanconway/Reading/Papers/Ashby_Perrin_1988.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{ashby2019state}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
-           family={Ashby},
-           familyi={A\bibinitperiod},
-           given={F\bibnamedelima Gregory},
-           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{fullhash}{426f8f294a486e142e3105a88d474f46}
-      \strng{bibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorbibnamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authornamehash}{426f8f294a486e142e3105a88d474f46}
-      \strng{authorfullhash}{426f8f294a486e142e3105a88d474f46}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis misinterpreted and misapplied: Reply to Stephens, Matzke, and Hayes (2019)}
-      \field{volume}{91}
-      \field{year}{2019}
-      \field{pages}{195\bibrangedash 200}
-      \range{pages}{6}
-    \endentry
     \entry{ashby2022state}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
@@ -5915,6 +5700,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Mathematical Psychology}
@@ -5952,6 +5738,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
@@ -5960,6 +5747,45 @@
       \field{volume}{14}
       \field{year}{1988}
       \field{pages}{33}
+      \range{pages}{1}
+    \endentry
+    \entry{ashbyUnifiedTheorySimilarity}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426f8f294a486e142e3105a88d474f46}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={F\bibnamedelima Gregory},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494f4ea04c0600d50b4b25121923c006}{%
+           family={Perrin},
+           familyi={P\bibinitperiod},
+           given={Nancy\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{fullhash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{bibnamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authorbibnamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authornamehash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \strng{authorfullhash}{4ff6eab4401a1a13d3dd6782e67152e3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{1}
+      \field{title}{Toward a unified theory of similarity and recognition.}
+      \field{volume}{95}
+      \field{year}{1988}
+      \field{pages}{124}
       \range{pages}{1}
     \endentry
     \entry{ashbyVarietiesPerceptualIndependence1986a}{article}{}
@@ -5990,6 +5816,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1939-1471, 0033-295X}
@@ -6016,6 +5843,39 @@
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.93.2.154
       \endverb
+    \endentry
+    \entry{bamber1979state}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98058815d157b3fdba77fe017020a529}{%
+           family={Bamber},
+           familyi={B\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{98058815d157b3fdba77fe017020a529}
+      \strng{fullhash}{98058815d157b3fdba77fe017020a529}
+      \strng{bibnamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authorbibnamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authornamehash}{98058815d157b3fdba77fe017020a529}
+      \strng{authorfullhash}{98058815d157b3fdba77fe017020a529}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{number}{2}
+      \field{title}{State-trace analysis: A method of testing simple theories of causation}
+      \field{volume}{19}
+      \field{year}{1979}
+      \field{pages}{137\bibrangedash 181}
+      \range{pages}{45}
     \endentry
     \entry{banerjeeFactorsThatPromote2024}{article}{}
       \name{author}{6}{}{%
@@ -6172,7 +6032,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{1}
       \field{title}{Signal detection with criterion noise: applications to recognition memory.}
       \field{volume}{116}
@@ -6576,7 +6436,7 @@
       \field{abstract}{Knowledge about a product’s willingness-to-pay on behalf of its (potential) customers plays a crucial role in many areas of marketing management like pricing decisions or new product development. Numerous approaches to measure willingness-to-pay with differential conceptual foundations and methodological implications have been presented in the relevant literature so far. This article provides the reader with a systematic overview of the relevant literature on these competing approaches and associated schools of thought, recognizes their respective merits and discusses obstacles and issues regarding their adoption to measuring willingness-to-pay. Because of its practical relevance, special focus will be put on indirect surveying techniques and, in particular, conjoint-based applications will be discussed in more detail. The strengths and limitations of the individual approaches are discussed and evaluated from a managerial point of view.}
       \field{journaltitle}{Innovative Marketing}
       \field{number}{4}
-      \field{title}{A {REVIEW} {OF} {METHODS} {FOR} {MEASURING} {WILLINGNESS}-{TO}-{PAY}}
+      \field{title}{A Review of Methods for Measuring Willingess-to-Pay}
       \field{volume}{2}
       \field{year}{2006}
       \verb{file}
@@ -7147,7 +7007,6 @@
       \strng{authorbibnamehash}{c17cfb6901a7d8751a5b3d9814726264}
       \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
       \strng{authorfullhash}{c17cfb6901a7d8751a5b3d9814726264}
-      \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -7161,57 +7020,6 @@
       \field{year}{2023}
       \field{pages}{102790}
       \range{pages}{1}
-    \endentry
-    \entry{davis2016bayes}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b29dc12563de3c671035f4ede2a7406d}{%
-           family={Davis-Stober},
-           familyi={D\bibinithyphendelim S\bibinitperiod},
-           given={Clintin\bibnamedelima P},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67c2ddf598088b6a60cab5b9559833a8}{%
-           family={Morey},
-           familyi={M\bibinitperiod},
-           given={Richard\bibnamedelima D},
-           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b249bc67b7977d8b69a36c5228fa8a8f}{%
-           family={Gretton},
-           familyi={G\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
-           family={Heathcote},
-           familyi={H\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{fullhash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{bibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authorbibnamehash}{9d77da898a09a552e2e2cd514883732a}
-      \strng{authornamehash}{5ba55c62fe45e7a82f0608c4919acf71}
-      \strng{authorfullhash}{9d77da898a09a552e2e2cd514883732a}
-      \field{extraname}{2}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of mathematical psychology}
-      \field{title}{Bayes factors for state-trace analysis}
-      \field{volume}{72}
-      \field{year}{2016}
-      \field{pages}{116\bibrangedash 129}
-      \range{pages}{14}
     \endentry
     \entry{deleeuwJsPsychJavaScriptLibrary2015}{article}{}
       \name{author}{1}{}{%
@@ -7242,6 +7050,52 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
+    \entry{de2017relations}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=324fe5c3745852e710e7e4aa390abe2e}{%
+           family={Palma},
+           familyi={P\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=60fd54cbc25db870ffa03f7f40fff9fe}{%
+           family={Kilani},
+           familyi={K\bibinitperiod},
+           given={Karim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f59462c3dd0d9a433fe197fcd69283c}{%
+           family={Laffond},
+           familyi={L\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6e6844083cfeef7baa56c5f13a095a03}
+      \strng{fullhash}{b179812ef3b74e0334b62e179991346c}
+      \strng{bibnamehash}{b179812ef3b74e0334b62e179991346c}
+      \strng{authorbibnamehash}{b179812ef3b74e0334b62e179991346c}
+      \strng{authornamehash}{6e6844083cfeef7baa56c5f13a095a03}
+      \strng{authorfullhash}{b179812ef3b74e0334b62e179991346c}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{Relations between best, worst, and best--worst choices for random utility models}
+      \field{volume}{76}
+      \field{year}{2017}
+      \field{pages}{51\bibrangedash 58}
+      \range{pages}{8}
+    \endentry
     \entry{dhar1997consumer}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=571deea59f83fbf4df92c3b9f0267ef2}{%
@@ -7269,7 +7123,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of consumer research}
+      \field{journaltitle}{Journal of Consumer Research}
       \field{number}{2}
       \field{title}{Consumer preference for a no-choice option}
       \field{volume}{24}
@@ -7456,17 +7310,57 @@
       \field{urldateera}{ce}
       \field{pages}{225\bibrangedash 243}
       \range{pages}{19}
-      \verb{doi}
-      \verb 10.1002/(SICI)1520-6793(199905)16:3<225::AID-MAR3>3.0.CO;2-X
-      \endverb
       \verb{file}
       \verb Doyle_et_al_1999.pdf:/Users/seanconway/Reading/Papers/Doyle_et_al_1999.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{octave}{manual}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a789af59278b89f0b2c01d3480e87176}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b23367b24f394bf9ffaf17981484f95e}{%
+           family={Bateman},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7805487ebed7d4da5e57f05533e70b68}{%
+           family={Hauberg},
+           familyi={H\bibinitperiod},
+           given={S{ø}ren},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fdedad9d06c34eaee1c074de00c51c6}{%
+           family={Wehbring},
+           familyi={W\bibinitperiod},
+           given={Rik},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57cc62a2c72167ee23386f5724108c4e}
+      \strng{fullhash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{bibnamehash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{authorbibnamehash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \strng{authornamehash}{57cc62a2c72167ee23386f5724108c4e}
+      \strng{authorfullhash}{19b8184ff5bf9ab19f520b3fe5d2b255}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{GNU Octave} version 6.3.0 manual: a high-level interactive language for numerical computations}
+      \field{year}{2021}
       \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6793(199905)16:3<225::AID-MAR3>3.0.CO;2-X
+      \verb https://www.gnu.org/software/octave/doc/v6.3.0/
       \endverb
       \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6793(199905)16:3%3C225::AID-MAR3%3E3.0.CO;2-X
+      \verb https://www.gnu.org/software/octave/doc/v6.3.0/
       \endverb
     \endentry
     \entry{evansImpactPresentationOrder2021}{article}{}
@@ -7998,7 +7892,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of choice modelling}
+      \field{journaltitle}{Journal of Choice Modelling}
       \field{title}{Do choice tasks and rating scales elicit the same judgments?}
       \field{volume}{49}
       \field{year}{2023}
@@ -8134,7 +8028,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
       \field{title}{Specification tests for the multinomial logit model}
       \field{year}{1984}
       \field{pages}{1219\bibrangedash 1240}
@@ -8170,7 +8064,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the econometric society}
+      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
       \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
       \field{year}{1978}
       \field{pages}{403\bibrangedash 426}
@@ -8732,7 +8626,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of consumer research}
+      \field{journaltitle}{Journal of Consumer Research}
       \field{number}{1}
       \field{title}{Market boundaries and product choice: Illustrating attraction and substitution effects}
       \field{volume}{10}
@@ -8866,7 +8760,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of choice modelling}
+      \field{journaltitle}{Journal of Choice Modelling}
       \field{number}{1}
       \field{title}{Modeling the choices of individual decision-makers by combining efficient choice experiment designs with extra preference information}
       \field{volume}{1}
@@ -9244,7 +9138,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American economic review}
+      \field{journaltitle}{American Economic Review}
       \field{number}{3}
       \field{title}{Economic choices}
       \field{volume}{91}
@@ -9342,7 +9236,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{1}
       \field{title}{How should consumers’ willingness to pay be measured? An empirical comparison of state-of-the-art approaches}
       \field{volume}{48}
@@ -9387,7 +9281,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Scientific reports}
+      \field{journaltitle}{Scientific Reports}
       \field{number}{1}
       \field{title}{Attraction effect in risky choice can be explained by subjective distance between choice alternatives}
       \field{volume}{7}
@@ -9547,7 +9441,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Health economics review}
+      \field{journaltitle}{Health Economics Review}
       \field{title}{Experimental measurement of preferences in health care using best-worst scaling (BWS): theoretical and statistical issues}
       \field{volume}{6}
       \field{year}{2016}
@@ -9586,45 +9480,6 @@
       \field{year}{2019}
       \field{pages}{419\bibrangedash 457}
       \range{pages}{39}
-    \endentry
-    \entry{newell2008dimensions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b99db8107cae1482ca10f13bd306f361}{%
-           family={Newell},
-           familyi={N\bibinitperiod},
-           given={Ben\bibnamedelima R},
-           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=76a327b4a1917fd15d3219a16cd92273}{%
-           family={Dunn},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{fullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{bibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorbibnamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authornamehash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \strng{authorfullhash}{92fb4d245fd3d4fbd6e2b4a28c721864}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in cognitive sciences}
-      \field{number}{8}
-      \field{title}{Dimensions in data: Testing psychological models using state-trace analysis}
-      \field{volume}{12}
-      \field{year}{2008}
-      \field{pages}{285\bibrangedash 290}
-      \range{pages}{6}
     \endentry
     \entry{noguchiDescriptionexperienceGapChoice2016a}{article}{}
       \name{author}{2}{}{%
@@ -9860,7 +9715,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{5}
       \field{title}{Rejectable choice sets: How seemingly irrelevant no-choice options affect consumer decision processes}
       \field{volume}{48}
@@ -10167,46 +10022,6 @@
       \field{pages}{767\bibrangedash 780}
       \range{pages}{14}
     \endentry
-    \entry{sadil2018hierarchical}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=2c2f8333f97d11820deee1fb75093b5b}{%
-           family={Sadil},
-           familyi={S\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f9085708065c71c9a6fda595995718ec}{%
-           family={Cowell},
-           familyi={C\bibinitperiod},
-           given={Rosemary},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=277d4b6835f33ea95bc31ecb4e25ceb3}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={David\bibnamedelima E},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {OSF}%
-      }
-      \strng{namehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{fullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{bibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authorbibnamehash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \strng{authornamehash}{5445fb9467fe6a074c704f72d077d6f7}
-      \strng{authorfullhash}{6d2f6587e992e98bbb3cc2b8c7610d62}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A hierarchical Bayesian state trace analysis for assessing monotonicity while factoring out subject, item, and trial level dependencies}
-      \field{year}{2018}
-    \endentry
     \entry{schmidtAccuratelyMeasuringWillingness2020}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7f39e5df2a57b8a4a25b20b2a1cf0367}{%
@@ -10358,41 +10173,6 @@
       \verb https://academic.oup.com/jcr/article-lookup/doi/10.1086/209205
       \endverb
     \endentry
-    \entry{simonsonVicesVirtuesMisguided2014}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
-           family={Simonson},
-           familyi={S\bibinitperiod},
-           given={Itamar},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{fullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{bibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The likelihood of replicating an effect such as asymmetric dominance (AD) largely depends on other, usually more important choice drivers (e.g., attributes, values). Accordingly, it is not surprising that the AD effect is often not observed when other choice drivers have greater impact and/or when the AD configuration is unlikely to be perceived. However, when price is an attribute (and in many other cases), the AD effect is often observed in both properly designed studies and the real world. The author notes that Frederick, Lee, and Baskin (2014) raise important questions, but they would have made a greater contribution had they (1) systematically studied the drivers of AD perceptions, (2) more accurately tried to replicate previous AD effect demonstrations, and (3) systematically studied the repulsion effect. The author also briefly comments on the Yang and Lynn (2014) studies, which he asserts did not test the AD effect properly in most cases.}
-      \field{journaltitle}{JOURNAL OF MARKETING RESEARCH}
-      \field{title}{Vices and {Virtues} of {Misguided} {Replications}: {The} {Case} of {Asymmetric} {Dominance}}
-      \field{year}{2014}
-      \verb{file}
-      \verb Simonson_2014.pdf:/Users/seanconway/Reading/Papers/Simonson_2014.pdf:application/pdf
-      \endverb
-    \endentry
     \entry{simonson2014vices}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d22804f2d3012d7cf1f8ebe6d652485a}{%
@@ -10411,10 +10191,9 @@
       \strng{authorbibnamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
       \strng{authornamehash}{d22804f2d3012d7cf1f8ebe6d652485a}
       \strng{authorfullhash}{d22804f2d3012d7cf1f8ebe6d652485a}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -10621,50 +10400,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
-    \entry{stephens2020state}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
-           family={Stephens},
-           familyi={S\bibinitperiod},
-           given={Rachel\bibnamedelima G},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
-           family={Matzke},
-           familyi={M\bibinitperiod},
-           given={Dora},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
-           family={Hayes},
-           familyi={H\bibinitperiod},
-           given={Brett\bibnamedelima K},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
-      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
-      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Mathematical Psychology}
-      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
-      \field{volume}{96}
-      \field{year}{2020}
-      \field{pages}{102342}
-      \range{pages}{1}
-    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -10721,37 +10456,6 @@
       \endverb
       \verb{url}
       \verb https://pnas.org/doi/full/10.1073/pnas.54.2.407
-      \endverb
-    \endentry
-    \entry{octave}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e3e3b2931f3ba723c78581645971d281}{%
-           family={Team},
-           familyi={T\bibinitperiod},
-           given={The\bibnamedelimb Octave\bibnamedelima Development},
-           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{fullhash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{bibnamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authorbibnamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authornamehash}{e3e3b2931f3ba723c78581645971d281}
-      \strng{authorfullhash}{e3e3b2931f3ba723c78581645971d281}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{GNU Octave}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://www.gnu.org/software/octave/
-      \endverb
-      \verb{url}
-      \verb https://www.gnu.org/software/octave/
       \endverb
     \endentry
     \entry{thurstone1927law}{article}{}
@@ -11209,7 +10913,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Management science}
+      \field{journaltitle}{Management Science}
       \field{number}{10}
       \field{title}{Context-dependent preferences}
       \field{volume}{39}
@@ -11306,7 +11010,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Plos one}
+      \field{journaltitle}{PLoS One}
       \field{number}{11}
       \field{title}{Attract the best: The attraction effect as an effective strategy to enhance healthy choices}
       \field{volume}{16}

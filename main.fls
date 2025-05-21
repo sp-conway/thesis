@@ -312,11 +312,6 @@ INPUT ./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg
 INPUT ./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg
 INPUT ./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg
 INPUT ./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg
-INPUT ./figures/choicePhase_delta_means.jpeg
-INPUT ./figures/choicePhase_delta_means.jpeg
-INPUT ./figures/choicePhase_delta_means.jpeg
-INPUT ./figures/choicePhase_delta_means.jpeg
-INPUT ./figures/choicePhase_delta_means.jpeg
 INPUT ./figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg
 INPUT ./figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg
 INPUT ./figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg
@@ -335,6 +330,11 @@ INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
+INPUT ./figures/maxdiff_sim_monotonic.jpeg
+INPUT ./figures/maxdiff_sim_monotonic.jpeg
+INPUT ./figures/maxdiff_sim_monotonic.jpeg
+INPUT ./figures/maxdiff_sim_monotonic.jpeg
+INPUT ./figures/maxdiff_sim_monotonic.jpeg
 INPUT ./figures/bw_design_fig.jpg
 INPUT ./figures/bw_design_fig.jpg
 INPUT ./figures/bw_design_fig.jpg
@@ -373,6 +373,11 @@ INPUT ./figures/banerjee_stim.jpeg
 INPUT ./figures/banerjee_stim.jpeg
 INPUT ./figures/banerjee_stim.jpeg
 INPUT ./figures/banerjee_stim.jpeg
+INPUT ./figures/ce_rating_stim_for_paper.jpeg
+INPUT ./figures/ce_rating_stim_for_paper.jpeg
+INPUT ./figures/ce_rating_stim_for_paper.jpeg
+INPUT ./figures/ce_rating_stim_for_paper.jpeg
+INPUT ./figures/ce_rating_stim_for_paper.jpeg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
