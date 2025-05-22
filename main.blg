@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[147] biber-darwin:340> INFO - === Wed May 21, 2025, 17:32:25
-[181] Biber.pm:419> INFO - Reading 'main.bcf'
-[573] Biber.pm:979> INFO - Found 111 citekeys in bib section 0
-[605] Biber.pm:4419> INFO - Processing section 0
-[622] Biber.pm:4610> INFO - Looking for bibtex file 'Papers.bib' for section 0
-[716] bibtex.pm:1713> INFO - LaTeX decoding ...
-[2640] bibtex.pm:1519> INFO - Found BibTeX data source 'Papers.bib'
-[4078] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4078] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4078] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[4079] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[4531] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4531] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4531] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[4531] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[4745] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[5034] bbl.pm:763> INFO - Output to main.bbl
-[5035] Biber.pm:131> WARN - legacy month field 'Apr' in entry 'martin2021' is not an integer - this will probably not sort properly.
-[5035] Biber.pm:133> INFO - WARNINGS: 1
+[1] Config.pm:310> INFO - Logfile is 'main.blg'
+[176] biber-darwin:340> INFO - === Thu May 22, 2025, 16:04:21
+[214] Biber.pm:419> INFO - Reading 'main.bcf'
+[582] Biber.pm:979> INFO - Found 112 citekeys in bib section 0
+[614] Biber.pm:4419> INFO - Processing section 0
+[631] Biber.pm:4610> INFO - Looking for bibtex file 'Papers.bib' for section 0
+[723] bibtex.pm:1713> INFO - LaTeX decoding ...
+[3050] bibtex.pm:1519> INFO - Found BibTeX data source 'Papers.bib'
+[4835] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4835] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4835] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[4835] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[5237] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5237] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5237] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[5237] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[5446] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[5721] bbl.pm:763> INFO - Output to main.bbl
+[5721] Biber.pm:131> WARN - legacy month field 'Apr' in entry 'martin2021' is not an integer - this will probably not sort properly.
+[5722] Biber.pm:133> INFO - WARNINGS: 1

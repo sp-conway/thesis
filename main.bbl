@@ -4798,6 +4798,50 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
+    \entry{stephens2020state}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Rachel\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
+           family={Matzke},
+           familyi={M\bibinitperiod},
+           given={Dora},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Brett\bibnamedelima K},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{102342}
+      \range{pages}{1}
+    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -10399,6 +10443,50 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
+    \endentry
+    \entry{stephens2020state}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34b71c83eb80932f740e0b8519833b20}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Rachel\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535b5fd203f22ffa7a4c1a260d8477f2}{%
+           family={Matzke},
+           familyi={M\bibinitperiod},
+           given={Dora},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94a3e568ec0002d23ff3dfab392f241c}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Brett\bibnamedelima K},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{fullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{bibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authorbibnamehash}{2b9d7ca352ac76fa9762281358442b5d}
+      \strng{authornamehash}{31a5fa0a4f2e1746934f1b77e228ea35}
+      \strng{authorfullhash}{2b9d7ca352ac76fa9762281358442b5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State-trace analysis—Misrepresented and misunderstood: Reply to Ashby (2019)}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{102342}
+      \range{pages}{1}
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
