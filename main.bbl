@@ -3032,6 +3032,45 @@
       \verb https://academic.oup.com/jcr/article-lookup/doi/10.1086/208899
       \endverb
     \endentry
+    \entry{kamakura1984predicting}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5e932f7d1560ba17b511bcbc7b1b7bf}{%
+           family={Kamakura},
+           familyi={K\bibinitperiod},
+           given={Wagner\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b69ef4ac68995e587d7bc3325f42a43}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Rajendra\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{fullhash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{bibnamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authorbibnamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authornamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authorfullhash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{number}{4}
+      \field{title}{Predicting choice shares under conditions of brand interdependence}
+      \field{volume}{21}
+      \field{year}{1984}
+      \field{pages}{420\bibrangedash 434}
+      \range{pages}{15}
+    \endentry
     \entry{liaoInfluenceDistanceDecoy2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c90dd3674d11e159575b864f0e94e16c}{%
@@ -8677,6 +8716,45 @@
       \field{year}{1983}
       \field{pages}{31\bibrangedash 44}
       \range{pages}{14}
+    \endentry
+    \entry{kamakura1984predicting}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5e932f7d1560ba17b511bcbc7b1b7bf}{%
+           family={Kamakura},
+           familyi={K\bibinitperiod},
+           given={Wagner\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b69ef4ac68995e587d7bc3325f42a43}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Rajendra\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{fullhash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{bibnamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authorbibnamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authornamehash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \strng{authorfullhash}{1d4b50201ab7af2c8ffcd4710d5c0e28}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{number}{4}
+      \field{title}{Predicting choice shares under conditions of brand interdependence}
+      \field{volume}{21}
+      \field{year}{1984}
+      \field{pages}{420\bibrangedash 434}
+      \range{pages}{15}
     \endentry
     \entry{liaoInfluenceDistanceDecoy2021}{article}{}
       \name{author}{4}{}{%

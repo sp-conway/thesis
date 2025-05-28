@@ -155,7 +155,7 @@ Participants seldom chose the decoy, another indication that they were attentive
 
 \begin{figure}
     \includegraphics{figures/bayes_choice_model_data_plot.jpeg}
-    \caption{Experiment 4 aggregate choice proportions for each trial type, TDD, and option. Data points are aggregate choice proportions, while model points are posterior means from the Dirichlet-multinomial model from the Appendix. Error bars are $95\%$ HDIs.}
+    \caption{Experiment 4 aggregate choice proportions for each trial type, TDD, and option. Data points are aggregate choice proportions, while model points are posterior means computed from the Dirichlet-multinomial model presented in the Appendix. Error bars are $95\%$ HDIs.}
     \label{fig:bayes_choice_model_data_plot}
 \end{figure}
 
@@ -172,10 +172,32 @@ As in Chapter 2, the model assumes that value is stochastic while choice is dete
    \label{eqn:pchoice_price}
 \end{align}
 
-I ran $1,000,000$ simulations of the model, and plotted the results against the data in Figure~\ref{fig:bayes_choice_sim_preds}.
+I ran $1,000,000$ simulations of the model and plotted the results against the data in Figure~\ref{fig:bayes_choice_sim_preds}.
 
 \begin{figure}
     \includegraphics{figures/bayes_choice_sim_preds.jpeg}
-    \caption{Model predictions, conditioned against the data}
+    \caption{Correlational model predictions compared to the data of Experiment 4.}
     \label{fig:bayes_choice_sim_preds}
 \end{figure}
+
+The model mispredicts the attraction trials. It predicts a slight repulsion effect when in fact the data suggest a null effect.
+
+The model successfully predicts a qualitative repulsion effect, i.e., $P(C)>P(T)$. However, it strongly overpredicts decoy choice proportions. The model relies on the correlation between target and decoy choice proportions to predict the repulsion effect. Because the target and decoy correlated, it is more likely that the utility of the decoy exceeds the target than the competitor. The decoy then "steals" choice shares from the competitor. This prediction makes sense in perceptual choice, where stimulus discriminability is not a given and participants pick the decoy roughly $20$-$30\%$ of all trials (see Experiment 2). In preferential choice, participants almost never pick the decoy, and researchers assume that any participant with sufficient attention can always discriminate the target and competitor from the decoy. Thus, though the model can qualitatively predict a repulsion effect, the mechanism by which it does so is implausible.
+
+\section{Discussion}
+
+This experiment generalizes the paradigm of Chapter 2 to preferential choice. Participants completed two phases; in the first phase, they assigned a selling price to each of three options on each trial. In the second phase, they selected the option they would most prefer. Option sets were designed to either elicit the attraction effect or the repulsion effect. I used the prices to estimate the mean value of each option as well as the correlations between all pairs of options. In doing so, I extended not only the experimental paradigm of Chapter 2, but also the modeling framework, to a preferential choice setting.
+
+Crucially, when estimating the correlations, I replicated the result of Experiment 2, that, in the repulsion effect $\rho_{TD}>\rho_{TC}$ and $\rho_{TD}>\rho_{CD}$. Interestingly, the inferential statistics also show that $\rho_{TC}>\rho_{CD}$. This result was unexpected, but it may be due to the fact that, because both are high on one dimension and low on another, it is easier to compare target and competitor to one another than it is to compare the competitor to the decoy. 
+
+Interestingly, in the trials designed to elicit the attraction effect, I found that $\rho_{TC}>\rho_{TD}>\rho_{CD}$. This is likely due to the similarity of target and competitor on both attributes (i.e., one option's dimension values were $[50,60]$ while the other's was $[60,50]$). The target and competitor are easily comparable to one another, and the tradeoff on attributes is negligible.
+
+The choice results replicated those of \textcite{banerjeeFactorsThatPromote2024}, in that participants chose the competitor more than the target in each of the repulsion effect choice sets. However, given that I did not vary the decoy location (i.e., the competitor was always less extreme than the target), nor did I include a binary-ternary choice comparison. These results may be due to a bias for the less option, which happens to be the competitor in this case. Future research should include such trials to generalize these results.
+
+The strong correlation between target and decoy valuations appears to be a robust finding, holding across perceptual and preferential choice. It is worth exploring, in greater detail, what causes these correlations. 
+
+In the attraction and repulsion effect, the target and decoy are designed such to be more similar to each other than either option is to the competitor. It may be that, by measuring the correlation in valuations, we are actually measuring the \textit{similarity} between options. Indeed, the similarity of target and decoy was a primary motivation for the original demonstration of the attraction effect \parencite{huberAddingAsymmetricallyDominated1982d}. 
+
+These correlations may also be measuring the ease of comparability between pairs of options. Comparability has previously been shown to drive the attraction effect \parencite{noguchi2014attraction,cataldoComparisonProcessAccount2019b}, and several models of context effects rely on comparisons of options on single attributes to generate context effects \parencite{trueblood2014multiattribute,roeMultialternativeDecisionField2001a}. Supporting this hypothesis is the finding that $\rho_{TC}>\rho_{TD}$ in the trials designed to elicit the attraction effect, when the target and competitor were quite similar on each attribute and thus easier to compare.
+
+Future work could test these hypotheses by systematically manipulating option comparability and assessing whether the correlations vary with comparability. I work towards this in Chapter 5 through testing the effect of comparability on choice, but it would be interesting to explicitly measure correlations in choice environments of varying comparability. 
