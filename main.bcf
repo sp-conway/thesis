@@ -3411,4 +3411,85 @@
     <bcf:citekey order="294" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="295" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="296" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="297" intorder="1">banerjeeFa
+    <bcf:citekey order="297" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="298" intorder="1">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="299" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="300" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="301" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="302" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="303" intorder="1">breidertREVIEWMETHODSMEASURING2006</bcf:citekey>
+    <bcf:citekey order="304" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="305" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="306" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="307" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="308" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="309" intorder="1">stephens2020state</bcf:citekey>
+    <bcf:citekey order="309" intorder="2">merkle2023opaque</bcf:citekey>
+    <bcf:citekey order="310" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="311" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="312" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
+    <bcf:citekey order="313" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="313" intorder="2">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="314" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="314" intorder="2">roeMultialternativeDecisionField2001a</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="apa">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="5">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">pubstate</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">month</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
+      <bcf:sortitem order="1">day</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="8">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="9">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="apa/apasortcite//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

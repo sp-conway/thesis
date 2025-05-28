@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1748471403 "main.bcf" "main.bbl" "main" 1748471424
+["biber main"] 1748472150 "main.bcf" "main.bbl" "main" 1748472180
   "Papers.bib" 1748471402 691939 ec4005c137ed29def2de2111d1876169 ""
-  "main.bcf" 1748471424 163622 1c1a6a359d5ba3d6a8940cbddd2e9960 "pdflatex"
+  "main.bcf" 1748472180 163780 5ff42c57230324d7b9228148c3a20b02 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1748471413 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1748471424
+["pdflatex"] 1748472169 "/Users/seanconway/Research/Dissertation/thesis/main.tex" "main.pdf" "main" 1748472180
   "/Users/seanconway/Research/Dissertation/thesis/main.tex" 1747863637 9843 4d14d3069c7467433792500bd2b12286 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -134,7 +134,7 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734731851 8221430 a181b2cf6835fe9541761d00494b2004 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "abstract.tex" 0 -1 0 ""
-  "chapter2.tex" 1748471402 54904 8aafa82370ce36d2dd1ce2e4c4609893 ""
+  "chapter2.tex" 1748472117 55397 f8fcd431b5179503515cb36dba0a273c ""
   "chapter3.tex" 1748444494 28377 cb540ce7513cbf5dbb8ab7d26880e432 ""
   "chapter4.tex" 1748465951 26043 0c6adb31411e2d47942fe3fe2c361e5c ""
   "figures/3d_sim_rst.jpg" 1736445933 925095 090995841c4eb857f2530f811339b89d ""
@@ -168,14 +168,14 @@
   "figures/spektor_data_collapsed.jpeg" 1747066181 669050 d4039e012396c5048bfc05812285cf63 ""
   "figures/spektor_stim.png" 1737145948 260906 2450c2a9be4562ff95247e1576895d65 ""
   "introduction.tex" 1748467303 14686 d2a9fa4fd7b593b99655a0148899e985 ""
-  "main.aux" 1748471424 89884 95c61ed5d6b63a4dedc90407a196126c "pdflatex"
-  "main.bbl" 1748471413 536220 ff07f08c95242b3b7922351692ca03be "biber main"
-  "main.lof" 1748471424 7796 cb387d4c1503d8b33177f91f6d5f5d55 "pdflatex"
-  "main.lot" 1748471424 140 104a8a462b27a2267fd07b368245cdd0 "pdflatex"
-  "main.out" 1748471424 10078 56f0c981e29b407b130a75367776cf90 "pdflatex"
-  "main.run.xml" 1748471424 2423 cb3259ea20f8a77c88badc7eed279573 "pdflatex"
+  "main.aux" 1748472179 90233 70329b2f723d410c7d767b922fa3e38c "pdflatex"
+  "main.bbl" 1748472158 539530 f6efbdeb20dab258170e760f3bca9792 "biber main"
+  "main.lof" 1748472180 7796 cb387d4c1503d8b33177f91f6d5f5d55 "pdflatex"
+  "main.lot" 1748472180 140 104a8a462b27a2267fd07b368245cdd0 "pdflatex"
+  "main.out" 1748472180 10078 56f0c981e29b407b130a75367776cf90 "pdflatex"
+  "main.run.xml" 1748472180 2423 cb3259ea20f8a77c88badc7eed279573 "pdflatex"
   "main.tex" 1747863637 9843 4d14d3069c7467433792500bd2b12286 ""
-  "main.toc" 1748471424 6125 6c3855adc372b2f97334853747412373 "pdflatex"
+  "main.toc" 1748472180 6125 6c3855adc372b2f97334853747412373 "pdflatex"
   "umassthesis.cls" 1736288086 25871 372c0961d5d3ab1dbc2915d1789050c3 ""
   "umth12pt.clo" 1736288086 545 e35da8c22c00585b5e2845898ba621b3 ""
   "umthstd.clo" 1736288086 4314 d52c76fcb0f430f9d60dbaa6fa33c5bd ""

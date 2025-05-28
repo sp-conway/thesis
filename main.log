@@ -929,4 +929,91 @@ LaTeX Warning: Float too large for page by 1914.27223pt on input line 138.
 File: figures/price_z_corplot_attraction.jpeg Graphic file (type jpg)
 <use figures/price_z_corplot_attraction.jpeg>
 Package pdftex.def Info: figures/price_z_corplot_attraction.jpeg  used on input line 141.
-(pdftex.de
+(pdftex.def)             Requested size: 3011.24269pt x 2509.36891pt.
+
+Overfull \hbox (2577.6227pt too wide) in paragraph at lines 141--142
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 1914.27223pt on input line 144.
+
+[76] [77 <./figures/pricing_mu_model_data.jpeg>] [78 <./figures/price_z_corplot_repulsion.jpeg>] [79 <./figures/price_z_corplot_attraction.jpeg>]
+<figures/bayes_choice_model_data_plot.jpeg, id=1346, 1505.625pt x 1204.5pt>
+File: figures/bayes_choice_model_data_plot.jpeg Graphic file (type jpg)
+<use figures/bayes_choice_model_data_plot.jpeg>
+Package pdftex.def Info: figures/bayes_choice_model_data_plot.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 1505.62134pt x 1204.49707pt.
+
+Overfull \hbox (1072.00134pt too wide) in paragraph at lines 157--158
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 638.40039pt on input line 160.
+
+<figures/bayes_choice_sim_preds.jpeg, id=1349, 1053.9375pt x 903.375pt>
+File: figures/bayes_choice_sim_preds.jpeg Graphic file (type jpg)
+<use figures/bayes_choice_sim_preds.jpeg>
+Package pdftex.def Info: figures/bayes_choice_sim_preds.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 1053.93494pt x 903.3728pt.
+
+Overfull \hbox (620.31494pt too wide) in paragraph at lines 178--179
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 293.77612pt on input line 181.
+
+[80] [81 <./figures/bayes_choice_model_data_plot.jpeg>] [82 <./figures/bayes_choice_sim_preds.jpeg>] [83]) [84] [85]
+
+Package hyperref Warning: bookmark level for unknown BackMatter defaults to 0.
+
+[86
+
+] [87] [88] [89] [90]
+Overfull \hbox (2.20251pt too wide) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 Mod-el-ing the choices of in-di-vid-ual decision-makers by com-bin-ing ef-fi-cient choice
+ []
+
+
+Overfull \hbox (0.48807pt too wide) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 best{worst choices. \OT1/cmr/m/it/12 Jour-nal of Math-e-mat-i-cal Psy-chol-ogy\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 49\OT1/cmr/m/n/12 (6), 464{480. []$https :
+ []
+
+[91] [92] [93]
+Overfull \hbox (14.83795pt too wide) in paragraph at lines 274--274
+[][]\OT1/cmr/m/n/12 Stephens, R. G., Matzke, D., & Hayes, B. K. (2020). State-trace anal-y-sis|misrepresented
+ []
+
+[94] [95] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 56F0C981E29B407B130A75367776CF90;10078.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19758 strings out of 474116
+ 370295 string characters out of 5743681
+ 1945187 words of memory out of 5000000
+ 41538 multiletter control sequences out of 15000+600000
+ 567231 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,14n,81p,2252b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (106 pages, 13255539 bytes).
+PDF statistics:
+ 1651 PDF objects out of 1728 (max. 8388607)
+ 1455 compressed objects within 15 object streams
+ 344 named destinations out of 1000 (max. 500000)
+ 687 words of extra memory for PDF output out of 10000 (max. 10000000)
+
