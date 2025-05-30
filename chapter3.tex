@@ -13,7 +13,7 @@ Researchers have developed theoretical models to account for best-worst choice d
    \label{eqn:maxdiff_equation}
 \end{equation}
 
-where $u_{i}$ is the utility of option $i$. This model proposes a single utility scale  for selection of both the best option and the worst option in a choice set. Specifically, it proposes that best-choice probabilities are an increasing function of $u$, while worst-choice probabilities are a decreasing function of $u$. The use of the exponential function means that the maxdiff model is another form of the widely used multinomial logit (MNL) choice model \parencite{hausman1984specification}. 
+where $u_{i}$ is the utility of option $i$. This model proposes a single utility scale  for selection of both the best option and the worst option in a choice set. It assumes that best-choice probabilities are an increasing function of $u$, while worst-choice probabilities are a decreasing function of $u$. The use of the exponential function means that the maxdiff model is another form of the widely used multinomial logit (MNL) choice model \parencite{hausman1984specification}. 
 
 There are several variants of this model along with other best-worst choice models \parencite{marleyProbabilisticModelsBest2005,marleyProbabilisticModelsSetdependent2008,marleyModelsBestWorst2012,flynnBestWorstScaling2007,flynn2014best}, though the maxdiff model from Equation~\ref{eqn:maxdiff_equation} remains the dominant model for analyzing best-worst choice data.
 
@@ -65,11 +65,11 @@ The perceptual model predicts this because $\rho_{TD}>\rho_{CD}\approx\rho_{TC}$
 
 The maxdiff model, as discussed above, predicts a monotonic state-trace plot. That is, if we assume all options' utilities are independent, the model predicts that best-choice probabilities are negatively related to worst-choice probabilities. 
 
-\begin{figure}
-   \includegraphics[width=\linewidth]{figures/maxdiff_sim_monotonic.jpeg}
-   \caption{Best-worst choice simulations using the maxdiff model. Each curve is a separate simulation. The model predicts a negative, monotonic relationship between best-choice and worst-choice.}
-   \label{fig:maxdiff_sim}
-\end{figure}
+% \begin{figure}
+%    \includegraphics[width=\linewidth]{figures/maxdiff_sim_monotonic.jpeg}
+%    \caption{Best-worst choice simulations using the maxdiff model. Each curve is a separate simulation. The model predicts a negative, monotonic relationship between best-choice and worst-choice.}
+%    \label{fig:maxdiff_sim}
+% \end{figure}
 
 This dissociation is subtle, and the predicted effect size is small. Indeed, all differences in predicted $W(C)-W(T)$ values were $<.05$. In Experiment 3, I show the empirical and modeling results from a best-worst choice experiment designed to test this prediction. I show that the dissociation between best and worst choices does indeed occur. I also show that the assumption of monotonicity required by the maxdiff model can fail empirically.
 

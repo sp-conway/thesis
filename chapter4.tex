@@ -64,7 +64,7 @@ In each phase, there were two types of trials: critical trials and catch trials.
 There were two main types of critical trials: those designed to elicit the repulsion effect (a replication of \citeauthor{banerjeeFactorsThatPromote2024}), and those designed to elicit the attraction effect. Within both the attraction and repulsion trials, I varied which dimension the target was higher on (1 or 2), $TDD$ (designated near or far), and product category (microwaves, washing machines, laptops, and televisions). Note that to create the attraction trials, I simply "shifted" the target and competitor towards the center of the attribute space. That is, target and competitor are equally similar in both repulsion and attraction triasl, but they are both more extreme in the repulsion trials.
 
 \begin{figure}
-    \includegraphics{figures/ce_rating_stim_for_paper.jpeg}
+    \includegraphics[width=150mm,scale=0.5]{figures/ce_rating_stim_for_paper.jpeg}
     \caption{Graphical depiction of a subset of the stimuli used in Experiment 4. Rows show the different choice sets designed to elicit the attraction/repulsion effect, with the label also specifying whether the decoy is near or far from the target in attribute space. The columns indicate which dimension the target is high on (1 or 2).}
     \label{fig:ce_rating_stim}
 \end{figure}
@@ -85,7 +85,7 @@ During the pricing trials, the three options were presented in a table, with the
 
 \begin{figure}
     \includegraphics{figures/ce_rating_choice_example_trial.jpg}
-    \caption{Example trials from the pricing phase (top) and choice phase (bottom) in Experiment 4.}
+    \caption{Sample trials from the pricing phase (top) and choice phase (bottom) in Experiment 4.}
     \label{fig:ce_rating_choice_trial}
 \end{figure}
 
@@ -108,7 +108,7 @@ First, I computed mean prices for the target, competitor, and decoy option withi
 On average, participants priced the target and competitor higher than the decoy. They also assigned higher prices to products that are typically more expensive (e.g., washing machines are more expensive than microwave ovens). This suggests that participants were engaged with the task and, in a relative sense, participants performed well.
 
 \begin{figure}
-    \includegraphics{figures/price_m_by_effect_category.jpeg}
+    \includegraphics[width=200mm,scale=0.5]{figures/price_m_by_effect_category.jpeg}
     \caption{Experiment 4 mean prices by product category, option, and trial type. Error bars are $\pm 1\;\text{SEM}$.}
     \label{fig:price_m_by_effect_category}
 \end{figure}
@@ -120,25 +120,25 @@ To account for participant-level differences in pricing, I first z-scored all pr
 I first computed the mean prices for target, competitor, and decoy options within each trial type, collapsing over product category and TDD, in Figure~\ref{fig:price_mu_model_data}. In both repulsion and attraction effect trials, the target and competitor do not differ in mean price, while both are priced higher than the decoy option.
 
 \begin{figure}
-    \includegraphics{figures/pricing_mu_model_data.jpeg}
+    \includegraphics[scale=0.5, width=100mm]{figures/pricing_mu_model_data.jpeg}
     \caption{Experiment 4 mean prices for target, competitor, and decoy options in both repulsion and attraction trials. Model values are the means from the posterior distribution, and error bars are $95\%$ HDIs.}
     \label{fig:price_mu_model_data}
 \end{figure}
 
-I then computed correlations between the prices assigned to options within each trial type. I plot the z-scored prices in a series of scatterplots, with the Pearson correlations included. See Figure~\ref{fig:price_z_repulsion} for repulsion effect correlations and Figure~\ref{price_z_attraction} for attraction effect correlations. 
+I then computed correlations between the prices assigned to options within each trial type. I plot the z-scored prices in a series of scatterplots, with the Pearson correlations included. See Figure~\ref{fig:price_z_corplot_repulsion} for repulsion effect correlations and Figure~\ref{fig:price_z_corplot_attraction} for attraction effect correlations. 
 
 In the repulsion trials, I replicated the results of Experiment 2, in that $\rho_{TD}>\rho_{TC}$ and $\rho_{TD}>\rho_{CD}$. Interestingly, I also found that $\rho_{TC}>\rho_{CD}$, while in Experiment 2 $\rho_{TC}\approx\rho_{CD}$.
 
 In the attraction trials, I found that $\rho_{TC}>\rho_{TD}>\rho_{CD}$. In other words, the target and competitor are more similar than target and decoy, which are in turn more similar than competitor and decoy. 
 
 \begin{figure}
-    \includegraphics{figures/price_z_corplot_repulsion.jpeg}
+    \includegraphics[scale=.5,width=120mm]{figures/price_z_corplot_repulsion.jpeg}
     \caption{Experiment 4 correlation plots for all pairs of stimuli, in trials designed to elicit the repulsion effect. t=target, c=competitor, and d=decoy.}
     \label{fig:price_z_corplot_repulsion}
 \end{figure}
 
 \begin{figure}
-    \includegraphics{figures/price_z_corplot_attraction.jpeg}
+    \includegraphics[scale=.5,width=120mm]{figures/price_z_corplot_attraction.jpeg}
     \caption{Experiment 4 correlation plots for all pairs of stimuli, in trials designed to elicit the attraction effect. t=target, c=competitor, and d=decoy.}
     \label{fig:price_z_corplot_attraction}
 \end{figure}
@@ -154,7 +154,7 @@ The results show what appears to be a repulsion effect, where the participants g
 Participants seldom chose the decoy, another indication that they were attentive to the task along with evidence that decoy selection is far more common in perceptual choice than preferential choice.
 
 \begin{figure}
-    \includegraphics{figures/bayes_choice_model_data_plot.jpeg}
+    \includegraphics[scale=.5,width=100mm]{figures/bayes_choice_model_data_plot.jpeg}
     \caption{Experiment 4 aggregate choice proportions for each trial type, TDD, and option. Data points are aggregate choice proportions, while model points are posterior means computed from the Dirichlet-multinomial model presented in the Appendix. Error bars are $95\%$ HDIs.}
     \label{fig:bayes_choice_model_data_plot}
 \end{figure}
@@ -175,7 +175,7 @@ As in Chapter 2, the model assumes that value is stochastic while choice is dete
 I ran $1,000,000$ simulations of the model and plotted the results against the data in Figure~\ref{fig:bayes_choice_sim_preds}.
 
 \begin{figure}
-    \includegraphics{figures/bayes_choice_sim_preds.jpeg}
+    \includegraphics[scale=.5,width=100mm]{figures/bayes_choice_sim_preds.jpeg}
     \caption{Correlational model predictions compared to the data of Experiment 4.}
     \label{fig:bayes_choice_sim_preds}
 \end{figure}

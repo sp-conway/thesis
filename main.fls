@@ -330,11 +330,6 @@ INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
 INPUT ./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg
-INPUT ./figures/maxdiff_sim_monotonic.jpeg
-INPUT ./figures/maxdiff_sim_monotonic.jpeg
-INPUT ./figures/maxdiff_sim_monotonic.jpeg
-INPUT ./figures/maxdiff_sim_monotonic.jpeg
-INPUT ./figures/maxdiff_sim_monotonic.jpeg
 INPUT ./figures/bw_design_fig.jpg
 INPUT ./figures/bw_design_fig.jpg
 INPUT ./figures/bw_design_fig.jpg
@@ -413,6 +408,9 @@ INPUT ./figures/bayes_choice_sim_preds.jpeg
 INPUT ./figures/bayes_choice_sim_preds.jpeg
 INPUT ./figures/bayes_choice_sim_preds.jpeg
 INPUT ./figures/bayes_choice_sim_preds.jpeg
+INPUT ./chapter5.tex
+INPUT ./chapter5.tex
+INPUT chapter5.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

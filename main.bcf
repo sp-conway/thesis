@@ -94,7 +94,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -102,7 +102,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -182,7 +182,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -343,7 +343,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -351,7 +351,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -411,7 +411,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -570,7 +570,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -578,7 +578,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -638,7 +638,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -795,7 +795,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -803,7 +803,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>20</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -863,7 +863,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -3070,70 +3070,71 @@
     <bcf:citekey order="13" intorder="1">ray1973independence</bcf:citekey>
     <bcf:citekey order="14" intorder="1">mackay1995probabilistic</bcf:citekey>
     <bcf:citekey order="14" intorder="2">marley1989random</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">davis2023illustrated</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">luceChoiceAxiomTwenty1977a</bcf:citekey>
+    <bcf:citekey order="15" intorder="2">luce1959individual</bcf:citekey>
     <bcf:citekey order="16" intorder="1">davis2023illustrated</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">ray1973independence</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">davis2023illustrated</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ray1973independence</bcf:citekey>
     <bcf:citekey order="19" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
     <bcf:citekey order="20" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
     <bcf:citekey order="21" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">huber1983market</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
     <bcf:citekey order="23" intorder="1">huber1983market</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">doyleRobustnessAsymmetricallyDominated1999</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">huber1983market</bcf:citekey>
     <bcf:citekey order="25" intorder="1">doyleRobustnessAsymmetricallyDominated1999</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">van2021attract</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">doyleRobustnessAsymmetricallyDominated1999</bcf:citekey>
     <bcf:citekey order="27" intorder="1">van2021attract</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">slaughterDecoyEffectsAttributelevel1999b</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">van2021attract</bcf:citekey>
     <bcf:citekey order="29" intorder="1">slaughterDecoyEffectsAttributelevel1999b</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">tverskyEliminationAspectsTheory1972</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">simonsonChoiceBasedReasons1989b</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">mcfadden2001economic</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">gensch1979multinomial</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">bolduc1999practical</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">rooderkerk2011incorporating</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">haaijer1998utility</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">haaijer1998utility</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">haaijer1998utility</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">trueblood2014multiattribute</bcf:citekey>
-    <bcf:citekey order="39" intorder="2">roeMultialternativeDecisionField2001a</bcf:citekey>
-    <bcf:citekey order="39" intorder="3">usherLossAversionInhibition2004a</bcf:citekey>
-    <bcf:citekey order="39" intorder="4">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
-    <bcf:citekey order="39" intorder="5">noguchiMultialternativeDecisionSampling2018a</bcf:citekey>
-    <bcf:citekey order="39" intorder="6">wollschlager2NaryChoiceTree2012a</bcf:citekey>
-    <bcf:citekey order="39" intorder="7">bergnerVAMPVotingAgent2019b</bcf:citekey>
-    <bcf:citekey order="39" intorder="8">tverskyEliminationAspectsTheory1972</bcf:citekey>
-    <bcf:citekey order="39" intorder="9">tversky1993context</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">slaughterDecoyEffectsAttributelevel1999b</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">tverskyEliminationAspectsTheory1972</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">simonsonChoiceBasedReasons1989b</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">mcfadden2001economic</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">gensch1979multinomial</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">bolduc1999practical</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">paetzUtilityIndependenceIIA2018</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">paetzUtilityIndependenceIIA2018</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">rooderkerk2011incorporating</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">haaijer1998utility</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">haaijer1998utility</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">haaijer1998utility</bcf:citekey>
     <bcf:citekey order="42" intorder="1">trueblood2014multiattribute</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">trueblood2014multiattribute</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="44" intorder="2">cataldoModelingPreferenceReversals2021</bcf:citekey>
-    <bcf:citekey order="44" intorder="3">evansResponsetimeDataProvide2019b</bcf:citekey>
-    <bcf:citekey order="44" intorder="4">molloyWhatResponseTime2019a</bcf:citekey>
-    <bcf:citekey order="44" intorder="5">berkowitschRigorouslyTestingMultialternative2014b</bcf:citekey>
-    <bcf:citekey order="44" intorder="6">hotalingTheoreticalDevelopmentsDecision2010</bcf:citekey>
-    <bcf:citekey order="44" intorder="7">cohen2017multi</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">mohr2017attraction</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">herneDecoyAlternativesPolicy1997b</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">mariniAttractionComesMany2020</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">schwartz1999more</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">pittarello2020three</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">highhouseContextDependentSelectionEffects1996</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">pan1995attractiovoting</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
-    <bcf:citekey order="54" intorder="2">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="54" intorder="3">spektorRepulsionEffectPreferential2022</bcf:citekey>
-    <bcf:citekey order="54" intorder="4">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="54" intorder="5">yearsleyContextEffectsSimilarity2022</bcf:citekey>
-    <bcf:citekey order="54" intorder="6">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="54" intorder="7">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">flynnBestWorstScaling2007</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="42" intorder="2">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="42" intorder="3">usherLossAversionInhibition2004a</bcf:citekey>
+    <bcf:citekey order="42" intorder="4">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
+    <bcf:citekey order="42" intorder="5">noguchiMultialternativeDecisionSampling2018a</bcf:citekey>
+    <bcf:citekey order="42" intorder="6">wollschlager2NaryChoiceTree2012a</bcf:citekey>
+    <bcf:citekey order="42" intorder="7">bergnerVAMPVotingAgent2019b</bcf:citekey>
+    <bcf:citekey order="42" intorder="8">tverskyEliminationAspectsTheory1972</bcf:citekey>
+    <bcf:citekey order="42" intorder="9">tversky1993context</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
+    <bcf:citekey order="47" intorder="2">cataldoModelingPreferenceReversals2021</bcf:citekey>
+    <bcf:citekey order="47" intorder="3">evansResponsetimeDataProvide2019b</bcf:citekey>
+    <bcf:citekey order="47" intorder="4">molloyWhatResponseTime2019a</bcf:citekey>
+    <bcf:citekey order="47" intorder="5">berkowitschRigorouslyTestingMultialternative2014b</bcf:citekey>
+    <bcf:citekey order="47" intorder="6">hotalingTheoreticalDevelopmentsDecision2010</bcf:citekey>
+    <bcf:citekey order="47" intorder="7">cohen2017multi</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">mohr2017attraction</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">herneDecoyAlternativesPolicy1997b</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">mariniAttractionComesMany2020</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">schwartz1999more</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">pittarello2020three</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">highhouseContextDependentSelectionEffects1996</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">pan1995attractiovoting</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="57" intorder="2">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="57" intorder="3">spektorRepulsionEffectPreferential2022</bcf:citekey>
+    <bcf:citekey order="57" intorder="4">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="57" intorder="5">yearsleyContextEffectsSimilarity2022</bcf:citekey>
+    <bcf:citekey order="57" intorder="6">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
+    <bcf:citekey order="57" intorder="7">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
     <bcf:citekey order="59" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="60" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="61" intorder="1">trueblood2013not</bcf:citekey>
@@ -3142,78 +3143,78 @@
     <bcf:citekey order="64" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="65" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="66" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">tversky1993context</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">tversky1993context</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">usherLossAversionInhibition2004a</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">usherLossAversionInhibition2004a</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">tversky1993context</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">tversky1993context</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">usherLossAversionInhibition2004a</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">usherLossAversionInhibition2004a</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">truebloodMultialternativeContextEffects2012</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
     <bcf:citekey order="78" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">frederickLimitsAttraction2014b</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
     <bcf:citekey order="84" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">ashbyVarietiesPerceptualIndependence1986a</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="88" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="89" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="89" intorder="2">evansImpactPresentationOrder2021</bcf:citekey>
-    <bcf:citekey order="89" intorder="3">simonson2014vices</bcf:citekey>
-    <bcf:citekey order="89" intorder="4">frederickLimitsAttraction2014b</bcf:citekey>
-    <bcf:citekey order="89" intorder="5">spektorRepulsionEffectPreferential2022</bcf:citekey>
-    <bcf:citekey order="89" intorder="6">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="89" intorder="7">bhui2021rational</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">turnerCompetingTheoriesMultialternative2018a</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">ashbyVarietiesPerceptualIndependence1986a</bcf:citekey>
     <bcf:citekey order="90" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="91" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="92" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="92" intorder="2">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="92" intorder="3">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="92" intorder="4">frederickLimitsAttraction2014b</bcf:citekey>
+    <bcf:citekey order="92" intorder="5">spektorRepulsionEffectPreferential2022</bcf:citekey>
+    <bcf:citekey order="92" intorder="6">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="92" intorder="7">bhui2021rational</bcf:citekey>
     <bcf:citekey order="93" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="94" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="95" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="96" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="97" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="98" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="99" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="100" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="101" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="102" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="103" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="104" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="105" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="106" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
-    <bcf:citekey order="107" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
-    <bcf:citekey order="108" intorder="1">pratkanisBriefHistoryResearch1992b</bcf:citekey>
-    <bcf:citekey order="108" intorder="2">pettiboneExaminingModelsNondominated2000</bcf:citekey>
-    <bcf:citekey order="109" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="110" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="111" intorder="1">morey2008confidence</bcf:citekey>
-    <bcf:citekey order="112" intorder="1">morey2008confidence</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">truebloodPhantomDecoyEffect2017c</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">pratkanisBriefHistoryResearch1992b</bcf:citekey>
+    <bcf:citekey order="111" intorder="2">pettiboneExaminingModelsNondominated2000</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="113" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="114" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">morey2008confidence</bcf:citekey>
     <bcf:citekey order="115" intorder="1">morey2008confidence</bcf:citekey>
-    <bcf:citekey order="116" intorder="1">morey2008confidence</bcf:citekey>
-    <bcf:citekey order="117" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="118" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="119" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="120" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="121" intorder="1">spektorRepulsionEffectPreferential2022</bcf:citekey>
-    <bcf:citekey order="122" intorder="1">spektorRepulsionEffectPreferential2022</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">morey2008confidence</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">morey2008confidence</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="123" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="124" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="125" intorder="1">choplinComparisoninducedDecoyEffects2005b</bcf:citekey>
-    <bcf:citekey order="126" intorder="1">choplinComparisoninducedDecoyEffects2005b</bcf:citekey>
-    <bcf:citekey order="127" intorder="1">yearsleyContextEffectsSimilarity2022</bcf:citekey>
-    <bcf:citekey order="128" intorder="1">yearsleyContextEffectsSimilarity2022</bcf:citekey>
-    <bcf:citekey order="129" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="130" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="131" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">spektorRepulsionEffectPreferential2022</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">spektorRepulsionEffectPreferential2022</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">choplinComparisoninducedDecoyEffects2005b</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">choplinComparisoninducedDecoyEffects2005b</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">yearsleyContextEffectsSimilarity2022</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">yearsleyContextEffectsSimilarity2022</bcf:citekey>
     <bcf:citekey order="132" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="133" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="134" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
@@ -3223,215 +3224,267 @@
     <bcf:citekey order="138" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="139" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="140" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="141" intorder="1">hayes2024attribute</bcf:citekey>
-    <bcf:citekey order="141" intorder="2">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="142" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="143" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="144" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="145" intorder="1">berkowitschRigorouslyTestingMultialternative2014b</bcf:citekey>
+    <bcf:citekey order="144" intorder="1">hayes2024attribute</bcf:citekey>
+    <bcf:citekey order="144" intorder="2">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
     <bcf:citekey order="146" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="147" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="148" intorder="1">thurstone1927law</bcf:citekey>
-    <bcf:citekey order="149" intorder="1">thurstone1927law</bcf:citekey>
-    <bcf:citekey order="150" intorder="1">thurstone1927law</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">berkowitschRigorouslyTestingMultialternative2014b</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="151" intorder="1">thurstone1927law</bcf:citekey>
-    <bcf:citekey order="152" intorder="1">hautus2021detection</bcf:citekey>
-    <bcf:citekey order="153" intorder="1">ashbyVarietiesPerceptualIndependence1986a</bcf:citekey>
-    <bcf:citekey order="153" intorder="2">ashby1988decision</bcf:citekey>
-    <bcf:citekey order="153" intorder="3">ashbyUnifiedTheorySimilarity</bcf:citekey>
-    <bcf:citekey order="154" intorder="1">mcfadden2001economic</bcf:citekey>
-    <bcf:citekey order="154" intorder="2">hausman1978conditional</bcf:citekey>
-    <bcf:citekey order="154" intorder="3">train2009discrete</bcf:citekey>
-    <bcf:citekey order="155" intorder="1">benjamin2009signal</bcf:citekey>
-    <bcf:citekey order="156" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="157" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="158" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="159" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="160" intorder="1">thurstone1927law</bcf:citekey>
-    <bcf:citekey order="161" intorder="1">train2009discrete</bcf:citekey>
+    <bcf:citekey order="152" intorder="1">thurstone1927law</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">thurstone1927law</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">thurstone1927law</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">hautus2021detection</bcf:citekey>
+    <bcf:citekey order="156" intorder="1">ashbyVarietiesPerceptualIndependence1986a</bcf:citekey>
+    <bcf:citekey order="156" intorder="2">ashby1988decision</bcf:citekey>
+    <bcf:citekey order="156" intorder="3">ashbyUnifiedTheorySimilarity</bcf:citekey>
+    <bcf:citekey order="157" intorder="1">mcfadden2001economic</bcf:citekey>
+    <bcf:citekey order="157" intorder="2">hausman1978conditional</bcf:citekey>
+    <bcf:citekey order="157" intorder="3">train2009discrete</bcf:citekey>
+    <bcf:citekey order="158" intorder="1">benjamin2009signal</bcf:citekey>
+    <bcf:citekey order="159" intorder="1">benjamin2009signal</bcf:citekey>
+    <bcf:citekey order="160" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="161" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="162" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="163" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="164" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="165" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">thurstone1927law</bcf:citekey>
+    <bcf:citekey order="165" intorder="1">train2009discrete</bcf:citekey>
     <bcf:citekey order="166" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="167" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="168" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="169" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="168" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="169" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="170" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="171" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="172" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="173" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="172" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="173" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="174" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="175" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="176" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="177" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="176" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="177" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="178" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="179" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="180" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="181" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="180" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="181" intorder="1">trueblood2013not</bcf:citekey>
     <bcf:citekey order="182" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="183" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="184" intorder="1">deleeuwJsPsychJavaScriptLibrary2015</bcf:citekey>
-    <bcf:citekey order="185" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="186" intorder="1">stevensCrossmodalityMatchingBrightness1965</bcf:citekey>
+    <bcf:citekey order="184" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="185" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="186" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="187" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="188" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="189" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="190" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="191" intorder="1">octave</bcf:citekey>
-    <bcf:citekey order="192" intorder="1">brainardPsychophysicsToolbox1997</bcf:citekey>
-    <bcf:citekey order="193" intorder="1">martin2021</bcf:citekey>
-    <bcf:citekey order="193" intorder="2">merkle2023opaque</bcf:citekey>
+    <bcf:citekey order="188" intorder="1">deleeuwJsPsychJavaScriptLibrary2015</bcf:citekey>
+    <bcf:citekey order="189" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="190" intorder="1">stevensCrossmodalityMatchingBrightness1965</bcf:citekey>
+    <bcf:citekey order="191" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="192" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="193" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="194" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="195" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="196" intorder="1">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="197" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="195" intorder="1">octave</bcf:citekey>
+    <bcf:citekey order="196" intorder="1">brainardPsychophysicsToolbox1997</bcf:citekey>
+    <bcf:citekey order="197" intorder="1">martin2021</bcf:citekey>
+    <bcf:citekey order="197" intorder="2">merkle2023opaque</bcf:citekey>
     <bcf:citekey order="198" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
     <bcf:citekey order="199" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="200" intorder="1">simonson2014vices</bcf:citekey>
-    <bcf:citekey order="200" intorder="2">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="201" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
-    <bcf:citekey order="202" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
-    <bcf:citekey order="203" intorder="1">hasan2025registered</bcf:citekey>
-    <bcf:citekey order="204" intorder="1">hasan2025registered</bcf:citekey>
-    <bcf:citekey order="205" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
-    <bcf:citekey order="206" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
-    <bcf:citekey order="207" intorder="1">noguchi2014attraction</bcf:citekey>
-    <bcf:citekey order="208" intorder="1">noguchi2014attraction</bcf:citekey>
-    <bcf:citekey order="209" intorder="1">hayes2024attribute</bcf:citekey>
-    <bcf:citekey order="210" intorder="1">hayes2024attribute</bcf:citekey>
-    <bcf:citekey order="211" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
-    <bcf:citekey order="211" intorder="2">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="211" intorder="3">usherLossAversionInhibition2004a</bcf:citekey>
-    <bcf:citekey order="211" intorder="4">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
-    <bcf:citekey order="212" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="212" intorder="2">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="213" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="213" intorder="2">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="214" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
-    <bcf:citekey order="215" intorder="1">natenzon2019random</bcf:citekey>
-    <bcf:citekey order="216" intorder="1">natenzon2019random</bcf:citekey>
-    <bcf:citekey order="217" intorder="1">natenzon2019random</bcf:citekey>
-    <bcf:citekey order="218" intorder="1">natenzon2019random</bcf:citekey>
-    <bcf:citekey order="219" intorder="1">kamakura1984predicting</bcf:citekey>
-    <bcf:citekey order="220" intorder="1">kamakura1984predicting</bcf:citekey>
-    <bcf:citekey order="221" intorder="1">finn1992determining</bcf:citekey>
-    <bcf:citekey order="222" intorder="1">finn1992determining</bcf:citekey>
-    <bcf:citekey order="223" intorder="1">beck2016best</bcf:citekey>
-    <bcf:citekey order="224" intorder="1">cheung2016using</bcf:citekey>
-    <bcf:citekey order="224" intorder="2">flynn2007best</bcf:citekey>
-    <bcf:citekey order="224" intorder="3">muhlbacher2016experimental</bcf:citekey>
-    <bcf:citekey order="225" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="226" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="227" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="228" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="200" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="201" intorder="1">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="202" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="203" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="204" intorder="1">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="204" intorder="2">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="205" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="206" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="207" intorder="1">hasan2025registered</bcf:citekey>
+    <bcf:citekey order="208" intorder="1">hasan2025registered</bcf:citekey>
+    <bcf:citekey order="209" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="210" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="211" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="212" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="213" intorder="1">hayes2024attribute</bcf:citekey>
+    <bcf:citekey order="214" intorder="1">hayes2024attribute</bcf:citekey>
+    <bcf:citekey order="215" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="215" intorder="2">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="215" intorder="3">usherLossAversionInhibition2004a</bcf:citekey>
+    <bcf:citekey order="215" intorder="4">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
+    <bcf:citekey order="216" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="216" intorder="2">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="217" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="217" intorder="2">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="218" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="219" intorder="1">natenzon2019random</bcf:citekey>
+    <bcf:citekey order="220" intorder="1">natenzon2019random</bcf:citekey>
+    <bcf:citekey order="221" intorder="1">natenzon2019random</bcf:citekey>
+    <bcf:citekey order="222" intorder="1">natenzon2019random</bcf:citekey>
+    <bcf:citekey order="223" intorder="1">kamakura1984predicting</bcf:citekey>
+    <bcf:citekey order="224" intorder="1">kamakura1984predicting</bcf:citekey>
+    <bcf:citekey order="225" intorder="1">finn1992determining</bcf:citekey>
+    <bcf:citekey order="226" intorder="1">finn1992determining</bcf:citekey>
+    <bcf:citekey order="227" intorder="1">beck2016best</bcf:citekey>
+    <bcf:citekey order="228" intorder="1">cheung2016using</bcf:citekey>
+    <bcf:citekey order="228" intorder="2">flynn2007best</bcf:citekey>
+    <bcf:citekey order="228" intorder="3">muhlbacher2016experimental</bcf:citekey>
     <bcf:citekey order="229" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="230" intorder="1">hausman1984specification</bcf:citekey>
+    <bcf:citekey order="230" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
     <bcf:citekey order="231" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="231" intorder="2">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
-    <bcf:citekey order="231" intorder="3">marleyModelsBestWorst2012</bcf:citekey>
-    <bcf:citekey order="231" intorder="4">flynnBestWorstScaling2007</bcf:citekey>
-    <bcf:citekey order="231" intorder="5">flynn2014best</bcf:citekey>
-    <bcf:citekey order="232" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="233" intorder="1">hawkinsIntegratingCognitiveProcess2014a</bcf:citekey>
-    <bcf:citekey order="234" intorder="1">hawkinsIntegratingCognitiveProcess2014a</bcf:citekey>
-    <bcf:citekey order="235" intorder="1">brownSimplestCompleteModel2008b</bcf:citekey>
+    <bcf:citekey order="232" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="233" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="234" intorder="1">hausman1984specification</bcf:citekey>
+    <bcf:citekey order="235" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="235" intorder="2">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
+    <bcf:citekey order="235" intorder="3">marleyModelsBestWorst2012</bcf:citekey>
+    <bcf:citekey order="235" intorder="4">flynnBestWorstScaling2007</bcf:citekey>
+    <bcf:citekey order="235" intorder="5">flynn2014best</bcf:citekey>
     <bcf:citekey order="236" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="237" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="237" intorder="1">hawkinsIntegratingCognitiveProcess2014a</bcf:citekey>
     <bcf:citekey order="238" intorder="1">hawkinsIntegratingCognitiveProcess2014a</bcf:citekey>
-    <bcf:citekey order="239" intorder="1">bamber1979state</bcf:citekey>
-    <bcf:citekey order="239" intorder="2">ashby2022state</bcf:citekey>
-    <bcf:citekey order="240" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="241" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="242" intorder="1">gronau2023choice</bcf:citekey>
-    <bcf:citekey order="243" intorder="1">octave</bcf:citekey>
-    <bcf:citekey order="243" intorder="2">brainardPsychophysicsToolbox1997</bcf:citekey>
-    <bcf:citekey order="244" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="245" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="246" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="247" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="248" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="249" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="249" intorder="2">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="249" intorder="3">muhlbacher2016experimental</bcf:citekey>
-    <bcf:citekey order="249" intorder="4">de2017relations</bcf:citekey>
-    <bcf:citekey order="250" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="251" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
-    <bcf:citekey order="252" intorder="1">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
-    <bcf:citekey order="253" intorder="1">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
-    <bcf:citekey order="254" intorder="1">hawkins2019like</bcf:citekey>
-    <bcf:citekey order="255" intorder="1">hawkins2019like</bcf:citekey>
-    <bcf:citekey order="256" intorder="1">gervzinivc2021estimating</bcf:citekey>
-    <bcf:citekey order="257" intorder="1">gervzinivc2021estimating</bcf:citekey>
-    <bcf:citekey order="258" intorder="1">de2017relations</bcf:citekey>
-    <bcf:citekey order="259" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="260" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
-    <bcf:citekey order="261" intorder="1">hawkins2019like</bcf:citekey>
-    <bcf:citekey order="262" intorder="1">hawkins2019like</bcf:citekey>
-    <bcf:citekey order="263" intorder="1">tverskyChoiceConflictDynamics1992a</bcf:citekey>
-    <bcf:citekey order="264" intorder="1">tverskyChoiceConflictDynamics1992a</bcf:citekey>
-    <bcf:citekey order="265" intorder="1">dhar1997consumer</bcf:citekey>
-    <bcf:citekey order="265" intorder="2">dhar1997context</bcf:citekey>
-    <bcf:citekey order="265" intorder="3">dhar1996effect</bcf:citekey>
-    <bcf:citekey order="265" intorder="4">dharEffectForcedChoice2003b</bcf:citekey>
-    <bcf:citekey order="265" intorder="5">noguchiDescriptionexperienceGapChoice2016a</bcf:citekey>
-    <bcf:citekey order="265" intorder="6">brazellNochoiceOptionDual2006b</bcf:citekey>
-    <bcf:citekey order="265" intorder="7">parker2011rejectable</bcf:citekey>
-    <bcf:citekey order="265" intorder="8">chernevChoiceOverloadConceptual2015</bcf:citekey>
-    <bcf:citekey order="266" intorder="1">louviere2008modeling</bcf:citekey>
-    <bcf:citekey order="267" intorder="1">marleyModelsBestWorst2012</bcf:citekey>
-    <bcf:citekey order="268" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="268" intorder="2">trueblood2013not</bcf:citekey>
-    <bcf:citekey order="269" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
-    <bcf:citekey order="270" intorder="1">breidertREVIEWMETHODSMEASURING2006</bcf:citekey>
-    <bcf:citekey order="270" intorder="2">schmidtAccuratelyMeasuringWillingness2020</bcf:citekey>
-    <bcf:citekey order="271" intorder="1">miller2011should</bcf:citekey>
-    <bcf:citekey order="272" intorder="1">wedellUsingJudgmentsUnderstand</bcf:citekey>
-    <bcf:citekey order="273" intorder="1">wedellUsingJudgmentsUnderstand</bcf:citekey>
-    <bcf:citekey order="274" intorder="1">windschitl2004dud</bcf:citekey>
-    <bcf:citekey order="275" intorder="1">windschitl2004dud</bcf:citekey>
-    <bcf:citekey order="276" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
-    <bcf:citekey order="277" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
-    <bcf:citekey order="278" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="279" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="280" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
-    <bcf:citekey order="281" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="282" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="283" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="284" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="285" intorder="1">marley1989random</bcf:citekey>
+    <bcf:citekey order="239" intorder="1">brownSimplestCompleteModel2008b</bcf:citekey>
+    <bcf:citekey order="240" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="241" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="242" intorder="1">hawkinsIntegratingCognitiveProcess2014a</bcf:citekey>
+    <bcf:citekey order="243" intorder="1">bamber1979state</bcf:citekey>
+    <bcf:citekey order="243" intorder="2">ashby2022state</bcf:citekey>
+    <bcf:citekey order="244" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="245" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="246" intorder="1">gronau2023choice</bcf:citekey>
+    <bcf:citekey order="247" intorder="1">octave</bcf:citekey>
+    <bcf:citekey order="247" intorder="2">brainardPsychophysicsToolbox1997</bcf:citekey>
+    <bcf:citekey order="248" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="249" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="250" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="251" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="252" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="253" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="253" intorder="2">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="253" intorder="3">muhlbacher2016experimental</bcf:citekey>
+    <bcf:citekey order="253" intorder="4">de2017relations</bcf:citekey>
+    <bcf:citekey order="254" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="255" intorder="1">marleyProbabilisticModelsBest2005</bcf:citekey>
+    <bcf:citekey order="256" intorder="1">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
+    <bcf:citekey order="257" intorder="1">marleyProbabilisticModelsSetdependent2008</bcf:citekey>
+    <bcf:citekey order="258" intorder="1">hawkins2019like</bcf:citekey>
+    <bcf:citekey order="259" intorder="1">hawkins2019like</bcf:citekey>
+    <bcf:citekey order="260" intorder="1">gervzinivc2021estimating</bcf:citekey>
+    <bcf:citekey order="261" intorder="1">gervzinivc2021estimating</bcf:citekey>
+    <bcf:citekey order="262" intorder="1">de2017relations</bcf:citekey>
+    <bcf:citekey order="263" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="264" intorder="1">hawkinsBestTimesWorst2014</bcf:citekey>
+    <bcf:citekey order="265" intorder="1">hawkins2019like</bcf:citekey>
+    <bcf:citekey order="266" intorder="1">hawkins2019like</bcf:citekey>
+    <bcf:citekey order="267" intorder="1">tverskyChoiceConflictDynamics1992a</bcf:citekey>
+    <bcf:citekey order="268" intorder="1">tverskyChoiceConflictDynamics1992a</bcf:citekey>
+    <bcf:citekey order="269" intorder="1">dhar1997consumer</bcf:citekey>
+    <bcf:citekey order="269" intorder="2">dhar1997context</bcf:citekey>
+    <bcf:citekey order="269" intorder="3">dhar1996effect</bcf:citekey>
+    <bcf:citekey order="269" intorder="4">dharEffectForcedChoice2003b</bcf:citekey>
+    <bcf:citekey order="269" intorder="5">noguchiDescriptionexperienceGapChoice2016a</bcf:citekey>
+    <bcf:citekey order="269" intorder="6">brazellNochoiceOptionDual2006b</bcf:citekey>
+    <bcf:citekey order="269" intorder="7">parker2011rejectable</bcf:citekey>
+    <bcf:citekey order="269" intorder="8">chernevChoiceOverloadConceptual2015</bcf:citekey>
+    <bcf:citekey order="270" intorder="1">louviere2008modeling</bcf:citekey>
+    <bcf:citekey order="271" intorder="1">marleyModelsBestWorst2012</bcf:citekey>
+    <bcf:citekey order="272" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="272" intorder="2">trueblood2013not</bcf:citekey>
+    <bcf:citekey order="273" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
+    <bcf:citekey order="274" intorder="1">breidertREVIEWMETHODSMEASURING2006</bcf:citekey>
+    <bcf:citekey order="274" intorder="2">schmidtAccuratelyMeasuringWillingness2020</bcf:citekey>
+    <bcf:citekey order="275" intorder="1">miller2011should</bcf:citekey>
+    <bcf:citekey order="276" intorder="1">wedellUsingJudgmentsUnderstand</bcf:citekey>
+    <bcf:citekey order="277" intorder="1">wedellUsingJudgmentsUnderstand</bcf:citekey>
+    <bcf:citekey order="278" intorder="1">windschitl2004dud</bcf:citekey>
+    <bcf:citekey order="279" intorder="1">windschitl2004dud</bcf:citekey>
+    <bcf:citekey order="280" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
+    <bcf:citekey order="281" intorder="1">caiWhenAlternativeHypotheses2023</bcf:citekey>
+    <bcf:citekey order="282" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="283" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="284" intorder="1">liaoInfluenceDistanceDecoy2021</bcf:citekey>
+    <bcf:citekey order="285" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="286" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="287" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="288" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="289" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="289" intorder="1">marley1989random</bcf:citekey>
     <bcf:citekey order="290" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="291" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="292" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
-    <bcf:citekey order="293" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="292" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="293" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="294" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="295" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="296" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="297" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="298" intorder="1">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="296" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="297" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="298" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="299" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="300" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="301" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="302" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="303" intorder="1">breidertREVIEWMETHODSMEASURING2006</bcf:citekey>
+    <bcf:citekey order="302" intorder="1">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="303" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="304" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="305" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="306" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="307" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="307" intorder="1">breidertREVIEWMETHODSMEASURING2006</bcf:citekey>
     <bcf:citekey order="308" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="309" intorder="1">stephens2020state</bcf:citekey>
-    <bcf:citekey order="309" intorder="2">merkle2023opaque</bcf:citekey>
+    <bcf:citekey order="309" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="310" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
     <bcf:citekey order="311" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
-    <bcf:citekey order="312" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
-    <bcf:citekey order="313" intorder="1">noguchi2014attraction</bcf:citekey>
-    <bcf:citekey order="313" intorder="2">cataldoComparisonProcessAccount2019b</bcf:citekey>
-    <bcf:citekey order="314" intorder="1">trueblood2014multiattribute</bcf:citekey>
-    <bcf:citekey order="314" intorder="2">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="312" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="313" intorder="1">stephens2020state</bcf:citekey>
+    <bcf:citekey order="313" intorder="2">merkle2023opaque</bcf:citekey>
+    <bcf:citekey order="314" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="315" intorder="1">banerjeeFactorsThatPromote2024</bcf:citekey>
+    <bcf:citekey order="316" intorder="1">huberAddingAsymmetricallyDominated1982d</bcf:citekey>
+    <bcf:citekey order="317" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="317" intorder="2">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="318" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="318" intorder="2">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="319" intorder="1">spektorWhenGoodLooks2018b</bcf:citekey>
+    <bcf:citekey order="319" intorder="2">simonson2014vices</bcf:citekey>
+    <bcf:citekey order="320" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="321" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="322" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="323" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="324" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="325" intorder="1">changWhichCompromiseOption2008</bcf:citekey>
+    <bcf:citekey order="326" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="327" intorder="1">cataldoComparisonProcessAccount2019b</bcf:citekey>
+    <bcf:citekey order="328" intorder="1">hasan2025registered</bcf:citekey>
+    <bcf:citekey order="329" intorder="1">hasan2025registered</bcf:citekey>
+    <bcf:citekey order="330" intorder="1">cataldoReversingSimilarityEffect2018b</bcf:citekey>
+    <bcf:citekey order="331" intorder="1">cataldoReversingSimilarityEffect2018b</bcf:citekey>
+    <bcf:citekey order="332" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="333" intorder="1">noguchi2014attraction</bcf:citekey>
+    <bcf:citekey order="334" intorder="1">hayes2024attribute</bcf:citekey>
+    <bcf:citekey order="335" intorder="1">hayes2024attribute</bcf:citekey>
+    <bcf:citekey order="336" intorder="1">hseeEvaluabilityHypothesisExplanation1996</bcf:citekey>
+    <bcf:citekey order="336" intorder="2">hseeLessBetterWhen1998</bcf:citekey>
+    <bcf:citekey order="336" intorder="3">hseeWillProductsLook1998</bcf:citekey>
+    <bcf:citekey order="336" intorder="4">hsee1999preference</bcf:citekey>
+    <bcf:citekey order="337" intorder="1">hsee1999preference</bcf:citekey>
+    <bcf:citekey order="338" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="339" intorder="1">trueblood2014multiattribute</bcf:citekey>
+    <bcf:citekey order="340" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="341" intorder="1">roeMultialternativeDecisionField2001a</bcf:citekey>
+    <bcf:citekey order="342" intorder="1">usherLossAversionInhibition2004a</bcf:citekey>
+    <bcf:citekey order="342" intorder="2">noguchiMultialternativeDecisionSampling2018a</bcf:citekey>
+    <bcf:citekey order="342" intorder="3">wollschlager2NaryChoiceTree2012a</bcf:citekey>
+    <bcf:citekey order="342" intorder="4">landry2021pairwise</bcf:citekey>
+    <bcf:citekey order="343" intorder="1">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
+    <bcf:citekey order="343" intorder="2">bergnerVAMPVotingAgent2019b</bcf:citekey>
+    <bcf:citekey order="344" intorder="1">bergnerVAMPVotingAgent2019b</bcf:citekey>
+    <bcf:citekey order="344" intorder="2">bhatiaAssociationsAccumulationPreference2013b</bcf:citekey>
+    <bcf:citekey order="345" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="346" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="347" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="348" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="349" intorder="1">trueblood2015fragile</bcf:citekey>
+    <bcf:citekey order="350" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="351" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="352" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="353" intorder="1">trueblood2022attentional</bcf:citekey>
+    <bcf:citekey order="354" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="355" intorder="1">evansImpactPresentationOrder2021</bcf:citekey>
+    <bcf:citekey order="356" intorder="1">trueblood2015fragile</bcf:citekey>
+    <bcf:citekey order="357" intorder="1">trueblood2015fragile</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
