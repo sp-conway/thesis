@@ -78,4 +78,24 @@
 \contentsline {subsubsection}{\numberline {5.2.2.1}Data Processing}{96}{subsubsection.5.2.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.2.2}Catch and Filler Trials}{96}{subsubsection.5.2.2.2}%
 \contentsline {subsubsection}{\numberline {5.2.2.3}Critical Trials}{96}{subsubsection.5.2.2.3}%
-\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{98}{chapter*.5}%
+\setcounter {tocdepth}{0}
+\contentsline {Appendix}{\numberline {A.}\MakeTextUppercase []{Bayesian Logistic Regression Model of 2AFC Discriminability from Experiment 1}}{98}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Model Details}{98}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Prior Distributions on Parameters}{99}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Modeling Results}{101}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Parameter estimates.}{101}{subsection.A.3.1}%
+\contentsline {Appendix}{\numberline {B.}\MakeTextUppercase []{Bayesian Hierarchical Modeling of Circle Estimation Data from Experiment 2}}{102}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Model Details}{102}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}$\boldsymbol {\mu }$ Parameterization}{103}{subsection.B.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.1.1}Prior Distributions on Parameters}{105}{subsubsection.B.1.1.1}%
+\contentsline {section}{\numberline {B.2}$\boldsymbol {\Sigma }$ Parameterization}{106}{section.B.2}%
+\contentsline {subsubsection}{\numberline {B.2.0.1}Prior Distributions on Parameters}{107}{subsubsection.B.2.0.1}%
+\contentsline {section}{\numberline {B.3}Modeling Results}{108}{section.B.3}%
+\contentsline {Appendix}{\numberline {C.}\MakeTextUppercase []{Inferential Statistics for Experiment 2 Choice Data}}{110}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Triangle Condition Analysis}{110}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Horizontal Condition Analysis}{111}{section.C.2}%
+\contentsline {Appendix}{\numberline {D.}\MakeTextUppercase []{Bayesian Modeling of Price Data from Experiment 4}}{113}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Thurstonian Price Model}{113}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Prior Distributions on all Parameters}{114}{section.D.2}%
+\contentsline {section}{\numberline {D.3}Parameter Estimates}{115}{section.D.3}%
+\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{116}{appendix*.5}%

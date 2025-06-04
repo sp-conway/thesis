@@ -886,6 +886,80 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722002943
       \endverb
     \endentry
+    \entry{carpenter2017stan}{article}{}
+      \name{author}{10}{}{%
+        {{hash=5321a7ac2b0407bc405fa8816fd73f09}{%
+           family={Carpenter},
+           familyi={C\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1e1eb60e3b6e222217bf8e9b24070b28}{%
+           family={Gelman},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=937991c72400f4d0e0252027c8c03f67}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=fb04571d965766ee6d71dafbd3eb452e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9cc812cde8c441e79dfaab4955a72c2c}{%
+           family={Goodrich},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1982fa604a3f94837efceaa53330b2a4}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f730d72d20df7a1ba533a0115b9e97d2}{%
+           family={Brubaker},
+           familyi={B\bibinitperiod},
+           given={Marcus\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=41eee90a96d38ce11a198e6c0aeb415f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jiqiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=137297e0019ba55bca6f9b200782ae52}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6f0d8885ad4c012b0ced0ee95cdf2729}{%
+           family={Riddell},
+           familyi={R\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{315a7c9e1cdeecc523de3b4d0e029d66}
+      \strng{fullhash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{bibnamehash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{authorbibnamehash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{authornamehash}{315a7c9e1cdeecc523de3b4d0e029d66}
+      \strng{authorfullhash}{6578a42993bbcf636422e762a3a1b572}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of statistical software}
+      \field{title}{Stan: A probabilistic programming language}
+      \field{volume}{76}
+      \field{year}{2017}
+    \endentry
     \entry{cataldoReversingSimilarityEffect2018b}{article}{}
       \name{author}{2}{}{%
         {{hash=0b965e82de7c02147c274bf010ddc728}{%
@@ -1270,6 +1344,42 @@
       \field{year}{2017}
       \field{pages}{45\bibrangedash 72}
       \range{pages}{28}
+    \endentry
+    \entry{cousineau2014error}{article}{}
+      \name{author}{2}{}{%
+        {{hash=62f1531a2487dce70ddb65e81763135b}{%
+           family={Cousineau},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8462f167c9fdb4928b3c3f5463b741d1}{%
+           family={O’Brien},
+           familyi={O\bibinitperiod},
+           given={Fearghal},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{fullhash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{bibnamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authorbibnamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authornamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authorfullhash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Error bars in within-subject designs: a comment on Baguley (2012)}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{pages}{1149\bibrangedash 1151}
+      \range{pages}{3}
     \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
@@ -1893,6 +2003,76 @@
       \verb{file}
       \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{cmdstanr}{manual}{}
+      \name{author}{4}{}{%
+        {{hash=d22d0f2897624075bcba3f2195a96094}{%
+           family={Gabry},
+           familyi={G\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1399b58e56975b80ae8f2899339ab3a5}{%
+           family={Češnovar},
+           familyi={Č\bibinitperiod},
+           given={Rok},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d0ce54a4d6edc172f98e94fb457af967}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b8597747e2eb458bea8901c2293aae4f}{%
+           family={Bronder},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{72b7d2164a5e7aa07296c280344925e5}
+      \strng{fullhash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{bibnamehash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{authorbibnamehash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{authornamehash}{72b7d2164a5e7aa07296c280344925e5}
+      \strng{authorfullhash}{b23a001db435135ec960fc6661eca0dd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.8.1, https://discourse.mc-stan.org}
+      \field{title}{cmdstanr: R Interface to 'CmdStan'}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://mc-stan.org/cmdstanr/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/cmdstanr/
+      \endverb
+    \endentry
+    \entry{gelman2006prior}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e1eb60e3b6e222217bf8e9b24070b28}{%
+           family={Gelman},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{fullhash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{bibnamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authorbibnamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authornamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authorfullhash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)}
+      \field{year}{2006}
     \endentry
     \entry{gensch1979multinomial}{article}{}
       \name{author}{2}{}{%
@@ -2954,6 +3134,63 @@
       \field{pages}{420\bibrangedash 434}
       \range{pages}{15}
     \endentry
+    \entry{katsimpokisRobustBayesianTest2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=72c9f916b54fe45bd2ad7574f1b622ca}{%
+           family={Katsimpokis},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0bdff7f3d3f3880e007e87607c8edd26}{%
+           family={Fontanesi},
+           familyi={F\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5ae7f46541932e1f514ad605be3de879}
+      \strng{fullhash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{bibnamehash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{authorbibnamehash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{authornamehash}{5ae7f46541932e1f514ad605be3de879}
+      \strng{authorfullhash}{4e9cec5d01692bc12dae77f06335d66c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research on multiattribute decision-making has repeatedly shown that people’s preferences for options depend on the set of other options they are presented with, that is, the choice context. As a result, recent years have seen the development of a number of psychological theories explaining context effects. However, much less attention has been given to the statistical analyses of context effects. Traditionally, context effects are measured as a change in preference for a target option across two different choice sets (the so-called relative choice share of the target, or RST). We first show that the frequently used definition of the RST measure has some weaknesses and should be replaced by a more appropriate definition that we provide. We then show through a large-scale simulation that the RST measure as previously defined can lead to biased inferences. As an alternative, we suggest a Bayesian approach to estimating an accurate RST measure that is robust to various circumstances. We applied the two approaches to the data of five published studies (total participants, N = 738), some of which used the biased approach. Additionally, we introduce the absolute choice share of the target (or AST) as the appropriate measure for the attraction effect. Our approach is an example of evaluating and proposing proper statistical tests for axiomatic principles of decision-making. After applying the AST and the robust RST to published studies, we found qualitatively different results in at least one-fourth of the cases. These results highlight the importance of utilizing robust statistical tests as a foundation for the development of new psychological theories.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{9}
+      \field{title}{A robust {Bayesian} test for identifying context effects in multiattribute decision-making}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3758/s13423-022-02157-2
+      \endverb
+      \verb{file}
+      \verb Katsimpokis_et_al_2022.pdf:/Users/seanconway/Reading/Papers/Katsimpokis_et_al_2022.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.3758/s13423-022-02157-2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.3758/s13423-022-02157-2
+      \endverb
+    \endentry
     \entry{landry2021pairwise}{article}{}
       \name{author}{2}{}{%
         {{hash=cf26b358bf818a04b895bd32dae56894}{%
@@ -2989,6 +3226,48 @@
       \field{year}{2021}
       \field{pages}{105221}
       \range{pages}{1}
+    \endentry
+    \entry{lewandowski2009generating}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d0c8bad4775f4588f031d1be6d3a81a5}{%
+           family={Lewandowski},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f0700a5995dba7aec985ce5709a91c7f}{%
+           family={Kurowicka},
+           familyi={K\bibinitperiod},
+           given={Dorota},
+           giveni={D\bibinitperiod}}}%
+        {{hash=438020d479e6d0d1136e66bfddeccd5a}{%
+           family={Joe},
+           familyi={J\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8fbd1e3fdf59b9e058138cd620ea949d}
+      \strng{fullhash}{816cee93eb8db98cdfea791395da4777}
+      \strng{bibnamehash}{816cee93eb8db98cdfea791395da4777}
+      \strng{authorbibnamehash}{816cee93eb8db98cdfea791395da4777}
+      \strng{authornamehash}{8fbd1e3fdf59b9e058138cd620ea949d}
+      \strng{authorfullhash}{816cee93eb8db98cdfea791395da4777}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of multivariate analysis}
+      \field{number}{9}
+      \field{title}{Generating random correlation matrices based on vines and extended onion method}
+      \field{volume}{100}
+      \field{year}{2009}
+      \field{pages}{1989\bibrangedash 2001}
+      \range{pages}{13}
     \endentry
     \entry{liaoInfluenceDistanceDecoy2021}{article}{}
       \name{author}{4}{}{%
@@ -4881,6 +5160,33 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
+      \endverb
+    \endentry
+    \entry{rstan}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
+           family={{Stan Development Team}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.26.24}
+      \field{title}{{RStan}: the {R} interface to {Stan}}
+      \verb{urlraw}
+      \verb https://mc-stan.org/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/
       \endverb
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
@@ -6629,6 +6935,80 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722002943
       \endverb
     \endentry
+    \entry{carpenter2017stan}{article}{}
+      \name{author}{10}{}{%
+        {{hash=5321a7ac2b0407bc405fa8816fd73f09}{%
+           family={Carpenter},
+           familyi={C\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1e1eb60e3b6e222217bf8e9b24070b28}{%
+           family={Gelman},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=937991c72400f4d0e0252027c8c03f67}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=fb04571d965766ee6d71dafbd3eb452e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9cc812cde8c441e79dfaab4955a72c2c}{%
+           family={Goodrich},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1982fa604a3f94837efceaa53330b2a4}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f730d72d20df7a1ba533a0115b9e97d2}{%
+           family={Brubaker},
+           familyi={B\bibinitperiod},
+           given={Marcus\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=41eee90a96d38ce11a198e6c0aeb415f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jiqiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=137297e0019ba55bca6f9b200782ae52}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6f0d8885ad4c012b0ced0ee95cdf2729}{%
+           family={Riddell},
+           familyi={R\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{315a7c9e1cdeecc523de3b4d0e029d66}
+      \strng{fullhash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{bibnamehash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{authorbibnamehash}{6578a42993bbcf636422e762a3a1b572}
+      \strng{authornamehash}{315a7c9e1cdeecc523de3b4d0e029d66}
+      \strng{authorfullhash}{6578a42993bbcf636422e762a3a1b572}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of statistical software}
+      \field{title}{Stan: A probabilistic programming language}
+      \field{volume}{76}
+      \field{year}{2017}
+    \endentry
     \entry{cataldoReversingSimilarityEffect2018b}{article}{}
       \name{author}{2}{}{%
         {{hash=0b965e82de7c02147c274bf010ddc728}{%
@@ -7013,6 +7393,42 @@
       \field{year}{2017}
       \field{pages}{45\bibrangedash 72}
       \range{pages}{28}
+    \endentry
+    \entry{cousineau2014error}{article}{}
+      \name{author}{2}{}{%
+        {{hash=62f1531a2487dce70ddb65e81763135b}{%
+           family={Cousineau},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8462f167c9fdb4928b3c3f5463b741d1}{%
+           family={O’Brien},
+           familyi={O\bibinitperiod},
+           given={Fearghal},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{fullhash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{bibnamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authorbibnamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authornamehash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \strng{authorfullhash}{d4d7e00873f1142b9bc252b50d7f634a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Error bars in within-subject designs: a comment on Baguley (2012)}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{pages}{1149\bibrangedash 1151}
+      \range{pages}{3}
     \endentry
     \entry{davis2023illustrated}{article}{}
       \name{author}{4}{}{%
@@ -7636,6 +8052,76 @@
       \verb{file}
       \verb Frederick_etal_2014.pdf:/Users/seanconway/Reading/Papers/Frederick_etal_2014.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{cmdstanr}{manual}{}
+      \name{author}{4}{}{%
+        {{hash=d22d0f2897624075bcba3f2195a96094}{%
+           family={Gabry},
+           familyi={G\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1399b58e56975b80ae8f2899339ab3a5}{%
+           family={Češnovar},
+           familyi={Č\bibinitperiod},
+           given={Rok},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d0ce54a4d6edc172f98e94fb457af967}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b8597747e2eb458bea8901c2293aae4f}{%
+           family={Bronder},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{72b7d2164a5e7aa07296c280344925e5}
+      \strng{fullhash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{bibnamehash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{authorbibnamehash}{b23a001db435135ec960fc6661eca0dd}
+      \strng{authornamehash}{72b7d2164a5e7aa07296c280344925e5}
+      \strng{authorfullhash}{b23a001db435135ec960fc6661eca0dd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.8.1, https://discourse.mc-stan.org}
+      \field{title}{cmdstanr: R Interface to 'CmdStan'}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://mc-stan.org/cmdstanr/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/cmdstanr/
+      \endverb
+    \endentry
+    \entry{gelman2006prior}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e1eb60e3b6e222217bf8e9b24070b28}{%
+           family={Gelman},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{fullhash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{bibnamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authorbibnamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authornamehash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \strng{authorfullhash}{1e1eb60e3b6e222217bf8e9b24070b28}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)}
+      \field{year}{2006}
     \endentry
     \entry{gensch1979multinomial}{article}{}
       \name{author}{2}{}{%
@@ -8697,6 +9183,63 @@
       \field{pages}{420\bibrangedash 434}
       \range{pages}{15}
     \endentry
+    \entry{katsimpokisRobustBayesianTest2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=72c9f916b54fe45bd2ad7574f1b622ca}{%
+           family={Katsimpokis},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0bdff7f3d3f3880e007e87607c8edd26}{%
+           family={Fontanesi},
+           familyi={F\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5ae7f46541932e1f514ad605be3de879}
+      \strng{fullhash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{bibnamehash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{authorbibnamehash}{4e9cec5d01692bc12dae77f06335d66c}
+      \strng{authornamehash}{5ae7f46541932e1f514ad605be3de879}
+      \strng{authorfullhash}{4e9cec5d01692bc12dae77f06335d66c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research on multiattribute decision-making has repeatedly shown that people’s preferences for options depend on the set of other options they are presented with, that is, the choice context. As a result, recent years have seen the development of a number of psychological theories explaining context effects. However, much less attention has been given to the statistical analyses of context effects. Traditionally, context effects are measured as a change in preference for a target option across two different choice sets (the so-called relative choice share of the target, or RST). We first show that the frequently used definition of the RST measure has some weaknesses and should be replaced by a more appropriate definition that we provide. We then show through a large-scale simulation that the RST measure as previously defined can lead to biased inferences. As an alternative, we suggest a Bayesian approach to estimating an accurate RST measure that is robust to various circumstances. We applied the two approaches to the data of five published studies (total participants, N = 738), some of which used the biased approach. Additionally, we introduce the absolute choice share of the target (or AST) as the appropriate measure for the attraction effect. Our approach is an example of evaluating and proposing proper statistical tests for axiomatic principles of decision-making. After applying the AST and the robust RST to published studies, we found qualitatively different results in at least one-fourth of the cases. These results highlight the importance of utilizing robust statistical tests as a foundation for the development of new psychological theories.}
+      \field{issn}{1069-9384, 1531-5320}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{month}{9}
+      \field{title}{A robust {Bayesian} test for identifying context effects in multiattribute decision-making}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3758/s13423-022-02157-2
+      \endverb
+      \verb{file}
+      \verb Katsimpokis_et_al_2022.pdf:/Users/seanconway/Reading/Papers/Katsimpokis_et_al_2022.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.3758/s13423-022-02157-2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.3758/s13423-022-02157-2
+      \endverb
+    \endentry
     \entry{landry2021pairwise}{article}{}
       \name{author}{2}{}{%
         {{hash=cf26b358bf818a04b895bd32dae56894}{%
@@ -8732,6 +9275,48 @@
       \field{year}{2021}
       \field{pages}{105221}
       \range{pages}{1}
+    \endentry
+    \entry{lewandowski2009generating}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d0c8bad4775f4588f031d1be6d3a81a5}{%
+           family={Lewandowski},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f0700a5995dba7aec985ce5709a91c7f}{%
+           family={Kurowicka},
+           familyi={K\bibinitperiod},
+           given={Dorota},
+           giveni={D\bibinitperiod}}}%
+        {{hash=438020d479e6d0d1136e66bfddeccd5a}{%
+           family={Joe},
+           familyi={J\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8fbd1e3fdf59b9e058138cd620ea949d}
+      \strng{fullhash}{816cee93eb8db98cdfea791395da4777}
+      \strng{bibnamehash}{816cee93eb8db98cdfea791395da4777}
+      \strng{authorbibnamehash}{816cee93eb8db98cdfea791395da4777}
+      \strng{authornamehash}{8fbd1e3fdf59b9e058138cd620ea949d}
+      \strng{authorfullhash}{816cee93eb8db98cdfea791395da4777}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of multivariate analysis}
+      \field{number}{9}
+      \field{title}{Generating random correlation matrices based on vines and extended onion method}
+      \field{volume}{100}
+      \field{year}{2009}
+      \field{pages}{1989\bibrangedash 2001}
+      \range{pages}{13}
     \endentry
     \entry{liaoInfluenceDistanceDecoy2021}{article}{}
       \name{author}{4}{}{%
@@ -10624,6 +11209,33 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
+      \endverb
+    \endentry
+    \entry{rstan}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
+           family={{Stan Development Team}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.26.24}
+      \field{title}{{RStan}: the {R} interface to {Stan}}
+      \verb{urlraw}
+      \verb https://mc-stan.org/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/
       \endverb
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}

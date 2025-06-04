@@ -6,3 +6,10 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Parameter estimates for Bayesian Hierarchical Logistic Regression from Experiment 1 Data, including means, standard deviations, and $95\%$ Credible Intervals.}}{101}{table.A.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Parameter estimates for Bayesian Hierarchical Thurstonian Model from Experiment 2 Circle Phase Data, including means, standard deviations, and $95\%$ Credible Intervals.}}{109}{table.B.1}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {D.1}{\ignorespaces $\rho $ Parameter estimates for Bayesian Hierarchical Thurstonian Model from Experiment 4 Pricing Data, including means, standard deviations, and $95\%$ Credible Intervals.}}{115}{table.D.1}%
