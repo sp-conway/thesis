@@ -13,7 +13,7 @@ Researchers have developed theoretical models to account for best-worst choice d
    \label{eqn:maxdiff_equation}
 \end{equation}
 
-where $u_{i}$ is the utility of option $i$. This model proposes a single utility scale  for selection of both the best option and the worst option in a choice set. It assumes that best-choice probabilities are an increasing function of $u$, while worst-choice probabilities are a decreasing function of $u$. The use of the exponential function means that the maxdiff model is another form of the widely used multinomial logit (MNL) choice model \parencite{hausman1984specification}. Utilities are also assumed to be independent.
+where $u_{i}$ is the utility of option $i$, and $BW(x,y)$ indicates the probability of selecting $x$ as best and $y$ as worst. This model proposes that a single utility scale determines the selection of both the best option and the worst option in a choice set. It assumes that best-choice probabilities are an increasing function of $u$, while worst-choice probabilities are a decreasing function of $u$. The use of the exponential function means that the maxdiff model is another form of the widely used multinomial logit (MNL) choice model \parencite{hausman1984specification}. Utilities are also assumed to be independent.
 
 There are several variants of this model along with other best-worst choice models \parencite{marleyProbabilisticModelsBest2005,marleyProbabilisticModelsSetdependent2008,marleyModelsBestWorst2012,flynnBestWorstScaling2007,flynn2014best}, though the maxdiff model from Equation~\ref{eqn:maxdiff_equation} remains the dominant model for analyzing best-worst choice data.
 
@@ -66,7 +66,7 @@ The Thurstonian perceptual model predicts this because $\rho_{TD}>\rho_{CD}\appr
 The maxdiff model predicts a monotonic state-trace plot. That is, if we assume all options' utilities are independent, the model predicts that best-choice probabilities are negatively related to worst-choice probabilities. To demonstrate this, I simulated the maxdiff model using randomly generated independent utilities. See Figure~\ref{fig:maxdiff:sim}. 
 
 \begin{figure}
-   \includegraphics[width=\linewidth]{figures/maxdiff_sim_monotonic.jpeg}
+   \includegraphics[width=150mm]{figures/maxdiff_sim_monotonic.jpeg}
    \caption{Best-worst choice simulations using the maxdiff model. Each curve is a separate simulation. The model predicts a negative, monotonic relationship between best-choice and worst-choice.}
    \label{fig:maxdiff_sim}
 \end{figure}
@@ -148,7 +148,8 @@ Participants showed a consistent bias to choose $w$ (the wider rectangle) as lar
 
 These results are more easily understood by plotting mean target, competitor, and decoy choice proportions across TDD levels, collapsed over choice set. See Figure~\ref{fig:bw_mean_choice_collapsed} for these data. 
 
-The best-choice proportions replicated the repulsion effect initially found by \textcite{spektorWhenGoodLooks2018b} and replicated in Experiment 2, where the competitor was more likely to be chosen as best at low TDD levels, while the target and competitor were chosen equally often at high TDD levels. Decoy best-choice proportions also decrease systematically with TDD. See the Appendix for inferential statistics which support these conclusions.
+The best-choice proportions replicated the repulsion effect initially found by \textcite{spektorWhenGoodLooks2018b} and replicated in Experiment 2, where the competitor was more likely to be chosen as best at low TDD levels, while the target and competitor were chosen equally often at high TDD levels. Decoy best-choice proportions also decrease systematically with TDD. 
+% See the Appendix for inferential statistics which support these conclusions.
 
 Furthermore, the target is always more likely to be chosen as worst, compared to the competitor and decoy, at all TDD levels, $W(T)<W(C)$, as predicted by the perceptual model outlined in Chapter 2. This model still cannot predict the null best-choice repulsion effect when $TDD=14\%$, as discussed in Chapter 2, which suggests that this effect may be due to higher level decision processes.
 

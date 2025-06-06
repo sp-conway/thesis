@@ -1601,68 +1601,6 @@
       \verb https://www.gnu.org/software/octave/doc/v6.3.0/
       \endverb
     \endentry
-    \entry{evansResponsetimeDataProvide2019b}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c53130be257f186d898c5b1c0b64120a}{%
-           family={Evans},
-           familyi={E\bibinitperiod},
-           given={Nathan\bibnamedelima J.},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
-           family={Holmes},
-           familyi={H\bibinitperiod},
-           given={William\bibnamedelima R.},
-           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
-           family={Trueblood},
-           familyi={T\bibinitperiod},
-           given={Jennifer\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
-      \strng{fullhash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{bibnamehash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{authorbibnamehash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
-      \strng{authorfullhash}{3091f1a2387a03fef8080e77df5429d9}
-      \field{extraname}{1}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Understanding the cognitive processes involved in multi-alternative, multi-attribute choice is of interest to a wide range of fields including psychology, neuroscience, and economics. Prior investigations in this domain have relied primarily on choice data to compare different theories. Despite numerous such studies, results have largely been inconclusive. Our study uses state-of-the-art response-time modeling and data from 12 different experiments appearing in six different published studies to compare four previously proposed theories/models of these effects: multi-alternative decision field theory (MDFT), the leaky-competing accumulator (LCA), the multi-attribute linear ballistic accumulator (MLBA), and the associative accumulation model (AAM). All four models are, by design, dynamic process models and thus a comprehensive evaluation of their theoretical properties requires quantitative evaluation with both choice and response-time data. Our results show that response-time data is critical at distinguishing among these models and that using choice data alone can lead to inconclusive results for some datasets. In conclusion, we encourage future research to include response-time data in the evaluation of these models.}
-      \field{issn}{1069-9384, 1531-5320}
-      \field{journaltitle}{Psychonomic Bulletin \& Review}
-      \field{month}{6}
-      \field{number}{3}
-      \field{title}{Response-time data provide critical constraints on dynamic models of multi-alternative, multi-attribute choice}
-      \field{urlday}{9}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{26}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{901\bibrangedash 933}
-      \range{pages}{33}
-      \verb{doi}
-      \verb 10.3758/s13423-018-1557-z
-      \endverb
-      \verb{file}
-      \verb Evans_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Evans_et_al_2019.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.3758/s13423-018-1557-z
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.3758/s13423-018-1557-z
-      \endverb
-    \endentry
     \entry{evansImpactPresentationOrder2021}{article}{}
       \name{author}{4}{}{%
         {{hash=c53130be257f186d898c5b1c0b64120a}{%
@@ -1695,7 +1633,6 @@
       \strng{authorbibnamehash}{bc43f99e2d4a747598a1b806d3ecc412}
       \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
       \strng{authorfullhash}{bc43f99e2d4a747598a1b806d3ecc412}
-      \field{extraname}{2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -2071,8 +2008,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Bayesian Analysis}
+      \field{number}{3}
       \field{title}{Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)}
       \field{year}{2006}
+      \field{pages}{515\bibrangedash 534}
+      \range{pages}{20}
     \endentry
     \entry{gensch1979multinomial}{article}{}
       \name{author}{2}{}{%
@@ -2163,6 +2104,52 @@
       \field{year}{2021}
       \field{pages}{100307}
       \range{pages}{1}
+    \endentry
+    \entry{rstanarm}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=9cc812cde8c441e79dfaab4955a72c2c}{%
+           family={Goodrich},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d22d0f2897624075bcba3f2195a96094}{%
+           family={Gabry},
+           familyi={G\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ff90ac039e7a8c4e841a59e2ae4525c}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Imad},
+           giveni={I\bibinitperiod}}}%
+        {{hash=08c82207ef92413ee4aba1cef965a090}{%
+           family={Brilleman},
+           familyi={B\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{94c0f6de989b78e43fa3db2b160d5b13}
+      \strng{fullhash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{bibnamehash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{authorbibnamehash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{authornamehash}{94c0f6de989b78e43fa3db2b160d5b13}
+      \strng{authorfullhash}{0636a4e54e7ace449d345b0bbf58061e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.21.1}
+      \field{title}{rstanarm: {Bayesian} applied regression modeling via {Stan}.}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://mc-stan.org/rstanarm
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/rstanarm
+      \endverb
     \endentry
     \entry{gronau2023choice}{article}{}
       \name{author}{5}{}{%
@@ -5582,6 +5569,66 @@
       \field{labeltitlesource}{title}
       \field{title}{The fragile nature of contextual preference reversals: Reply to Tsetsos, Chater, and Usher (2015).}
       \field{year}{2015}
+    \endentry
+    \entry{tsetsosPreferenceReversalMultiattribute2010a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51755e7d606f668a09889a06588c3dba}{%
+           family={Tsetsos},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=68f539b14c5ba5fb2395b9309d555ad7}{%
+           family={Chater},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{fullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{bibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authorbibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authornamehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{authorfullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A central puzzle for theories of choice is that people’s preferences between options can be reversed by the presence of decoy options (that are not chosen) or by the presence of other irrelevant options added to the choice set. Three types of reversal effect reported in the decision-making literature, the attraction, compromise, and similarity effects, have been explained by a number of theoretical proposals. Yet a major theoretical challenge is capturing all 3 effects simultaneously. We review the range of mechanisms that have been proposed to account for decoy effects and analyze in detail 2 computational models, decision field theory (Roe, Busemeyer, \& Townsend, 2001) and leaky competing accumulators (Usher \& McClelland, 2004), that aim to combine several such mechanisms into an integrated account. By simulating the models, we examine differences in the ways the decoy effects are predicted. We argue that the LCA framework, which follows on Tversky’s relational evaluation with loss aversion (Tversky \& Kahneman, 1991), provides a more robust account, suggesting that common mechanisms are involved in both high-level decision making and perceptual choice, for which LCA was originally developed.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Preference reversal in multiattribute choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{117}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{1275\bibrangedash 1291}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1037/a0020580
+      \endverb
+      \verb{file}
+      \verb Tsetsos_et_al_2010.pdf:/Users/seanconway/Reading/Papers/Tsetsos_et_al_2010.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
     \endentry
     \entry{turnerCompetingTheoriesMultialternative2018a}{article}{}
       \name{author}{4}{}{%
@@ -7682,7 +7729,6 @@
       \strng{authorbibnamehash}{bc43f99e2d4a747598a1b806d3ecc412}
       \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
       \strng{authorfullhash}{bc43f99e2d4a747598a1b806d3ecc412}
-      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -7715,68 +7761,6 @@
       \endverb
       \verb{url}
       \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000144
-      \endverb
-    \endentry
-    \entry{evansResponsetimeDataProvide2019b}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c53130be257f186d898c5b1c0b64120a}{%
-           family={Evans},
-           familyi={E\bibinitperiod},
-           given={Nathan\bibnamedelima J.},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=b7d1a1586ce2b9f6b21de6f4862cbbee}{%
-           family={Holmes},
-           familyi={H\bibinitperiod},
-           given={William\bibnamedelima R.},
-           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=8aaf8f24970d6dd28403f9fb9dbb6994}{%
-           family={Trueblood},
-           familyi={T\bibinitperiod},
-           given={Jennifer\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
-      \strng{fullhash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{bibnamehash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{authorbibnamehash}{3091f1a2387a03fef8080e77df5429d9}
-      \strng{authornamehash}{fb94ddfa9cf3b2e21d90e4c8415976bc}
-      \strng{authorfullhash}{3091f1a2387a03fef8080e77df5429d9}
-      \field{extraname}{2}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Understanding the cognitive processes involved in multi-alternative, multi-attribute choice is of interest to a wide range of fields including psychology, neuroscience, and economics. Prior investigations in this domain have relied primarily on choice data to compare different theories. Despite numerous such studies, results have largely been inconclusive. Our study uses state-of-the-art response-time modeling and data from 12 different experiments appearing in six different published studies to compare four previously proposed theories/models of these effects: multi-alternative decision field theory (MDFT), the leaky-competing accumulator (LCA), the multi-attribute linear ballistic accumulator (MLBA), and the associative accumulation model (AAM). All four models are, by design, dynamic process models and thus a comprehensive evaluation of their theoretical properties requires quantitative evaluation with both choice and response-time data. Our results show that response-time data is critical at distinguishing among these models and that using choice data alone can lead to inconclusive results for some datasets. In conclusion, we encourage future research to include response-time data in the evaluation of these models.}
-      \field{issn}{1069-9384, 1531-5320}
-      \field{journaltitle}{Psychonomic Bulletin \& Review}
-      \field{month}{6}
-      \field{number}{3}
-      \field{title}{Response-time data provide critical constraints on dynamic models of multi-alternative, multi-attribute choice}
-      \field{urlday}{9}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{26}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{901\bibrangedash 933}
-      \range{pages}{33}
-      \verb{doi}
-      \verb 10.3758/s13423-018-1557-z
-      \endverb
-      \verb{file}
-      \verb Evans_et_al_2019.pdf:/Users/seanconway/Reading/Papers/Evans_et_al_2019.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.3758/s13423-018-1557-z
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.3758/s13423-018-1557-z
       \endverb
     \endentry
     \entry{fang2024context}{article}{}
@@ -8120,8 +8104,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Bayesian Analysis}
+      \field{number}{3}
       \field{title}{Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)}
       \field{year}{2006}
+      \field{pages}{515\bibrangedash 534}
+      \range{pages}{20}
     \endentry
     \entry{gensch1979multinomial}{article}{}
       \name{author}{2}{}{%
@@ -8212,6 +8200,52 @@
       \field{year}{2021}
       \field{pages}{100307}
       \range{pages}{1}
+    \endentry
+    \entry{rstanarm}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=9cc812cde8c441e79dfaab4955a72c2c}{%
+           family={Goodrich},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d22d0f2897624075bcba3f2195a96094}{%
+           family={Gabry},
+           familyi={G\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ff90ac039e7a8c4e841a59e2ae4525c}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Imad},
+           giveni={I\bibinitperiod}}}%
+        {{hash=08c82207ef92413ee4aba1cef965a090}{%
+           family={Brilleman},
+           familyi={B\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{94c0f6de989b78e43fa3db2b160d5b13}
+      \strng{fullhash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{bibnamehash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{authorbibnamehash}{0636a4e54e7ace449d345b0bbf58061e}
+      \strng{authornamehash}{94c0f6de989b78e43fa3db2b160d5b13}
+      \strng{authorfullhash}{0636a4e54e7ace449d345b0bbf58061e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.21.1}
+      \field{title}{rstanarm: {Bayesian} applied regression modeling via {Stan}.}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://mc-stan.org/rstanarm
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/rstanarm
+      \endverb
     \endentry
     \entry{gronau2023choice}{article}{}
       \name{author}{5}{}{%
@@ -11630,6 +11664,66 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.1930
+      \endverb
+    \endentry
+    \entry{tsetsosPreferenceReversalMultiattribute2010a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51755e7d606f668a09889a06588c3dba}{%
+           family={Tsetsos},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=68f539b14c5ba5fb2395b9309d555ad7}{%
+           family={Chater},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{fullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{bibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authorbibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authornamehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{authorfullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A central puzzle for theories of choice is that people’s preferences between options can be reversed by the presence of decoy options (that are not chosen) or by the presence of other irrelevant options added to the choice set. Three types of reversal effect reported in the decision-making literature, the attraction, compromise, and similarity effects, have been explained by a number of theoretical proposals. Yet a major theoretical challenge is capturing all 3 effects simultaneously. We review the range of mechanisms that have been proposed to account for decoy effects and analyze in detail 2 computational models, decision field theory (Roe, Busemeyer, \& Townsend, 2001) and leaky competing accumulators (Usher \& McClelland, 2004), that aim to combine several such mechanisms into an integrated account. By simulating the models, we examine differences in the ways the decoy effects are predicted. We argue that the LCA framework, which follows on Tversky’s relational evaluation with loss aversion (Tversky \& Kahneman, 1991), provides a more robust account, suggesting that common mechanisms are involved in both high-level decision making and perceptual choice, for which LCA was originally developed.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Preference reversal in multiattribute choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{117}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{1275\bibrangedash 1291}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1037/a0020580
+      \endverb
+      \verb{file}
+      \verb Tsetsos_et_al_2010.pdf:/Users/seanconway/Reading/Papers/Tsetsos_et_al_2010.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
       \endverb
     \endentry
     \entry{turnerCompetingTheoriesMultialternative2018a}{article}{}

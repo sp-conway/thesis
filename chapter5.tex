@@ -73,7 +73,7 @@ In the two-aligned display, two options were aligned horizontally in the top-lef
 
 In the none-aligned display, all options are located in different vertical and horizontal positions, such that all comparisons should (in principle) be more difficult.
 
-The triangle display is identical to the triangle display of Experiments 1 and 2, with the exception that on half of all triangle display trials, the triangle was inverted.
+The triangle display is identical to the triangle display of Experiments 1 and 2, with the exception that on half of all triangle display trials, the triangle was inverted. The triangle display condition was collected for future analyses but is not germane to the current research question, and it will be excluded from critical analyses.
 
 In all displays, the horizontal distances between all options was constant.
 
@@ -112,8 +112,48 @@ Participants performed well on the non-critical trials. On average, all particip
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/comparability_non_crit_mean_prop_correct.jpeg}
-   \caption{Results from non-critical trials in Experiment 4. Rows show trial types. Bars show mean proportion correct in a given condition, with the error bars showing $\pm1\text{SE}$. Dots show individual participant data.}
+   \caption{Results from non-critical trials in Experiment 5. Rows show trial types. Bars show mean proportion correct in a given condition, with the error bars showing $\pm1\text{SE}$. Dots show individual participant proportion correct.}
    \label{fig:comparability_non_crit_mean_prop_correct}
 \end{figure}
 
 \subsubsection{Critical Trials}
+
+The goal of the critical trial analysis was to determine the rate at which participants selected the comparable and non-comparable focal options based on the configurations. I first removed the triangle condition from all analyses.
+
+Next, I considered the order of options on screen. There were six possible orderings: $DHW$, $DWH$, $HDW$, $HWD$, $WDH$, and $WHD$. I re-classified the ordering into a variable I will call alignment. Because the two-aligned condition is the critical one, I labeled the alignment variable based on the alignment (or comparability) in the two-aligned condition. If the ordering is $DHW$ or $HDW$, the alignment is "$H$ aligned with $D$". If the ordering is $WDH$ or $DWH$, the alignment is "$D$ aligned with $W$". I removed the $WHD$ and $HWD$ trials from further analysis.
+
+I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on alignment, which are shown in Figure~\ref{fig:comparability_crit_mean_choices}. The data show that, in the two-aligned condition, participants were less likely to choose the $W$ option when it was aligned with $D$ than when $H$ was aligned with $D$. This effect appears to occur in the none-aligned and all-aligned conditions, which suggests a position bias. I address this concern in the inferential statistics.
+
+\begin{figure}
+   \includegraphics[width=100mm]{figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg}
+   \caption{Results from critical trials in Experiment 5. Mean choice proportions for the $H$, $W$, and $D$ rectangles conditioned on alignment and configuration.}
+   \label{fig:comparability_crit_mean_choices}
+\end{figure}
+
+ I next removed all trials in which participants chose the decoy.
+
+\begin{figure}
+   \includegraphics[width=100mm]{figures/comparability_crit_target_choice_by_config.jpeg}
+   \caption{Experiment 5 mean target choice proportions by configuration.}
+   \label{fig:comparability_crit_mean_target_choices}
+\end{figure}
+
+I refer to the option aligned with the decoy as the \textit{target}. I next computed mean target choice proportions by configuration, results which are plotted in Figure~\ref{fig:comparability_crit_mean_target_choices}.
+
+On average, participants select the target option on less than $1/2$ of trials (conditional on not having selected the decoy). This again may suggest a position bias. However, crucially, they select the target less when it is aligned with the decoy in the two-aligned condition than when it is adjacent to the decoy in the none-aligned condition. See the Appendix for inferential statistics which support these conclusions.
+
+\section{Discussion}
+
+In Experiment 5, I showed that comparability can affect choice, in a form similar to the repulsion effect. Given two equally viable, but dissimilar options, when one of these options (i.e., the target) is more easily comparable to a symmetrically dominated decoy option, participants choices are "repulsed" away from the target option and towards the competitor option. This effect is small but nonetheless present even after accounting for participant effects and position biases.
+
+This result aligns with the predictions from the Thurstonian perceptual choice model from Chapter 2. Increasing the comparability of a focal option and a decoy option increases the perceptual correlations between the two, which in turn decreases the choice share of the comparable \textit{target}, for the benefit of the non-comparable competitor option. This result is also similar to previous results presented by \textcite{trueblood2022attentional} and \textcite{evansImpactPresentationOrder2021}, who also manipulated the arrangement of options on screen in perceptual choice.
+
+These results are, however, somewhat limited by the positioning of the target and decoy options. In the two-aligned conditon, the target and decoy were always presented in the first and second position. The statistical model accounted for this through a position bias effect, though a more thorough design would include a variety of presentation formats to more effectively test this effect.
+
+I assume that increasing comparability decreased target choice share through perceptual correlation; however, given that I did not measure correlations directly, this may not be the case. It would be interesting to use the paradigm from Experiment 2 to directly measure the correlations between options when the decoy is symmetrically dominated and the comparability is systematically manipulated.
+
+Future research should generalize this paradigm to high-level preferential choice. For example, given three consumer products, does the comparability of two of them affect the choice for a third option? I leave this question for future research.
+
+The effect demonstrated is another form of context dependence, the main focus of this dissertation. Here, the context is not the choice set (which remains constant), but rather the presentation of the options. In this sense, the repulsion effect in this experiment is qualitatively similar to the repulsion effect of \textcite{spektorWhenGoodLooks2018b} and Experiment 2 of this dissertation.
+
+In the final chapter, I discuss the implications of all experiments, future directions, and limitations of the current research. 

@@ -98,7 +98,7 @@ I analyzed the circle estimation data (Experiment 2) using the multivariate Thur
 
 The model assumes that, for participant $i$ on trial $j$, the vector of perceived areas $\boldsymbol{X}_{ij}$ is sampled from a multivariate normal distribution with parameters $\boldsymbol{\mu}_{ij}$ and $\boldsymbol{\Sigma}$. That is,
 \begin{align}
-    \boldsymbol{X}_{ij} \sim \mathcal{N}(\boldsymbol{\mu}_{ij},\boldsymbol{\Sigma})
+    \boldsymbol{X}_{ij} \sim \mathcal{\textbf{N}}(\boldsymbol{\mu}_{ij},\boldsymbol{\Sigma})
 \end{align}
 
 Using Bayesian statistical modeling, I simultaneously estimated the parameters  $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ for the model outlined in Chapter 2. Note that I allow $\boldsymbol{\mu}$ to vary systematically over trials and participants, but $\Sigma$ remains constant. I estimate $\boldsymbol{\mu}$ using hierarchical regression while allowing the components of $\boldsymbol{\Sigma}$ (i.e., $\boldsymbol{\sigma_{T}}$, $\boldsymbol{\sigma_{C}}$, $\boldsymbol{\sigma_{D}}$, $\rho_{TD}$, $\rho_{TC}$, $\rho_{CD}$) to vary freely. 
@@ -113,7 +113,7 @@ $\mu_{ij1}$ is computed as:
 
 \begin{equation}
     \begin{aligned}
-        \mu_{ij3}=(S_{0_i} + \beta_{0}) + \beta_{or}*\mathrm{or}_{ij1} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \\
+        \mu_{ij1}=(S_{0_i} + \beta_{0}) + \beta_{or}*\mathrm{or}_{ij1} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \\
         \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + \beta_{\mathrm{TDD}5}*\mathrm{TDD}5_{ij} +\\ \beta_{\mathrm{TDD}9}*\mathrm{TDD}9_{ij} + \beta_{\mathrm{TDD}14}*\mathrm{TDD}14_{ij}
         \label{circle_mu_eqn1}
     \end{aligned}
@@ -288,7 +288,8 @@ Following \textcite{katsimpokisRobustBayesianTest2022}, I performed inference on
 
 \begin{equation}
     \begin{aligned}
-        AST=0.5*(\frac{P(H|{H,W,D_{H}})}{P(H|{H,W,D_{H}})+P(W|{H,W,D_{H}})+P(D_{H}|{H,W,D_{H}})}+ \\ \frac{P(W|{H,W,D_{W}})}{P(W|{H,W,D_{W}})+P(H|{H,W,D_{W}})+P(D_{W}|{H,W,D_{W}})})
+        AST=0.5*(\frac{P(H|{H,W,D_{H}})}{P(H|{H,W,D_{H}})+P(W|{H,W,D_{H}})}+ \\
+        \frac{P(W|{H,W,D_{W}})}{P(W|{H,W,D_{W}})+P(H|{H,W,D_{W}})})
     \end{aligned}
 \end{equation}
 
@@ -296,7 +297,7 @@ I computed AST for each participant in each display condition at each level of T
 
 \section{Triangle Condition Analysis}
 I performed a one-way within-groups ANOVA testing the effect of TDD on AST in the triangle condition. The results were significant, $\textit{F}(3,636)=79.97$,$\textit{p}<.001$. 
-I then performed a follow-up one-sample t-test on AST at each level of TDD, using the within-subjects error correction from \textcite{cousineau2014error} and comparing the mean AST value to the null value $.5$. I compared each p-value to a Bonferroni-corrected $\alpha$ level of $\alpha=\frac{.05}{4}=.0125$. 
+I then performed a follow-up one-sample t-test on AST at each level of TDD, using the within-participants error correction from \textcite{cousineau2014error} and comparing the mean AST value to the null value $.5$. I compared each p-value to a Bonferroni-corrected $\alpha$ level of $\alpha=\frac{.05}{4}=.0125$. 
 
 The AST value was significantly different from $.5$ at TDD=$2\%$, $\textit{t}(212)=-18.4,\textit{p}<.001$, $\textit{M}=.34$, $95\%\text{CI}[.33,.36]$, indicating a repulsion effect. 
 
@@ -308,7 +309,7 @@ The AST value was significantly different from $.5$ at TDD=$14\%$, $\textit{t}(2
 
 \section{Horizontal Condition Analysis}
 I again performed a one-way within-groups ANOVA testing the effect of TDD on AST in the horizontal condition. The results were significant, $\textit{F}(3,618)=176.10$,$\textit{p}<.001$. 
-I then performed a follow-up one-sample t-test on AST at each level of TDD, using the within-subjects error correction from \textcite{cousineau2014error} and comparing the mean AST value to the null value $.5$. I compared each p-value to a Bonferroni-corrected $\alpha$ level of $\alpha=\frac{.05}{4}=.0125$. 
+I then performed a follow-up one-sample t-test on AST at each level of TDD, using the within-participants error correction from \textcite{cousineau2014error} and comparing the mean AST value to the null value $.5$. I compared each p-value to a Bonferroni-corrected $\alpha$ level of $\alpha=\frac{.05}{4}=.0125$. 
 
 The AST value was significantly different from $.5$ at TDD=$2\%$, $\textit{t}(206)=-15.6,\textit{p}<.001$, $\textit{M}=.34$, $95\%\text{CI}[.33,.36]$, indicating a repulsion effect. 
 
@@ -322,20 +323,47 @@ I also plot mean AST values for each TDD level in each display condition in Figu
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/choicePhase_mean_ast.jpeg}
-   \caption{Mean AST values for each display condition and TDD level from Experiment 2. Error bars are $95\%$ CIs with the within-subjects correction from \textcite{cousineau2014error}.}
+   \caption{Mean AST values for each display condition and TDD level from Experiment 2. Error bars are $95\%$ CIs with the within-participants error correction from \textcite{cousineau2014error}.}
    \label{fig:e2_ast}
 \end{figure}
 
+\chapter{Maxdiff Modeling from Experiment 3}
+According to the maxdiff model of best-worst choice \parencite{marleyProbabilisticModelsBest2005}, the probability $BW_{K}(x,y)$ of selecting option $x$ as best and $y$ as worst from choice set $K$ is computed as:
+
+\begin{equation}
+   BW_{K}(x,y)=\frac{e^{u_{x}-u_{y}}}{\sum_{\substack{{p,q}\in K\\p \neq q}} e^{u_{p}-u_{q}}}   
+   \label{eqn:maxdiff_equation1}
+\end{equation}
+
+where $u_{i}$ is the utility of option $i$. 
+
+Below I present the details of the maxdiff modeling, as applied to the data from Experiment 3.
+
+\section{Model Details}
+Following typical approaches in the choice modeling literature, I estimated the utility of each option in the choice set using linear regression. 
+
+According the model, the utility $U_{ijk}$ for participant $i$ on trial $j$ and option $k$ is computed as:
+
+% \begin{equation}
+%     \begin{aligned}
+%         U_{ij1}=(S_{0_i} + \beta_{0}) + \beta_{or}*\mathrm{or}_{ij1} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \\
+%         \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + \beta_{\mathrm{TDD}5}*\mathrm{TDD}5_{ij} +\\ \beta_{\mathrm{TDD}9}*\mathrm{TDD}9_{ij} + \beta_{\mathrm{TDD}14}*\mathrm{TDD}14_{ij}
+%         \label{circle_mu_eqn1}
+%     \end{aligned}
+% \end{equation}
+
+
+
 \chapter{Bayesian Modeling of Price Data from Experiment 4}
 
-I modeled the pricing data from Experiment 4 using a similar Thurstonian model to that of Experiment.
+I modeled the pricing data from Experiment 4 using a similar Thurstonian model to that of Experiment 2.
 
 \section{Thurstonian Price Model}
 
 I assumed that on each trial $i$, a vector of prices $\textbf{X}_{i}$ is drawn of a multivariate normal distribution:
 
 \begin{align}
-    \textbf{X}_{i}\sim \mathcal{N}(\boldsymbol{\mu}_{jk},\boldsymbol{\Sigma}_{k})
+    \textbf{X}_{i}\sim \mathcal{\textbf{N}}(\boldsymbol{\mu}_{jk},\boldsymbol{\Sigma}_{k})
 \end{align}
 
 where $j$ is the product category (washing machines, laptops, televisions, microwave ovens) and $k$ is the trial type (attraction, repulsion). 
@@ -383,12 +411,12 @@ This model has relatively $24$ free parameters,relatively few compared to the se
 
 I had no a priori predictions about the size or even direction of the price differences here. Given this, I freely estimated all $\boldsymbol{\mu}$ parameters rather than estimate them through linear regression, as in Experiment 2.
 
-Prior to model estimation, I z-scored all prices within subjects. 
+Prior to model estimation, I z-scored all prices within participants. 
 
 \section{Prior Distributions on all Parameters}
 
 \begin{itemize}
-    \item $\boldsymbol{\mu}_{jk} \sim \mathcal{N}(0,1)$
+    \item $\boldsymbol{\mu}_{jk} \sim \mathcal{\textbf{N}}(0,1)$
     \item $\sigma_{T} \sim \text{Half-Cauchy}(0,2.5)$
     \item $\sigma_{C} \sim \text{Half-Cauchy}(0,2.5)$
     \item $\sigma_{D} \sim \text{Half-Cauchy}(0,2.5)$
@@ -415,3 +443,87 @@ For brevity, I omit $\boldsymbol{\mu}$ and $\sigma$ estimates and show only $\rh
     \caption{$\rho$ Parameter estimates for Bayesian Hierarchical Thurstonian Model from Experiment 4 Pricing Data, including means, standard deviations, and $95\%$ Credible Intervals.}
     \label{tab:e4_rho_params}
 \end{table}
+
+\chapter{Bayesian Modeling of Choice Data from Experiment 4}
+
+To analyze the choice data of Experiment 4, I used a Dirichlet-Multinomial model. The Dirichlet distribution is a generalization of the Beta distribution to $>2$ dimensions. Here the Dirichlet distribution is used to model the variability in ternary choice proportions for the attraction and repulsion trials from Experiment 4.
+
+In this analysis, I collapsed over participants. This is a limitation, particularly given recent concerns about participant-level variability in context effects \parencite{liewAppropriacyAveragingStudy2016b,trueblood2015fragile}. Future modeling work will address this concern. However, given that the main goal of Experiment 4 was to measure correlations in pricing, I performed this analysis on aggregate choice data.
+
+\section{Dirichlet-Multinomial Choice Model}
+
+According to the model, the vector $\boldsymbol{C_{ijkl}}$ of target, competitor, and decoy counts for trial type (attraction, repulsion) $i$, TDD (near, far) $j$, product category (laptops, microwave ovens, televisions, wachine machines)  $k$, target high dimension (1,2) $l$ is 
+
+\begin{align}
+    C_{ijkl} \sim \text{Multinomial}(\boldsymbol{\theta_{ijkl}})
+\end{align}
+
+$\boldsymbol{\theta_{ijkl}}$ is a vector of choice probabilities which is turn distributed:
+
+\begin{align}
+    \boldsymbol{\theta_{ijkl}} \sim \text{Dirichlet}(\boldsymbol{\alpha_{ijkl}})
+\end{align}
+
+where all $\boldsymbol{\alpha}>0$. 
+
+For a prior distribution on $\boldsymbol{\alpha}$, I assumed:
+
+\begin{align}
+    \boldsymbol{\alpha_{ijkl}} \sim \text{LogNormal}(1,1)
+\end{align}
+
+I performed inference using the mean target, competitor, and decoy choice probabilities, collapsed across product category and the target's high dimension. See Table~\ref{tab:e4_choice_params}.
+
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{lllrrr}
+        \toprule
+        \textbf{Trial Type} & \textbf{TDD} & \textbf{Option} & \textit{M} & HDI lower & HDI upper \\
+        Attraction          & Near         & Target          &  $.48$     & $.45$     & $.51$     \\
+                            &              & Competitor      &  $.47$     & $.44$     & $.50$     \\
+                            &              & Decoy           &  $.05$     & $.03$     & $.06$     \\
+                            & Far          & Target          &  $.46$     & $.43$     & $.49$     \\
+                            &              & Competitor      &  $.48$     & $.45$     & $.51$     \\
+                            &              & Decoy           &  $.07$     & $.05$     & $.08$     \\
+        Repulsion           & Near         & Target          &  $.31$     & $.28$     & $.34$     \\
+                            &              & Competitor      &  $.66$     & $.63$     & $.69$     \\
+                            &              & Decoy           &  $.04$     & $.03$     & $.05$     \\
+                            & Far          & Target          &  $.33$     & $.30$     & $.36$     \\
+                            &              & Competitor      &  $.65$     & $.62$     & $.68$     \\
+                            &              & Decoy           &  $.03$     & $.02$     & $.04$     \\
+    \end{tabular}
+    \caption{Experiment 4 Mean Posterior Choice Proportions from the Bayesian Dirichlet-Multinomial Model.}
+    \label{tab:e4_choice_params}
+\end{table}
+
+On average, participants chose the competitor more than the target in both TDD levels, in the repulsion effect trials. In the attraction effect trials, participants chose the target and competitor at equal rates. 
+
+\chapter{Bayesian Hierarchical Logistic Regression for Experiment 5 Data}
+
+To analyze the comparability data from Experiment 5, I used a Bayesian hierarchical logistic regression model.
+
+As discussed in Chapter 5, I first removed all trials where participants chose the decoy option. I also removed trials where the W and H rectangles were in the first two positions. 
+
+I classified the target as the option aligned with the decoy in the two-aligned option. I then predicted choice in the model as a linear function of configuration (none-aligned, two-aligned, all-aligned) and whether the target was in the middle position (1, 0). The reference level for configuration was none-aligned. There were no interactions included in the model. I also included a random effect of participant in the model. 
+
+I fit the model as a Bayesian hierarchical logistic regression model using the rstanarm package \parencite{rstanarm}, using default priors for all parameters. Posterior estimates for all fixed effects are shown in Table~\ref{tab:e5_logit_params}.
+
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{lrrrr}
+        \toprule
+        \textbf{Parameter} & \textit{M} & \textit{SD} & HDI lower & HDI upper \\
+        $\beta_{0}$        & $-0.18$    &  $0.03$     & $-0.24$   & $-0.13$   \\
+        $\beta_{\text{two-aligned}}$ & $-0.03$ & $0.02$ & $-0.08$ & $0.01$    \\
+        $\beta_{\text{all-aligned}}$ & $-0.11$ & $0.03$ & $-0.16$ & $-0.06$   \\
+        $\beta_{\text{target middle}}$ & $0.27$ & $0.02$ & $0.24$ & $0.31$    \\
+    \end{tabular}
+    \caption{Experiment 5 Posterior Estimates for all Fixed Effects from the Bayesian Hierarchical Logistic Regression Model.}
+    \label{tab:e5_logit_params}
+\end{table}
+
+The main parameter of interest is $\beta_{\text{two-aligned}}$, which captures the change in target choice when comparing the none-aligned condition to the two-aligned condition. The posterior mean was below $0$ ($\textit{M}=-0.03$), and while the $95\%$ HDI included 0 ($[-0.08, 0.01]$), $93.23\%$ of all samples were $<0$, which is taken as moderate evidence for an effect. 
+
+Interestingly, participants also chosen the target less in the all-alingned condition ($\textit{M}=-0.11$), suggesting a bias away from the aligned option even when all options were aligned. 
+
+There was also a position effect, such that participants chose the target more when it was in the middle of the screen $\textit{M}=-.27$. 
