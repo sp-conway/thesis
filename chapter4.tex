@@ -1,30 +1,32 @@
 \section{Introduction}
-Thus far, the dissertation has focused on perceptual choice. This allowed me to reconcile conflicting findings from other researchers \parencite{spektorWhenGoodLooks2018b,trueblood2013not}. It also allowed me to develop a choice model from the ground up in a simplified choice environment. 
+Thus far, the dissertation has focused on perceptual choice. This allowed me to reconcile conflicting findings from other researchers \parencite{spektorWhenGoodLooks2018b,trueblood2013not}. It also allowed me to develop a Thurstonian choice model from the ground up in a simplified choice environment. 
 
-However, many decision theorists, in particular those who study context effects, are interested in a wide variety of choice environments. For example, the original demonstration of the attraction effect came from the marketing literature \parencite{huberAddingAsymmetricallyDominated1982d}, where participants selected amongst hypothetical consumer products. In this chapter, I generalize the paradigm and model from Chapter 2 to consumer choice. Below, I demonstrate results similar to Chapter 2.
+However, many decision theorists, in particular those who study context effects, are interested in a wide variety of choice environments. For example, the original demonstration of the attraction effect came from the marketing literature \parencite{huberAddingAsymmetricallyDominated1982d}, where participants selected amongst hypothetical consumer products. In this chapter, I generalize the paradigm and model from Chapter 2 to preferential choice. Below, I demonstrate results similar to Chapter 2.
 
 \subsection{Expanding the Paradigm to Preferential Choice}
 
-In Experiment 2, I collected psychophysical ratings and used those to estimate the parameters of a Thurstonian choice model, which I then applied to make predictions for choices in the same experiment. To test this approach in preferential choice, it was necessary to collect continuous preference ratings from participants. In Experiment 4, I collected both pricing data (the best continuous measure for consumer stimuli) and choices.
+In Experiment 2, I collected psychophysical ratings and used them to estimate the parameters of a Thurstonian choice model, which I then applied to make predictions for choices in the same experiment. To test this approach in preferential choice, it was necessary to collect continuous preference ratings from participants. In Experiment 4, I collected both pricing data (the best continuous measure for consumer stimuli) and choices.
 
 In most studies of consumer preference, researchers collect choice data rather than ratings. There are good reasons for this. The literature on willingness to pay (WTP; the largest amount a given consumer would be willing to pay for a particular product) has shown that, when responding to hypothetical survey questions, participants tend to over-estimate their WTP by a sizeable aomunt \parencite{breidertREVIEWMETHODSMEASURING2006,schmidtAccuratelyMeasuringWillingness2020}, \parencite[c.f.~]{miller2011should}. It is generally more advisable to collect discrete choices, rather than ordinal or continuous ratings, when attempting to measure preferences.
 
-These concerns, while crucial to applied researchers, are not relevant to the current study, as I am interested in participants' relative rather than absolute ratings. In other words, if participants over (or under) estimate their preferences by a constant, but generally rate higher valued options more highly than lower valued options, I can obtain reliable estimates of the $\rho$ parameters. As in Experiment 2, where I was concerned with whether participants' estimates of perceived size increased with absolute size (regardless of how it deviated from actual size), here I am interested in a measure that increases monotonically with the value participants place on each option. 
+These concerns, while crucial to applied researchers, are not relevant to the current study, as I am interested in participants' relative rather than absolute valuations. In other words, if participants over (or under) estimate their preferences by a constant, but generally rate higher valued options more highly than lower valued options, I can obtain reliable estimates of the $\rho$ parameters. As in Experiment 2, where I was concerned with whether participants' estimates of perceived size increased with absolute size (regardless of how it deviated from actual size), here I am interested in a measure that increases monotonically with the value participants place on each option. 
 
-Other researchers have studied context effects with ratings measures. \textcite{wedellUsingJudgmentsUnderstand} collected Likert scale attractiveness ratings for attraction effect stimuli, generally finding that the presence of a decoy increased mean ratings for a target option. \textcite{windschitl2004dud} asked participants to judge the likelihood of various events (also on a Likert scale). They found that the presence of a "dud" (highly unlikely) alternative increased participants' ratings of focal options. \textcite{caiWhenAlternativeHypotheses2023} and \textcite{fang2024context} demonstrated similar effects by collecting continuous probability judgments.
+Other researchers have studied context effects with ratings measures. \textcite{wedellUsingJudgmentsUnderstand} collected Likert scale attractiveness ratings for attraction effect stimuli, generally finding that the presence of a decoy increased mean ratings for a target option. \textcite{windschitl2004dud} asked participants to judge the likelihood of various events (also on a Likert scale). They found that the presence of a "dud" (highly unlikely) alternative increased participants' ratings of focal options. \textcite{caiWhenAlternativeHypotheses2023} and \textcite{fang2024context} demonstrated similar effects with continuous probability judgments.
 
 To my knowledge, however, there has been no research systematically connecting valuations and choices in a single experiment through application of a choice model. Thus, I collected ratings to estimate the multivariate normal parameters $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ for the choice model from Chapter 2 and used these to predict consumer choice data collected from the same group of participants.
 
 \subsection{Correlations in Preferential Choice}
-In Chapter 2, I showed that the model could capture the repulsion effect in perceptual choice \parencite{spektorWhenGoodLooks2018b} through target-decoy correlations, estimated via the parameter $\rho_{TD}$. I am now interested in whether 1) preferential choice options also exhibit these correlations and 2) the model can capture the repulsion effect in preferential choice. 
+In Chapter 2, I showed that the model could capture the repulsion effect in perceptual choice \parencite{spektorWhenGoodLooks2018b} through target-decoy correlations, estimated via the parameter $\rho_{TD}$. I am now interested in whether 1) preferential stimuli also elicit these correlations and 2) the model can capture the repulsion effect in preferential choice. 
 
 The literature on the repulsion effect in preferential choice is relatively sparse. \textcite{liaoInfluenceDistanceDecoy2021} varied TDD in preferential choice and found a U-shaped relationship between TDD and RST (Relative Share of the Target), with the attraction effect occuring at low and high TDD levels but the repulsion effect occuring at more intermediate TDD levels. 
+
+\textcite{spektorRepulsionEffectPreferential2022} demonstrated the repulsion effect in (risky) preferential choice, displaying stimuli graphically but in the same triangle display as \textcite{spektorWhenGoodLooks2018b}.
 
 \textcite{banerjeeFactorsThatPromote2024} demonstrated a binary-ternary form of the repulsion effect using the stimuli depicted in Figure~\ref{fig:banerjee_stim}, across multiple experiment. Participants saw either two or three options on each trial, each varying on two dimensions. The options were consumer choice products from a number of categories (e.g., cameras, coffee makers, laptops), and the dimension names varied by product category (e.g., coffee makers' dimensions were brew speed and features). Attribute values were always displayed numerically using ratings of 1-100.
 
 In each set, the target was always the most extreme option - particularly high on one dimension and particularly low on the other dimension. The competitor was a more intermediate option. For example, consider the blue-colored stimuli in Figure~\ref{fig:banerjee_stim}. $t$ is very high on $X$ and very low on $Y$. Compared to $t$, $c$ is slightly worse on $X$ but slightly better on $Y$. $d$, however, is as high as $t$ on $X$ but even worse on $Y$. 
 
-Using these stimuli and across multiple experiments, \textcite{banerjeeFactorsThatPromote2024} showed that the competitor's choice share increased from binary to ternary choice sets, $P(C|[T,C,D])>P(C|[T,C])$, in violation of the regularity principle \parencite{marley1989random}. In other experiments, they also showed that the repulsion effect decreased with $TDD$.
+Using these stimuli, \textcite{banerjeeFactorsThatPromote2024} showed that the competitor's choice share increased from binary to ternary choice sets, $P(C|[T,C,D])>P(C|[T,C])$, in violation of the regularity principle \parencite{marley1989random}. They also showed that the repulsion effect decreased with $TDD$.
 
 \begin{figure}
     \includegraphics[width=100mm]{figures/banerjee_stim.jpeg}
@@ -32,9 +34,9 @@ Using these stimuli and across multiple experiments, \textcite{banerjeeFactorsTh
     \label{fig:banerjee_stim}
 \end{figure}
 
-\textcite{banerjeeFactorsThatPromote2024}'s experiments compared binary to ternary choice rather than ternary to ternary choice, as in \textcite{spektorWhenGoodLooks2018b}. To do a ternary-ternary comparison, one would "flip" the target and competitor labels, such that the target is the intermediate option, the competitor is the extreme option, and the decoy is nearby the new, intermediate target. It is in one sense, quite interesting, that \textcite{banerjeeFactorsThatPromote2024} were able to generate violations of regularity in this binary to ternary comparison. However, the results are somewhat limited by the fact that the target was always more extreme than the competitor.
+\textcite{banerjeeFactorsThatPromote2024}'s experiments compared binary to ternary choice rather than ternary to ternary choice, as in \textcite{spektorWhenGoodLooks2018b}. To do a ternary-ternary comparison, one would "flip" the target and competitor labels, such that the target is the intermediate option, the competitor is the extreme option, and the decoy is nearby the new, intermediate target. It is in one sense, quite interesting, that \textcite{banerjeeFactorsThatPromote2024} were able to generate violations of regularity in this binary-ternary comparison. However, the results are somewhat limited by the fact that the target was always more extreme than the competitor.
 
-\textcite{banerjeeFactorsThatPromote2024} argued that their results are consistent with the "tainting hypothesis" \parencite{simonson2014vices} because the repulsion effect is strongest when the target and decoy are similar. They also argued that the decoy, may have caused participants to focus more attention on the competitor's superior dimension. For example, in the blue choice set of Figure~\ref{fig:banerjee_stim}, the decoy is quite poor on $Y$ while being equally good as the target on $X$, so participants may have focused more attention on $Y$, leading to a preference for the target. 
+\textcite{banerjeeFactorsThatPromote2024} argued that their results are consistent with the "tainting hypothesis" \parencite{simonson2014vices} because the repulsion effect is strongest when the target and decoy are similar. They also argued that the decoy may have caused participants to focus more attention on the competitor's superior dimension. For example, in the blue choice set of Figure~\ref{fig:banerjee_stim}, the decoy is quite poor on $Y$ while being equally good as the target on $X$, so participants may have focused more attention on $Y$, leading to a preference for the competitor. 
 
 \textcite{banerjeeFactorsThatPromote2024}'s results are interesting and worth exploring further. The authors are also remarkably transparent about their stimulus generation procedure, in addition to posting their data online, so their stimuli were a perfect candidate for the Experiment 4.
 
@@ -42,12 +44,12 @@ Using these stimuli and across multiple experiments, \textcite{banerjeeFactorsTh
 
 With Experiment 4, I sought to collect ratings and choice data in a preferential choice setting using (a subset of) \textcite{banerjeeFactorsThatPromote2024}'s Experiment 5 stimuli. I used these data to estimate the parameters of the choice model from Chapter 2. 
 
-For a ratings measure, I asked participants to assign prices to each option. Though people often overestimate prices \parencite{breidertREVIEWMETHODSMEASURING2006}, pricing measures are approximately continuous and monotonic with value and are thus comparable to estimated area (the value measure from Experiment 2).
+For a ratings measure, I asked participants to assign prices to each option. Though people often overestimate prices \parencite{breidertREVIEWMETHODSMEASURING2006}, pricing measures are approximately continuous and monotonic with value and are thus comparable to estimated area, the value measure in Experiment 2.
 
 \subsection{Methods}
 
 \subsubsection{Participants}
-137 U.S. adults participated in the experiment. Participants were recruited from Prolific, an online platform for posting research studies, and they were paid $\$5$ for their participation. 24 participants were removed from all analyses for failing catch trials (see below), leaving a final sample size of $N=113$. 
+137 U.S. adults participated in the experiment. Participants were recruited from Prolific, an online platform for research studies, and they were paid $\$5$ for their participation. 24 participants were removed from all analyses for failing catch trials (see below), leaving a final sample size of $N=113$. 
 % The mean age was $38.89$ ($SD=11.48$). $61$ participants identified as female, $50$ identified as male, $1$ participant identified as non-binary, and $1$ participant preferred not to say.
 
 \subsubsection{Stimuli}
@@ -64,19 +66,19 @@ The experiment took place in two phases: pricing and choice. The trial types wer
 
 In each phase, there were two types of trials: critical trials and catch trials. The critical trial stimuli are shown in Figure~\ref{fig:ce_rating_stim}. 
 
-There were two types of critical trials: those designed to elicit the repulsion effect (a replication of \citeauthor{banerjeeFactorsThatPromote2024}), and those designed to elicit the attraction effect. Within both the attraction and repulsion trials, I varied which dimension the target was higher on (1 or 2), $TDD$ (designated near or far), and product category (microwaves, washing machines, laptops, and televisions). Note that to create the attraction trials, I simply "shifted" the target and competitor towards the center of the attribute space. That is, target and competitor are equally similar in both repulsion and attraction trials, but they are both more extreme in the repulsion trials.
+There were two types of critical trials: those designed to elicit the repulsion effect (a replication of \citeauthor{banerjeeFactorsThatPromote2024}), and those designed to elicit the attraction effect. Within both the attraction and repulsion trials, I varied which dimension the target was higher on (1 or 2), $TDD$ (designated near or far from the target), and product category (microwaves, washing machines, laptops, and televisions). Note that to create the attraction trials, I simply "shifted" the target and competitor towards the center of the attribute space. That is, target and competitor are equally similar in both repulsion and attraction trials, but they are both more extreme in the repulsion trials.
 
 \begin{figure}
     \includegraphics[width=150mm,scale=0.5]{figures/ce_rating_stim_for_paper.jpeg}
-    \caption{Graphical depiction of the critical stimuli from Experiment 4. Rows show the different choice sets designed to elicit the attraction/repulsion effect, with the label also specifying whether the decoy is near or far from the target in attribute space. The columns indicate which dimension the target is high on (1 or 2).}
+    \caption{Graphical depiction of the critical stimuli from Experiment 4. Rows show the different choice sets designed to elicit the attraction/repulsion effect, with the label also specifying whether the decoy is near or far from the target in attribute space. The columns indicate which dimension the target is high on (1 or 2). Dimensions are labelled generically because their names vary with product category.}
     \label{fig:ce_rating_stim}
 \end{figure}
 
-The catch trials were designed such that one option was clearly superior to the other two. On each catch trial, the superior option's dimension values were each randomly sampled from the distribution $U(50,95)$, while the two inferior option's dimension values were sampled from the distribution $U(5,50)$. All dimension values were rounded to multiples of 5. 
+The catch trials were designed such that one option was clearly superior to the other two. On each catch trial, the superior option's dimension values were each independently sampled from the vector $[50,55,60,65,70,75,80,85,90,95]$, while the two inferior options' dimension values were independently sampled from the vector $[5,10,15,20,25,30,35,40,45,50]$. 
 
-In each phase, there were 32 critical trials (16 designed to elicit the repulsion effect and 16 designed to elicit the attraction effect) and 8 catch trials.
+In both the rating phase and the choice phase, there were 32 critical trials (16 designed to elicit the repulsion effect and 16 designed to elicit the attraction effect) and 8 catch trials.
 
-I did not test binary repulsion effect trials, as in \textcite{banerjeeFactorsThatPromote2024}'s experiments, so I cannot assess the repulsion effect to the same degree as those authors. The goals here are, rather, to measure valuation correlations in consumer preference and attempt to relate them to choice.
+I did not test binary repulsion effect trials, as in \textcite{banerjeeFactorsThatPromote2024}'s experiments, so I cannot assess the repulsion effect to the same degree as those authors. The goal of this experiment was to measure valuation correlations in consumer preference and attempt to relate them to choice.
 
 \subsubsection{Procedure}
 
@@ -84,7 +86,7 @@ The experiment took place in two phases: a pricing phase and a choice phase.
 
 Prior to the pricing phase, participants were provided with a cover story. According to the cover story, they were told to imagine that they run an online consumer goods resale business. On each trial, they would see three products, and they needed to determine which price to sell each product for. Participants were also told that they should determine a price that maximizes both profit and the likelihood the product is purchased. 
 
-During the pricing trials, the three options were presented in a table, with the options in rows and the attributes in columns. All attributes were represented numerically. The options were labeled A, B, and C. The last column of the table contained three boxes, which participants used to type in their selling price for each option. Participants typed in their selling price, and then clicked a button on screen to move onto the next trial. Both option order and dimension order was randomized on each trial. See Figure~\ref{fig:ce_rating_choice_trial} (left panel) for an example trial. Participants were only allowed to enter in whole numbers (e.g., dollars not cents).
+During the pricing trials, the three options were presented in a table, with the options in rows and the attributes in columns. All attributes were represented numerically. The options were labeled A, B, and C. The last column of the table contained three boxes, which participants used to type in their selling price for each option. Participants typed in their selling price, and then clicked a button on the screen to advance to the next trial. Both option order and dimension order was randomized on each trial. See Figure~\ref{fig:ce_rating_choice_trial} (left panel) for an example trial. Participants were only allowed to enter in whole numbers (e.g., dollars not cents).
 
 \begin{figure}
     \includegraphics{figures/ce_rating_choice_example_trial.jpg}
@@ -96,13 +98,15 @@ After completing all pricing trials, participants moved onto the choice phase. P
 
 As in the pricing phase, options were presented in a table, where option order and dimension order was randomized. See Figure~\ref{fig:ce_rating_choice_trial} (bottom) for an example trial.
 
-After the choice phase, participants completed a short demographics form.
+Trial order was randomized in both phases.
+
+After the choice phase, participants completed a short demographics form before ending the experiment.
 
 \subsection{Results}
 
 \subsubsection{Data Processing}
 
-First, I removed 24 participants who did not pass at least $5/8$ catch trials in both the pricing phase and the choice phase. To pass a pricing catch trial, the participant needed to price the superior option at least as high as the other two, inferior options. To pass a choice catch trial, the participant needed to select the superior option. 
+First, I removed 24 participants who did not pass at least $5/8$ catch trials in both the pricing phase and the choice phase. To pass a pricing catch trial, the participant needed to price the superior option at least as high as the other two inferior options. To pass a choice catch trial, the participant needed to select the superior option. 
 
 \subsubsection{Pricing Trials}
 
@@ -116,10 +120,11 @@ On average, participants priced the target and competitor higher than the decoy.
     \label{fig:price_m_by_effect_category}
 \end{figure}
 
-I performed a Bayesian modeling analysis comparable to that of Experiment 2. I estimated the mean prices and the correlations between prices. These results can be found in the Appendix. Below, I discuss descriptive statistics, but whenever I claim that one parameter value is greater than another, the reader can see the Appendix to support these conclusions. The ordering of these correlations, however, is the same in both the model-based and the descriptive analysis.
+I performed a Bayesian modeling analysis comparable to that of Experiment 2. I estimated the mean prices and the correlations between prices. The details of this modeling analysis can be found in the Appendix. 
 
-% Additionally, I report the descriptive values for all correlations, rather than those based on model estimates, as the latter as biased downard due to limited data \parencite{stephens2020state,merkle2023opaque}. 
-To account for participant-level differences in pricing, I first z-scored all prices within each participant. To avoid the influence of outliers on correlation estimates, I removed trials in which at least one z-score had an absolute value $>3$. 
+Below I discuss descriptive statistics, but whenever I claim that one parameter value is greater than another, the reader can see the Appendix to support these conclusions. The ordering of these correlations, however, is the same in both the model-based and the descriptive analysis. I report the descriptive values for all correlations, rather than those based on model estimates, because the latter are  biased downard due to limited data \parencite{stephens2020state,merkle2023opaque}. 
+
+To account for participant-level differences in pricing, I first z-scored all prices within each participant. To avoid the influence of outliers on correlation estimates, I removed trials in which at least one price z-score had an absolute value $>3$. 
 
 I computed the mean prices for target, competitor, and decoy options within each trial type, collapsing over product category and TDD, in Figure~\ref{fig:price_mu_model_data}. In both repulsion and attraction effect trials, the target and competitor do not differ in mean price, while both are priced higher than the decoy option.
 
@@ -204,4 +209,4 @@ In the attraction and repulsion effect, the target and decoy are designed such t
 
 These correlations may also be measuring the ease of comparability between pairs of options. Comparability has previously been shown to drive the attraction effect \parencite{noguchi2014attraction,cataldoComparisonProcessAccount2019b}, and several models of context effects rely on comparisons of options on single attributes to generate context effects \parencite{trueblood2014multiattribute,roeMultialternativeDecisionField2001a}. Supporting this hypothesis is the finding that $\rho_{TC}>\rho_{TD}$ in the trials designed to elicit the attraction effect, when the target and competitor were quite similar on each attribute and thus easier to compare.
 
-Future work could test these hypotheses by systematically manipulating option comparability and assessing whether the correlations vary with comparability. I work towards this in Chapter 5 through testing the effect of comparability on choice, but it would be interesting to directly measure correlations in choice environments of varying comparability. 
+Future work could test these hypotheses by systematically manipulating option comparability and assessing whether the correlations vary with comparability. I work towards this in Chapter 5 through testing the effect of comparability on choice, but it would be interesting to directly measure inter-option correlations in choice environments of varying comparability. 
