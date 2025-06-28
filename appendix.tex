@@ -1,7 +1,7 @@
 \chapter{Bayesian Logistic Regression Model of 2AFC Discriminability from Experiment 1}
 I analyzed the 2AFC data from Experiment 1 using Bayesian Hierarchical Logistic Regression. 
 
-Recall that in this experiment, participants were presented with three stimuli (target, competitor, and decoy rectangles). They were then asked to select the largest rectangle out of a pair of two of these options. In other words, there are three trial types: target/competitor (TC), target/decoy (TD), and competitor/decoy (CD). As discussed in the main text, I remove the TC trials from all substantive analyses, as well as the $TDD=0\%$ trials. 
+Recall that in this experiment, participants were presented with three stimuli (target, competitor, and decoy rectangles). They were then asked to select the largest rectangle out of a pair of two of these options. There are three trial types: target/competitor (TC), target/decoy (TD), and competitor/decoy (CD). As discussed in the main text, I removed the TC trials from all substantive analyses, as well as the $TDD=0\%$ trials. 
 
 \section{Model Details} 
 
@@ -14,10 +14,15 @@ To compute $\theta_{ij}$, I first compute $\eta_{ij}$ from linear combination of
 
 \begin{equation}
     \begin{aligned}
-        \eta_{ij} &= (\beta_{0} + S_{0_{i}}) + (\beta_{\mathrm{or}} + S_{\mathrm{or}_{i}}) \cdot \mathrm{or}_{ij} + (\beta_{\mathrm{horiz}} + S_{\mathrm{horiz}_{i}}) \cdot \mathrm{horiz}_{ij} \\
-        &\quad + (\beta_{\mathrm{TD}} + S_{\mathrm{TD}_{i}}) \cdot \mathrm{TD}_{ij} + (\beta_{\mathrm{TDD5}} + S_{\mathrm{TDD5}_{i}}) \cdot \mathrm{TDD5}_{ij} + (\beta_{\mathrm{TDD9}} + S_{\mathrm{TDD9}_{i}}) \cdot \mathrm{TDD9}_{ij} \\
-        &\quad + (\beta_{\mathrm{TDD14}} + S_{\mathrm{TDD14}_{i}}) \cdot \mathrm{TDD14}_{ij} + (\beta_{\mathrm{TDD5xTD}} + S_{\mathrm{TDD5xTD}_{i}}) \cdot \mathrm{TDD5}_{ij} \cdot \mathrm{TD}_{ij} \\
-        &\quad + (\beta_{\mathrm{TDD9xTD}} + S_{\mathrm{TDD9xTD}_{i}}) \cdot \mathrm{TDD9}_{ij} \cdot \mathrm{TD}_{ij} + (\beta_{\mathrm{TDD14xTD}} + S_{\mathrm{TDD14xTD}_{i}}) \cdot \mathrm{TDD14}_{ij} \cdot \mathrm{TD}_{ij}
+        \eta_{ij} &= (\beta_{0} + S_{0_{i}}) + (\beta_{\mathrm{or}} + S_{\mathrm{or}_{i}}) \cdot \mathrm{or}_{ij} 
+        + (\beta_{\mathrm{horiz}} + S_{\mathrm{horiz}_{i}}) \cdot \mathrm{horiz}_{ij} \\
+        &\quad + (\beta_{\mathrm{TD}} + S_{\mathrm{TD}_{i}}) \cdot \mathrm{TD}_{ij} 
+        + (\beta_{\mathrm{TDD5}} + S_{\mathrm{TDD5}_{i}}) \cdot \mathrm{TDD5}_{ij} 
+        + (\beta_{\mathrm{TDD9}} + S_{\mathrm{TDD9}_{i}}) \cdot \mathrm{TDD9}_{ij} \\
+        &\quad + (\beta_{\mathrm{TDD14}} + S_{\mathrm{TDD14}_{i}}) \cdot \mathrm{TDD14}_{ij} 
+        + (\beta_{\mathrm{TDD5xTD}} + S_{\mathrm{TDD5xTD}_{i}}) \cdot \mathrm{TDD5}_{ij} \cdot \mathrm{TD}_{ij} \\
+        &\quad + (\beta_{\mathrm{TDD9xTD}} + S_{\mathrm{TDD9xTD}_{i}}) \cdot \mathrm{TDD9}_{ij} \cdot \mathrm{TD}_{ij} 
+        + (\beta_{\mathrm{TDD14xTD}} + S_{\mathrm{TDD14xTD}_{i}}) \cdot \mathrm{TDD14}_{ij} \cdot \mathrm{TD}_{ij}
     \end{aligned}
 \end{equation}
 
@@ -88,7 +93,9 @@ Table~\ref{tab:e1_params} shows parameter estimates, including means and $95\%$ 
     \label{tab:e1_params}
  \end{table}
     
- Inference is made by examining the posterior distributions of the fixed effect parameters (i.e., all $\beta$ values). 
+ Inference is made by examining the posterior distributions of the fixed effect parameters (i.e., all $\beta$ values). I first consider the main effects before considering the interactions. The intercept $\beta_{0}$ was above $0$, $\textit{M}=0.44, 95\%CI [0.32, 0.57]$, indicating that participants could perform the discrimination task, even at the lowest TDD level. There was also a main effect of orientation, $\textit{M}=-0.54, 95\%CI [-0.66, -0.43]$, indicating that participants performed worse when the target and decoy were oriented wide than when they were oriented tall. The main effect of horizontal, $\textit{M}=0.23, 95\%CI [0.12, 0.34]$, indicates that participants performed better in the horizontal display condition than in the triangle display condition. The main effect of TD comparison was above 0, $\textit{M}=0.17, 95\%CI [0.01, 0.33]$, indicating participants were performed better in target-decoy trials than in competitor decoy trials. 
+
+ Crucially, there was an interaction between comparison (TC vs TD) and TDD. The effect of TD at $TDD=5\%$ was not reliably above 0, $\textit{M}=0.14, 95\%CI [-0.09, 0.36]$. However, the effect of TD at $TDD=9\%$ was above 0, $\textit{M}=0.61, 95\%CI [0.36, 0.85]$, even after accounting for the main effect of TD comparison. The effect of TD at $TDD=14\%$ was also above 0, $\textit{M}=0.79, 95\%CI [0.50, 1.10]$.
 
 \chapter{Bayesian Hierarchical Modeling of Circle Estimation Data from Experiment 2}
 
@@ -340,19 +347,74 @@ where $u_{i}$ is the utility of option $i$.
 Below I present the details of the maxdiff modeling, as applied to the data from Experiment 3.
 
 \section{Model Details}
-Following typical approaches in the choice modeling literature, I estimated the utility of each option in the choice set using linear regression. 
+Following typical approaches in the choice modeling literature, I estimated the utility of each option in the choice set using linear regression. I did not include an intercept. 
 
 According the model, the utility $U_{ijk}$ for participant $i$ on trial $j$ and option $k$ is computed as:
 
-% \begin{equation}
-%     \begin{aligned}
-%         U_{ij1}=(S_{0_i} + \beta_{0}) + \beta_{or}*\mathrm{or}_{ij1} + \beta_{\mathrm{diag}2}*\mathrm{diag}2_{ij}+ \\
-%         \beta_{\mathrm{diag}3}*\mathrm{diag}3_{ij} + \beta_{\mathrm{TDD}5}*\mathrm{TDD}5_{ij} +\\ \beta_{\mathrm{TDD}9}*\mathrm{TDD}9_{ij} + \beta_{\mathrm{TDD}14}*\mathrm{TDD}14_{ij}
-%         \label{circle_mu_eqn1}
-%     \end{aligned}
-% \end{equation}
+\begin{equation}
+    \begin{aligned}
+        U_{ijk}=\beta_{or}*\mathrm{or}_{ijk} + \beta_{\mathrm{TDD}5}*\mathrm{TDD}5_{ij} +\beta_{\mathrm{TDD}9}*\mathrm{TDD}9_{ij} + \beta_{\mathrm{TDD}14}*\mathrm{TDD}14_{ij}+\\
+        (\beta_{comp}+S_{comp_i})*comp_{ijk}+(\beta_{decoy}+S_{decoy_i})*decoy_{ijk}+
+        \label{maxdiff_U}
+    \end{aligned}
+\end{equation}
+
+As in the modeling of Experiment 2, I included an effect of option (i.e., target, competitor, decoy) where $\beta_{comp}$ and $S_{comp_i}$ are the fixed and random effects for the competitor stimulus, respectively, and $comp_{ijk}$ is a dummy variable which equals 1 if the stimulus is a competitor and 0 otherwise. Similarly, $\beta_{decoy}$ and $S_{decoy_i}$ are the fixed and random effects for the decoy stimulus, respectively, and $comp_{ijk}$ is a dummy variable which equals 1 if the stimulus is a decoy and 0 otherwise. Note that the reference level is the target here.
+
+I also collapsed over diagonal in this analysis.
+
+According to the model, the probability a participant $i$ on trial $j$, given set $K$, selects option $k$ as best and $l$ as worst, $k \neq l$, is computed as:
+
+\begin{align}
+    BW_{ij_{K}}(k,l)=\frac{e^{U_{ijk}-U_{ijl}}}{\sum_{\substack{{p,q}\in K\\p \neq q}} e^{u_{p}-u_{q}}}
+\end{align}
+
+The vector $\boldsymbol{\theta_{ij}}$ is a vector of all possible best-worst choices for participant $i$ and trial $j$, where $\sum \boldsymbol{\theta_{ij}} = 1$.
+
+The count vector of all possible BW choices $\boldsymbol{C_{ij}}$ is distributed:
+
+\begin{align}
+    \boldsymbol{C_{ij}}} \sim \text{Multinomial}(\boldsymbol{\theta_{ij}})
+\end{align}
 
 
+Below I show the prior distributions on all parameters.
+
+\section{Prior Distributions on Parameters}
+\begin{itemize}
+    \item $\beta_{or} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{TDD5} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{TDD9} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{TDD14} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{comp} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{decoy} \sim \mathcal{N}(0, 5)$
+    \item $\beta_{S_comp_i} \sim \mathcal{N}(0, \sigma_{S_comp})$
+    \item $\beta_{S_decoy_i} \sim \mathcal{N}(0, \sigma_{S_decoy})$
+    \item $\sigma_{S_comp} \sim \text{Half-Cauchy}(0, 2.5)$
+    \item $\sigma_{S_comp} \sim \text{Half-Cauchy}(0, 2.5)$
+\end{itemize}
+
+\section{Parameter Estimates}
+Table~\ref{tab:maxdiff_params} shows parameter estimates, including means and $95\%$ credible intervals. 
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{lrrrr}
+        \toprule
+        Parameter & M & SD & CI low & CI high \\
+        \midrule
+        $\beta_{or}$ & 0.27 & 0.01 & 0.26 & 0.28\\
+        $\beta_{TDD5}$ & 0.27 & 0.01 & 0.24 & 0.29\\
+        $\beta_{TDD9}$ & 0.64 & 0.01 & 0.61 & 0.67\\
+        $\beta_{TDD14}$ & 1.05 & 0.02 & 1.02 & 1.08\\
+        $\beta_{comp}$ & -0.03 & 0.01 & -0.05 & -0.01\\
+        $\beta_{decoy}$ & -0.25 & 0.02 & -0.28 & -0.21\\
+        $\sigma_{comp}$ & 0.14 & 0.01 & 0.12 & 0.16 \\
+        $\sigma_{decoy}$ & 0.29 & 0.01 & 0.27 & 0.32 \\
+        \bottomrule 
+    \end{tabular}
+    \caption{Parameter estimates for maxdiff modeling from Experiment 3, including means, SDs, and $95\%$ Credible Intervals.}
+    \label{tab:maxdiff_params}
+ \end{table}
 
 \chapter{Bayesian Modeling of Price Data from Experiment 4}
 
@@ -432,15 +494,15 @@ For brevity, I omit $\boldsymbol{\mu}$ and $\sigma$ estimates and show only $\rh
         \toprule
         Trial Type & Parameter & \textit{M} & \textit{SD} & HDI lower & HDI upper \\
         \midrule
-        \textbf{Attraction}  &  $\boldsymbol{\rho}_{TC}$     &    $.87$   &   $0.005$    &  $.86$     & $.88$     \\
-                             &  $\boldsymbol{\rho}_{TD}$    &     $.87$   &   $0.005$    &  $.86$     & $.88$     \\
-                             &  $\boldsymbol{\rho}_{CD}$    &     $.83$   &   $0.007$    &  $.81$     & $.84$     \\
-        \textbf{Repulsion}   &  $\boldsymbol{\rho}_{TC}$     &    $.77$   &   $0.008$    &  $.75$     & $.79$     \\
-                             &  $\boldsymbol{\rho}_{TD}$    &     $.87$   &   $0.005$    &  $.86$     & $.88$     \\
-                             &  $\boldsymbol{\rho}_{CD}$    &     $.69$   &   $0.011$     &  $.67$     & $.72$     \\
+        \textbf{Attraction}  &  $\rho_{TC}$     &    $.87$   &   $0.005$    &  $.86$     & $.88$     \\
+                             &  $\rho_{TD}$    &     $.87$   &   $0.005$    &  $.86$     & $.88$     \\
+                             &  $\rho_{CD}$    &     $.83$   &   $0.007$    &  $.81$     & $.84$     \\
+        \textbf{Repulsion}   &  $\rho_{TC}$     &    $.77$   &   $0.008$    &  $.75$     & $.79$     \\
+                             &  $\rho_{TD}$    &     $.87$   &   $0.005$    &  $.86$     & $.88$     \\
+                             &  $\rho_{CD}$    &     $.69$   &   $0.011$     &  $.67$     & $.72$     \\
         \bottomrule
     \end{tabular}
-    \caption{$\rho$ Parameter estimates for Bayesian Hierarchical Thurstonian Model from Experiment 4 Pricing Data, including means, standard deviations, and $95\%$ Credible Intervals.}
+    \caption{$\rho$ Parameter estimates for $\rho$ parameters from the Bayesian Hierarchical Thurstonian Model from Experiment 4 Pricing Data, including means, standard deviations, and $95\%$ Credible Intervals.}
     \label{tab:e4_rho_params}
 \end{table}
 
@@ -491,6 +553,7 @@ I performed inference using the mean target, competitor, and decoy choice probab
                             & Far          & Target          &  $.33$     & $.30$     & $.36$     \\
                             &              & Competitor      &  $.65$     & $.62$     & $.68$     \\
                             &              & Decoy           &  $.03$     & $.02$     & $.04$     \\
+        \bottomrule
     \end{tabular}
     \caption{Experiment 4 Mean Posterior Choice Proportions from the Bayesian Dirichlet-Multinomial Model.}
     \label{tab:e4_choice_params}
@@ -517,6 +580,7 @@ I fit the model as a Bayesian hierarchical logistic regression model using the r
         $\beta_{\text{two-aligned}}$ & $-0.03$ & $0.02$ & $-0.08$ & $0.01$    \\
         $\beta_{\text{all-aligned}}$ & $-0.11$ & $0.03$ & $-0.16$ & $-0.06$   \\
         $\beta_{\text{target middle}}$ & $0.27$ & $0.02$ & $0.24$ & $0.31$    \\
+        \bottomrule
     \end{tabular}
     \caption{Experiment 5 Posterior Estimates for all Fixed Effects from the Bayesian Hierarchical Logistic Regression Model.}
     \label{tab:e5_logit_params}
@@ -526,4 +590,4 @@ The main parameter of interest is $\beta_{\text{two-aligned}}$, which captures t
 
 Interestingly, participants also chosen the target less in the all-alingned condition ($\textit{M}=-0.11$), suggesting a bias away from the aligned option even when all options were aligned. 
 
-There was also a position effect, such that participants chose the target more when it was in the middle of the screen $\textit{M}=-.27$. 
+There was also a position effect, such that participants chose the target more when it was in the middle of the screen $\textit{M}=-.27, 95\%CI[0.24,0.41]$. 

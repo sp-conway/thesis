@@ -22,28 +22,28 @@ Other researchers have studied the comparison process in decision-making, partic
 
 Hsee and colleagues \parencite{hseeEvaluabilityHypothesisExplanation1996,hseeLessBetterWhen1998,hseeWillProductsLook1998,hsee1999preference} have also shown that the comparison of options affects consumer behavior. For example, they repeatedly showed that participants’ evaluation of a given option can change with the addition of a reference point (i.e., lower valued options improve with a high reference point and vice versa). That is, participants’ judgments can reverse when options are evaluated jointly, compared to separately \parencite{hsee1999preference}. 
 
-Many theoretical accounts of decision-making rely on the comparison process to account for context effects. According to \textcite{trueblood2014multiattribute}'s Multiattribute Linear Ballistic Accumulator Model (MLBA), each option accumulates evidence through pairwise comparisons to all other available options. This comparison is modulated by several processes, such as distance in attribute space and extremeness aversion. \textcite{roeMultialternativeDecisionField2001a}'s Multialternative Decision Field Theory (MDFT) model also assumes that options accumulate evidence through comparison, and that comparisons between nearby options exhibit greater influence on preference. Other decision models incorporate similar mechanisms \parencite{usherLossAversionInhibition2004a,noguchiMultialternativeDecisionSampling2018a,wollschlager2NaryChoiceTree2012a,landry2021pairwise} (c.f. \textcite{bhatiaAssociationsAccumulationPreference2013b,bergnerVAMPVotingAgent2019b}). 
+Several computational models of decision-making also rely on the comparison process. According to \textcite{trueblood2014multiattribute}'s Multiattribute Linear Ballistic Accumulator Model (MLBA), each option accumulates evidence through pairwise comparisons to all other available options. These comparisons are modulated by several processes, such as distance in attribute space and extremeness aversion. \textcite{roeMultialternativeDecisionField2001a}'s Multialternative Decision Field Theory (MDFT) model also assumes that options accumulate evidence through comparison, and that comparisons between nearby options exhibit greater influence on preference. Other decision models incorporate similar mechanisms \parencite{usherLossAversionInhibition2004a,noguchiMultialternativeDecisionSampling2018a,wollschlager2NaryChoiceTree2012a,landry2021pairwise} (c.f. \textcite{bhatiaAssociationsAccumulationPreference2013b,bergnerVAMPVotingAgent2019b}). 
 
-\textcite{trueblood2022attentional} argued that options that are more similar garner more attention in the comparison process. They presented a simple Markov model where pairwise comparisons on a single attribute determine the accumulation of preference, and the time spent on a comparison is an increasing function of the similarity of options on the attribute. Their model can successfully, and simply, account for the "big three" context effects (attraction, repulsion, and similarity).
+\textcite{trueblood2022attentional} argued that options that are more similar garner more attention in the comparison process. They presented a simple Markov model where pairwise comparisons on a single attribute determine the accumulation of preference, and the time spent on a comparison is an increasing function of the similarity of options on the attribute. Their model can successfully, and simply, account for the "big three" context effects (attraction, compromise, and similarity).
 
 \subsection{Comparability Effects in Perceptual Choice}
 There has been other research, albeit relatively limited, on the comparison process in perceptual decision-making. Much of this work has focused on the spatial layout of the options and its effect on perceptual context effects.
 
-\textcite{trueblood2022attentional} re-analyzed previous perceptual choice context effect data \parencite{trueblood2015fragile} by examining the order of the options on the screen. They found that the attraction effect was strongest when the target and decoy were next to each other, while the effect was weak (or even nullified) when the options were separated spatially. Their conclusion, supported by a modeling analysis, was that people tend to compare pairs of options which are spatially closer to one another more often than pairs further away from one another. This result may seem obvious, but previous researchers have largely ignored the order of options in choice, generally collapsing over order in all analyses.
+\textcite{trueblood2022attentional} re-analyzed previous perceptual choice context effect data \parencite{trueblood2015fragile} by examining the order of the options on the screen. They found that the attraction effect was strongest when the target and decoy were next to each other, while the effect was weak (or even absent) when the options were separated spatially. Their conclusion, supported by a modeling analysis, was that people tend to compare pairs of options which are spatially closer to one another more often than pairs further away from one another. This result may seem obvious, but previous researchers have largely ignored the order of options in choice, generally collapsing over stimulus order in all analyses.
 
 \textcite{evansImpactPresentationOrder2021} found a similar result in perceptual choice, though in their experiment the options were separated both spatially and temporally. In their experiment, participants saw three rectangles, presented sequentially, and selected the largest rectangle after all stimuli were presented. They found that orders in which the target and decoy were presented in the latter two positions elicited an attraction effect, whereas orders in which the competitor and decoy were presented in the latter two positions tended to elicit a repulsion effect. They interpreted their results as evidence that the comparison process can be altered through spatial and temporal properties of the stimuli.
 
 Another interpretation of their results, and those of \textcite{trueblood2022attentional}, is that by altering the location and timing of the stimuli, the researchers are also altering the comparability. In the perceptual model of Chapter 2, increased comparability is represented by an increase in perceptual correlation. As shown previously, this perceptual correlation can create a repulsion effect by allowing the decoy to more easily "steal" choice shares from the target.
 
-The experiments of \textcite{evansImpactPresentationOrder2021} and \textcite{trueblood2015fragile} are interesting and have to much to tell us about the role of comparability in decision-making. However, I wished to isolate the effect of comparability from context effects. To do so, I conducted an experiment where participants saw three rectangles at a time and selected the largest one. On critical trials, two of these rectangles were equally large but oriented differently (i.e., \textit{focal} rectangles, as in Experiments 1, 2, and 3). A third \textit{decoy} option was a square, and thus equally similar to either option. I designated one of the two focal options as the \textit{target} based on its proximity and comparability to the decoy. Based on the results of Chapter 2, this should increase the correlation between the comparable options and result in a \textit{decrease} in the target's choice share. These predictions are generally borne out in the data, albeit with limitations which will be adressed in future work.
+The experiments of \textcite{evansImpactPresentationOrder2021} and \textcite{trueblood2015fragile} are interesting and have to much to tell us about the role of comparability in decision-making. However, I wished to isolate the effect of comparability from context effects. To do so, I conducted a simple perceptual choice experiment where participants saw three rectangles at a time and selected the largest one. On critical trials, two of these rectangles were equally large but oriented differently (i.e., \textit{focal} rectangles, as in Experiments 1, 2, and 3). A third \textit{decoy} option was a square, and thus equally similar to either option. I designated one of the two focal options as the \textit{target} based on its proximity and comparability to the decoy. Based on the results of Chapter 2, this should increase the correlation between the comparable options and result in a \textit{decrease} in the target's choice share. These predictions are generally borne out in the data, albeit with limitations which will be adressed in future work.
 
 \section{Experiment 5}
-Experiment 5 adresses the effect of comparability in perceptual choice. To do so, I incorporated \textit{symmetrically dominated decoys}. A symmetrically dominated decoy is not only dominated by both focal options, but also equally similar to both options. Thus, the terms target and competitor, which have been used throughout this dissertation, take on a different meaning here. The target option is the option that is both adjacent to and easily comparable to the decoy.
+Experiment 5 adresses the effect of comparability in perceptual choice. To do so, I incorporated \textit{symmetrically dominated} decoys. A symmetrically dominated decoy is dominated by both focal options but is also equally similar to both options. Thus, the terms target and competitor, which have been used throughout this dissertation, take on a different meaning here. Here I define the target as the option that is both adjacent to and easily comparable to the decoy.
 
 \subsection{Methods}
 
 \subsubsection{Participants}
-$231$ undergraduate students at the University of Massachusetts Amherst participated in the lab, in exchange for course credit. $17$ participants' data were removed from all analyses becauses they failed to achieve at least $80\%$ correct on catch trials (see below), leaving final sample size of $N=214$. 
+$231$ undergraduate students at the University of Massachusetts Amherst participated in the lab, in exchange for course credit. $17$ participants' data were removed from all analyses because they failed to achieve at least $80\%$ correct on catch trials (see below), leaving final sample size of $N=214$. 
 
 \subsubsection{Stimuli}
 The stimuli were gray-scale rectangles and squares, varying systematically on height and width. 
@@ -91,7 +91,7 @@ On filler-random trials, three options were randomly generated by sampling a hei
 
 On filler-square trials, a square was randomly generated by sampling a side length from the $U(57,200)px$ distribution. Then, two non-square rectangles were generated by sampling a height and width from a the $U(57,S)px$ distribution, where $S$ is the side length for the square. This ensured that the square was always the largest option on these trials. These trials were included to ensure that participants did not learn to ignore the squares, as the critical trials rely on participants comparing the squares to the focal options. There were $40$ filler-square trials per block for each of four blocks, leading to a total of $160$ filler-square trials.
 
-On catch trials, one large option was randomly generated by randomly sampling a stimulus from the upper diagonal (see Figure~\ref{fig:comparability_stim_plot}), and two smaller options were randomly sampled from the lower diagonal. Here, one option was always much larger than the other two, allowing me to remove participants who did not perform poorly. There were $10$ catch trials per block for each of four blocks, leading to a total of $40$ catch trials.
+On catch trials, one large option was randomly generated by randomly sampling a stimulus from the upper diagonal (see Figure~\ref{fig:comparability_stim_plot}). Two smaller options were randomly sampled from the lower diagonal. There were $10$ catch trials per block for each of four blocks, leading to a total of $40$ catch trials.
 
 On each of the non-critical trials, stimulus order was randomized. Additionally, one of the four displays (all-aligned, two-aligned, none-aligned, triangle) was selected at random.
 
@@ -100,7 +100,7 @@ There were a total of $840$ trials in the experiment ($480$ critical + $160$ fil
 \subsubsection{Procedure}
 On each trial, participants saw three rectangles, labeled '1', '2', and '3'. They selected the largest rectangle by pressing the corresponding key on the keyboard. 
 
-Trials were split into four blocks, with a 15-second break in between blocks.
+Trials were split into four blocks, with a 15-second break between blocks.
 
 \subsection{Results}
 
@@ -108,11 +108,11 @@ Trials were split into four blocks, with a 15-second break in between blocks.
 In addition to removing participants who failed to meet the $80\%$ correct criterion for catch trials, I removed all trials with RTs $<100ms$ or $>10,000ms$. 
 
 \subsubsection{Catch and Filler Trials}
-Participants performed well on the non-critical trials. On average, all participants performed above chance on the catch, filler-random, and filler-square trials, including on all display types. See Figure~\ref{fig:comparability_non_crit_mean_prop_correct} for data.
+On average, all participants performed above chance on the catch, filler-random, and filler-square trials, including on all display types. See Figure~\ref{fig:comparability_non_crit_mean_prop_correct} for data.
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/comparability_non_crit_mean_prop_correct.jpeg}
-   \caption{Results from non-critical trials in Experiment 5. Rows show trial types. Bars show mean proportion correct in a given condition, with the error bars showing $\pm1\text{SE}$. Dots show individual participant proportion correct.}
+   \caption{Results from non-critical trials in Experiment 5. Rows show trial types. Bars show mean proportion correct in a given condition, with the error bars showing $\pm1\text{SE}$. Dots show individual participant data.}
    \label{fig:comparability_non_crit_mean_prop_correct}
 \end{figure}
 
@@ -122,7 +122,7 @@ The goal of the critical trial analysis was to determine the rate at which parti
 
 Next, I considered the order of options on screen. There were six possible orderings: $DHW$, $DWH$, $HDW$, $HWD$, $WDH$, and $WHD$. I re-classified the ordering into a variable I will call alignment. Because the two-aligned condition is the critical one, I labeled the alignment variable based on the alignment (or comparability) in the two-aligned condition. If the ordering is $DHW$ or $HDW$, the alignment is "$H$ aligned with $D$". If the ordering is $WDH$ or $DWH$, the alignment is "$D$ aligned with $W$". I removed the $WHD$ and $HWD$ trials from further analysis.
 
-I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on alignment, which are shown in Figure~\ref{fig:comparability_crit_mean_choices}. The data show that, in the two-aligned condition, participants were less likely to choose the $W$ option when it was aligned with $D$ than when $H$ was aligned with $D$. This effect appears to occur in the none-aligned and all-aligned conditions, which suggests a position bias. I address this concern in the inferential statistics.
+I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on alignment, which are shown in Figure~\ref{fig:comparability_crit_mean_choices}. The data show that, in the two-aligned condition, participants were less likely to choose the $W$ option when it was aligned with $D$ than when $H$ was aligned with $D$. This effect also appears to occur in the none-aligned and all-aligned conditions, which suggests a position bias. 
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg}
@@ -130,7 +130,6 @@ I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on 
    \label{fig:comparability_crit_mean_choices}
 \end{figure}
 
- I next removed all trials in which participants chose the decoy.
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/comparability_crit_target_choice_by_config.jpeg}
@@ -138,13 +137,13 @@ I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on 
    \label{fig:comparability_crit_mean_target_choices}
 \end{figure}
 
-I refer to the option aligned with the decoy as the \textit{target}. I next computed mean target choice proportions by configuration, results which are plotted in Figure~\ref{fig:comparability_crit_mean_target_choices}.
+Next, I removed all trials in which participants chose the decoy. I refer to the option aligned with the decoy as the \textit{target}. I next computed mean target choice proportions by configuration, results which are plotted in Figure~\ref{fig:comparability_crit_mean_target_choices}.
 
 On average, participants select the target option on less than $1/2$ of trials (conditional on not having selected the decoy). This again may suggest a position bias. However, crucially, they select the target less when it is aligned with the decoy in the two-aligned condition than when it is adjacent to the decoy in the none-aligned condition. See the Appendix for inferential statistics which support these conclusions.
 
 \section{Discussion}
 
-In Experiment 5, I showed that comparability can affect choice, in a form similar to the repulsion effect. Given two equally viable, but dissimilar options, when one of these options (i.e., the target) is more easily comparable to a symmetrically dominated decoy option, participants choices are "repulsed" away from the target option and towards the competitor option. This effect is small but nonetheless present even after accounting for participant effects and position biases.
+In Experiment 5, I showed that comparability can affect choice, in a form similar to the repulsion effect. Given two equally viable, but dissimilar options, when one of these options (i.e., the target) is more easily comparable to a symmetrically dominated decoy option, participants choices are "repulsed" away from the target option and towards the competitor option. This effect is small but nonetheless present even after accounting for participant effects and a position bias.
 
 This result aligns with the predictions from the Thurstonian perceptual choice model from Chapter 2. Increasing the comparability of a focal option and a decoy option increases the perceptual correlations between the two, which in turn decreases the choice share of the comparable \textit{target}, for the benefit of the non-comparable competitor option. This result is also similar to previous results presented by \textcite{trueblood2022attentional} and \textcite{evansImpactPresentationOrder2021}, who also manipulated the arrangement of options on screen in perceptual choice.
 

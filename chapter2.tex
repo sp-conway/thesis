@@ -1,15 +1,15 @@
 \section{Introduction}
-As discussed in Chapter 1, the attraction effect is a well-studied choice phenomenon where an asymmetrically dominated decoy option increases the choice share of a similar, but superior, target option \parencite{huberAddingAsymmetricallyDominated1982d}. The attraction effect is an example of a context effect, where choice for an option varies systematically with choice set.
+As discussed in Chapter 1, the attraction effect is a well-studied choice phenomenon where an asymmetrically dominated decoy option increases the choice share of a similar, but superior, target option \parencite{huberAddingAsymmetricallyDominated1982d}. The attraction effect is an example of a context effect, where the relative choice share of an option varies systematically with the choice set.
 
 Though context effects originally were originally demonstrated in preferential choice, recent work has generalized these results to simple, perceptual choice. This result has important theoretical and practical implications for decision-making research. I introduce and review this research below.
 
 \subsection{Introducing the Attraction Effect}
 
-To begin, I formally define the \textit{attraction effect}. See Figure~\ref{fig:fig_opts} (left panel), which shows a graphical configuration of various choice options. These options vary on two dimensions (or attributes), where higher values of an attribute are always preferred. I intentionally give these dimensions generic names to emphasize the generality of the attraction effect.
+First, the attraction effect is formally defined. See Figure~\ref{fig:fig_opts} (left panel), which shows a graphical configuration of various choice options. These options vary on two dimensions (or attributes), where higher values of an attribute are always preferred. These dimensions are named generically to emphasize the generality of the attraction effect.
 
 Let $A$, $B$, $D_{A}$, and $D_{B}$ be discrete choice options, $[]$ denote the options in a choice set, and $P(A|[A,B])$ denote the probability of choosing option $A$ from a set consisting of $A$ and $B$, for example. 
 
-In Figure~\ref{fig:fig_opts} (left panel), options $A$ and $B$ trade off on attributes. $A$ is high on dimension 2 but low on dimension 1, while $B$ is high on dimension 1 but low on dimension 2. A decision-maker who assigns equal importance to both dimensions should be indifferent between both options when presented with choice set $[A,B]$. Now, however, consider option $D_{A}$, which is inferior to $A$ and $B$, but more similar to $A$ than to $B$. Similarly, $D_{B}$ is inferior to both $A$ and $B$ but more similar to $B$. The attraction effect is the finding that choice for $A$ over $B$ is greater given set ${A,B,D_{A}}$ then given set $A,B,D_{B}$\footnote{This is the weak version of the attraction effect. A strong version requires the ordering of P(A) and P(B) to change with choice set. See \textcite{davis2023illustrated} for a discussion of similar issues.}. 
+In Figure~\ref{fig:fig_opts} (left panel), options $A$ and $B$ trade off on attributes. $A$ is high on dimension 2 but low on dimension 1, while $B$ is high on dimension 1 but low on dimension 2. A decision-maker who assigns equal importance to both dimensions should be indifferent between both options when presented with choice set $[A,B]$. Now, however, consider option $D_{A}$, which is inferior to $A$ and $B$, but more similar to $A$ than to $B$. This \textit{decoy} option is dominated by $A$, so no rational agent who perceives this dominance relationship should intentionally select the decoy over the target.. Similarly, $D_{B}$ is inferior to both $A$ and $B$ but more similar to $B$. The attraction effect is the finding that choice for $A$ over $B$ is greater given set ${A,B,D_{A}}$ then given set $A,B,D_{B}$\footnote{This is the weak version of the attraction effect. A strong version requires the ordering of P(A) and P(B) to change with choice set. See \textcite{davis2023illustrated} for a discussion of similar issues.}\parencite{huberAddingAsymmetricallyDominated1982d}. 
 
 Choice models often, though not necessarily, assume the \textit{Independence of Irrelevant Alternatives}(IIA) principle. IIA states that the relative likelihood of choosing a particular option over another is invariant of the choice set \parencite{ray1973independence}. 
 
@@ -22,61 +22,68 @@ Choice models often, though not necessarily, assume the \textit{Independence of 
 According to IIA:
 
 \begin{equation}
-  \frac{P(A|[A,B,D_{A}])}{P(B|[A,B,D_{A}]}=\frac{P(A|[A,B,D_{B}])}{P(B|[A,B,D_{B}]}
+  \frac{P(A|[A,B,D_{A}])}{P(B|[A,B,D_{A}])}=\frac{P(A|[A,B,D_{B}])}{P(B|[A,B,D_{B}])}
   \label{eqn:iia}
 \end{equation}
 
 However, in the attraction effect, this equality is violated:
 
 \begin{equation}
-  \frac{P(A|[A,B,D_{A}])}{P(B|[A,B,D_{A}]}>\frac{P(A|[A,B,D_{B}])}{P(B|[A,B,D_{B}]}
+  \frac{P(A|[A,B,D_{A}])}{P(B|[A,B,D_{A}])}>\frac{P(A|[A,B,D_{B}])}{P(B|[A,B,D_{B}])}
   \label{eqn:iia_att}
 \end{equation}
 
 Thus, IIA is violated by the attraction effect.
 % \footnote{IIA is also violated by the repulsion effect, with the $>$ in Equation~\ref{eqn:iia_att} becoming a $<$.}.
 
-In the context effects literature, it is common to refer to the similar, dominated option as the \textit{decoy}, the similar dominating option as the \textit{target}, and the dissimilar dominating option as the \textit{competitor}. For example, in the choice set $[A,B,D_{A}]$, $A$ is the target, $B$ is the competitor, and $D_{A}$ is the decoy. I adopt this terminology through this dissertation. 
+In the context effects literature, it is common to refer to the similar, dominated option as the \textit{decoy}, the similar dominating option as the \textit{target}, and the dissimilar dominating option as the \textit{competitor}. For example, in the choice set $[A,B,D_{A}]$, $A$ is the target, $B$ is the competitor, and $D_{A}$ is the decoy.
 
-The decoy is dominated by the target, so no rational agent who perceives this dominance relationship should intentionally select the decoy over the target.
-
-The attraction effect was first demonstrated by \textcite{huberAddingAsymmetricallyDominated1982d} \footnote{These authors referred to this finding as the asymmetric dominance effect. To stay consistent with contemporary research, I use the term attraction effect throughout this dissertation.}, who tested participants with duples and triples of choice options, using products such as cars, beers, and TV sets. The authors showed that the introduction of an asymmetrically dominated decoy tended to increase the choice share of a similar, target option. These results violate IIA but also a principle known as regularity, which states that the introduction of another option to a choice set cannot increase the probability of choosing any given option:
+The attraction effect was first demonstrated by \textcite{huberAddingAsymmetricallyDominated1982d}\footnote{These authors referred to this finding as the asymmetric dominance effect. Contemporary researchers have adopted the term attraction effect.}, who tested participants with duples and triples of choice options, using products such as cars, beers, and TV sets. The authors showed that the introduction of an asymmetrically dominated decoy tended to increase the choice share of a similar, target option. These results violate IIA but also a principle known as regularity, which states that the introduction of another option to a choice set cannot increase the probability of choosing any given option. Put in the above context, regularity implies that:
 
 \begin{equation}
   P(A|[A,B])\geq P(A|[A,B,D_{A}])
   \label{eqn:reg_att}
 \end{equation}
 
-\textcite{huberAddingAsymmetricallyDominated1982d}'s finding that $P(A|[A,B])\leq P(A|A,B,D_{A})$ therefore violates regularity. \textcite{huber1983market} replicated these results and also showed that if the decoy has a relatively high value, it can actually take choice shares away from the target. This result suggests that the relative positioning of the decoy to the target can greatly affect patterns of choice, a finding explored by numerous other researchers which has strong theoretical consequences.
+\textcite{huberAddingAsymmetricallyDominated1982d}'s finding that $P(A|[A,B,D_{A}]) > P(A|[A,B])$ therefore violates regularity. \textcite{huber1983market} replicated these results and also showed that if the decoy has a relatively high value, it can actually take choice shares away from the target. This result suggests that the relative positioning of the decoy to the target can greatly affect patterns of choice, a finding explored by numerous other researchers which has strong theoretical consequences.
 
-Numerous researchers have since demonstrated the attraction effect in preferential choice, including in real-world scenarios. \textcite{doyleRobustnessAsymmetricallyDominated1999} found an attraction effect in real world supermarket choices by adding a decoy option to an existing product set, where the decoy option was the same brand and price as the target, but of a lower volume. \textcite{van2021attract} showed that the attraction effect can be used to induce people to choose healthier food items. \textcite{slaughterDecoyEffectsAttributelevel1999b} showed that the attraction effect can be found even without the explicit attribute descriptions commonly used in laboratory experiments, when participants must infer option attributes. Researchers have demonstrated other context effects, such as the similarity effect, where a similar but equally valuable decoy \textit{decreases} the choice share of a target option \parencite{tverskyEliminationAspectsTheory1972}, and the compromise effect, where an intermediate option decreases the choice share of two relatively extreme options \parencite{simonsonChoiceBasedReasons1989b}. 
+Numerous researchers have since demonstrated the attraction effect in preferential choice, including in real-world scenarios. \textcite{doyleRobustnessAsymmetricallyDominated1999} found an attraction effect in real world supermarket choices by adding a decoy option to an existing product set, where the decoy option was the same brand and price as the target, but of a lower volume. \textcite{van2021attract} showed that the attraction effect can be used to induce people to choose healthier food items. \textcite{slaughterDecoyEffectsAttributelevel1999b} showed that the attraction effect can be found even without the explicit attribute descriptions commonly used in laboratory experiments, when participants must infer option attributes. 
 
-Context effects have strong theoretical implications. Traditional models of choice, as used in economics and marketing research \parencite{mcfadden2001economic}, treat the \textit{utility}, or value, of each option as a random variable whose parameters are estimated from choice data. According to these models, on each trial of a choice experiment the participant samples values from these distributions and deterministically chooses the option with the highest sampled value. These models are known as \textit{Random Utility Models} (RUMs). When utilities are assumed to follow a Type 1 Generalized Extreme Value distribution, the logit or softmax model is used \parencite{gensch1979multinomial}. As will be the focus of much of this dissertation, the probit model assumes Gaussian distributed utilities \parencite{bolduc1999practical}. Often (though not necessarily) RUMs assume IIA (c.f,. \textcite{paetzUtilityIndependenceIIA2018}), though this assumption can be relaxed by estimating choice set or alternative specific coefficients \parencite{rooderkerk2011incorporating} or allowing correlations between options and/or attributes \parencite{haaijer1998utility}. If IIA is assumed, RUMs are unable to account for context effects \parencite{berkowitschRigorouslyTestingMultialternative2014b}. 
+% Researchers have demonstrated other context effects, such as the similarity effect, where a similar but equally valuable decoy \textit{decreases} the choice share of a target option \parencite{tverskyEliminationAspectsTheory1972}, and the compromise effect, where an intermediate option decreases the choice share of two relatively extreme options \parencite{simonsonChoiceBasedReasons1989b}. 
+
+Context effects have strong theoretical implications. Traditional models of choice, as used in economics and marketing research \parencite{mcfadden2001economic}, treat the \textit{utility}, or value, of each option as a random variable whose parameters are estimated from choice data. According to these models, on each trial of a decision-making experiment, the participant samples option values from these distributions and deterministically chooses the option with the highest sampled value. These models are known as \textit{Random Utility Models} (RUMs). When utilities are assumed to follow a Type 1 Generalized Extreme Value distribution, the logit or softmax model is used \parencite{gensch1979multinomial}. The probit model, another popular model, assumes Gaussian distributed utilities \parencite{bolduc1999practical}. Typically, though not necessarily, these models assume independently distributed errors, which typically implies IIA. Typically, these models are used to estimate the inherently unobservable utility values for each option. 
+
+RUMs often have difficulty accounting for context effects. For example, \textcite{berkowitschRigorouslyTestingMultialternative2014b} tested the independent logit and independent probit models against \textcite{roeMultialternativeDecisionField2001a}'s Multialternative Decision Field Theory (MDFT), a cognitive process model of decision-making. According to MDFT, choice is the end result of a stochastic evidence accumulation process, where preferences for each option in a choice set accumulate value through a series of comparisons on each dimension. In \textcite{berkowitschRigorouslyTestingMultialternative2014b}'s experiment participants chose between digital cameras from choice sets designed to elicit context effects. \textcite{berkowitschRigorouslyTestingMultialternative2014b} found that MDFT, but not the logit or probit models, could account for the attraction effect (and other related context effects). Furthermore, according to model comparison measures, the majority of participants were best described by MDFT. Participants whose data were best described by MDFT were also more likely to exhibit context effects. Independent RUMs, such as the logit and probit model, assume each option's utility is independently sampled, so these models cannot account for context effects.
+
+Often, though not necessarily, RUMs assume IIA. This assumption can be relaxed, however. \textcite{paetzUtilityIndependenceIIA2018} showed, via simulations, that the probit model can violate IIA by allowing non-zero off-diagonal elements in the variance-covariance matrix. IIA can also be relaxed by estimating choice set or alternative specific coefficients \parencite{rooderkerk2011incorporating} or allowing correlations between options and/or attributes \parencite{haaijer1998utility}. Without such modifications, RUMs are unable to account for context effects. 
 
 In cognitive psychology, researchers have developed process models that attempt to explain the mental processes that lead to context effects \parencite{trueblood2014multiattribute,roeMultialternativeDecisionField2001a,busemeyerCognitiveNeuralBases2019, usherLossAversionInhibition2004a,bhatiaAssociationsAccumulationPreference2013b,noguchiMultialternativeDecisionSampling2018a,wollschlager2NaryChoiceTree2012a,bergnerVAMPVotingAgent2019b,tverskyEliminationAspectsTheory1972,tversky1993context}. These models differ, to varying degrees, in their explanations for the attraction effect. Many, however, rely on comparisons between the target and the similar, but inferior, decoy, which boost an internal  preference state for the target. \textcite{roeMultialternativeDecisionField2001a}'s Multialternative Decision Field Theory (MDFT) model proposes that the similarity between target and decoy causes frequent target-decoy comparisons, and through lateral inhibition, the negative valence for the decoy causes a boost to the preference state of the target at the expense of the competitor. \textcite{trueblood2014multiattribute}'s Multiattribute Linear Ballistic Accumulator (MLBA) model proposes that pairwise attention weights, which are a function of the similarity between options, increase the importance of target-decoy comparisons and thus boost preference for the target. 
 
-This chapter does not explore the predictive success of these models, nor does it incorporate model fitting to compare these models. Indeed, other researchers have performed such analyses \parencite{turnerCompetingTheoriesMultialternative2018a,cataldoModelingPreferenceReversals2021,tsetsosPreferenceReversalMultiattribute2010a, molloyWhatResponseTime2019a,berkowitschRigorouslyTestingMultialternative2014b,hotalingTheoreticalDevelopmentsDecision2010,cohen2017multi}, arriving at varying conclusions. 
+This chapter does not explore the predictive success of these models, nor does it incorporate model fitting to compare these models. The goal of this chapter is to test the mechanisms that produce the attraction and repulsion effect in perceptual choice.
+
+% Indeed, other researchers have performed such analyses \parencite{turnerCompetingTheoriesMultialternative2018a,cataldoModelingPreferenceReversals2021,tsetsosPreferenceReversalMultiattribute2010a, molloyWhatResponseTime2019a,berkowitschRigorouslyTestingMultialternative2014b,hotalingTheoreticalDevelopmentsDecision2010,cohen2017multi}, arriving at varying conclusions. 
 
 The attraction effect is not solely limited to consumer choice. Researchers have also demonstrated the attraction effect in risky choice \parencite{mohr2017attraction}, policy choice \parencite{herneDecoyAlternativesPolicy1997b}, intertemporal choice \parencite{mariniAttractionComesMany2020}, probability judgment \parencite{caiWhenAlternativeHypotheses2023}, medical decision-making \parencite{schwartz1999more}, episodic memory judgment \parencite{maylorSimilarityAttractionEffects2007b}, charitable donation \parencite{pittarello2020three},  inference \parencite{truebloodMultialternativeContextEffects2012}, job candidate selection \parencite{highhouseContextDependentSelectionEffects1996}, political choice \parencite{pan1995attractiovoting}, sports prediction \parencite{fang2024context}, and, as will be the focus of much of this dissertation, perceptual choice \parencite{evansImpactPresentationOrder2021,trueblood2013not, trueblood2015fragile, spektorRepulsionEffectPreferential2022,spektorWhenGoodLooks2018b,yearsleyContextEffectsSimilarity2022,turnerCompetingTheoriesMultialternative2018a,liaoInfluenceDistanceDecoy2021}. 
 
 
 \subsection{From Preferential to Perceptual Choice}
 
-\textcite{choplinComparisoninducedDecoyEffects2005b} and \textcite{yearsleyContextEffectsSimilarity2022} demonstrated the attraction effects in perceptual similarity judgments. In these experiments, participants saw various perceptual stimuli (i.e., ovals, swirled lines, vertical lines) and chose the option most similar to a reference option. The researchers showed that participants were more likely to choose the option paired with a similar (but less similar to the reference stimulus) decoy option.
+\textcite{choplinComparisoninducedDecoyEffects2005b} and \textcite{yearsleyContextEffectsSimilarity2022} first demonstrated the attraction effects in perceptual choice. In these experiments, participants saw various perceptual stimuli (i.e., ovals, swirled lines, vertical lines) and chose the option most similar to a reference option. The researchers showed that participants were more likely to choose the option paired with a similar (but less similar to the reference stimulus) decoy option.
 
-\textcite{trueblood2013not} demonstrated the attraction effect in perceptual choice. In their experiments, participants saw three rectangles on each trial, arranged in a horizontal array, and selected the option they perceived to have the largest area. For an example stimulus set, see Figure~\ref{fig:fig_opts} (right panel). Note that options $A$ and $B$ have equal area but trade off in height and width. The decoy options ($D_{A}$ and $D_{B}$, respectively) are smaller in area but are more similar to their respective targets than to their respective competitor. In \textcite{trueblood2013not}'s experiments, participants chose the target option more than the competitor option, on average. \footnote{\textcite{trueblood2013not} also demonstrated the similarity and compromise effects.}. 
+\textcite{trueblood2013not} also demonstrated the attraction effect in perceptual choice. In their experiments, participants saw three rectangles on each trial, arranged in a horizontal array, and selected the option they perceived to have the largest area. For an example stimulus set, see Figure~\ref{fig:fig_opts} (right panel). Note that options $A$ and $B$ have equal area but trade off in height and width. The decoy options ($D_{A}$ and $D_{B}$, respectively) are smaller in area but are more similar to their respective targets than to their respective competitor. In \textcite{trueblood2013not}'s experiments, participants chose the target option more than the competitor option, on average. 
+% \footnote{\textcite{trueblood2013not} also demonstrated the similarity and compromise effects.}. 
 
-Notably, the title of \textcite{trueblood2013not}'s paper was "Not Just for Consumers: Context Effects Are Fundamental to Decision Making", and in their General Discussion, \textcite{trueblood2013not} argued "our experiments suggest that these context effects are a general feature of human choice behavior because they are a fundamental part of decision-making processes. As such, our results challenge explanations of these effects exclusively in terms that are unique to high-level decision making and thus call for a common theoretical explanation that applies across paradigms." (p. 907). According to \textcite{trueblood2013not}, context effects are not idiosyncratic to high-level decision-making but are a fundamental feature of choice. \textcite{trueblood2013not} also used these perceptual results to argue against the context-dependent advantage (CDA) model \parencite{tversky1993context} as well as the Leaky Competing Accumulators (LCA) model \parencite{usherLossAversionInhibition2004a}, as these models use loss aversion  - the idea that an option's disadvantages on an attribute are weighted more strongly than its advantages on other attributes - to account for context effects. \textcite{truebloodMultialternativeContextEffects2012} demonstrated context effects in an inference task and argued similarly against loss aversion.
+Notably, the title of \textcite{trueblood2013not}'s paper was "Not Just for Consumers: Context Effects Are Fundamental to Decision Making", and in their General Discussion, \textcite{trueblood2013not} argued"our experiments suggest that these context effects are a general feature of human choice behavior because they are a fundamental part of decision-making processes. As such, our results challenge explanations of these effects exclusively in terms that are unique to high-level decision making and thus call for a common theoretical explanation that applies across paradigms." (p. 907). According to \textcite{trueblood2013not}, context effects are not idiosyncratic to high-level decision-making but are a fundamental feature of choice. \textcite{trueblood2013not} also used these perceptual results to argue against the context-dependent advantage (CDA) model \parencite{tversky1993context} as well as the Leaky Competing Accumulators (LCA) model \parencite{usherLossAversionInhibition2004a}, as these models use loss aversion  - the idea that an option's disadvantages on an attribute are weighted more strongly than its advantages on other attributes - to account for context effects. \textcite{truebloodMultialternativeContextEffects2012} demonstrated context effects in an inference task and argued similarly against loss aversion.
 
 \textcite{frederickLimitsAttraction2014b} failed to replicate \textcite{trueblood2013not}'s finding of the attraction effect in perceptual choice. \textcite{frederickLimitsAttraction2014b} collected data online, which may have resulted in less precision than a laboratory task, potentially leading to the null finding.
 
-\textcite{turnerCompetingTheoriesMultialternative2018a} replicated \textcite{trueblood2013not}'s results and performed a large scale modeling analysis, comparing the ability of various model mechanisms to account for context effects. For example, \textcite{turnerCompetingTheoriesMultialternative2018a} concluded that pairwise comparisons on individual attributes greatly improves models' ability to account for context effects. This may not be appropriate, however, given a perceptual domain where dimensions may not be separable \parencite{ashbyVarietiesPerceptualIndependence1986a}. 
+\textcite{turnerCompetingTheoriesMultialternative2018a} replicated \textcite{trueblood2013not}'s results and performed a large scale modeling analysis, comparing the ability of various model mechanisms to account for context effects. For example, \textcite{turnerCompetingTheoriesMultialternative2018a} concluded that pairwise comparisons on individual attributes greatly improves models' ability to account for context effects. This may not be appropriate, however, given a perceptual domain where dimensions may not be separabel. Specifically, in a consumer choice experiment, participants may very well compare options on a single dimension at a time, e.g. comparing cars on their fuel efficiency. However, in a perceptual choice task, it is unlikely that participants are able to separately compare rectangles on the height dimension and on the width dimension and then arrive at an overall judgment. Rather, it is more plausible that participants compare these stimuli holistically.
 
 \textcite{spektorWhenGoodLooks2018b} followed up on this work and demonstrated the \textit{repulsion effect} in a similar perceptual choice experiment. In the repulsion effect, the competitor's choice share is higher than the target's choice share. In \textcite{spektorWhenGoodLooks2018b}'s experiments, the target and competitor options varied in area, such that one option was always larger, though on average they were the same size. The researchers also varied the \textit{target-decoy attribute distance} (TDD), the percentage difference between the target and decoy areas. For example, if TDD is $2\%$, the decoy is $2\%$ smaller than the target. 
 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/spektor_stim.png}
-   \caption{Stimulus configuration and example trials from \textcite{spektorWhenGoodLooks2018b}, Experiments 3 and 4a. Note that the stimulus in the righthand plot were not shown in the experiment; these are solely for the benefit of the reader.}
+   \caption{Stimulus configuration and example trials from \textcite{spektorWhenGoodLooks2018b}, Experiments 3 and 4a. Decoy subscripts indicate TDD. Note that the stimulus in the righthand plot were not shown in the experiment; these are solely for the benefit of the reader.}
    \label{fig:spektor_stim}
 \end{figure}
 
@@ -84,7 +91,7 @@ Notably, the title of \textcite{trueblood2013not}'s paper was "Not Just for Cons
 
 \textcite{spektorWhenGoodLooks2018b}'s Experiment 4a, however, used the horizontal diplay of \textcite{trueblood2013not} (see Figure~\ref{fig:spektor_stim}, Experiment 4a). Here, they varied TDD at $5\%$, $9\%$, and $14\%$. In Experiment 4a, the data show a slight repulsion effect at low TDD levels that eventually becomes an attraction effect at high TDD levels. 
 
-\textcite{truebloodPhantomDecoyEffect2017c} demonstrated a "phantom decoy" effect in perceptual choice. Phantom decoys are options that are similar to the target, but also superior in value, and are presented but made unavailable at the time of choice. They showed that participants chose the target less than the competitor, i.e., a repulsion effect, a result at odds with phantom decoy effects in preferential choice \parencite{pratkanisBriefHistoryResearch1992b,pettiboneExaminingModelsNondominated2000}. 
+\textcite{truebloodPhantomDecoyEffect2017c} demonstrated a "phantom decoy" effect in perceptual choice. Phantom decoys are options that are similar to the target, but also superior in value, and are initially presented but made unavailable at the time of choice. They showed that participants chose the target less than the competitor, a result at odds with phantom decoy effects in preferential choice \parencite{pratkanisBriefHistoryResearch1992b,pettiboneExaminingModelsNondominated2000}. 
 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/spektor_data_collapsed.jpeg}
@@ -92,39 +99,117 @@ Notably, the title of \textcite{trueblood2013not}'s paper was "Not Just for Cons
    \label{fig:spektor_data} % might consider graphing (or at least writing RSTs) here
 \end{figure}
 
-\textcite{liaoInfluenceDistanceDecoy2021} also replicated the general pattern of \textcite{spektorWhenGoodLooks2018b}'s results and also found a an inverse U-shaped relationship between TDD and the \textit{Relative Share of the Target} RST\footnote{$RST=\frac{P(T|[T,C,D])}{P(T|[T,C,D])+P(C|[T,C,D])}$. $RST>.5$ indicates an attraction effect, while $RST<.5$ indicates a repulsion effect.}. Low and high TDD values created a repulsion effect, while intermediate TDD values created an attraction effect. 
+\textcite{liaoInfluenceDistanceDecoy2021} also replicated the general pattern of \textcite{spektorWhenGoodLooks2018b}'s results and also found a an inverse U-shaped relationship between TDD and the attraction effect. Low and high TDD values created a repulsion effect, while intermediate TDD values created an attraction effect. 
 
 \textcite{spektorRepulsionEffectPreferential2022} demonstrated the repulsion effect in both preferential and perceptual choice, using similar stimuli and a similar display configuration to \textcite{spektorWhenGoodLooks2018b} and \textcite{liaoInfluenceDistanceDecoy2021}. Here, the stimuli were squares containing two bars filled to varying degrees with color. In perceptual choice, participants were to select the stimulus with the largest cumulative filled area. In the preferential choice scenario, participants were told that each filled bar represented one possible outcome of a 50-50 gamble, and they were to select the gamble with the highest expected value. Their results were similar to those of \textcite{spektorWhenGoodLooks2018b}, however, where both target and competitor choices increased with TDD.
 
-Researchers are clearly using perceptual experiments to demonstrate context effects and test theories of choice. These results are clearly informative and theoretically interesting. I argue, however, that researchers should be cautious in assuming that decision-makers receive perceptual input with the same accuracy that they do in preferential choice experiments. Researchers should seek to separate the role of perceptual discriminability from decisional processes when understanding participants' responses. I elaborate on these ideas below and in Chapter 2, with a demonstration using the results of \textcite{spektorWhenGoodLooks2018b}.
+Researchers are clearly using perceptual experiments to demonstrate context effects and test theories of choice. These results are clearly informative and theoretically interesting. However, there are distinct differences between these perceptual choice experiments and the preferential choice experiments in which the attraction effect was originally demonstrated. In preferential choice tasks, participants are typically shown a set of options (e.g., laptops, apartments, washing machines), along with the attribute values associated with each option (e.g., 10 GB RAM, 1500 square feet, 2.7 cubic feet capacity). These attributes are typically represented numerically \parencite{hayes2024attribute,banerjeeFactorsThatPromote2024} or with easily discriminable graphical representations \parencite{cataldoComparisonProcessAccount2019b}. The decoy option, therefore, is rarely selected (e.g., $<5\%$ of all trials in many studies), and these selections are assumed to be the result of inattention or accidental responses. Though participants' preferences may be noisy, researchers can generally assume that participants are able to detect the dominance relationship between target and decoy. Perceptual choice tasks, on the other hand, complicate participants' ability to detect this dominance relationship.
 
-\subsection{Understanding Perceptual Choice Experiments}
+In \textcite{spektorWhenGoodLooks2018b}'s experiments, the decoy is selected as often as $25\%$ of all trials in some conditions (see Figure~\ref{fig:spektor_data}), far more often than is common in preferential context effect xperiments. The decoy is also selected less often in experiment 4a (triangle display) than in experiment 3 (horizontal display). Decoy selections also decrease as TDD increases. Finally, though both target and competitor increase in choice share as TDD increases, the target choice share increases at a higher rate than does the competitor, suggesting a strong trade-off between target and decoy choices; stronger, indeed, than the competitor-decoy trade-off. That is, the mean \textit{Relative Choice Share of the Target}, or RST \parencite{berkowitschRigorouslyTestingMultialternative2014b} increases with TDD in both experiments. 
 
-Crucially, many researchers who study context effects in perceptual choice assume that the perceptual difficulty of the experimental task does not impact conclusions. Researchers often assume that the chocie data in perceptual choice experiments can be analyzed identically to that of preferential choice experiments. In these experiments participants often fail to perceive that the decoy is the smallest stimulus in the choice set. Researchers tend to assume that, to the extent that the dominance relationship is misperceived, the decoy is equally likely to be seen as larger than the target than larger than the competitor. 
+\textcite{spektorWhenGoodLooks2018b} found that a relatively small change in stimulus display (arranging stimuli in a triangle rather than a horizontal line) reverses the attraction effect. Why is it that a relatively subtle change in stimulus display led to a qualitative shift in the data? To answer this question, it is worth considering the differences between \textcite{spektorWhenGoodLooks2018b}'s data and previous context effect experiments. 
 
-One plausible account of \textcite{spektorWhenGoodLooks2018b}'s data is that participants occasionally misperceive the dominance relationship, and due to the difficulty of the task and the similarity of target and decoy, they are more likely to choose the decoy over the target than over the competitor. Such a process creates an \textit{empirical} repulsion effect but is qualitatively different than a reversal of the traditional attraction effect. \textcite{spektorWhenGoodLooks2018b} dismiss such an account because the target is chosen more often the decoy; however, this fact does not rule out the above explanation of the data.
+Clearly, perceptual discriminability plays a role in \textcite{spektorWhenGoodLooks2018b}'s results. Participants clearly are better able to discriminate the target and competitor from the decoy as TDD increases. Any reasonable account of these data should parse value discriminability from genuine context effects.
 
-One goal of this dissertation is to separate the role of perceptual and decisonal processes in context effects. To do so, I begin with an extreme stance - that such experiments are solely perceptual experiments rather than decision-making experiments and that no high level decision processes are occurring. This extreme assumption is quite likely incorrect, but it may be helpful in understanding existing data.
+Below results from a two-alternative forced-choice experiment show that these stimuli are easily confusable and that the triangle display of \textcite{spektorWhenGoodLooks2018b} decreases discriminability relative to the horizontal display. 
 
-\textcite{spektorWhenGoodLooks2018b} found that a relatively small change in stimulus display (arranging stimuli in a triangle rather than a horizontal line) reverses the attraction effect. Why is it that a relatively subtle change in stimulus display led to a qualitative shift in the data? To answer this question, I highlight the differences between \textcite{spektorWhenGoodLooks2018b}'s data and previous context effect experiments. 
+\section{Experiment 1}
 
-In preferential choice tasks, participants are given a set of options on each trial (e.g., laptops, apartments, washing machines), along with the attribute values associated with each option (e.g., 10 GB RAM, 1500 square feet, 2.7 cubic feet capacity). These attributes are typically represented numerically \parencite{hayes2024attribute,banerjeeFactorsThatPromote2024} or with easily discriminable graphical representations \parencite{cataldoComparisonProcessAccount2019b}. The decoy option, therefore, is rarely selected (e.g., $<5\%$ of all trials in many studies), and these selections are assumed to be the result of inattention or accidental responses. Researchers can reliably assume that participants are able to detect the dominance relationship between target and decoy. Perceptual choice tasks complicate participants' ability to detect this dominance relationship. 
+The goal of Experiment 1 was to test participants' ability to discriminate between rectangles in the perceptual choice tasks of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b}. 
+On each trial, participants saw three options (target, competitor, and decoy). After a short delay, two of the rectangles were highlighted and participants chose which of the two rectangles was larger. 
+This experiment also included a within-participants manipulation to compare discriminability in both the triangle display of \textcite{spektorWhenGoodLooks2018b}, Experiment 3, and the horizontal display of \textcite{spektorWhenGoodLooks2018b} Experiment 4a and \textcite{trueblood2013not}. Otherwise, with a few exceptions discussed below, the experiment followed the stimulus construction and experimental design of \textcite{spektorWhenGoodLooks2018b}, Experiments 3 and 4a. 
 
-In \textcite{spektorWhenGoodLooks2018b}'s experiments, the decoy is selected as often as $25\%$ of all trials in some conditions. The decoy is also selected less often in experiment 4a (triangle display) than in experiment 3 (horizontal display). Decoy selections also decrease as TDD increases. Finally, though both target and competitor increase in choice share as TDD increases, the target choice share increases at a higher rate than does the competitor, suggesting a strong trade-off between target and decoy choices; stronger, indeed, than the competitor-decoy trade-off. That is, the mean \textit{Relative Choice Share of the Target} (RST) \parencite{berkowitschRigorouslyTestingMultialternative2014b} increases with TDD in both experiments. 
+\subsection{Methods}
 
-Clearly, perceptual discriminability plays a role in \textcite{spektorWhenGoodLooks2018b}'s results. Participants clearly are better able to discriminate the target and competitor from the decoy as the decoy decreases in size. Any reasonable account of these data should parse the out discriminability from genuine context effects. To do so, I turn to a well-studied class of models within the psychology literature.
+\subsubsection{Participants.}
+Data collection took place at the University of Massachusetts Amherst. 86 undergraduate students participated in exchange for course credit. 1 participant who achieved less than $80\%$ accuracy on catch trials (see below) was excluded from all analyses. $1,280$ and $1,296$ trials from the triangle and horizontal conditions, respectively, with response times (RTs) $<100\text{ms}$ or  $>10000\text{ms}$ were also excluded from all analyses, leaving $18,069$ and $18,054$ trials remaining in the triangle and horizontal conditions, respectively. 
 
-\subsection{Modeling Context-Dependent Perceptual Choice}
+\subsubsection{Stimuli.}
+Stimuli were gray scale rectangles based on \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b}. 
 
-There is a large body of psychological research, beginning with the work of \textcite{thurstone1927law}, which treats the stimulus perception as a random variable. In his famous "Law of Comparative Judgment" paper, \textcite{thurstone1927law} showed that researchers can use binary choice proportions to estimate the psychological distance between stimuli, by treating perceptual intensity as a Gaussian random variable. Models of this class are often called \textit{Thurstonian}, a term I use throughout this dissertation. 
+Stimuli varied based on trial type. The experiment had two types of trials: critical trials and catch trials.
 
-Thurstone's work led to similar research using Signal Detection Theory (SDT) \parencite{hautus2021detection}, which also treats psychological constructs (e.g., memory, perception), as random variables (typically Gaussian). Ashby and colleagues' General Recognition Theory (GRT) models the perception of a single stimulus as a multivariate normal random variable, where each dimension of the model is the perceived intensity on that dimension \parencite{ashbyVarietiesPerceptualIndependence1986a,ashby1988decision, ashbyUnifiedTheorySimilarity,maddoxComparingDecisionBound1993}. In marketing and economics, researchers treat the utilities of choice options as random variables, which are often assumed to be Gaussian or Extreme Value Distributed and estimate choice models known as Random Utility Model (RUMs) \parencite{mcfadden2001economic,hausman1978conditional,train2009discrete}. Often, though not necessarily, these models share the common property that value - be it the utility of a consumer product, the perception of magnitude in a perceptual task, or memory signal in a recognition task - is stochastic while choice is deterministic  (c.f. \textcite{benjamin2009signal}).
+On each critical trial, the target and competitor had the same area\footnote{Here \textcite{spektorWhenGoodLooks2018b}'s design was simplified as both focal stimuli had the same area.} but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. TDD was varied so that the decoy was always $0\%$, $2\%$, $5\%$, $9\%$, or $14\%$ of the target area. Because the target and competitor always had the same area, this means that the decoy was also $0\%$, $2\%$, $5\%$, $9\%$, or $14\%$ of the competitor area. These are the TDD values from \textcite{spektorWhenGoodLooks2018b}, plus a $0\%$ level which acted as a baseline\footnote{When TDD=$0\%$, the target and decoy are identical, so labeling is arbitrary.}.
 
-Based on this research, I now introduce the Thurstonian model I explore throughout the dissertation. This model is simplistic, as it treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual tasks, rather than decision tasks. This completely eschews the possibility of higher level decision processes. I use this model to differentiate perceptual from decision-making processes in the repulsion and attraction effects. The model treats value (perceived area) as stochastic and choice as deterministic. Furthermore, I do not treat height and width as independent attributes but rather consider perceived area to be unidimensional. 
+On each catch trial, there was one large rectangle and two much smaller rectangles. The large rectangle was $260 \pm U(-40, 40) \text{x} 200 \pm U(-40, 40) \text{px}^2$, with a random orientation. The smaller rectangles were $180 \pm U(-40, 40) \text{x} 120 \pm U(-40, 40) \text{px}^2$, one wide and one tall.
+
+\subsubsection{Design.}
+There were 5 blocks of trials. In each block there were 60 critical trials, 12 at each TDD level, and 30 catch trials. Of the 12 critical trials at each TDD level, 6 trials were presented in the triangle display and 6 trials were presented in the horizontal display. Finally, 3 of the 6 targets in each display condition at each TDD level were wide and 3 were tall. Of each of these 3 trials, one trial was a target-decoy comparison, one trial was a target-competitor comparison, and one trial was a competitor-decoy comparison. Trial order and rectangle order within each trial were randomized. Thus, this was a $5$ (TDD: $0\%$, $2\%$, $5\%$, $9\%$, $14\%$) x $2$ (display: triangle, horizontal) x $2$ (target-decoy orientation: wide, tall) x $3$ (comparison: target-decoy, target-competitor, competitor-decoy) within-participants design. 
+
+\subsubsection{Procedure.}
+
+On each trial, participants saw three rectangles, labeled 1, 2, and 3 (from left to right). The horizontal distance between all rectangles was constant, but 25 pixels of jitter was added to each rectangle's vertical location. The rectangles appeared for $1825$ms total, but after $500$ms, two of the rectangles changed to a darker shade. Next, all three rectangles disappeared from the screen, and participants were asked to select which of the two darker rectangles had the larger area. The procedure was identical for critical trials and catch trials.
+
+Stimuli were presented on computer monitors with a resolution of 1920 x 1080 pixels. The experiment was programmed in jsPsych \parencite{deleeuwJsPsychJavaScriptLibrary2015}. 
+
+\subsection{Results}
+
+\subsubsection{Catch Trials.}
+Participants performed well on the catch trials. The mean percentage correct in the triangle display was $92.6\% (SD=3.77)$, and the mean percentage correct in the horizontal display was $93.2\% (SD=3.52)$. 
+
+\subsubsection{Critical Trials.}
+First the baseline TDD level data (TDD=$0\%$) are presented to demonstrate that participants were indifferent between pairs of options when they had identical area. The mean percentage of target choices in target-competitor trials was $48.99\%$ (SD=$10.18$, $95\%$ CI [$46.80$, $51.20$]). The mean percentage of competitor choices in competitor-decoy trials was $49.80\%$ (SD=$11.30$, $95\%$ CI [$47.40$, $52.20$]). The mean percentage of target choices in target-decoy trials was $49.47\%$ (SD=$12.06$, $95\%$ CI [$46.90$, $52.10$]). Participants were indifferent between all pairs of options in the $\text{TDD}=0\%$ trials, so these are not considered further.
+
+Next, the target-competitor trials are presented. Note that in these trials, because both stimuli had the same area, there is no correct response. The results are plotted in Figure~\ref{fig:e1_tc}, with the y axis (arbitrarily) showing the mean proportion of target selections. Though participants were occasionally biased to select either the target or competitor, there was no systematic pattern to their choices, and these data are not discussed further.
+
+\begin{figure}
+   \includegraphics[width=\textwidth]{figures/2afc_tc_choices.jpeg}
+   \caption{Experiment 1, mean target choice proportions by stimulus display and TDD for all target-competitor trials. Dashed line is shown at .5.}
+   \label{fig:e1_tc}
+\end{figure}
+
+The primary analysis was performed on the target-decoy and competitor-decoy trials, excluding all TDD=$0\%$ trials and the target-competitor trials. Note that participants were to select the option with the largest area. Because the target and competitor were always equal in size, and larger than the decoy, a correct response was one in which the decoy was not chosen. 
+
+Mean choice proportions across conditions are shown in Figure~\ref{fig:e1_data}. Participants' performance indeed improves with TDD. Furthermore, their performance is better when stimuli are displayed in the horizontal configuration than in the triangle configuration, and it is also better in target-decoy trials compared to competitor-decoy trials. Finally, there is an interaction, such that as TDD increases, the target-decoy performance is even better than the competitor-decoy performance. See the Appendix for inferential statistics which support these conclusions.
+
+\begin{figure}
+   \includegraphics[width=\textwidth]{figures/m14_model_preds_v_data.jpeg}
+   \caption{Experiment 1, mean choice proportions by stimulus display, TDD, and comparison. td=target-decoy trials, cd=competitor-decoy trials. Model predictions come from the Bayesian hierarchical logistic regression presented in the Appendix and are presented to demonstrate that the model used for inference adequately fits the data. Error bars are $95\%$ HDIs on the mean.}
+   \label{fig:e1_data}
+\end{figure}
+
+\subsection{Discussion}
+
+The goal of Experiment 1 was to test participants' ability discriminate between target-decoy and competitor-decoy stimuli in binary perceptual choice. Though participants choose the decoy at non-trivial rates in ternary choice (see Figure~\ref{fig:spektor_data}), previous researchers have not tested participants' binary discriminability. 
+
+Experiment 1 showed that participants are not always able to discriminate between target-decoy and competitor-decoy stimuli. Additionally, this discriminability increases with TDD and that overall discriminability is better in the horizontal compared to the triangle display. Finally, through the interaction of comparison and TDD, I show that target-decoy discriminability increases with TDD at a higher rate than competitor-decoy discriminability. 
+
+% It may seem counterintuitive that target-decoy correlations can simultaneously create greater discriminability in binary choice while also generating a repulsion effect in ternary choice. To understand this, it may help to express the correlation $\rho_{TD}$ as:
+
+% \begin{equation}
+%    \rho_{TD}=\frac{\mathbb{E}[(X_{T}-\mu_{T})(X_{D}-\mu_{D})]}{\sigma_{T}\sigma_{D}}
+%    \label{eqn:rho_expectation}
+% \end{equation}
+
+% As $\rho_{TD}$ increases, the difference between sampled target and decoy values converges towards the true difference between $\mu{T}$ and $\mu_{D}$. I also show this by plotting the difference in sampled target and decoy values against increasing values of $\rho_{TD}$.
+
+% \begin{figure}
+%    \includegraphics[width=125mm]{figures/sim_mvnorm_vary_r_td.jpeg}
+%    \caption{Simulated differences in sampled target minus decoy area (i.e., $X_{T}-X_{D}$) as an plotted against increasing values of $\rho_{TD}$. The lower and upper boundaries of the polygon show the lower and upper quantiles ($2.5\%$ and $97.5\%$, respectively) of the difference between sampled target and decoy values. The dotted red line marks the true $\mu_{T}-\mu_{D}$ value.}
+%    \label{fig:sim_mvnorm_vary_r_td}
+% \end{figure}
+
+These results are important because they show that target-decoy (and indeed, competitor-decoy) discriminability cannot be taken as a given in perceptual context effect experiments. Researchers must carefully consider how perception of the decoy affects choice. The role of perception is theoretically important because any conclusions about context effects being fundamental to choice \parencite{trueblood2013not} rely on the assumption that context effects are qualitatively similar across choice domains.
+
+In the next section, a Thurstonian perceptual choice model is introduced, with the goal of using it to understand the attraction and repulsion effect. 
+
+\section{Modeling Context-Dependent Perceptual Choice}
+
+\textcite{spektorWhenGoodLooks2018b} argued that their work provides partial evidence in favor of the tainting hypothesis, the idea that decoys sometimes "taint" the value of nearby targets, leading to a repulsion effect. They argued that this is supported by the decrease in competitor choice share as TDD increases. They did note that this high level explanation seems implausible for a perceptual rectangle task.
+
+Another plausible account of \textcite{spektorWhenGoodLooks2018b}'s data is that participants occasionally perceive the decoy to be at least as large as, or larger than, the target. Indeed, the target and decoy are perceptually similar, more so than the decoy and competitor. Their results may be another form of the similarity effect \parencite{tverskyEliminationAspectsTheory1972}, where a similar decoy causes a decrease in the choice share of a target option. Simply put, participants may occasionally select the decoy over target, and they do so more often than they select it over the competitor. This account is consistent with the data shown in Figure~\ref{fig:spektor_data}. As TDD increases, decoy choices decrease while target choices increase. Though competitor choices also increases with TDD, the target choice shares increase at a higher rate. There appears to be a strong tradeoff between target choices and decoy choices. This explanation is, however, distinct from theoretical accounts of the attraction effect. \textcite{spektorWhenGoodLooks2018b} dismiss such an account because the target was always chosen more often the decoy. This does not, however, rule out that possibility that, on the trials where the decoy was chosen, it was more likely to be chosen over the target than the competitor. In other words, participants do not always select the decoy; however, when they do, they more often select it over the similar target than the dissimilar competitor. 
+
+One goal of this work is to separate the role of perceptual and decisonal processes in context effects. To do so, we begin with an extreme stance - that such experiments are solely perceptual experiments rather than decision-making experiments and that no high level decision processes are occurring. This extreme assumption is quite likely incorrect, but it may be helpful in understanding existing data. For example, if a perceptual model can account for the repulsion effect without incorporating higher level decision processes, (such as loss aversion or attribute weighting, as invoked by some cognitive models of context effects), this provides evidence that the repulsion effect is not a decision-making phenomenon, but a perceptual one. On the other hand, if perceptual processes explain part, but not all, of the repulsion effect, this provides evidence that higher-level decision processes must be invoked in a complete theoretical account of these data.
+
+There is a large body of psychological research, beginning with the work of \textcite{thurstone1927law}, which treats the stimulus perception as a random variable. In his famous "Law of Comparative Judgment" paper, \textcite{thurstone1927law} showed that researchers can use binary choice proportions to estimate the psychological distance between stimuli, by treating perceptual intensity as a Gaussian random variable. According to Thurstone's models, given a proportion of the trials on which participants were able to discriminate between two stimuli, researchers can estimate the average psychological distance between these perceptions, scaled by their standard deviations. Thurstone considered multiple forms of this model, but the most relevant model is his Case $II$ model, which allows for correlations between perceptions. Models of this class are often called \textit{Thurstonian}.
+
+Thurstone's work has been particularly influential on the choice modeling literature. In marketing and economics, researchers treat the utilities of choice options as random variables, which are often assumed to be Gaussian or Extreme Value Distributed and estimate choice models known as Random Utility Models (RUMs) \parencite{mcfadden2001economic,hausman1978conditional,train2009discrete}. Often, though not necessarily, these models share the common property that value - be it the utility of a consumer product, the perception of magnitude in a perceptual task, or memory signal in a recognition task - is stochastic while choice is deterministic  (c.f. \textcite{benjamin2009signal}).
+
+Based on this research, we consider the Thurstonian choice model which will be applied to perceptual choice. This model treats the experiments of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b} as perceptual tasks, rather than decision tasks. This assumption may be incorrect, but the extent to which it can explain existing data can still be highly informative. According to this model, the perceived areas of each rectangle on each trial are sampled from an underlying multivariate probility distribution. Participants then deterministically choose the option with the largest perceived area. Thus, while perception is stochastic, choice is deterministic.
 
 \subsection{A Thurstonian Choice Model}
 
-According to the model, on each trial $i$ with choice set $K$, the perception $\mathbf{X_i}$ of all $3$ stimuli is sampled from a multivariate Gaussian distribution:
+In a perceptual choice task such as that of \textcite{spektorWhenGoodLooks2018b}, the value/utility of each option is its perceived area. According to the model, on each trial $i$ with choice set $K$, the perception $\mathbf{X_i}$ of all $3$ stimuli is sampled from a multivariate Gaussian distribution:
 
 \begin{align}
    \mathbf{X}_{i} \sim \mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\Sigma})
@@ -161,7 +246,7 @@ where $S$ is a diagonal matrix consisting of:
 \label{eqn:S}
 \end{align}
 
-with $\sigma_{T}$, $\sigma_{C}$, $\sigma_{D}$ denoting the standard deviations for target, competitor, and decoy, respectively. $\boldsymbol{\Omega}$ is a $3\text{x}3$ correlation matrix:
+with $\sigma_{T}$, $\sigma_{C}$, $\sigma_{D}$ denoting the standard deviations for target, competitor, and decoy, respectively. These parameters reflect the extent to which area perception varies from trial to trial for each stimulus type. $\boldsymbol{\Omega}$ is a $3\text{x}3$ correlation matrix:
 
 \begin{align}
    \begin{pmatrix}
@@ -171,7 +256,7 @@ with $\sigma_{T}$, $\sigma_{C}$, $\sigma_{D}$ denoting the standard deviations f
    \end{pmatrix}
 \label{eqn:O}
 \end{align}
-with $\rho_{TD}$, for example, denoting correlation between target and decoy perception.
+with $\rho_{TD}$, for example, denoting correlation between target and decoy perception. These parameters measure the extent to which area perceptions "move" together for certain pairs of stimuli. For example, as will be shown below, the target and decoy perceptions are strongly positively correlated, meaning that on trials where the target is perceived to be relatively large, the decoy will also tend to be perceived relatively large.
 
 As mentioned above, the model assumes that value is stochastic while choice is deterministic\footnote{This also assumes ties are not possible, which is true if and only if perceived area is absolutely continuous.}. The model always chooses the option perceived as largest, regardless of the magnitude of the difference between the "winner" and "runners-up". That is, given a vector $\mathbf{X}_i$ of perceived areas on trial $i$ with set $K$, the probability a participant selects stimulus $j$ as largest is:
 
@@ -180,122 +265,86 @@ As mentioned above, the model assumes that value is stochastic while choice is d
    \label{eqn:pchoice}
 \end{align}
 
-If all off-diagonal elements of $\boldsymbol{\Omega}$ are $0$ and $\sigma_{T}=\sigma_{C}=\sigma_{D}$, the model collapses to the standard Thurstonian Case V model \parencite{thurstone1927law} often used by cognitive psychology researchers. Models of this form have closed form solutions and their predictions are easy to compute.
+If all correlations $=0$ and $\sigma_{T}=\sigma_{C}=\sigma_{D}$, the model collapses to a trivariate version of the standard Thurstonian Case V model \parencite{thurstone1927law} often used by cognitive psychology researchers. Models of this form have closed form solutions and their predictions are easy to compute.
 
-On the other hand, if any elements of $\boldsymbol{\Omega}$ are non-zero, the closed form solution of this model does not exist, and to compute predictions and estimate model parameters, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. In all applications of these model through this dissertation, I use simulation to generatepredictions. 
+On the other hand, if any correlations are non-zero, the closed form solution of this model does not exist, and to compute predictions and estimate model parameters, researchers must use simulation or numerical integration methods \parencite{train2009discrete}. 
 
 This model is easily capable of generating a(n) attraction (repulsion) effect by assuming $\mu_{T}>\mu_{C}$ ($\mu_{C}>\mu_{T}$), i.e., that on average target and competitor stimuli differ in their perceived areas. This is an ad hoc assumption that may describe the data well but will generate limited theoretical insight. Moreover, I wil later present empirical data that suggest, generally speaking, $\mu_{T}\approx\mu_{C}$. 
 
-On the other hand, the correlations between perceived area, may allow the model to predict context effects. Indeed, other researchers have explored such a mechanism \parencite{kamakura1984predicting,haaijer1998utility}. 
+On the other hand, the correlations between perceived area, may allow the model to predict context effects. Other researchers have considered correlations in RUMs as a mechanism for context effects. \textcite{kamakura1984predicting} argued that the correlation between a pair of options in the multinomial probit model reflect their similarity, or substitutability. They implemented a model where the correlation between options is parameterized as a decreasing function of their distance in attribute space. They showed, via simulations, that this model is able to successfully predict the similarity effect. They also fitted the data to risky choice data, which were collected using stimuli designed to elicit the similarity effect, and found that the fitted model could successfully account for the data. 
 
-To test this, I used model simulations to assess the effect of correlations (.e., $\rho_{TC}$, $\rho_{TD}$, and $\rho_{CD}$) on predictions for the attraction and repulsion effects. 
+\textcite{natenzon2019random} implemented a Bayesian probit model, in which participants are assumed to sample from a multivariate normal distribution on each trial, with the correlation between options being related to their similarity in multiattribute space. \textcite{natenzon2019random} also suggested that similarity is related to ease of comparability. They fitted the model to frog mating choice data and showed that not only can the model explain choice reversals (i.e., context effects), but the estimated correlations between pairs of options were greater for options closer in multiattribute space. 
 
-I varied both $\rho_{TD}$ and $\rho_{TC}$ from -1 to 1; in other words, all rectangles oriented the same way share one correlation and those oriented differently share another correlation. I show model predictions that result from varying these correlations in Figure~\ref{fig:3d_model}. Here, I assume that $\mu_{T}=\mu_{C}>\mu_{D}$ and that $\sigma_{T}=\sigma_{C}=\sigma_{D}$\footnote{In Experiment 2 I present evidence supporting these assumptions.}. 
+It is worthwhile considering then, the role of correlations (i.e., $\rho_{TC}$, $\rho_{TD}$, and $\rho_{CD}$) in predicting the attraction and repulsion effects in perceptual choice. 
 
-Figure~\ref{fig:3d_model} shows model predictions in the form of $RST$ (Relative Share of the Target), where RST values above .5 indicate an attraction effect and values below .5 indicate a repulsion effect. The model can, depending on the relationship between $\rho_{TD}$ and $\rho_{TC}$, predict a repulsion, attraction, or a null context effect. If $\rho_{TD}>\rho_{TC}$, the model predicts a repulsion effect. If the target and decoy are correlated more strongly than competitor and decoy, it is more likely that if on a particular trial the target perception is large, that the decoy is even \textit{larger}, causing the decoy to "steal" choice shares from the target more than the competitor, i.e., a repulsion effect.
+$\rho_{TD}$ and $\rho_{TC}$ were varied from -1 to 1; in other words, all rectangles oriented the same way (i.e., target and decoy) shared one correlation and those oriented differently (i.e., target and competitor, decoy and competitor) shared another correlation. These model predictions are shown in Figure~\ref{fig:3d_model}. It was assumed that $\mu_{T}=\mu_{C}>\mu_{D}$ and that $\sigma_{T}=\sigma_{C}=\sigma_{D}$\footnote{In Experiment 2 I present evidence supporting these assumptions.}. It is difficult to assess how all parameters may interact if these assumptions are incorrect. 
+
+Figure~\ref{fig:3d_model} shows model predictions in the form of RST\footnote{Recall that RST is \textit{Relative Share of the Target}, reflecting the proportion of trials in which the target is chosen over the target, conditional on not having selected the decoy.}, where RST values above .5 indicate an attraction effect and values below .5 indicate a repulsion effect. The model can, depending on the relationship between $\rho_{TD}$ and $\rho_{TC}$, predict a repulsion, attraction, or a null context effect. 
+
+First, if $\rho_{TD}=\rho_{TC}=\rho_{CD}$, the model predicts a null effect. In this case, no pair of stimuli are more correlated than any other pair, so the predictions are identical to a model where $\rho_{TD}=\rho_{TC}=\rho_{CD}=0$. The decoy will still be chosen occasionally (depending on the relative difference between $\mu_{D}$ and $\mu_{T}$ / $\mu_{C}$), it does not differentially take choice shares away from the target or competitor. 
+
+If $\rho_{TD}>\rho_{TC}$, the model predicts a repulsion effect. The correlation between target and decoy causes them to "move" together. If, on a particular trial, the perceived target area is relatively high, the perceived decoy area will also be relatively high. Though the decoy is chosen at a lower rate than target or competitor, the $\rho_{TD}$ parameter causes it to be chosen over the target more often than it is chosen over the competitor.  
 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/3d_sim_rst.jpg}
-   \caption{Model simulations for the attraction and repulsion effects based on the variation of $\rho_{TD}$ and $\rho_{TC}$. "Regions" of the plot are labeled based on their qualitative predictions for attraction, null, and repulsion effects. The black region is the area where, due to extreme correlations, a positive semi-definite variance-covariance matrix could not be formed and predictions are unavailable. The triangle and circle mark the estimated mean correlations from the Experiment 2 triangle and horizontal conditions, respectively.}
+   \caption{Model simulations for the attraction and repulsion effects based on the variation of $\rho_{TD}$ and $\rho_{TC}$. "Regions" of the plot are labeled based on their qualitative predictions for attraction, null, and repulsion effects. The black region is the area where, due to extreme correlations, a positive semi-definite variance-covariance matrix could not be formed and predictions are unavailable. The triangle and circle mark the estimated mean correlations from the Experiment 2 triangle and horizontal conditions, respectively (see below for details).}
    \label{fig:3d_model}
 \end{figure}
 
-If $\rho_{TD}<\rho_{TC}$, the model predicts an attraction effect. This is because $\rho_{TC}=\rho_{CD}>\rho_{TD}$, so the decoy "steals" choice shares from the competitor more than the target.
-
-Finally, if $\rho_{TD}=\rho_{TC}=\rho_{CD}$, the model predicts a null effect. In this case, no pair of stimuli are more correlated than any other pair, so the predictions are identical to a model where $\rho_{TD}=\rho_{TC}=\rho_{CD}=0$.
+Lastly If $\rho_{TC}>\rho_{TD}$, the model predicts an attraction effect. The logic here is the similar to the above logic; the decoy and competitor tend to move together, and the decoy is more likely to exceed the competitor than the target. 
 
 \subsection{Perceptual Correlations as Mechanism for the Repulsion Effect}
-I propose that these perceptual correlations may be driving the repulsion effect in \textcite{spektorWhenGoodLooks2018b}'s data. The decoy option is smaller than the the target and competitor options and is thus not always discriminated. The triangle configuration makes discriminability particularly difficult for participants (as I show below in Experiment 1). Simultaneously, however, the fact that target and decoy share an orientation (i.e., both wide or both tall) makes the comparison of these two options easier. When TDD is low, the ease of target-decoy comparison will increase the likelihood that the decoy is perceived to be larger than the target. In statistical terms, the perception of the decoy is more strongly correlated with the perception of the target than with perception of the competitor. These correlations are measured with the $\rho_{TD}$ and $\rho_{CD}$ parameters. According to this account, if $\rho_{TD}>\rho_{CD}$, the perceived areas of target and decoy "move" together, allowing the competitor to exceed the target at a higher rate than the target exceeds the competitor, particularly if perceptual discriminability is low. The repulsion effect may thus be driven by perceptual processes rather than decision processes. 
+These perceptual correlations, which cause the decoy to occasionally exceed the target in perceived area, may be, at least partially, driving the repulsion effect in \textcite{spektorWhenGoodLooks2018b}'s data. 
 
-In Experiment 1, I first present results from a two-alternative forced-choice experiment to show that these stimuli are easily confusable and that the triangle display of \textcite{spektorWhenGoodLooks2018b} decreases discriminability relative to the horizontal display. I also show that, consistent with the predictions of a Thurstonian perceptual model where $\rho_{TD}>\rho_{TC}=\rho_{CD}$, target-decoy discriminability is in fact greater than competitor-decoy discriminability in binary choice and that target-decoy discriminability increases with TDD. 
+Experiment 1 demonstrated that participants do not always discriminate between the target and decoy (or indeed, competitor and decoy). Experiment 1 also demonstrated the triangle display decreases discriminability relative to the horizontal display.
 
-\section{Experiment 1}
+The target and decoy, however, are quite perceptually similar and easier to compare. Simultaneously, however, the fact that target and decoy share an orientation (i.e., both wide or both tall) makes the comparison of these two options easier. At lower levels of TDD, when discriminability is quite difficult (i.e., the difference between $\mu_{D}$ and $\mu_{T}$/$\mu_{C}$ is small), the similarity of target and decoy makes it more likely the decoy is occasionally perceived as larger than the target, than the competitor. I
 
-The goal of Experiment 1 was to test participants' ability to discriminate between rectangles in the perceptual choice tasks of \textcite{trueblood2013not} and \textcite{spektorWhenGoodLooks2018b}. 
-On each trial, participants saw three options (target, competitor, and decoy). After a short delay, two of the rectangles were highlighted and participants chose which of the two rectangles was larger. 
-This experiment also included a within-participants manipulation to compare discriminability in both the triangle display of \textcite{spektorWhenGoodLooks2018b}, Experiment 3, and the horizontal display of \textcite{spektorWhenGoodLooks2018b}, Experiment 4a\footnote{see also \textcite{trueblood2013not}, Experiment 1.}. Otherwise, with a few exceptions discussed below, I follow the stimulus construction and experimental design of \textcite{spektorWhenGoodLooks2018b}, Experiments 3 and 4a. 
+In statistical terms, the perception of the decoy is more strongly correlated with the perception of the target than with perception of the competitor. These correlations are measured with the $\rho_{TD}$ and $\rho_{CD}$ parameters. According to this account, if $\rho_{TD}>\rho_{CD}$, the perceived areas of target and decoy "move" together, allowing the competitor to exceed the target at a higher rate than the target exceeds the competitor, particularly if perceptual discriminability is low. This account explains the repulsion effect as a perceptual phenomenon rather than a decision-making phenomenon.
 
-\subsection{Methods}
-
-\subsubsection{Participants.}
-Data collection took place at the University of Massachusetts Amherst. 86 undergraduate students participated in exchange for course credit. 1 participant who achieved less than $80\%$ accuracy on catch trials (see below) was excluded from all analyses. Trials with response times (RTs) $<100\text{ms}$ or  $>10000\text{ms}$ were also excluded from all analyses.
-
-\subsubsection{Stimuli.}
-The experiment had two types of trials: critical trials and catch trials. 
-On each critical trial, the target and competitor had the same area\footnote{Here I simplify \textcite{spektorWhenGoodLooks2018b}'s design by ensuring both focal stimuli had the same area.} but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. The height and width of the decoy were reduced proportionally so that the decoy area was always $0\%$, $2\%$, $5\%$, $9\%$, or $14\%$ of the target areas. Because the target and competitor always had the same area, this means that the decoy was also $0\%$, $2\%$, $5\%$, $9\%$, or $14\%$ of the competitor area. These are the TDD values from \textcite{spektorWhenGoodLooks2018b}, plus a $0\%$ level which acted as a baseline\footnote{When TDD=$0\%$, the target and decoy are identical, so labeling is arbitrary.}.
-
-\subsubsection{Design.}
-There were 5 blocks of trials. In each block there were 60 critical trials, 12 at each TDD level, and 30 catch trials. Of the 12 critical trials at each TDD level, 6 were presented in a triangle and 6 were presented horizontally.. Finally, 3 of the 6 targets in each display condition at each TDD level were wide and 3 were tall. Of each of these 3, one was a target-decoy comparison, one was a target-competitor comparison, and one was a competitor-decoy comparison. Trial order and rectangle order within each trial were randomized. Thus, this was a $4$ (TDD: $2\%$, $5\%$, $9\%$, $14\%$) x $2$ (display: triangle, horizontal) x $2$ (target-decoy orientation: wide, tall) x $3$ (comparison: target-decoy, target-competitor, competitor-decoy) within-participants design. 
-
-On each catch trial, there was one large rectangle and two much smaller rectangles. The large rectangle was $260 \pm U(-40, 40) \text{x} 200 \pm U(-40, 40)$ pixels, with a random orientation. The smaller rectangles were $180 \pm U(-40, 40) \text{x} 120 \pm U(-40, 40)$ pixels, one wide and one tall.
-
-On every trial, the rectangles were displayed in either a triangle or horizontal display (see Figure~\ref{fig:spektor_stim}). The horizontal distance between all rectangles was constant, but 25 pixels of jitter was added to each rectangle's vertical location.
-
-Stimuli were presented on computer monitors with a resolution of 1920 x 1080 pixels. The experiment was programmed with jsPsych \parencite{deleeuwJsPsychJavaScriptLibrary2015}. 
-
-\subsubsection{Procedure.}
-On each trial, participants saw three rectangles, labeled 1, 2, and 3 (from left to right). The rectangles appeared for $1825ms$ total, but after $500ms$, two of the rectangles changed to a darker shade. After all three rectangles disappeared from the screen, participants were asked to select which of the two darker rectangles had the larger area.
-
-\subsection{Results}
-
-\subsubsection{Catch Trials.}
-Participants performed well on the catch trials. The mean percentage correct in the triangle display was $92.6\% (SD=3.77)$, and the mean percentage correct in the horizontal display was $93.2\% (SD=3.52)$. 
-
-\subsubsection{Critical Trials.}
-I first checked the baseline TDD level data (TDD=$0\%$) across to make sure that participants were indifferent between pairs of options when they had identical area. The mean percentage of target choices in target-competitor trials was $48.99\%$ (SD=10.18). The mean percentage of competitor choices in competitor-decoy trials was $49.80\%$ (SD=11.30). The mean percentage of target choices in target-decoy trials was $49.47\%$ (SD=12.06). Participants were indifferent between all pairs of options in the $\text{TDD}=0\%$ trials, so I do not consider these trials further.
-
-The primary analysis was performed on the target-decoy and competitor-decoy trials, excluding the TDD=$0\%$ trials. In these trials participants' task is simply to not select the decoy option on a given trial. I present mean choice proportions across conditions in Figure~\ref{fig:e1_data}. Participants' performance indeed improves with TDD. Furthermore, their performance is better when stimuli are displayed in the horizontal configuration than in the triangle configuration, and it is also better in target-decoy trials compared to competitor-decoy trials. Finally, there is an interaction, such that as TDD increases, the target-decoy performance is even better than the competitor-decoy performance. See the Appendix for inferential statistics which support these conclusions.
-
-\begin{figure}
-   \includegraphics[width=\textwidth]{figures/m14_model_preds_v_data.jpeg}
-   \caption{Experiment 1, mean choice proportions by stimulus display, TDD, and comparison. td=target-decoy trials, cd=competitor-decoy trials. Model predictions come from the Bayesian hierarchical logistic regression presented in the Appendix. Error bars are $95\%$ HDIs on the mean.}
-   \label{fig:e1_data}
-\end{figure}
-
-\subsection{Discussion}
-In Experiment 1, I showed that participants are not always able to discriminate between target-decoy and competitor-decoy stimuli. I also show that this discriminability increases with TDD and that overall discriminability is better in the horizontal compared to the triangle display. Finally, through the interaction of comparison-pair and TDD, I show that target-decoy discriminability increases with TDD at a higher rate than competitor-decoy discriminability. 
-
-It may seem counterintuitive that target-decoy correlations can simultaneously create greater discriminability in binary choice while also generating a repulsion effect in ternary choice. To understand this, it may help to express the correlation $\rho_{TD}$ as:
-
-\begin{equation}
-   \rho_{TD}=\frac{\mathbb{E}[(X_{T}-\mu_{T})(X_{D}-\mu_{D})]}{\sigma_{T}\sigma_{D}}
-   \label{eqn:rho_expectation}
-\end{equation}
-
-As $\rho_{TD}$ increases, the difference between sampled target and decoy values converges towards the true difference between $\mu{T}$ and $\mu_{D}$. I also show this by plotting the difference in sampled target and decoy values against increasing values of $\rho_{TD}$.
-
-\begin{figure}
-   \includegraphics[width=125mm]{figures/sim_mvnorm_vary_r_td.jpeg}
-   \caption{Simulated differences in sampled target minus decoy area (i.e., $X_{T}-X_{D}$) as an plotted against increasing values of $\rho_{TD}$. The lower and upper boundaries of the polygon show the lower and upper quantiles ($2.5\%$ and $97.5\%$, respectively) of the difference between sampled target and decoy values. The dotted red line marks the true $\mu_{T}-\mu_{D}$ value.}
-   \label{fig:sim_mvnorm_vary_r_td}
-\end{figure}
-
-These results are important because they show that target-decoy (and indeed, competitor-decoy) discriminability cannot be taken as a given in perceptual context effect experiments. Researchers must carefully consider how perception of the decoy affects choice. This is important theoretically because any conclusions about context effects being fundamental to choice \parencite{trueblood2013not} rely on the assumption that context effects are qualitatively similar across choice domains.
-
-In Experiment 2, I combined a psychophysics task with a choice task to estimate the parameters of the Thurstonian perceptual model outlined in the beginning of this chapter. In the first phase of the experiment, participants estimated the size of target, decoy, and competitor rectangles on each trial. In the second phase of the experiment, I conducted a standard choice experiment, replicating \textcite{spektorWhenGoodLooks2018b}'s results. I used the data from the first phase of Experiment 2 to obtain stable estimates of  $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ for the Thurstonian perceptual model. Finally, I show that the model, conditioned on these parameter estimates, naturally predicts a repulsion effect but not an attraction effect.  
+Experiment 2, shown below, combined a psychophysics task with a choice task to estimate the parameters of the Thurstonian perceptual model outlined in the beginning of this chapter. In the first phase of the experiment, participants estimated the size of target, decoy, and competitor rectangles on each trial. In the second phase of the experiment, I conducted a standard choice experiment, replicating \textcite{spektorWhenGoodLooks2018b}'s results. I used the data from the first phase of Experiment 2 to obtain stable estimates of  $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ for the Thurstonian perceptual model. Finally, I show that the model, conditioned on these parameter estimates, naturally predicts a repulsion effect but not an attraction effect.  
 
 \section{Experiment 2}
-The goal of this experiment was to estimate the parameters of the model presented above and to clarify the role of perception and decision in producing the repulsion and attraction effects. I used the \textit{method of cross-modal matching} \parencite{stevensCrossmodalityMatchingBrightness1965} to do so. 
+The goal of this experiment was to estimate the parameters of the model presented above and to clarify the role of perception and decision in producing the repulsion and attraction effects. The Thurstonian model introduced above can predict the repulsion effect and the attraction effect through the perceptual correlation parameters. However, this model can produce many different data patterns (as shown in Figure~\ref{fig:3d_model}), some of which may be consistent with existing choice data but many others which are not. Thus this experiment allows us to estimate the model parameters using a non-decision task.
 
-In Experiment 2, participants adjusted the size of a circle to match the perceived area for each rectangle. On each trial, participants saw three rectangles and three circles, each labeled 1, 2, and 3. Participants adjusted the size of the circle corresponding to each rectangle, until they believed the two to have equal area. I also replicated \textcite{spektorWhenGoodLooks2018b}'s choice data in the second phase of the experiment. In both phases, I used a between-participants manipulation to display the rectangle stimuli in either the horizontal or triangle displays of \textcite{spektorWhenGoodLooks2018b}.
+Furthermore, participants also separately completed a choice task, replicating \textcite{spektorWhenGoodLooks2018b}. This allows us to estimate the parameters of the model using the judgment task and then test the model's ability to predict the results of the choice task. 
+
+Experiment 2 utilized the \textit{method of cross-modal matching} \parencite{stevensCrossmodalityMatchingBrightness1965}, where participants estimate the intensity of a stimulus presented in one modality using a different response modality (e.g., estimating the loudness of a tone by adjusting the brightness of a light). Participants adjusted the size of a circle to match the perceived area for each rectangle. 
+
+The experiment  \textcite{spektorWhenGoodLooks2018b}'s choice data in the second phase of the experiment. In both phases, there was between-participants manipulation to display the rectangle stimuli in either the horizontal or triangle displays of \textcite{spektorWhenGoodLooks2018b}.
 
 \subsection{Methods}
 \subsubsection{Participants.}
-Data collection took place at the University of Massachusetts Amherst. 521 undergraduate students participated in exchange for course credit. 68 participants did not complete the full experiment within the 1 hour time limit and were removed from all analyses. 
+Data collection took place at the University of Massachusetts Amherst. 521 undergraduate students participated in exchange for course credit. 68 participants did not complete the full experiment within the 1 hour time limit and were removed from all analyses. 10 additional participants were removed for failing to respond correctly to at least $6/8$ catch trials from the circle adjustment phase (see below). 
+
+After removing participants, this left $218$ participants in the horizonal display condition and $225$ participants in the triangle display condition. 
+
+Choice trials with RTs $<100\text{ms}$ or $>10,000\text{ms}$ were removed from analysis.
 
 \subsubsection{Stimuli.}
-In the circle adjustment phase there were three types of trials: critical trials, filler trials, and catch trials. On each critical trial, the target and competitor had the same area but differed on orientation, with one stimulus being wide and the other tall. The decoy always had the same orientation as the target. I varied TDD at $2\%$, $5\%$, $9\%$, and $14\%$. I also varied the target, competitor, and decoy stimuli to fall on three diagonals. In pixels, the small and larger focal stimulus dimension values on the lower, middle, and upper diagonals were $[60, 135]$, $[90, 165]$, and $[120,195]$. I reduced the absolute size of the target/competitor stimuli from Experiment 1 to Experiment 2 to accomodate the circle adjustment phase, which required the simultaneous presentation of both circles and rectangles.
+Stimuli were gray-scale rectangles, based on the experiments of \textcite{spektorWhenGoodLooks2018b} and \textcite{trueblood2013not}. 
 
-On filler trials, I generated stimuli by sampling three heights and widths from the distribution $U(56,195)$px, the full range of stimuli from the critical trials.
+Both the circle adjustment phase and the choice phase (see below) had critical trials, the main focus of the experiment. On each critical trial, there was a target, competitor, and decoy rectangle. The target and competitor rectangles were always oriented differently (i.e., one wider than tall and the other taller than wide), while the decoy was oriented the same as the target. Target-decoy distance (TDD) also varied, with the decoy being either $2\%$, $5\%$, $9\%$, and $14\%$ smaller than the target and competitor. 
 
-On the catch trials, I randomly sampled one rectangle from the lower diagonal and two from the upper diagonal. This ensured that one stimulus was always larger than the other two and allowed me to remove participants who could not perform the task.
+To introduce variation in the stimuli, the absolute area of the target and competitor also varied. The target and competitor were either $8,100$, $14,850$, or $23,400 \text{px}^2$ (with the decoy area changing proportionally based on TDD), falling along one of three diagonals when plotted. See Figure~\ref{fig:e2_stim} for a plot of all critical stimuli. In pixels, the smaller/larger dimension values on the lower, middle, and upper diagonals were $[60, 135]$, $[90, 165]$, and $[120,195]$, respectively.
+ 
+\begin{figure}
+   \includegraphics[width=\linewidth]{figures/circle_exp_stim_plot.jpeg}
+   \caption{Stimulus configuration for Experiment 2.}
+   \label{fig:e2_stim}
+\end{figure}
 
-The choice phase had identical trial types with the exception that there were no catch trials, only critical and filler trials.
+The experiment also contained filler trials (see below). On filler trials, stimuli were randomly generated by independently sampling three heights and widths from the distribution $U(56,195)$px, the full range of dimension values from the critical trials.
+
+On the catch trials, one stimulus was generated by sampling uniformly from the upper diagonal line from the critical trials (see Figure~\ref{fig:e2_stim}).
+
+The choice phase had identical trial types with the exception that there were no catch trials, only critical and filler trials. On each choice trial, three rectangles appeared in the center of the screen in a horizontal or triangle display. There was no vertical jitter added in the choice phase. Participants selected the largest rectangle by clicking on it.
+
 
 \subsubsection{Design.}
-Across both phases, I varied display condition (triangle, horizontal) between-participants and TDD ($2\%$, $5\%$, $9\%$, $14\%$), diagonal (lower, middle, upper), and target-decoy orientation (wide, tall) within-participants. 
+Across both phases, display condition (triangle, horizontal) varied between-participants and TDD ($2\%$, $5\%$, $9\%$, $14\%$), diagonal (lower, middle, upper), and target-decoy orientation (wide, tall) varied within-participants. 
 
-In the circle adjustment phase, there were 4 blocks, each with 40 trials. Each block consisted of 24 critical trials, 14 filler trials, and 2 catch trials. Within the critical trials, there were 6 trials at each level of TDD. In 3 of these 6 trials the target and decoy were oriented wide (choice set $[W,H,D_{W}]$), and in the other 3 target and decoy were oriented tall (choice set $[W,H,d_{H}]$). 
+In the circle adjustment phase, there were 4 blocks, each with 40 trials. Each block consisted of 24 critical trials, 14 filler trials, and 2 catch trials. Within the critical trials, there were 6 trials at each level of TDD. In 3 of these 6 trials the target and decoy were oriented wide (choice set $[W,H,D_{W}]$), and in the other 3 target and decoy were oriented tall (choice set $[W,H,D_{H}]$). 
 
 In the choice phase, there were 4 blocks, each with 34 trials. 24 of these trials were critical trials and 10 were filler trials. Of these 24 critical trials, there were 6 trials at each level of TDD. Within each 6, there were 3 trials where target and decoy were oriented wide and 3 were target and decoy were oriented tall. 
 
@@ -303,77 +352,79 @@ In the choice phase, there were 4 blocks, each with 34 trials. 24 of these trial
 
 The experiment was presented on computer monitors with a resolution of 1920 x 1080 pixels and programmed with GNU Octave \parencite{octave} and PsychoPhysics Toolbox \parencite{brainardPsychophysicsToolbox1997}. 
 
-The experiment took place in two phases: 
+The experiment took place in two phases: a circle adjustment phase, followed by a choice phase: 
 
-On each circle adjustment trial, three gray rectangles appeared in the lower left corner of the screen, either in a triangle or horizontal display, depending on the condition to which the participant was assigned. In the upper right, three gray circles appeared in the upper right of the screen, in the same display as the rectangles (see Figure~\ref{fig:circle_exp_display} ). A small amount of jitter ($U(-15,15)\text{px}$) was added to the vertical position of each rectangle and the corresponding circle. Each circle started with an area of $78$ square pixels, the minimum size allowed in the experiment. 
-
-Participants used the mouse to adjust the size of the circle. Within a single trial, they were free to adjust the circles in any order they liked or to go re-adjust a circle as much as they liked. There was no time limit to each adjustment trial. The maximum circle area allowed was $65144$ square pixels\footnote{I arrived at this value based on the maximum area the circles could be while only appearing on the right half of the screen and maintaining the same horizontal distance from each other as the corresponding rectangles.}. When a participant finished adjusting the circles on a trial, they clicked the "Submit" button located on the lower right hand corner of the screen and advanced to the next trial. 
-
-The circle adjustment phase began with three practice trials, followed by the $4$ blocks of experimental trials. At the beginning of each experimental block, participants completed $3$ calibration trials. Calibration trials were identical to filler trials, with the caveat that participants received feedback after their responses. After participants submitted their responses on a calibration trial, a red circle appeared around each adjusted circle, showing the true area of the corresponding rectangle. 
-
-Throughout the circle phase, the experiment  kept track of the deviations between the true rectangle areas and the participants' adjusted circle areas. At the end of each block, the experiment told participants that they were either over or under-adjusting, on average, based on the current mean deviation of their responses.
-
-The choice phase began with $3$ practice trials. Participants did not receive feedback during choice practice trials. 
-
-On each choice trial, three rectangles appeared in the center of the screen in a horizontal or triangle display. There was no vertical jitter added in the choice phase. Participants selected the largest rectangle by clicking on it.
-
-At the end of the choice phase, participants were told their percentage of correct choices. Note that in a critical trial, a correct response is simply one where the participant did not select the decoy, given that the target and competitor rectangles always had the same area.
+On each circle adjustment trial, participants saw three rectangles and three circles, each labeled 1, 2, and 3. The rectangles appeared in the lower left corner of the screen, either in a triangle or horizontal display, depending on the condition to which the participant was assigned. The circles appeared in the upper right of the screen, in the same display as the rectangles (see Figure~\ref{fig:circle_exp_display} for a sample trial). Stimuli were positioned this way to ensure that participants could not easily compare the circles to the rectangles. A small amount of jitter ($U(-15,15)\text{px}^2$) was also added to the vertical position of each rectangle and the corresponding circle. Each circle appeared with an area of $78 \text{px}^2$, the minimum size allowed in the experiment. 
 
 \begin{figure}
    \includegraphics[width=\linewidth]{figures/circle_exp_display.jpg}
-   \caption{Example trials from Experiment 2. A: Circle adjustment phase. B: Choice phase. This an example from the horizontal display condition.}
+   \caption{Example trials from Experiment 2. A: Circle adjustment phase. B: Choice phase. This is an example from the horizontal display condition.}
    \label{fig:circle_exp_display}
 \end{figure}
+
+Participants were told to adjust the size of each circle until it had the same area as the rectangle with the corresponding label. They used the mouse to adjust the circles. They were not given instructions on the order they should adjust the circles in or the time they were to spend on the adjustments. The maximum circle area allowed was $65144 \text{px}^2$\footnote{This was the maximum area the circles could be while only appearing on the right half of the screen and maintaining the same horizontal distance from each other as the corresponding rectangles.}, and the minimum area was $78 \text{px}^2$. When a participant finished adjusting the circles on a trial, they clicked the "Submit" button located on the lower right hand corner of the screen and advanced to the next trial. 
+
+The circle adjustment phase began with three calibration trials. Calibration trials were identical to filler trials, with the caveat that participants received feedback after their responses. After participants submitted their responses on a calibration trial, a red circle appeared around each adjusted circle, showing the true area of the corresponding rectangle.  
+
+After the calibration trials, the experimental circle adjustment trials began. There were 4 blocks of experimental trials. At the beginning of each block, participants completed $3$ calibration trials. 
+
+At the end of each block, participants were told that they were either over or under-adjusting, on average, based on the current mean deviation of their responses from the true areas. They were not told the magnitude of their over/under-estimation.
+
+After the circle adjustment phase, the choice phase began. During the choice phase, participants were shown three rectangles on each trial and asked to select the rectangle with the largest area. They were told that they would know their percentage of correct choices at the conclusion of the experiment.
+
+The choice phase began with $3$ practice trials, which were identical to the filler trials but separate from the experiment. Participants did not receive feedback during choice practice trials. 
+
+At the end of the choice phase, participants were told their percentage of correct choices. Note that in a critical trial, a correct response is simply one where the participant did not select the decoy, given that the target and competitor rectangles always had the same area.
 
 \subsection{Results}
 \subsubsection{Data Processing}
 
-Given the difficulty of the circle adjustment task, the data required considerable processing to ensure that outlier trials and participants did not influence estimates of $\mathbf{\Omega}$.
+These data required processing to ensure that no outliers influenced estimates of $\boldsymbol{\mu}$ or $\mathbf{\Omega}$, as it is widely known that outliers can detrimentally influence correlation estimates. 
 
-After removing participants who did not complete the experiment there were 223 participants in the horizontal display condition and 230 participants in the triangle display condition. 
+The most substantial data processing occured in the circle phase data, so these are discussed first.
 
-I then removed $10$ participants who did not provide correct responses on $75\%$ ($6/8)$ of the catch trials from the circle phase. To respond correctly, participants needed to estimate the largest rectangle to be larger than the other two rectangles in the trial. This left a total of 443 participants in the experiment.
+First, all trials where at least one circle was not adjusted (i.e.,
+at least one circle was left at the starting size) were removed. Given the discrepancy between the starting circle area ($78\text{px}^2$) and the smallest rectangle area shown in the experiment ($3,136\text{px}^2$), these are unlikely to be representative of any participant's true perception of rectangle area.
 
-Next, from the remaining participants, I first natural log-transformed all responses. I then dropped all trials where at least one circle was not adjusted (i.e., at least one circle was left at the starting size).
+Next, outlier participants were removed, followed by outlier trials from the remaining participants. An outlier participant is a participant is one whose responses are substantially different from most other participants, while an outlier trial is a trial, from a valid participant, which differs substantially from the rest of a given participant's trials. Outlier participants were first removed, and then outlier trials were removed from the remaining participants.
 
-I then removed outlier participants using the following procedure:
+Outlier participants were identified and removed using the following procedure:
 
-I fit a linear regression to each individual participants' data, regressing each log circle area on each corresponding log rectangle area. I then computed an $R^2$ for each participant. I then removed all participants whose $R^2$ fell below the $5\%$ quantile for all $R^2$s, which in this case was $.3975$. This removed $23$ participants, leaving $N=420$ participants, $213 $in the triangle display condition and $207$ in the horizontal display condition. Of the remaining participants, $R^2$ values were high ($M=.67,SD=.12$), indicating that participants could generally perform the task.
+Each individual participant's data were log-transformed\footnote{This was done to reduce the skewness observed in the raw data.}. Each participant's data were then fit to a linear regression, regressing each log circle area on each corresponding log rectangle area. Participants whose corresponding $R^2$ value fell below the $5\%$ quantile for all $R^2$s ($.3975$ in this case) were removed from all analysis. The $5\%$ quantile was chosen arbitrarily as a conservative threshold to ensure maximum participant retention while removing outliers. 
 
-From the $420$ partipants whose data I analyzed, I removed outlier trials from the critical trial data. I did so to ensure that any outliers do not influence estimates of $\rho_{TD}$, $\rho_{TC}$, or $\rho_{CD}$. I z-transformed all log circle areas within each participant and diagonal. I remove all critical trials where at least one z-score had an absolute value above $3.5$, dropping a total of $102$ trials. I dropped $0$, $1$, $2$, and $4$ critical trials from $339$, $62$, $18$, and $1$ participants, respectively. 
+This procedure removed $23$ participants, leaving $N=420$ participants, $213$ in the triangle display condition and $207$ in the horizontal display condition. Of the remaining participants, $R^2$ values were high ($M=.67,SD=.12$), indicating that participants could generally perform the task.
 
-After all circle phase data processing, I was left with $20371$ data points in the triangle display condition and $19809$ data points in the horizontal display condition, where a data point is a vector of the participant's estimated target, competitor, and decoy areas on a given trial. Note that it is crucial to collect a large amount of data here, as performing Bayesian inference on correlation matrices is prone to underestimation if data are limited \parencite{martin2021,merkle2023opaque}. 
+Next, outier trials were identified and removed using the following procedure:
 
-For the choice phase, I only retained participants whose data I retained in the circle phase. All choice trials with RTs $<100\text{ms}$ or $>10,000\text{ms}$ were removed from analysis.
+From the $420$ partipants whose data were analyzed, outlier trials were removed from the critical trial data. All data points were then z-transformed within each participant and diagonal\footnote{This was done solely for the removal of outliers, not for the substantive analysis that followed.}. All critical trials with at least one z-score with an absolute value above $3.5$ were dropped, removing a total of $102$ trials. This removed $0$, $1$, $2$, and $4$ critical trials from $339$, $62$, $18$, and $1$ participants, respectively. This left $20371$ data points in the triangle display condition and $19809$ data points in the horizontal display condition, where a data point is a vector of the participant's estimated target, competitor, and decoy areas on a given trial. 
 
-\subsubsection{Circle Phase Results}
-Before modeling the data, I first assessed performance on the critical trials. While in an absolute sense, excellent performance is quite difficult to achieve, good relative performance is necessary for the modeling analysis. I computed the mean difference between actual log area and estimated log area for each subject, stimulus pair (i.e., target-competitor, target-decoy, competitor-decoy), and actual difference. I plot these via a set of boxplots in Figure~\ref{fig:circle_boxplots}. Although participants vary considerably in their judgments, I found that on average, participants' adjusted circle areas increase with the absolute size of rectangles. 
+Only those participants whose data were retained in the circle adjustment phase were retained in the choice phase. 
+
+\subsubsection{Circle Adjustment Phase Results}
+
+First, it is important to show that participants could adequately perform the adjustment task. The mean difference between actual log area and estimated log area was computed for each participant, stimulus pair (i.e., target-competitor, target-decoy, competitor-decoy), and actual difference. These results are plotted in Figure~\ref{fig:circle_boxplots}. The x axis shows the actual difference between areas, while the y axis shows the estimated difference in areas according to participants' judgments. Participants' judgments varied considerably along the y axis, but on average, the estimated difference increased with the actual difference. 
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg}
-   \caption{Experiment 2 boxplots of subject-level mean error in log-transformed area estimations, split by stimulus pair, TDD, and absolute discrepancy in rectangle area. Note that because the target and competitor rectangles always had equal areas, the true difference is always 0.}
+   \caption{Experiment 2 plots of subject-level mean error in log-transformed area estimations, split by stimulus pair (e.g., target-decoy), TDD, and actual difference in rectangle area. Because the difference in physical area at a given TDD differed across the three diagonals, there are three plots per each TDD level. Note that because the target and competitor rectangles always had equal areas, the true difference is always 0.}
    \label{fig:circle_boxplots}
 \end{figure}
 
-I next present scatterplots of all pairwise circle areas from each trial, see Figure~\ref{fig:raw_cors}. I present these to be transparent about the raw data and to illustrate the necessity of a statistical model to understand these correlations. 
+Next scatterplots of all pairwise circle area estimations are shown in Figure~\ref{fig:raw_cors}. 
+
+I also computed correlation coefficients in each display condition. For the triangle condition, $r_{td}=.61$, $r_{cd}=.54$, and $r_{tc}=.55$. For the horizontal condition, $r_{td}=.66$, $r_{cd}=.56$, and $r_{tc}=.57$. In both conditions, the target-decoy correlation is stronger than both the competitor-decoy and the target-decoy correlations. 
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/circleAreaPhase_cor_plot_all_no_outliers.jpg}
-   \caption{Scatterplots of target-competitor (A), target-decoy (B), and competitor-decoy (C) log estimated areas, split by display condition and TDD.}
+   \caption{Scatterplots of target-decoy (left), competitor-decoy (middle), and target-competitor (right) log estimated areas, split by display condition (columns) and TDD (rows).}
    \label{fig:raw_cors}
 \end{figure}
 
-Computing raw correlations, without accounting for subject-level differences, will grossly inflate the size of these correlations. Moreover, any differences between, say, $\rho_{TD}$ and $\rho_{CD}$ are bound to be small. Additionally, performing inferences about the differences between correlations requires Bayesian inference. 
+Bayesian hierarchical modeling was used to estimate the parameters of the Thurstonian perceptual model introduced earlier, as well as perform inference on the means and correlations. Though the descriptive parameter estimates are also reported, the Bayesian analysis allows us to obtain posterior distributions on each relevant parameter and compare the range of plausible values across parameters. Furthermore, Bayesian hierarchical modeling also takes into account participant-level differences in area estimation. Finally, rather then separately perform compute descriptive statistics for the relevant components of a multivariate Gaussian, the Bayesian analysis allows us to model the obtained area estimations as coming from a single multivariate Gaussian distribution.
 
-I used Bayesian hierarchical modeling to estimate the parameters of the perceptual model outlined earlier in this chapter. Parameters $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ represent the mean and variance-covariance matrix of a multivariate normal distribution on the perceived areas across trials. 
+The main text contains estimates of $\boldsymbol{\mu}$ and $\boldsymbol{\Omega}$ in the main text, while the details of the estimation procedure, are found in the Appendix.
 
-I assume that, for participant $i$, on each critical trial $j$, the vector of perceived target, competitor, and decoy areas $\mathbf{X_{ij}}$ is sampled from a multivariate normal distribution with mean vector $\boldsymbol{\mu_{ij}}$ and variance-covariance matrix $\boldsymbol{\Sigma}$. 
-
-As discussed in the Introduction, I compute $\boldsymbol{\Sigma}$ by $S\boldsymbol{\Omega}S$, where the diagonal elements of $S$ are population standard deviations and the off diagonal elements are $0$. $\boldsymbol{\Omega}$ is $3 x 3$ correlation matrix. Note that there are no participant-level effects in the estimates of $\boldsymbol{\Omega}$.
-
-I focus on the estimates of $\boldsymbol{\mu}$ and $\boldsymbol{\Omega}$ in the main text and discuss the details of the estimation procedure, along with $S$ estimates, in the Appendix. 
-
-I show mean estimates of $\boldsymbol{\mu}$ (averaged across participants) in Figure~\ref{fig:e2mu} and show estimates of $\boldsymbol{\Omega}$ in Figure~\ref{fig:e2_omega}. As predictd, in both conditions, $\rho_{TD}$ is larger than both $\rho_{CD}$ and $\rho_{TC}$, while $\rho_{CD}$ and $\rho_{TC}$ do not differ from each other. Interestingly, all $\rho$ parameters from the horizontal condition are larger than the corresponding parameters from the triangle condition. These inferences should, however, be taken cautiously given that I fit the model separately to each condition.
+Estimates of the $\boldsymbol{\mu}$ components (averaged across participants) are plotted in Figure~\ref{fig:e2mu}. Estimates of $\boldsymbol{\Omega}$ components (the correlations) are plotted in Figure~\ref{fig:e2_omega}. As predictd, in both conditions, $\rho_{TD}$ is larger than both $\rho_{CD}$ and $\rho_{TC}$, while $\rho_{CD}$ and $\rho_{TC}$ do not differ from each other. Interestingly, all $\rho$ parameters from the horizontal condition are larger than the corresponding parameters from the triangle condition. These inferences should, however, be taken cautiously given that the model was fit separately to each condition. 
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg}
@@ -383,15 +434,17 @@ I show mean estimates of $\boldsymbol{\mu}$ (averaged across participants) in Fi
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg}
-   \caption{Experiment 2 posterior estimates of $\boldsymbol{\Omega}$ off-diagonal parameters across display conditions. Lines show $95\%$ HDIs.  Dots indicate means.}
+   \caption{Experiment 2 posterior estimates of $\boldsymbol{\Omega}$ off-diagonal parameters across display conditions. Lines show $95\%$ HDIs. Dots indicate means.}
    \label{fig:e2_omega}
 \end{figure}
 
-\subsubsection{Choice Results}
+\subsubsection{Choice Phase Results}
 
-I present mean choice proportions across display conditions and TDD in Figure~\ref{fig:e2_choiceprops}. 
+In each trial of the choice phase, participants saw three rectangles and selected the rectangle with the largest area. This was a replication of \textcite{spektorWhenGoodLooks2018b}.
 
-I replicated the qualitative results of \textcite{spektorWhenGoodLooks2018b}. At low levels of TDD, I find a repulsion effect in both display conditions, where participants reliably choose the competitor more than the target. At higher levels of TDD, I either find a small repulsion effect, where $P(C)>P(T)$ (triangle condition) or an attraction effect, where $P(T)>P(C)$ (horizontal condition). See the Appendix for inferential statistics that support these conclusions.
+Mean choice proportions across display condition and TDD are plotted in Figure~\ref{fig:e2_choiceprops}. 
+
+At low levels of TDD, the data show a repulsion effect in both display conditions, where participants reliably choose the competitor more than the target. At higher levels of TDD, there was either a small repulsion effect (triangle condition) or an attraction effect  (horizontal condition). See the Appendix for inferential statistics that support these conclusions. These data replicate the qualitative results of \textcite{spektorWhenGoodLooks2018b}.
 
 \begin{figure}
    \includegraphics[width=\textwidth]{figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg}
@@ -448,11 +501,7 @@ The correlation between target and decoy perceptions is worth exploring further.
 
 Furthermore, modern psychological models of context effects often assume an attribute-wise comparison process \parencite{roeMultialternativeDecisionField2001a,trueblood2013not,usherLossAversionInhibition2004a,bhatiaAssociationsAccumulationPreference2013b}. Under this class of models, participants arrive at a decision by comparing pairs of options on a single attribute, where the modeller assumes attribute values are veridical. This assumption is quite reasonable when modeling choices where each attribute is presented separately and discriminability issues are minimal or non-existent. In perceptual choice experiments like those presented here or in \textcite{spektorWhenGoodLooks2018b,trueblood2013not}, these assumptions are likely incorrect. However, the general modeling framework, where inter-stimulus comparison leads to preference, which then leads to choice, is still plausible.
 
-Other researchers have suggested that correlated valuations as a measure of similarity. Multialternative Decision Field Theory (MDFT) \parencite{roeMultialternativeDecisionField2001a} relies on within-trial correlations between similar options to produce the similarity effect, though this mechanism is distinct from the current model, which relies on \textit{across-trial} correlated valuations. 
-
-\textcite{natenzon2019random} implemented a Bayesian probit model, in which participants are assumed to sample from a multivariate normal distribution on each trial, with the correlation between options being related to their similarity in multiattribute space. \textcite{natenzon2019random} also suggested that similarity is related to ease of comparability. They fitted the model to frog mating choice data and showed that not only can the model explain choice reversals (i.e., context effects), but the estimated correlations between pairs of options were greater for options closer in multiattribute space. 
-
-\textcite{kamakura1984predicting} incorporated correlations into a multivariate choice model. According to their model, options in a choice set have utilities which are distributed multivariate normal, with non-zero correlations. The correlations are a decreasing function of distance in attribute space. The researchers fit the model to choice data and show that it can account for the similarity effect in choice (i.e., where two similar options "split" choice shares). Future research should consider whether a model whose correlations are based on directly estimated correlations can predict the similarity effect. 
+Other researchers have suggested that correlated valuations as a measure of similarity \parencite{kamakura1984predicting,natenzon2019random}. Multialternative Decision Field Theory (MDFT) \parencite{roeMultialternativeDecisionField2001a} relies on within-trial correlations between similar options to produce the similarity effect, though this mechanism is distinct from the current model, which relies on \textit{across-trial} correlated valuations. 
 
 \textcite{bhui2021rational} showed that target and decoy valuations may be correlated, and they further argued that the repulsion effect is rational given a consumer's belief that the target and decoy come from the same distribution (e.g., two products from the same brand). \textcite{bhui2024context} similarly argued that context effects can be rational given limited information about options in a choice set. 
 
