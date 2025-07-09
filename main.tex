@@ -1,4 +1,21 @@
-%% 
+\documentclass[dissertation]{umassthesis}          % for Ph.D. dissertation or proposal
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{soul}
+\usepackage[hidelinks]{hyperref}
+
+%% One way of formatting the epigraph/frontispiece is to use this package.
+\usepackage{epigraph}
+\usepackage[style=apa,backend=biber,uniquename=false,maxcitenames=2,maxbibnames=99]{biblatex}
+\addbibresource{Papers.bib}
+\begin{document}
 %% This is a sample doctoral dissertation.  It shows the appropriate
 %% structure for your dissertation.  It should handle most of the
 %% strange requirements imposed by the Grad school; like the different
@@ -86,37 +103,18 @@
 %%                     the final version
 %% umassthesis changes the default font size to 12pt, but you may specify 10pt or
 %%   11pt in the options.
-\documentclass[dissertation]{umassthesis}          % for Ph.D. dissertation or proposal
-\usepackage{xcolor}
-\usepackage{float}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage[hidelinks]{hyperref}
-\usepackage{graphicx}
-\usepackage{booktabs}
-\usepackage{multirow}
-\usepackage{soul}
-
-\usepackage[style=apa,backend=biber,uniquename=false,maxcitenames=2,maxbibnames=99]{biblatex}
-\addbibresource{Papers.bib}
-\begin{document}
-% \documentclass[thesis]{umassthesis}  % for Master's thesis
-
 %%
 %% If you have enough figures or tables that you run out of space for their
 %% numbers in the List of Tables or List of figures, you can use the following
 %% command to adjust the space left for numbers.  The default is shown:
 %%
-%% \setlength{\tablenumberwidth}{2.3em}
+\setlength{\tablenumberwidth}{2.3em}
 
 %% Use the hyperref package if you're producing a version for online
 %% distribution and you want hyperlinks.  Note that the Grad School doesn't want
 %% their PDF viewers to colorize or otherwise highlight the links; use the
 %% hidelinks option to hyperref to avoid decorating links.
-%\usepackage[hidelinks]{hyperref}
 
-%% One way of formatting the epigraph/frontispiece is to use this package.
-%\usepackage{epigraph}
 
 %%
 %% You must fill in all of these appropriately
@@ -192,8 +190,8 @@
 
 %%
 %% Acknowledgements are optional...yeah, right.
-%\chapter{Acknowledgments}             % Acknowledgements page
-%\input{acknowledgments.tex}
+\chapter{Acknowledgments}             % Acknowledgements page
+\input{acknowledgments.tex}
 
 %%
 %% Abstract is MANDATORY. -- Except for MS theses
@@ -234,15 +232,15 @@
 \label{introduction}
 \input{introduction.tex}
 
-\chapter{Parsing the Roles of Perception and Decision in Context-Dependent Choice}
+\chapter{Correlated Valuations as a Mechanism for the Repulsion Effect}
 \label{chapter_2}
 \input{chapter2.tex}
 
-\chapter{Extending a Perceptual Model to Best-Worst Choice}
+\chapter{Violations of Independence in Best-Worst Choice}
 \label{chapter_3}
 \input{chapter3.tex}
 
-\chapter{Valuations and Correlations in Preferential Choice}
+\chapter{Correlated Valuations in Preferential Choice}
 \label{chapter_4}
 \input{chapter4.tex}
 

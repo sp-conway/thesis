@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  9 JUN 2025 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.20)  8 JUL 2025 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -267,4 +267,1434 @@ Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Packag
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count292
+\@cmidlb=\count293
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count294
+\@lastruleclass=\count295
+\@thisrulewidth=\dimen168
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count296
+\multirow@dima=\skip59
+\bigstrutjot=\dimen169
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks25
+\SOUL@lasttoken=\toks26
+\SOUL@syllable=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@syllgoal=\dimen170
+\SOUL@syllwidth=\dimen171
+\SOUL@charkern=\dimen172
+\SOUL@hyphkern=\dimen173
+\SOUL@dimen=\dimen174
+\SOUL@dimeni=\dimen175
+\SOUL@minus=\count297
+\SOUL@comma=\count298
+\SOUL@apo=\count299
+\SOUL@grave=\count300
+\SOUL@spaceskip=\skip60
+\SOUL@ttwidth=\dimen176
+\SOUL@uldp=\dimen177
+\SOUL@ulht=\dimen178
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip61
+\afterepigraphskip=\skip62
+\epigraphwidth=\skip63
+\epigraphrule=\skip64
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count301
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count302
+\c@listtotal=\count303
+\c@listcount=\count304
+\c@liststart=\count305
+\c@liststop=\count306
+\c@citecount=\count307
+\c@citetotal=\count308
+\c@multicitecount=\count309
+\c@multicitetotal=\count310
+\c@instcount=\count311
+\c@maxnames=\count312
+\c@minnames=\count313
+\c@maxitems=\count314
+\c@minitems=\count315
+\c@citecounter=\count316
+\c@maxcitecounter=\count317
+\c@savedcitecounter=\count318
+\c@uniquelist=\count319
+\c@uniquename=\count320
+\c@refsection=\count321
+\c@refsegment=\count322
+\c@maxextratitle=\count323
+\c@maxextratitleyear=\count324
+\c@maxextraname=\count325
+\c@maxextradate=\count326
+\c@maxextraalpha=\count327
+\c@abbrvpenalty=\count328
+\c@highnamepenalty=\count329
+\c@lownamepenalty=\count330
+\c@maxparens=\count331
+\c@parenlevel=\count332
+\blx@tempcnta=\count333
+\blx@tempcntb=\count334
+\blx@tempcntc=\count335
+\c@blx@maxsection=\count336
+\blx@maxsegment@0=\count337
+\blx@notetype=\count338
+\blx@parenlevel@text=\count339
+\blx@parenlevel@foot=\count340
+\blx@sectionciteorder@0=\count341
+\blx@sectionciteorderinternal@0=\count342
+\blx@entrysetcounter=\count343
+\blx@biblioinstance=\count344
+\labelnumberwidth=\skip65
+\labelalphawidth=\skip66
+\biblabelsep=\skip67
+\bibitemsep=\skip68
+\bibnamesep=\skip69
+\bibinitsep=\skip70
+\bibparsep=\skip71
+\bibhang=\skip72
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language89
+\c@mincomprange=\count345
+\c@maxcomprange=\count346
+\c@mincompwidth=\count347
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count348
+\c@savedafterword=\count349
+\c@annotator=\count350
+\c@savedannotator=\count351
+\c@author=\count352
+\c@savedauthor=\count353
+\c@bookauthor=\count354
+\c@savedbookauthor=\count355
+\c@commentator=\count356
+\c@savedcommentator=\count357
+\c@editor=\count358
+\c@savededitor=\count359
+\c@editora=\count360
+\c@savededitora=\count361
+\c@editorb=\count362
+\c@savededitorb=\count363
+\c@editorc=\count364
+\c@savededitorc=\count365
+\c@foreword=\count366
+\c@savedforeword=\count367
+\c@holder=\count368
+\c@savedholder=\count369
+\c@introduction=\count370
+\c@savedintroduction=\count371
+\c@namea=\count372
+\c@savednamea=\count373
+\c@nameb=\count374
+\c@savednameb=\count375
+\c@namec=\count376
+\c@savednamec=\count377
+\c@translator=\count378
+\c@savedtranslator=\count379
+\c@shortauthor=\count380
+\c@savedshortauthor=\count381
+\c@shorteditor=\count382
+\c@savedshorteditor=\count383
+\c@narrator=\count384
+\c@savednarrator=\count385
+\c@execproducer=\count386
+\c@savedexecproducer=\count387
+\c@execdirector=\count388
+\c@savedexecdirector=\count389
+\c@with=\count390
+\c@savedwith=\count391
+\c@labelname=\count392
+\c@savedlabelname=\count393
+\c@institution=\count394
+\c@savedinstitution=\count395
+\c@lista=\count396
+\c@savedlista=\count397
+\c@listb=\count398
+\c@savedlistb=\count399
+\c@listc=\count400
+\c@savedlistc=\count401
+\c@listd=\count402
+\c@savedlistd=\count403
+\c@liste=\count404
+\c@savedliste=\count405
+\c@listf=\count406
+\c@savedlistf=\count407
+\c@location=\count408
+\c@savedlocation=\count409
+\c@organization=\count410
+\c@savedorganization=\count411
+\c@origlocation=\count412
+\c@savedoriglocation=\count413
+\c@origpublisher=\count414
+\c@savedorigpublisher=\count415
+\c@publisher=\count416
+\c@savedpublisher=\count417
+\c@language=\count418
+\c@savedlanguage=\count419
+\c@origlanguage=\count420
+\c@savedoriglanguage=\count421
+\c@citation=\count422
+\c@savedcitation=\count423
+\c@pageref=\count424
+\c@savedpageref=\count425
+\shorthandwidth=\skip73
+\shortjournalwidth=\skip74
+\shortserieswidth=\skip75
+\shorttitlewidth=\skip76
+\shortauthorwidth=\skip77
+\shorteditorwidth=\skip78
+\locallabelnumberwidth=\skip79
+\locallabelalphawidth=\skip80
+\localshorthandwidth=\skip81
+\localshortjournalwidth=\skip82
+\localshortserieswidth=\skip83
+\localshorttitlewidth=\skip84
+\localshortauthorwidth=\skip85
+\localshorteditorwidth=\skip86
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count426
+\c@textcitetotal=\count427
+\c@textcitemaxnames=\count428
+\c@biburlbigbreakpenalty=\count429
+\c@biburlbreakpenalty=\count430
+\c@biburlnumpenalty=\count431
+\c@biburlucpenalty=\count432
+\c@biburllcpenalty=\count433
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count434
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count435
+\c@bbx:relatedtotal=\count436
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2023/03/20 v9.17 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count437
+\l__pdf_internal_box=\box55
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-02-20 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+Disabled uppercase in PDF strings
+\@quotelevel=\count438
+\@quotereset=\count439
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count440
+\scratchdimen=\dimen179
+\scratchbox=\box56
+\nofMPsegments=\count441
+\nofMParguments=\count442
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count443
+\MPscratchDim=\dimen180
+\MPnumerator=\count444
+\makeMPintoPDFobject=\count445
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 18.
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                becker
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
+ [1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 145.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 145.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+\lenguide=\skip87
+ [3
+
+] (./acknowledgments.tex) [4
+
+] (./abstract.tex) [5
+
+
+] [6]
+No file main.toc.
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+[7
+
+]
+No file main.lot.
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+[8
+
+]
+No file main.lof.
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+[9
+
+]
+Chapter 1.
+(./introduction.tex [1
+
+
+] [2]
+
+LaTeX Warning: Reference `fig:fig_opts' on page 3 undefined on input line 20.
+
+
+LaTeX Warning: Reference `fig:fig_opts' on page 3 undefined on input line 24.
+
+<figures/att_stim.jpg, id=82, 1476.51625pt x 1499.6025pt>
+File: figures/att_stim.jpg Graphic file (type jpg)
+<use figures/att_stim.jpg>
+Package pdftex.def Info: figures/att_stim.jpg  used on input line 29.
+(pdftex.def)             Requested size: 433.62pt x 440.38817pt.
+[3] [4 <./figures/att_stim.jpg>]
+
+LaTeX Warning: Reference `fig:att_stim' on page 5 undefined on input line 57.
+
+[5] [6]
+
+LaTeX Warning: Reference `fig:att_stim' on page 7 undefined on input line 82.
+
+[7]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 ...ording to MDFT, the valence \boldsymbol{V}
+                                                   of each option at time $t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\math@atom #1#2->\binrel@ {#1}\binrel@@ {#2}
+                                            
+l.90 ...ording to MDFT, the valence \boldsymbol{V}
+                                                   of each option at time $t...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 ...ording to MDFT, the valence \boldsymbol{V}
+                                                   of each option at time $t...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 ...ording to MDFT, the valence \boldsymbol{V}
+                                                   of each option at time $t...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[8]
+
+LaTeX Warning: Reference `fig:att_stim' on page 9 undefined on input line 115.
+
+[9]) [10]
+Chapter 2.
+(./chapter2.tex
+<figures/pref_v_percep.jpg, id=198, 3431.82124pt x 1701.35625pt>
+File: figures/pref_v_percep.jpg Graphic file (type jpg)
+<use figures/pref_v_percep.jpg>
+Package pdftex.def Info: figures/pref_v_percep.jpg  used on input line 8.
+(pdftex.def)             Requested size: 433.62pt x 214.95354pt.
+ [11
+
+] [12 <./figures/pref_v_percep.jpg>]
+
+LaTeX Warning: Reference `fig:fig_opts' on page 13 undefined on input line 26.
+
+[13]
+<figures/spektor_stim.png, id=274, 3215.01125pt x 1590.94376pt>
+File: figures/spektor_stim.png Graphic file (type png)
+<use figures/spektor_stim.png>
+Package pdftex.def Info: figures/spektor_stim.png  used on input line 38.
+(pdftex.def)             Requested size: 433.62pt x 214.57393pt.
+
+
+LaTeX Warning: Reference `fig:spektor_stim' on page 14 undefined on input line 43.
+
+
+LaTeX Warning: Reference `fig:spektor_data' on page 14 undefined on input line 43.
+
+[14]
+
+LaTeX Warning: Reference `fig:spektor_stim' on page 15 undefined on input line 45.
+
+<figures/spektor_data_collapsed.jpeg, id=290, 2609.75pt x 2007.5pt>
+File: figures/spektor_data_collapsed.jpeg Graphic file (type jpg)
+<use figures/spektor_data_collapsed.jpeg>
+Package pdftex.def Info: figures/spektor_data_collapsed.jpeg  used on input line 50.
+(pdftex.def)             Requested size: 433.62pt x 333.55124pt.
+[15 <./figures/spektor_stim.png>] [16 <./figures/spektor_data_collapsed.jpeg>] [17]
+
+LaTeX Warning: Reference `fig:spektor_data' on page 18 undefined on input line 63.
+
+[18] [19] [20] [21]
+
+LaTeX Warning: Reference `fig:e1_tc' on page 22 undefined on input line 109.
+
+<figures/2afc_tc_choices.jpeg, id=372, 1505.625pt x 1806.75pt>
+File: figures/2afc_tc_choices.jpeg Graphic file (type jpg)
+<use figures/2afc_tc_choices.jpeg>
+Package pdftex.def Info: figures/2afc_tc_choices.jpeg  used on input line 112.
+(pdftex.def)             Requested size: 433.62pt x 520.33258pt.
+
+LaTeX Warning: Reference `fig:e1_data' on page 22 undefined on input line 119.
+
+<figures/m14_model_preds_v_data.jpeg, id=373, 2509.375pt x 2007.5pt>
+File: figures/m14_model_preds_v_data.jpeg Graphic file (type jpg)
+<use figures/m14_model_preds_v_data.jpeg>
+Package pdftex.def Info: figures/m14_model_preds_v_data.jpeg  used on input line 122.
+(pdftex.def)             Requested size: 433.62pt x 346.87613pt.
+
+LaTeX Warning: Reference `fig:spektor_data' on page 22 undefined on input line 129.
+
+[22] [23 <./figures/2afc_tc_choices.jpeg>] [24 <./figures/m14_model_preds_v_data.jpeg>]
+
+LaTeX Warning: Reference `fig:spektor_data' on page 25 undefined on input line 156.
+
+[25] [26] [27] [28] [29] [30]
+
+LaTeX Warning: Reference `fig:3d_model' on page 31 undefined on input line 237.
+
+
+LaTeX Warning: Reference `fig:3d_model' on page 31 undefined on input line 239.
+
+[31]
+<figures/3d_sim_rst.jpg, id=463, 3011.25pt x 3011.25pt>
+File: figures/3d_sim_rst.jpg Graphic file (type jpg)
+<use figures/3d_sim_rst.jpg>
+Package pdftex.def Info: figures/3d_sim_rst.jpg  used on input line 246.
+(pdftex.def)             Requested size: 433.62pt x 433.61049pt.
+ [32] [33 <./figures/3d_sim_rst.jpg>]
+
+LaTeX Warning: Reference `fig:3d_model' on page 34 undefined on input line 265.
+
+[34] [35]
+
+LaTeX Warning: Reference `fig:e2_stim' on page 36 undefined on input line 286.
+
+<figures/circle_exp_stim_plot.jpeg, id=497, 1204.5pt x 1204.5pt>
+File: figures/circle_exp_stim_plot.jpeg Graphic file (type jpg)
+<use figures/circle_exp_stim_plot.jpeg>
+Package pdftex.def Info: figures/circle_exp_stim_plot.jpeg  used on input line 289.
+(pdftex.def)             Requested size: 433.62pt x 433.61967pt.
+
+LaTeX Warning: Reference `fig:e2_stim' on page 36 undefined on input line 298.
+
+
+LaTeX Warning: Reference `fig:e2_stim' on page 36 undefined on input line 298.
+
+[36] [37 <./figures/circle_exp_stim_plot.jpeg>]
+Overfull \hbox (23.57664pt too wide) in paragraph at lines 303--304
+[]\OT1/cmr/m/n/12 Across both phases, dis-play con-di-tion (tri-an-gle, hor-i-zon-tal) var-ied between-participants
+ []
+
+
+LaTeX Warning: Reference `fig:circle_exp_display' on page 38 undefined on input line 315.
+
+[38]
+<figures/circle_exp_display.jpg, id=518, 2009.5075pt x 2087.8pt>
+File: figures/circle_exp_display.jpg Graphic file (type jpg)
+<use figures/circle_exp_display.jpg>
+Package pdftex.def Info: figures/circle_exp_display.jpg  used on input line 318.
+(pdftex.def)             Requested size: 433.62pt x 450.49297pt.
+ [39] [40 <./figures/circle_exp_display.jpg>] [41] [42]
+
+LaTeX Warning: Reference `fig:circle_boxplots' on page 43 undefined on input line 365.
+
+<figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg, id=545, 1806.75pt x 1505.625pt>
+File: figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg Graphic file (type jpg)
+<use figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg>
+Package pdftex.def Info: figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg  used on input line 368.
+(pdftex.def)             Requested size: 433.62pt x 361.33441pt.
+
+LaTeX Warning: Reference `fig:raw_cors' on page 43 undefined on input line 373.
+
+<figures/circleAreaPhase_cor_plot_all_no_outliers.jpg, id=546, 2409.0pt x 1505.625pt>
+File: figures/circleAreaPhase_cor_plot_all_no_outliers.jpg Graphic file (type jpg)
+<use figures/circleAreaPhase_cor_plot_all_no_outliers.jpg>
+Package pdftex.def Info: figures/circleAreaPhase_cor_plot_all_no_outliers.jpg  used on input line 378.
+(pdftex.def)             Requested size: 433.62pt x 271.00081pt.
+
+Overfull \hbox (2.65742pt too wide) in paragraph at lines 383--384
+[]\OT1/cmr/m/n/12 Bayesian hi-er-ar-chi-cal mod-el-ing was used to es-ti-mate the pa-ram-e-ters of the Thursto-
+ []
+
+[43] [44 <./figures/circleAreaPhase_boxplot_meanlogdiffs_no_outliers.jpeg>] [45 <./figures/circleAreaPhase_cor_plot_all_no_outliers.jpg>]
+Overfull \hbox (7.2093pt too wide) in paragraph at lines 389--390
+\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 34$,\OT1/cmr/m/it/12 SD$\OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 002$,$95%[]$ $[0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 334\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 340]$, $\OML/cmm/m/it/12 ^^[[]$\OT1/cmr/m/n/12 :\OT1/cmr/m/it/12 M$\OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 34$,\OT1/cmr/m/it/12 SD$\OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 002$,$95%[]$ $[0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 338\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 345]$,
+ []
+
+
+LaTeX Warning: Reference `fig:e2mu' on page 46 undefined on input line 391.
+
+[46]
+
+LaTeX Warning: Reference `fig:e2mu' on page 47 undefined on input line 393.
+
+
+Overfull \hbox (3.83241pt too wide) in paragraph at lines 393--394
+[]\OT1/cmr/m/n/12 Focusing solely on the tar-get and com-peti-tor means, an in-ter-est-ing pat-tern emerges.
+ []
+
+
+LaTeX Warning: Reference `fig:e2_omega' on page 47 undefined on input line 397.
+
+[47]
+<figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg, id=575, 7227.0pt x 3212.0pt>
+File: figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg Graphic file (type jpg)
+<use figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg>
+Package pdftex.def Info: figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg  used on input line 404.
+(pdftex.def)             Requested size: 284.52756pt x 126.44865pt.
+<figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg, id=576, 1505.625pt x 903.375pt>
+File: figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg Graphic file (type jpg)
+<use figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg>
+Package pdftex.def Info: figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg  used on input line 410.
+(pdftex.def)             Requested size: 284.52756pt x 170.71948pt.
+
+
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 48 undefined on input line 419.
+
+[48] [49 <./figures/bayes_circle_area_mu_sigma_constant_comp_effect_model_v_data_collapsed.jpeg> <./figures/bayes_circle_area_sigma_constant_comp_effect_omega_plot.jpeg>]
+
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 50 undefined on input line 423.
+
+
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 50 undefined on input line 425.
+
+<figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg, id=589, 3613.5pt x 1806.75pt>
+File: figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg Graphic file (type jpg)
+<use figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg>
+Package pdftex.def Info: figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg  used on input line 428.
+(pdftex.def)             Requested size: 433.62pt x 216.80064pt.
+[50 <./figures/choicePhase_att_trials_mean_choice_props_collapsed.jpg>]
+
+LaTeX Warning: Reference `fig:e2_choice_compare_to_2afc' on page 51 undefined on input line 435.
+
+
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 51 undefined on input line 435.
+
+<figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg, id=595, 1505.625pt x 1505.625pt>
+File: figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg Graphic file (type jpg)
+<use figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg>
+Package pdftex.def Info: figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg  used on input line 440.
+(pdftex.def)             Requested size: 433.62pt x 433.61049pt.
+
+LaTeX Warning: Reference `fig:e2mu' on page 51 undefined on input line 448.
+
+[51] [52 <./figures/choicePhase_att_trials_compare_to_2afc_collapsed.jpeg>]
+
+LaTeX Warning: Reference `fig:e2_model_preds' on page 53 undefined on input line 450.
+
+
+LaTeX Warning: Reference `fig:3d_model' on page 53 undefined on input line 450.
+
+
+LaTeX Warning: Reference `fig:3d_model' on page 53 undefined on input line 450.
+
+<figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg, id=608, 3613.5pt x 1806.75pt>
+File: figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg Graphic file (type jpg)
+<use figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg>
+Package pdftex.def Info: figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg  used on input line 453.
+(pdftex.def)             Requested size: 433.62pt x 216.80064pt.
+[53 <./figures/bayes_circle_area_sim_choice_sigma_constant_comp_effect.jpeg>] [54] [55]
+
+LaTeX Warning: Reference `fig:sim_orderings' on page 56 undefined on input line 480.
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 480--481
+[]\OT1/cmr/m/n/12 Next, the Thursto-nian model was sim-u-lated us-ing each set of pa-ram-e-ters. $1\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 000\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 000$
+ []
+
+<figures/sim_mvnorm_rank.jpeg, id=632, 903.375pt x 1053.9375pt>
+File: figures/sim_mvnorm_rank.jpeg Graphic file (type jpg)
+<use figures/sim_mvnorm_rank.jpeg>
+Package pdftex.def Info: figures/sim_mvnorm_rank.jpeg  used on input line 483.
+(pdftex.def)             Requested size: 284.52756pt x 331.94383pt.
+
+LaTeX Warning: Reference `fig:sim_orderings' on page 56 undefined on input line 488.
+
+[56 <./figures/sim_mvnorm_rank.jpeg>]
+
+LaTeX Warning: Reference `fig:sim_orderings' on page 57 undefined on input line 490.
+
+
+Overfull \hbox (0.3548pt too wide) in paragraph at lines 496--497
+[]\OT1/cmr/m/n/12 Multialternative De-ci-sion Field The-ory (MDFT) ([]Roe et al., []2001[]) re-lies on within-
+ []
+
+[57] [58] [59]) [60]
+Chapter 3.
+(./chapter3.tex [61
+
+]
+
+LaTeX Warning: Reference `eqn:maxdiff_equation' on page 62 undefined on input line 17.
+
+[62]
+
+LaTeX Warning: Reference `fig:maxdiff_sim' on page 63 undefined on input line 35.
+
+<figures/maxdiff_sim_monotonic.jpeg, id=722, 903.375pt x 903.375pt>
+File: figures/maxdiff_sim_monotonic.jpeg Graphic file (type jpg)
+<use figures/maxdiff_sim_monotonic.jpeg>
+Package pdftex.def Info: figures/maxdiff_sim_monotonic.jpeg  used on input line 40.
+(pdftex.def)             Requested size: 426.79134pt x 426.79181pt.
+[63] [64 <./figures/maxdiff_sim_monotonic.jpeg>] [65]
+
+LaTeX Warning: Reference `fig:bw_sim' on page 66 undefined on input line 76.
+
+<figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg, id=748, 1806.75pt x 2409.0pt>
+File: figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg Graphic file (type jpg)
+<use figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg>
+Package pdftex.def Info: figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg  used on input line 78.
+(pdftex.def)             Requested size: 433.62pt x 578.13507pt.
+[66] [67 <./figures/bw_preds_sigma_constant_comp_effect_no_outliers.jpeg>] [68]
+
+LaTeX Warning: Reference `fig:e2_stim' on page 69 undefined on input line 107.
+
+
+LaTeX Warning: Reference `fig:e2_stim' on page 69 undefined on input line 109.
+
+[69]
+
+LaTeX Warning: Reference `fig:bw_example_trial' on page 70 undefined on input line 124.
+
+<figures/bw_design_fig.jpg, id=775, 2796.4475pt x 1973.3725pt>
+File: figures/bw_design_fig.jpg Graphic file (type jpg)
+<use figures/bw_design_fig.jpg>
+Package pdftex.def Info: figures/bw_design_fig.jpg  used on input line 127.
+(pdftex.def)             Requested size: 433.62pt x 305.99002pt.
+[70] [71 <./figures/bw_design_fig.jpg>]
+Overfull \hbox (22.7911pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/12 89\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 83%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 = 30\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 23)$, and the mean per-cent-age cor-rect for worst choices was $88\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 95%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (4.01418pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/12 41\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 35)$. The mean per-cent-age cor-rect for both best and worst choices was $80\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 95%(\OML/cmm/m/it/12 SD \OT1/cmr/m/n/12 =
+ []
+
+
+LaTeX Warning: Reference `fig:bw_mean_choice' on page 72 undefined on input line 154.
+
+<figures/crit_mean_props.jpeg, id=788, 1204.5pt x 1505.625pt>
+File: figures/crit_mean_props.jpeg Graphic file (type jpg)
+<use figures/crit_mean_props.jpeg>
+Package pdftex.def Info: figures/crit_mean_props.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 284.52756pt x 355.65984pt.
+[72] [73 <./figures/crit_mean_props.jpeg>]
+
+LaTeX Warning: Reference `fig:bw_mean_choice' on page 74 undefined on input line 164.
+
+<figures/crit_mean_props_by_dist.jpeg, id=803, 1204.5pt x 1806.75pt>
+File: figures/crit_mean_props_by_dist.jpeg Graphic file (type jpg)
+<use figures/crit_mean_props_by_dist.jpeg>
+Package pdftex.def Info: figures/crit_mean_props_by_dist.jpeg  used on input line 172.
+(pdftex.def)             Requested size: 284.52756pt x 426.79181pt.
+
+LaTeX Warning: Reference `eqn:maxdiff_equation' on page 74 undefined on input line 179.
+
+
+LaTeX Warning: Reference `fig:maxdiff_collapsed_preds' on page 74 undefined on input line 181.
+
+[74] [75 <./figures/crit_mean_props_by_dist.jpeg>]
+
+LaTeX Warning: Reference `fig:maxdiff_sub_preds' on page 76 undefined on input line 185.
+
+<figures/maxdiff_1_means_model_v_data.jpeg, id=815, 1806.75pt x 2409.0pt>
+File: figures/maxdiff_1_means_model_v_data.jpeg Graphic file (type jpg)
+<use figures/maxdiff_1_means_model_v_data.jpeg>
+Package pdftex.def Info: figures/maxdiff_1_means_model_v_data.jpeg  used on input line 187.
+(pdftex.def)             Requested size: 433.62pt x 578.13507pt.
+<figures/maxdiff_1_subjectmeans_model_v_data.jpeg, id=816, 2409.0pt x 2409.0pt>
+File: figures/maxdiff_1_subjectmeans_model_v_data.jpeg Graphic file (type jpg)
+<use figures/maxdiff_1_subjectmeans_model_v_data.jpeg>
+Package pdftex.def Info: figures/maxdiff_1_subjectmeans_model_v_data.jpeg  used on input line 193.
+(pdftex.def)             Requested size: 433.62pt x 433.6013pt.
+[76] [77 <./figures/maxdiff_1_means_model_v_data.jpeg>] [78 <./figures/maxdiff_1_subjectmeans_model_v_data.jpeg>] [79]) [80] [81]
+Chapter 4.
+(./chapter4.tex [82
+
+] [83]
+
+LaTeX Warning: Citation 'becker' on page 84 undefined on input line 18.
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 18.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 18.
+
+
+LaTeX Warning: Citation '' on page 84 undefined on input line 18.
+
+[84] [85] [86]
+
+LaTeX Warning: Reference `fig:banerjee_stim' on page 87 undefined on input line 38.
+
+
+LaTeX Warning: Reference `fig:banerjee_stim' on page 87 undefined on input line 40.
+
+<figures/banerjee_stim.jpeg, id=918, 903.375pt x 903.375pt>
+File: figures/banerjee_stim.jpeg Graphic file (type jpg)
+<use figures/banerjee_stim.jpeg>
+Package pdftex.def Info: figures/banerjee_stim.jpeg  used on input line 45.
+(pdftex.def)             Requested size: 284.52756pt x 284.52328pt.
+
+LaTeX Warning: Reference `fig:banerjee_stim' on page 87 undefined on input line 50.
+
+[87] [88 <./figures/banerjee_stim.jpeg>]
+
+LaTeX Warning: Reference `fig:banerjee_stim' on page 89 undefined on input line 52.
+
+[89]
+
+LaTeX Warning: Reference `fig:ce_rating_stim' on page 90 undefined on input line 72.
+
+[90]
+<figures/ce_rating_stim_for_paper.jpeg, id=960, 3613.5pt x 2409.0pt>
+File: figures/ce_rating_stim_for_paper.jpeg Graphic file (type jpg)
+<use figures/ce_rating_stim_for_paper.jpeg>
+Package pdftex.def Info: figures/ce_rating_stim_for_paper.jpeg  used on input line 79.
+(pdftex.def)             Requested size: 1806.7456pt x 1204.49707pt.
+ [91 <./figures/ce_rating_stim_for_paper.jpeg>] [92]
+
+LaTeX Warning: Reference `fig:ce_rating_choice_trial' on page 93 undefined on input line 106.
+
+<figures/ce_rating_choice_example_trial.jpg, id=973, 356.313pt x 517.935pt>
+File: figures/ce_rating_choice_example_trial.jpg Graphic file (type jpg)
+<use figures/ce_rating_choice_example_trial.jpg>
+Package pdftex.def Info: figures/ce_rating_choice_example_trial.jpg  used on input line 109.
+(pdftex.def)             Requested size: 356.31213pt x 517.93372pt.
+
+LaTeX Warning: Reference `fig:ce_rating_choice_trial' on page 93 undefined on input line 116.
+
+[93] [94 <./figures/ce_rating_choice_example_trial.jpg>]
+
+LaTeX Warning: Reference `fig:price_m_by_effect_category' on page 95 undefined on input line 130.
+
+<figures/price_m_by_effect_category.jpeg, id=989, 1505.625pt x 1505.625pt>
+File: figures/price_m_by_effect_category.jpeg Graphic file (type jpg)
+<use figures/price_m_by_effect_category.jpeg>
+Package pdftex.def Info: figures/price_m_by_effect_category.jpeg  used on input line 135.
+(pdftex.def)             Requested size: 752.81067pt x 752.81067pt.
+[95 <./figures/price_m_by_effect_category.jpeg>]
+
+LaTeX Warning: Reference `fig:price_mu_model_data' on page 96 undefined on input line 145.
+
+<figures/pricing_mu_model_data.jpeg, id=996, 1204.5pt x 1505.625pt>
+File: figures/pricing_mu_model_data.jpeg Graphic file (type jpg)
+<use figures/pricing_mu_model_data.jpeg>
+Package pdftex.def Info: figures/pricing_mu_model_data.jpeg  used on input line 148.
+(pdftex.def)             Requested size: 602.24854pt x 752.81067pt.
+
+LaTeX Warning: Reference `fig:price_z_corplot_repulsion' on page 96 undefined on input line 153.
+
+
+LaTeX Warning: Reference `fig:price_z_corplot_attraction' on page 96 undefined on input line 153.
+
+
+LaTeX Warning: Reference `fig:price_z_corplot_attraction' on page 96 undefined on input line 155.
+
+
+LaTeX Warning: Reference `fig:price_z_corplot_repulsion' on page 96 undefined on input line 155.
+
+
+LaTeX Warning: Reference `fig:price_omega' on page 96 undefined on input line 157.
+
+[96] [97 <./figures/pricing_mu_model_data.jpeg>]
+<figures/price_z_corplot_attraction.jpeg, id=1006, 3011.25pt x 2509.375pt>
+File: figures/price_z_corplot_attraction.jpeg Graphic file (type jpg)
+<use figures/price_z_corplot_attraction.jpeg>
+Package pdftex.def Info: figures/price_z_corplot_attraction.jpeg  used on input line 160.
+(pdftex.def)             Requested size: 1505.62134pt x 1254.68445pt.
+<figures/price_z_corplot_repulsion.jpeg, id=1007, 3011.25pt x 2509.375pt>
+File: figures/price_z_corplot_repulsion.jpeg Graphic file (type jpg)
+<use figures/price_z_corplot_repulsion.jpeg>
+Package pdftex.def Info: figures/price_z_corplot_repulsion.jpeg  used on input line 166.
+(pdftex.def)             Requested size: 1505.62134pt x 1254.68445pt.
+<figures/price_omega_posteriors.jpeg, id=1008, 1505.625pt x 1204.5pt>
+File: figures/price_omega_posteriors.jpeg Graphic file (type jpg)
+<use figures/price_omega_posteriors.jpeg>
+Package pdftex.def Info: figures/price_omega_posteriors.jpeg  used on input line 172.
+(pdftex.def)             Requested size: 752.81067pt x 602.24854pt.
+
+
+LaTeX Warning: Reference `fig:bayes_choice_model_data_plot' on page 98 undefined on input line 183.
+
+[98 <./figures/price_z_corplot_attraction.jpeg>] [99 <./figures/price_z_corplot_repulsion.jpeg>] [100 <./figures/price_omega_posteriors.jpeg>]
+<figures/bayes_choice_model_data_plot.jpeg, id=1027, 1505.625pt x 1204.5pt>
+File: figures/bayes_choice_model_data_plot.jpeg Graphic file (type jpg)
+<use figures/bayes_choice_model_data_plot.jpeg>
+Package pdftex.def Info: figures/bayes_choice_model_data_plot.jpeg  used on input line 188.
+(pdftex.def)             Requested size: 752.81067pt x 602.24854pt.
+ [101 <./figures/bayes_choice_model_data_plot.jpeg>]
+
+LaTeX Warning: Reference `fig:bayes_choice_sim_preds' on page 102 undefined on input line 204.
+
+<figures/bayes_choice_sim_preds.jpeg, id=1035, 1053.9375pt x 903.375pt>
+File: figures/bayes_choice_sim_preds.jpeg Graphic file (type jpg)
+<use figures/bayes_choice_sim_preds.jpeg>
+Package pdftex.def Info: figures/bayes_choice_sim_preds.jpeg  used on input line 207.
+(pdftex.def)             Requested size: 526.96747pt x 451.6864pt.
+[102] [103 <./figures/bayes_choice_sim_preds.jpeg>] [104]
+Overfull \hbox (12.28787pt too wide) in paragraph at lines 228--229
+[]\OT1/cmr/m/n/12 The strong cor-re-la-tion be-tween tar-get and de-coy val-u-a-tions, com-pared to competitor-
+ []
+
+[105]) [106]
+Chapter 5.
+(./chapter5.tex [107
+
+] [108] [109] [110]
+
+LaTeX Warning: Reference `fig:comparability_trials' on page 111 undefined on input line 41.
+
+[111]
+
+LaTeX Warning: Reference `fig:comparability_stim_plot' on page 112 undefined on input line 57.
+
+[112]
+<figures/comparability_stim.jpg, id=1157, 1204.5pt x 1204.5pt>
+File: figures/comparability_stim.jpg Graphic file (type jpg)
+<use figures/comparability_stim.jpg>
+Package pdftex.def Info: figures/comparability_stim.jpg  used on input line 61.
+(pdftex.def)             Requested size: 284.52756pt x 284.52788pt.
+
+
+LaTeX Warning: Reference `fig:comparability_trials' on page 113 undefined on input line 68.
+
+[113 <./figures/comparability_stim.jpg>]
+<figures/comparability_design.jpg, id=1165, 4503.82625pt x 2548.52126pt>
+File: figures/comparability_design.jpg Graphic file (type jpg)
+<use figures/comparability_design.jpg>
+Package pdftex.def Info: figures/comparability_design.jpg  used on input line 84.
+(pdftex.def)             Requested size: 284.52756pt x 160.99323pt.
+ [114]
+
+LaTeX Warning: Reference `fig:comparability_stim_plot' on page 115 undefined on input line 96.
+
+[115 <./figures/comparability_design.jpg>]
+
+LaTeX Warning: Reference `fig:comparability_non_crit_mean_prop_correct' on page 116 undefined on input line 120.
+
+<figures/non_crit_mean_prop_correct.jpeg, id=1176, 1204.5pt x 1505.625pt>
+File: figures/non_crit_mean_prop_correct.jpeg Graphic file (type jpg)
+<use figures/non_crit_mean_prop_correct.jpeg>
+Package pdftex.def Info: figures/non_crit_mean_prop_correct.jpeg  used on input line 123.
+(pdftex.def)             Requested size: 284.52756pt x 355.65984pt.
+[116] [117 <./figures/non_crit_mean_prop_correct.jpeg>]
+
+LaTeX Warning: Reference `fig:comparability_crit_mean_choices' on page 118 undefined on input line 136.
+
+<figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg, id=1190, 2409.0pt x 1806.75pt>
+File: figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg Graphic file (type jpg)
+<use figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg>
+Package pdftex.def Info: figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 284.52756pt x 213.38211pt.
+<figures/comparability_crit_target_choice_by_config.jpeg, id=1191, 1204.5pt x 1204.5pt>
+File: figures/comparability_crit_target_choice_by_config.jpeg Graphic file (type jpg)
+<use figures/comparability_crit_target_choice_by_config.jpeg>
+Package pdftex.def Info: figures/comparability_crit_target_choice_by_config.jpeg  used on input line 146.
+(pdftex.def)             Requested size: 284.52756pt x 284.52788pt.
+
+LaTeX Warning: Reference `fig:comparability_crit_mean_target_choices' on page 118 undefined on input line 151.
+
+[118] [119 <./figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg> <./figures/comparability_crit_target_choice_by_config.jpeg>] [120]) [121]
+Chapter 6.
+(./general_discussion_conclusion.tex [122
+
+]
+
+LaTeX Warning: Reference `fig:3d_model' on page 123 undefined on input line 13.
+
+[123] [124] [125]) (./appendix.tex [126]
+Appendix.
+
+Package hyperref Warning: bookmark level for unknown OnlyAppendix defaults to 0.
+
+[127
+
+] [128] [129]
+
+LaTeX Warning: Reference `tab:e1_params' on page 130 undefined on input line 69.
+
+[130] [131]
+Appendix.
+[132
+
+] [133] [134] [135]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@nomath' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\setbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\thinmuskip' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\medmuskip' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\m@ne' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\thickmuskip' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ne' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\setbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tw@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathchoice' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\displaystyle' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\textstyle' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\scriptstyle' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\scriptscriptstyle' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Sigma' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 182.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 182.
+
+[136] [137]
+
+LaTeX Warning: Reference `fig:e2mu' on page 138 undefined on input line 288.
+
+[138] [139] [140]
+Appendix.
+
+Overfull \hbox (1.73418pt too wide) in paragraph at lines 308--309
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$2%$, $[](212) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 18\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; [] <
+ []
+
+
+Overfull \hbox (1.73418pt too wide) in paragraph at lines 310--311
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$5%$, $[](212) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 13\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] <
+ []
+
+[141
+
+]
+Overfull \hbox (1.73418pt too wide) in paragraph at lines 312--313
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$9%$, $[](212) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 45\OML/cmm/m/it/12 ; [] <
+ []
+
+
+LaTeX Warning: Reference `fig:e2_choiceprops' on page 142 undefined on input line 314.
+
+
+Overfull \hbox (7.60912pt too wide) in paragraph at lines 314--315
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$14%$, $[](212) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 34\OML/cmm/m/it/12 ; [] \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (1.73418pt too wide) in paragraph at lines 321--322
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$2%$, $[](206) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 15\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ; [] <
+ []
+
+
+Overfull \hbox (1.73418pt too wide) in paragraph at lines 323--324
+[]\OT1/cmr/m/n/12 The AST value was sig-nif-i-cantly dif-fer-ent from $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ at TDD=$5%$, $[](206) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 8\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12\OML/cmm/m/it/12 ; [] <
+ []
+
+
+LaTeX Warning: Reference `fig:e2_ast' on page 142 undefined on input line 329.
+
+<figures/choicePhase_mean_ast.jpeg, id=1363, 1505.625pt x 1204.5pt>
+File: figures/choicePhase_mean_ast.jpeg Graphic file (type jpg)
+<use figures/choicePhase_mean_ast.jpeg>
+Package pdftex.def Info: figures/choicePhase_mean_ast.jpeg  used on input line 332.
+(pdftex.def)             Requested size: 284.52756pt x 227.62598pt.
+[142] [143 <./figures/choicePhase_mean_ast.jpeg>]
+Appendix.
+[144
+
+] [145]
+
+LaTeX Warning: Reference `tab:maxdiff_params' on page 146 undefined on input line 396.
+
+[146]
+Appendix.
+[147
+
+] [148] [149]
+Appendix.
+[150
+
+]
+
+LaTeX Warning: Reference `tab:e4_choice_params' on page 151 undefined on input line 535.
+
+[151]
+Appendix.
+
+LaTeX Warning: Reference `tab:e5_logit_params' on page 152 undefined on input line 570.
+
+[152
+
+]) [153]
+
+Package hyperref Warning: bookmark level for unknown BackMatter defaults to 0.
+
+[154
+
+] [155] [156] [157]
+Overfull \hbox (1.93158pt too wide) in paragraph at lines 273--273
+\OT1/cmr/m/n/12 iden-ti-fy-ing con-text ef-fects in mul-ti-at-tribute decision-making. \OT1/cmr/m/it/12 Psy-cho-nomic Bul-
+ []
+
+[158]
+Overfull \hbox (2.20251pt too wide) in paragraph at lines 273--273
+\OT1/cmr/m/n/12 Mod-el-ing the choices of in-di-vid-ual decision-makers by com-bin-ing ef-fi-cient choice
+ []
+
+
+Overfull \hbox (0.48807pt too wide) in paragraph at lines 273--273
+\OT1/cmr/m/n/12 best{worst choices. \OT1/cmr/m/it/12 Jour-nal of Math-e-mat-i-cal Psy-chol-ogy\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 49\OT1/cmr/m/n/12 (6), 464{480. []$https :
+ []
+
+[159] [160] [161] [162] [163] [164] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  58B598DFA05C39DEEC10E36F1F56AFA3;18856.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20331 strings out of 474116
+ 382336 string characters out of 5743681
+ 1951187 words of memory out of 5000000
+ 41896 multiletter control sequences out of 15000+600000
+ 573841 words of font info for 93 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,15n,81p,2000b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (173 pages, 16019369 bytes).
+PDF statistics:
+ 1775 PDF objects out of 2073 (max. 8388607)
+ 1497 compressed objects within 15 object streams
+ 525 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
