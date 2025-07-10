@@ -161,33 +161,33 @@
       \field{pages}{108\bibrangedash 123}
       \range{pages}{16}
     \endentry
-    \entry{benjamin2009signal}{article}{}
+    \entry{becker1964measuring}{article}{}
       \name{author}{3}{}{%
-        {{hash=c7bf70e465a13477f45e20cd7fbb1a3b}{%
-           family={Benjamin},
+        {{hash=f45cf11363a813b604108be81ec68ccb}{%
+           family={Becker},
            familyi={B\bibinitperiod},
-           given={Aaron\bibnamedelima S},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=cde6bec48991a3c02b224d2863585d09}{%
-           family={Diaz},
+           given={Gordon\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a003c6a3b15a33bf2d075ba0e21f809c}{%
+           family={DeGroot},
            familyi={D\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6308facc580e02261918439320677fa5}{%
-           family={Wee},
-           familyi={W\bibinitperiod},
-           given={Serena},
-           giveni={S\bibinitperiod}}}%
+           given={Morris\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=39caab00ae6a1bb1df913af3c368e276}{%
+           family={Marschak},
+           familyi={M\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {American Psychological Association}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{1418b8f2e1cefcb60b8e6a27888828a5}
-      \strng{fullhash}{a87322449376f241ce028074e863b14c}
-      \strng{bibnamehash}{a87322449376f241ce028074e863b14c}
-      \strng{authorbibnamehash}{a87322449376f241ce028074e863b14c}
-      \strng{authornamehash}{1418b8f2e1cefcb60b8e6a27888828a5}
-      \strng{authorfullhash}{a87322449376f241ce028074e863b14c}
+      \strng{namehash}{1b3807374bf0a8be43cb015ff23a0361}
+      \strng{fullhash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{bibnamehash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{authorbibnamehash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{authornamehash}{1b3807374bf0a8be43cb015ff23a0361}
+      \strng{authorfullhash}{760dbe5b67058b3828ef119349ad6af9}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -195,13 +195,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological Review}
-      \field{number}{1}
-      \field{title}{Signal detection with criterion noise: applications to recognition memory.}
-      \field{volume}{116}
-      \field{year}{2009}
-      \field{pages}{84}
-      \range{pages}{1}
+      \field{journaltitle}{Behavioral science}
+      \field{number}{3}
+      \field{title}{Measuring utility by a single-response sequential method}
+      \field{volume}{9}
+      \field{year}{1964}
+      \field{pages}{226\bibrangedash 232}
+      \range{pages}{7}
     \endentry
     \entry{bergnerVAMPVotingAgent2019b}{article}{}
       \name{author}{3}{}{%
@@ -439,38 +439,6 @@
       \field{journaltitle}{PsyArXiv}
       \field{title}{A rational account of the repulsion effect}
       \field{year}{2021}
-    \endentry
-    \entry{bolduc1999practical}{article}{}
-      \name{author}{1}{}{%
-        {{hash=89a0df22af3f12012baa3c65555c73af}{%
-           family={Bolduc},
-           familyi={B\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{fullhash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{bibnamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authorbibnamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authornamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authorfullhash}{89a0df22af3f12012baa3c65555c73af}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Transportation Research Part B: Methodological}
-      \field{number}{1}
-      \field{title}{A practical technique to estimate multinomial probit models in transportation}
-      \field{volume}{33}
-      \field{year}{1999}
-      \field{pages}{63\bibrangedash 79}
-      \range{pages}{17}
     \endentry
     \entry{brainardPsychophysicsToolbox1997}{article}{}
       \name{author}{1}{}{%
@@ -3207,6 +3175,43 @@
       \field{volume}{4}
       \field{year}{1959}
     \endentry
+    \entry{mackay1995probabilistic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=649ac69e667f42e001a393930a14c560}{%
+           family={MacKay},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b9f35ba18b4a8b1dedca33282839fbc4}{%
+           family={Zinnes},
+           familyi={Z\bibinitperiod},
+           given={Joseph\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{fullhash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{bibnamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authorbibnamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authornamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authorfullhash}{d349364c4e4bfd0772657901f44f9220}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{number}{1}
+      \field{title}{Probabilistic multidimensional unfolding: An anisotropic model for preference ratio judgments}
+      \field{volume}{39}
+      \field{year}{1995}
+      \field{pages}{99\bibrangedash 111}
+      \range{pages}{13}
+    \endentry
     \entry{mariniAttractionComesMany2020}{article}{}
       \name{author}{3}{}{%
         {{hash=7289b5c758e85e2cbe739ab9740457fc}{%
@@ -3557,6 +3562,37 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027706002587
       \endverb
     \endentry
+    \entry{mcfadden1980econometric}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1327829299e572b76be93fafcdca8d7b}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{fullhash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{bibnamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authorbibnamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authornamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authorfullhash}{1327829299e572b76be93fafcdca8d7b}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business}
+      \field{title}{Econometric models for probabilistic choice among products}
+      \field{year}{1980}
+      \field{pages}{S13\bibrangedash S29}
+      \range{pages}{-1}
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -3574,6 +3610,7 @@
       \strng{authorbibnamehash}{1327829299e572b76be93fafcdca8d7b}
       \strng{authornamehash}{1327829299e572b76be93fafcdca8d7b}
       \strng{authorfullhash}{1327829299e572b76be93fafcdca8d7b}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -5007,6 +5044,33 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
+      \endverb
+    \endentry
+    \entry{rstan}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
+           family={{Stan Development Team}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.26.24}
+      \field{title}{{RStan}: the {R} interface to {Stan}}
+      \verb{urlraw}
+      \verb https://mc-stan.org/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/
       \endverb
     \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
@@ -6184,33 +6248,33 @@
       \field{pages}{108\bibrangedash 123}
       \range{pages}{16}
     \endentry
-    \entry{benjamin2009signal}{article}{}
+    \entry{becker1964measuring}{article}{}
       \name{author}{3}{}{%
-        {{hash=c7bf70e465a13477f45e20cd7fbb1a3b}{%
-           family={Benjamin},
+        {{hash=f45cf11363a813b604108be81ec68ccb}{%
+           family={Becker},
            familyi={B\bibinitperiod},
-           given={Aaron\bibnamedelima S},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=cde6bec48991a3c02b224d2863585d09}{%
-           family={Diaz},
+           given={Gordon\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a003c6a3b15a33bf2d075ba0e21f809c}{%
+           family={DeGroot},
            familyi={D\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6308facc580e02261918439320677fa5}{%
-           family={Wee},
-           familyi={W\bibinitperiod},
-           given={Serena},
-           giveni={S\bibinitperiod}}}%
+           given={Morris\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=39caab00ae6a1bb1df913af3c368e276}{%
+           family={Marschak},
+           familyi={M\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {American Psychological Association}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{1418b8f2e1cefcb60b8e6a27888828a5}
-      \strng{fullhash}{a87322449376f241ce028074e863b14c}
-      \strng{bibnamehash}{a87322449376f241ce028074e863b14c}
-      \strng{authorbibnamehash}{a87322449376f241ce028074e863b14c}
-      \strng{authornamehash}{1418b8f2e1cefcb60b8e6a27888828a5}
-      \strng{authorfullhash}{a87322449376f241ce028074e863b14c}
+      \strng{namehash}{1b3807374bf0a8be43cb015ff23a0361}
+      \strng{fullhash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{bibnamehash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{authorbibnamehash}{760dbe5b67058b3828ef119349ad6af9}
+      \strng{authornamehash}{1b3807374bf0a8be43cb015ff23a0361}
+      \strng{authorfullhash}{760dbe5b67058b3828ef119349ad6af9}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -6218,13 +6282,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological Review}
-      \field{number}{1}
-      \field{title}{Signal detection with criterion noise: applications to recognition memory.}
-      \field{volume}{116}
-      \field{year}{2009}
-      \field{pages}{84}
-      \range{pages}{1}
+      \field{journaltitle}{Behavioral science}
+      \field{number}{3}
+      \field{title}{Measuring utility by a single-response sequential method}
+      \field{volume}{9}
+      \field{year}{1964}
+      \field{pages}{226\bibrangedash 232}
+      \range{pages}{7}
     \endentry
     \entry{bergnerVAMPVotingAgent2019b}{article}{}
       \name{author}{3}{}{%
@@ -6462,38 +6526,6 @@
       \field{journaltitle}{PsyArXiv}
       \field{title}{A rational account of the repulsion effect}
       \field{year}{2021}
-    \endentry
-    \entry{bolduc1999practical}{article}{}
-      \name{author}{1}{}{%
-        {{hash=89a0df22af3f12012baa3c65555c73af}{%
-           family={Bolduc},
-           familyi={B\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{fullhash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{bibnamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authorbibnamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authornamehash}{89a0df22af3f12012baa3c65555c73af}
-      \strng{authorfullhash}{89a0df22af3f12012baa3c65555c73af}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Transportation Research Part B: Methodological}
-      \field{number}{1}
-      \field{title}{A practical technique to estimate multinomial probit models in transportation}
-      \field{volume}{33}
-      \field{year}{1999}
-      \field{pages}{63\bibrangedash 79}
-      \range{pages}{17}
     \endentry
     \entry{brainardPsychophysicsToolbox1997}{article}{}
       \name{author}{1}{}{%
@@ -9230,6 +9262,43 @@
       \field{volume}{4}
       \field{year}{1959}
     \endentry
+    \entry{mackay1995probabilistic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=649ac69e667f42e001a393930a14c560}{%
+           family={MacKay},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b9f35ba18b4a8b1dedca33282839fbc4}{%
+           family={Zinnes},
+           familyi={Z\bibinitperiod},
+           given={Joseph\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{fullhash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{bibnamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authorbibnamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authornamehash}{d349364c4e4bfd0772657901f44f9220}
+      \strng{authorfullhash}{d349364c4e4bfd0772657901f44f9220}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{number}{1}
+      \field{title}{Probabilistic multidimensional unfolding: An anisotropic model for preference ratio judgments}
+      \field{volume}{39}
+      \field{year}{1995}
+      \field{pages}{99\bibrangedash 111}
+      \range{pages}{13}
+    \endentry
     \entry{mariniAttractionComesMany2020}{article}{}
       \name{author}{3}{}{%
         {{hash=7289b5c758e85e2cbe739ab9740457fc}{%
@@ -9580,6 +9649,37 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027706002587
       \endverb
     \endentry
+    \entry{mcfadden1980econometric}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1327829299e572b76be93fafcdca8d7b}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{fullhash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{bibnamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authorbibnamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authornamehash}{1327829299e572b76be93fafcdca8d7b}
+      \strng{authorfullhash}{1327829299e572b76be93fafcdca8d7b}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business}
+      \field{title}{Econometric models for probabilistic choice among products}
+      \field{year}{1980}
+      \field{pages}{S13\bibrangedash S29}
+      \range{pages}{-1}
+    \endentry
     \entry{mcfadden2001economic}{article}{}
       \name{author}{1}{}{%
         {{hash=1327829299e572b76be93fafcdca8d7b}{%
@@ -9597,6 +9697,7 @@
       \strng{authorbibnamehash}{1327829299e572b76be93fafcdca8d7b}
       \strng{authornamehash}{1327829299e572b76be93fafcdca8d7b}
       \strng{authorfullhash}{1327829299e572b76be93fafcdca8d7b}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -11032,6 +11133,33 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
+    \entry{rstan}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
+           family={{Stan Development Team}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.26.24}
+      \field{title}{{RStan}: the {R} interface to {Stan}}
+      \verb{urlraw}
+      \verb https://mc-stan.org/
+      \endverb
+      \verb{url}
+      \verb https://mc-stan.org/
+      \endverb
+    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -12064,8 +12192,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{becker}
-  \missing{spektorHowSimilarityChoice2019}
 \endrefsection
 \endinput
 
