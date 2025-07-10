@@ -36,12 +36,13 @@ There has been other research, albeit relatively limited, on the comparison proc
 
 Another interpretation of their results, and those of \textcite{trueblood2022attentional}, is that by altering the location and timing of the stimuli, the researchers are also altering the comparability. In the perceptual model of Chapter 2, increased comparability is represented by an increase in perceptual correlation. As shown previously, this perceptual correlation can create a repulsion effect by allowing the decoy to more easily take choice shares from the target.
 
+This chapter extends the work of Chapter 2. The Thurstonian model from Chapter 2 predicts that when two options (target and competitor) are on average equally viable, but if the target and decoy perceptions are more strongly correlated than competitor and decoy perceptions, participants will choose the target less than the competitor. In Experiment 2, this correlations occur because the target and decoy are perceptually similar (i.e., oriented identically). In this Chapter, however, the decoy is equally similar to both focal options, but the correlation between decoy and target is now created through comparability.
+
 The goal of this experiment was to isolate the effect of comparability from context effects. Below is presented a simple perceptual choice experiment where participants saw three rectangles at a time and selected the largest one. On critical trials, two of these rectangles were equally large but oriented differently (i.e., \textit{focal} rectangles, as in Experiments 1, 2, and 3). A third \textit{decoy} option was a symmetrically dominated decoy - equally similar to either option. One of the two focal options as the \textit{target} based on its proximity and comparability to the decoy. 
 
 To manipulate comparability, the positioning of the options on screen was systematically manipulated. Options were displayed in one of four ways: all aligned in a horizontal line, as in \textcite{trueblood2013not}; two adjacent options aligned vertically, with a third option positioned in a different vertical location; and the triangle alignment from \textcite{spektorWhenGoodLooks2018b}. See Figure~\ref{fig:comparability_trials} for example stimuli.
 
 Proximity is defined as closeness in space, and comparability is defined as the ease of comparison between two stimuli. The critical display is the two-aligned condition, where the target and decoy are positioned such that they are easily compared, while the competitor is located where comparisons are more difficult. Based on the results of Chapter 2, ease of comparability should increase the correlation between the target and decoy and result in a \textit{decrease} in the target's choice share in the two-aligned condition, relative to the none aligned and all aligned conditions. In the model and experiment presented in Chapter 2, the similarity of the target and decoy caused the decoy to take choice shares away from the target. Here, both focal options are equally similar to the target, but the target is located closer to the decoy and is more comparable. These predictions are generally borne out in the data, albeit with limitations which will be discussed below.
-
 
 \section{Experiment 5}
 Experiment 5 adresses the effect of comparability in perceptual choiceusing \textit{symmetrically dominated} decoys. A symmetrically dominated decoy is dominated by both focal options but is also equally similar to both options. Thus, the terms target and competitor, which have been used throughout this dissertation, take on a different meaning here. Here the target is defined as the option that is both adjacent to and easily comparable to the decoy. Based on the experimental and modeling results of Chapter 2, it was predicted that the choice share of the target will be reduced when it is particularly comparable to the decoy.
@@ -73,7 +74,8 @@ In the two-aligned display, two options were aligned horizontally in the top-lef
 
 In the none-aligned display, all options are located in different vertical and horizontal positions, such that all comparisons should be more difficult, as determining the relative areas between rectangles is no longer straightforward.
 
-The triangle display is identical to the triangle display of Experiments 1 and 2, with the exception that on half of all triangle display trials, the triangle was inverted. Note that this is distinct from the two aligned condition, as the options are located in distinct vertical and horizontal positions and it is difficult to determine the relative sizes between rectangles. The triangle display condition was collected for future analyses but is not germane to the current research question, and it will be excluded from critical analyses.
+The triangle display is identical to the triangle display of Experiments 1 and 2, with the exception that on half of all triangle display trials, the triangle was inverted. Note that this is distinct from the two aligned condition, as the options are located in distinct vertical and horizontal positions and it is difficult to determine the relative sizes between rectangles. 
+% The triangle display condition was collected for future analyses but is not germane to the current research question, and it will be excluded from critical analyses.
 
 In all displays, the horizontal distances between all options was constant.
 
@@ -125,45 +127,61 @@ On average, participants performed well above chance on the catch, filler-random
    \label{fig:comparability_non_crit_mean_prop_correct}
 \end{figure}
 
+As will be relevant below, participants showed position biases. The order of stimuli on each trial was random, so on average, participants should be equally likely to select the left, middle, rightmost rectangle. However, participants tended to select the middle rectangle the most, followed by the rightmost rectangle, followed by the leftmost rectangle. This bias occured in each configuration. Mean choice proportions for each position for all non-critical trials are plotted in Figure~\ref{fig:comparability_pos_bias}
+
+\begin{figure}
+   \includegraphics[width=100mm]{figures/comparability_filler_position_bias.jpeg}
+   \caption{Position biases from non-critical trials in Experiment 5. Rows show trial types. Bars show mean proportion correct for a given position, with the error bars showing $\pm1\;\text{SEM}$. Dashed line is at chance ($1/3$).}
+   \label{fig:comparability_pos_bias}
+\end{figure}
+
+
 \subsubsection{Critical Trials}
 
-The goal of the critical trial analysis was to determine how alignment affected choice for a target option, defined as the rectangle located next to the decoy. The triangle condition was removed from all analyses.
+The goal of the critical trial analysis was to determine how alignment affected choice for a target option, defined as the rectangle located next to the decoy.
 
 Consider the order of options on screen. There were six possible orderings: $DHW$, $DWH$, $HDW$, $HWD$, $WDH$, and $WHD$. Given that the crucial configuration is the two-aligned display, where the first two options are aligned vertically and a third option is unaligned both vertically and horizontally, the crucial trials are those trials where the decoy is among the first two options. 
 
-The ordering was re-classified into a variable referred to as alignment. Because the two-aligned condition is the critical one, the the alignment variable is labeled based on the order in the two-aligned condition. If the ordering is $DHW$ or $HDW$, the alignment is "$H$ aligned with $D$". If the ordering is $WDH$ or $DWH$, the alignment is "$D$ aligned with $W$". I removed the $WHD$ and $HWD$ trials from further analysis.
+The ordering was re-classified into a variable referred to as alignment. Because the two-aligned condition is the critical one, the the alignment variable is labeled based on the order in the two-aligned condition. If the ordering is $DHW$ or $HDW$, the alignment is "$H$ aligned with $D$". If the ordering is $WDH$ or $DWH$, the alignment is "$D$ aligned with $W$". The $WHD$ and $HWD$ trials were removed from further analysis but the results are included in the appendix.
 
-I computed mean choice proportion for the $H$, $W$, and $D$ rectangles based on alignment, which are shown in Figure~\ref{fig:comparability_crit_mean_choices}. The data show that, in the two-aligned condition, participants were less likely to choose the $W$ option when it was aligned with $D$ than when $H$ was aligned with $D$. This effect also appears to occur in the none-aligned and all-aligned conditions, which suggests a position bias. 
+The mean choice proportion for the $H$, $W$, and $D$ rectangles based on alignment were computed and are shown in Figure~\ref{fig:comparability_crit_mean_choices}. The data show that, in the two-aligned condition, participants were less likely to choose the $W$ option when it was aligned with $D$ than when $H$ was aligned with $D$. This effect also appears to occur in the none-aligned and all-aligned conditions, which suggests a position bias because choosing $H$ more when $W$ is aligned with $D$ but choosing $W$ more when $H$ is aligned with $D$ amounts to having a bias for the third (rightmost) rectangle.
 
 \begin{figure}
    \includegraphics[width=100mm]{figures/comparability_crit_mean_hdw_choice_by_config_align.jpeg}
-   \caption{Results from critical trials in Experiment 5. Mean choice proportions for the $H$, $W$, and $D$ rectangles conditioned on alignment and configuration.}
+   \caption{Results from critical trials in Experiment 5. Mean choice proportions for the $H$, $W$, and $D$ rectangles conditioned on alignment and configuration. Error bars are $\pm1\mathrm{SEM}$.}
    \label{fig:comparability_crit_mean_choices}
 \end{figure}
 
+Next, the analyses were collapsed over $H$/$W$ and instead, choices were re-classified into target, competitor, and decoy. The target is the option aligned with the decoy, while the competitor is the option not aligned with the decoy. The decoy label did not change. Mean choice proportions were computed and plotted in Figure~\ref{fig:comparability_crit_mean_tcd_choice}.
+
+Participants reliably chose the competitor more than the target; however, this effect appears to be stronger in the triangle condition, followed by the all aligned condition, the two aligned condition, and then the none aligned condition. Given that the triangle condition does not readily facilitate comparison between the decoy and the target, choosing the competitor more often in the triangle condition amounts to a bias for the third (rightmost) rectangle. A similar interpretation can be made for the none aligned condition. 
 
 \begin{figure}
-   \includegraphics[width=100mm]{figures/comparability_crit_target_choice_by_config.jpeg}
-   \caption{Experiment 5 mean target choice proportions by configuration.}
+   \includegraphics[width=100mm]{figures/comparability_crit_choice_by_config.jpeg}
+   \caption{Experiment 5 mean target, competitor, and decoy choice proportions by configuration. Error bars are $\pm1\mathrm{SEM}$.}
+   \label{fig:comparability_crit_mean_tcd_choices}
+\end{figure}
+
+Next, all trials in which participants chose the decoy were removed and Relative Share of the Target (RST) was computed. The mean RST is plotted in Figure~\ref{fig:comparability_crit_mean_target_choices}.
+
+\begin{figure}
+   \includegraphics[width=100mm]{figures/comparability_crit_rst_by_config.jpeg}
+   \caption{Experiment 5 mean RST by configuration. Error bars are $\pm1\mathrm{SEM}$.}
    \label{fig:comparability_crit_mean_target_choices}
 \end{figure}
 
-Next, I removed all trials in which participants chose the decoy. I refer to the option aligned with the decoy as the \textit{target}. I next computed mean target choice proportions by configuration, results which are plotted in Figure~\ref{fig:comparability_crit_mean_target_choices}.
-
-On average, participants select the target option on less than $1/2$ of trials (conditional on not having selected the decoy). This again may suggest a position bias. However, crucially, they select the target less when it is aligned with the decoy in the two-aligned condition than when it is adjacent to the decoy in the none-aligned condition. See the Appendix for inferential statistics which support these conclusions.
+On average, participants select the target option on less than $1/2$ of trials (conditional on not having selected the decoy). This again may suggest a position bias; that is, participants appear to have a bias for the third (rightmost rectangle) in the choice set. However, crucially, they select the target less when it is aligned with the decoy in the two-aligned condition than when it is adjacent to the decoy in the none-aligned condition. See the Appendix for inferential statistics which support these conclusions, even when accounting for position bias and participant effects.
 
 \section{Discussion}
 
-In Experiment 5, I showed that comparability can affect choice, in a form similar to the repulsion effect. Given two equally viable, but dissimilar options, when one of these options (i.e., the target) is more easily comparable to a symmetrically dominated decoy option, participants choices are "repulsed" away from the target option and towards the competitor option. This effect is small but nonetheless present even after accounting for participant effects and a position bias.
+Experiment 5 showed that comparability can affect choice. Given two equally viable dissimilar options, when one of these options (i.e., the target) was more easily comparable to a symmetrically dominated decoy option, participants chose the target less than the competitor. This effect is small but nonetheless present even after accounting for participant effects and a position bias.
 
 This result aligns with the predictions from the Thurstonian perceptual choice model from Chapter 2. Increasing the comparability of a focal option and a decoy option increases the perceptual correlations between the two, which in turn decreases the choice share of the comparable \textit{target}, for the benefit of the non-comparable competitor option. This result is also similar to previous results presented by \textcite{trueblood2022attentional} and \textcite{evansImpactPresentationOrder2021}, who also manipulated the arrangement of options on screen in perceptual choice.
 
 These results are, however, somewhat limited by the positioning of the target and decoy options. In the two-aligned conditon, the target and decoy were always presented in the first and second position. The statistical model accounted for this through a position bias effect, though a more thorough design would include a variety of presentation formats to more effectively test this effect.
 
-I assume that increasing comparability decreased target choice share through perceptual correlation; however, given that I did not measure correlations directly, this may not be the case. It would be interesting to use the paradigm from Experiment 2 to directly measure the correlations between options when the decoy is symmetrically dominated and the comparability is systematically manipulated.
+Predictions were made assuming that increasing comparability decreased target choice share through perceptual correlation; however, given that these correlations were not measured directly, this may not be the case. It would be interesting to use the paradigm from Experiment 2 to directly measure the correlations between options when the decoy is symmetrically dominated and the comparability is systematically manipulated.
 
-Future research should generalize this paradigm to high-level preferential choice. For example, given three consumer products, does the comparability of two of them affect the choice for a third option? I leave this question for future research.
+Future research should generalize this paradigm to high-level preferential choice. For example, given three consumer products, does the comparability of two of them affect the choice for a third option? For example, given three cars available for purchase, two of which are hybrids and the other is a traditional combustion engine vehicle, is the correlation between the hybrids stronger than the hybrid-combustion correlation? This question is left for future research.
 
-The effect demonstrated is another form of context dependence, the main focus of this dissertation. Here, the context is not the choice set (which remains constant), but rather the presentation of the options. In this sense, the repulsion effect in this experiment is qualitatively similar to the repulsion effect of \textcite{spektorWhenGoodLooks2018b} and Experiment 2 of this dissertation.
-
-In the final chapter, I discuss the implications of all experiments, future directions, and limitations of the current research. 
+When perceptual decisions are difficult, and a decoy option is easily comparable to one of two viable options, this viable option is chosen less than it otherwise would have been chosen. The effect was predicted using the Thurstonian model developed earlier in this dissertation, and the empirical result support it, albeit with limitations.  The empirical results of Experiment 5 demonstrate another form of context dependence, the main focus of this dissertation. Here, the context is not the choice set (which remains constant), but rather the presentation of the options. In this sense, the repulsion effect in this experiment is qualitatively similar to the repulsion effect of \textcite{spektorWhenGoodLooks2018b} and Experiment 2 of this dissertation.

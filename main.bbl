@@ -544,6 +544,68 @@
       \verb Breidert_et_al_2006.pdf:/Users/seanconway/Reading/Papers/Breidert_et_al_2006.pdf:application/pdf
       \endverb
     \endentry
+    \entry{brendlPreferentialAttractionEffects2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=baa4d973d3cfd503022aee09dc14fcad}{%
+           family={Brendl},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi Miguel},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5420f48ac68119def5706a5183fbfd79}{%
+           family={Atasoy},
+           familyi={A\bibinitperiod},
+           given={Özgün},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=050304328fc47a7a355fbaf382425b1b}{%
+           family={Samson},
+           familyi={S\bibinitperiod},
+           given={Coralie},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{43352078764d80abccdbe1911c330574}
+      \strng{fullhash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{bibnamehash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{authorbibnamehash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{authornamehash}{43352078764d80abccdbe1911c330574}
+      \strng{authorfullhash}{fd6685579269c4bae738c5cc04c72627}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Offering an inferior and rarely chosen third (decoy) option to decision makers choosing between two options has a paradoxical effect: It increases the choice share of the option most similar to the decoy. This attraction effect is robust when options are numeric but rarely occurs in humans when options are visual, even though it occurs in animals. Building on psychophysics, we examined two types of visual attributes: quantitative and qualitative. Quantitative visual attributes (e.g., different bottle volumes) can be perceived as magnitudes. Qualitative visual attributes (e.g., different colors), however, do not fall onto a magnitude scale. One can perceive that a bottle’s volume is twice that of another bottle but not that a green bottle’s color is twice that of a red bottle. We observed robust attraction effects for quantitative visual attributes (4,602 adults, 237 college-age participants), which reversed to repulsion effects when the visual attributes were qualitative (6,005 adults).}
+      \field{issn}{0956-7976, 1467-9280}
+      \field{journaltitle}{Psychological Science}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Preferential {Attraction} {Effects} {With} {Visual} {Stimuli}}
+      \field{title}{Preferential {Attraction} {Effects} {With} {Visual} {Stimuli}: {The} {Role} of {Quantitative} {Versus} {Qualitative} {Visual} {Attributes}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{34}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{265\bibrangedash 278}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/09567976221134476
+      \endverb
+      \verb{file}
+      \verb Brendl_et_al_2022.pdf:/Users/seanconway/Reading/Papers/Brendl_et_al_2022.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/09567976221134476
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/09567976221134476
+      \endverb
+    \endentry
     \entry{bridges2012consumer}{article}{}
       \name{author}{5}{}{%
         {{hash=1afd38394e4c57523e2ab2a9f1dff515}{%
@@ -1522,6 +1584,60 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S016762960600049X
       \endverb
+    \endentry
+    \entry{frederick2008attraction}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=7948761e48219771d306c89d9053f7df}{%
+           family={Frederick},
+           familyi={F\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aab477ac50f9f93f200f326c96f889d5}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b2edeae904787a5bef56f46b50940213}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Angela\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=d373b0815505a8f81e90ce6f5aef06a0}{%
+           family={Soman},
+           familyi={S\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Duluth, MN}%
+      }
+      \list{publisher}{1}{%
+        {Association for Consumer Research}%
+      }
+      \strng{namehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{fullhash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{bibnamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authorbibnamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authornamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authorfullhash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{editorbibnamehash}{f132f78de002b576b8295725a64cba28}
+      \strng{editornamehash}{f132f78de002b576b8295725a64cba28}
+      \strng{editorfullhash}{f132f78de002b576b8295725a64cba28}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Consumer Research}
+      \field{title}{Attraction, Repulsion, and Attribute Representation}
+      \field{volume}{35}
+      \field{year}{2008}
+      \field{pages}{122\bibrangedash 124}
+      \range{pages}{3}
     \endentry
     \entry{frederickLimitsAttraction2014b}{article}{}
       \name{author}{3}{}{%
@@ -2572,43 +2688,6 @@
       \verb{url}
       \verb https://academic.oup.com/jcr/article-lookup/doi/10.1086/209534
       \endverb
-    \endentry
-    \entry{huber1983market}{article}{}
-      \name{author}{2}{}{%
-        {{hash=6c6c648de7aa4056c07b1e3ffe1c4497}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={Joel},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c140a90c9e7bb70c8f3824e1613e2010}{%
-           family={Puto},
-           familyi={P\bibinitperiod},
-           given={Christopher},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The University of Chicago Press}%
-      }
-      \strng{namehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{fullhash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{bibnamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authorbibnamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authornamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authorfullhash}{6dfe70c3a54072249e383beaedc31b73}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Consumer Research}
-      \field{number}{1}
-      \field{title}{Market boundaries and product choice: Illustrating attraction and substitution effects}
-      \field{volume}{10}
-      \field{year}{1983}
-      \field{pages}{31\bibrangedash 44}
-      \range{pages}{14}
     \endentry
     \entry{huberAddingAsymmetricallyDominated1982d}{article}{}
       \name{author}{3}{}{%
@@ -3883,6 +3962,43 @@
       \verb Nosofky 1986.pdf:/Users/seanconway/Reading/Papers/Nosofky 1986.pdf:application/pdf
       \endverb
     \endentry
+    \entry{o1995attraction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b59e7870b8ecd17fbb0b8523c8e70383}{%
+           family={O’Curry},
+           familyi={O\bibinitperiod},
+           given={Yigang\bibnamedelimb Pan\bibnamedelima Sue},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8e7487337080557ac86d9af739db41c3}{%
+           family={Pitts},
+           familyi={P\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{fullhash}{9a7844f1628d7b9cde05963424525871}
+      \strng{bibnamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authorbibnamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authornamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authorfullhash}{9a7844f1628d7b9cde05963424525871}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Consumer Psychology}
+      \field{number}{1}
+      \field{title}{The attraction effect and political choice in two elections}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{85\bibrangedash 101}
+      \range{pages}{17}
+    \endentry
     \entry{paetzUtilityIndependenceIIA2018}{article}{}
       \name{author}{2}{}{%
         {{hash=a675b1d8b4dfeea76a92d842ca8e7a00}{%
@@ -4893,33 +5009,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
-    \entry{rstan}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
-           family={{Stan Development Team}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 2.26.24}
-      \field{title}{{RStan}: the {R} interface to {Stan}}
-      \verb{urlraw}
-      \verb https://mc-stan.org/
-      \endverb
-      \verb{url}
-      \verb https://mc-stan.org/
-      \endverb
-    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -5065,6 +5154,67 @@
       \field{labeltitlesource}{title}
       \field{title}{Discrete choice methods with simulation}
       \field{year}{2009}
+    \endentry
+    \entry{trendlZeroAttractionEffect2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=76189ccd1bee53ac193b4e4f6d34e583}{%
+           family={Trendl},
+           familyi={T\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bccdbbd5849541588f0eddb0d9f77b49}{%
+           family={Mullett},
+           familyi={M\bibinitperiod},
+           given={Timothy\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca3a441fa2245c8ef9688b78ebd2f8c}
+      \strng{fullhash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{bibnamehash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{authorbibnamehash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{authornamehash}{fca3a441fa2245c8ef9688b78ebd2f8c}
+      \strng{authorfullhash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the attraction effect, adding a dominated third option to a choice set of two options can alter preferences for the original two options and increase the dominating option’s choice share. This can constitute a violation of the axioms of regularity and independence from irrelevant alternatives, which are core properties of any choice model in which the utility of each option is stable across choice sets. In the past 20 years, the attraction effect has driven the development of a set of inﬂuential models of multiattribute choice. However, two studies (Frederick et al., 2014; Yang \& Lynn, 2014) involving a series of experiments with naturalistic choice options (e.g., snacks, movies) found no evidence for the attraction effect in choice contexts where alternatives are represented without objectively deﬁned (e.g., numerical) attribute dimensions—a ﬁnding that would severely undermine its theoretical importance. Huber et al. (2014) criticized these studies, laying down a set of criteria that should be met by any experiment wishing to test for the attraction effect in real-world consumer choices. Based on these criteria, this article presents a carefully designed experiment testing the attraction effect with movies as naturalistic choice options. The results show a precisely zero attraction effect.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A zero attraction effect in naturalistic choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{55\bibrangedash 68}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1037/dec0000145
+      \endverb
+      \verb{file}
+      \verb Trendl_et_al_2021.pdf:/Users/seanconway/Reading/Papers/Trendl_et_al_2021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000145
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000145
+      \endverb
     \endentry
     \entry{trueblood2022attentional}{article}{}
       \name{author}{5}{}{%
@@ -5444,6 +5594,40 @@
       \range{pages}{19}
       \verb{file}
       \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{tverskyAdvancesProspectTheorya}{article}{}
+      \name{author}{2}{}{%
+        {{hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.}
+      \field{title}{Advances in prospect theory: {Cumulative} representation of uncertainty}
+      \verb{file}
+      \verb Tversky_Kahneman_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Kahneman_1992.pdf:application/pdf
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
@@ -6383,6 +6567,68 @@
       \verb Breidert_et_al_2006.pdf:/Users/seanconway/Reading/Papers/Breidert_et_al_2006.pdf:application/pdf
       \endverb
     \endentry
+    \entry{brendlPreferentialAttractionEffects2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=baa4d973d3cfd503022aee09dc14fcad}{%
+           family={Brendl},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi Miguel},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5420f48ac68119def5706a5183fbfd79}{%
+           family={Atasoy},
+           familyi={A\bibinitperiod},
+           given={Özgün},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=050304328fc47a7a355fbaf382425b1b}{%
+           family={Samson},
+           familyi={S\bibinitperiod},
+           given={Coralie},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{43352078764d80abccdbe1911c330574}
+      \strng{fullhash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{bibnamehash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{authorbibnamehash}{fd6685579269c4bae738c5cc04c72627}
+      \strng{authornamehash}{43352078764d80abccdbe1911c330574}
+      \strng{authorfullhash}{fd6685579269c4bae738c5cc04c72627}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Offering an inferior and rarely chosen third (decoy) option to decision makers choosing between two options has a paradoxical effect: It increases the choice share of the option most similar to the decoy. This attraction effect is robust when options are numeric but rarely occurs in humans when options are visual, even though it occurs in animals. Building on psychophysics, we examined two types of visual attributes: quantitative and qualitative. Quantitative visual attributes (e.g., different bottle volumes) can be perceived as magnitudes. Qualitative visual attributes (e.g., different colors), however, do not fall onto a magnitude scale. One can perceive that a bottle’s volume is twice that of another bottle but not that a green bottle’s color is twice that of a red bottle. We observed robust attraction effects for quantitative visual attributes (4,602 adults, 237 college-age participants), which reversed to repulsion effects when the visual attributes were qualitative (6,005 adults).}
+      \field{issn}{0956-7976, 1467-9280}
+      \field{journaltitle}{Psychological Science}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Preferential {Attraction} {Effects} {With} {Visual} {Stimuli}}
+      \field{title}{Preferential {Attraction} {Effects} {With} {Visual} {Stimuli}: {The} {Role} of {Quantitative} {Versus} {Qualitative} {Visual} {Attributes}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{34}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{265\bibrangedash 278}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/09567976221134476
+      \endverb
+      \verb{file}
+      \verb Brendl_et_al_2022.pdf:/Users/seanconway/Reading/Papers/Brendl_et_al_2022.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/09567976221134476
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/09567976221134476
+      \endverb
+    \endentry
     \entry{bridges2012consumer}{article}{}
       \name{author}{5}{}{%
         {{hash=1afd38394e4c57523e2ab2a9f1dff515}{%
@@ -7361,6 +7607,60 @@
       \field{year}{2014}
       \field{pages}{178\bibrangedash 201}
       \range{pages}{24}
+    \endentry
+    \entry{frederick2008attraction}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=7948761e48219771d306c89d9053f7df}{%
+           family={Frederick},
+           familyi={F\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aab477ac50f9f93f200f326c96f889d5}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b2edeae904787a5bef56f46b50940213}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Angela\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=d373b0815505a8f81e90ce6f5aef06a0}{%
+           family={Soman},
+           familyi={S\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Duluth, MN}%
+      }
+      \list{publisher}{1}{%
+        {Association for Consumer Research}%
+      }
+      \strng{namehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{fullhash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{bibnamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authorbibnamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authornamehash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{authorfullhash}{27b71dd6420cee179f6f7f5c82496a4c}
+      \strng{editorbibnamehash}{f132f78de002b576b8295725a64cba28}
+      \strng{editornamehash}{f132f78de002b576b8295725a64cba28}
+      \strng{editorfullhash}{f132f78de002b576b8295725a64cba28}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Consumer Research}
+      \field{title}{Attraction, Repulsion, and Attribute Representation}
+      \field{volume}{35}
+      \field{year}{2008}
+      \field{pages}{122\bibrangedash 124}
+      \range{pages}{3}
     \endentry
     \entry{frederickLimitsAttraction2014b}{article}{}
       \name{author}{3}{}{%
@@ -8472,43 +8772,6 @@
       \verb{url}
       \verb https://academic.oup.com/jcr/article-lookup/doi/10.1086/208899
       \endverb
-    \endentry
-    \entry{huber1983market}{article}{}
-      \name{author}{2}{}{%
-        {{hash=6c6c648de7aa4056c07b1e3ffe1c4497}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={Joel},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c140a90c9e7bb70c8f3824e1613e2010}{%
-           family={Puto},
-           familyi={P\bibinitperiod},
-           given={Christopher},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The University of Chicago Press}%
-      }
-      \strng{namehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{fullhash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{bibnamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authorbibnamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authornamehash}{6dfe70c3a54072249e383beaedc31b73}
-      \strng{authorfullhash}{6dfe70c3a54072249e383beaedc31b73}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Consumer Research}
-      \field{number}{1}
-      \field{title}{Market boundaries and product choice: Illustrating attraction and substitution effects}
-      \field{volume}{10}
-      \field{year}{1983}
-      \field{pages}{31\bibrangedash 44}
-      \range{pages}{14}
     \endentry
     \entry{jedidi2009willingness}{article}{}
       \name{author}{2}{}{%
@@ -9722,6 +9985,43 @@
       \verb Nosofky 1986.pdf:/Users/seanconway/Reading/Papers/Nosofky 1986.pdf:application/pdf
       \endverb
     \endentry
+    \entry{o1995attraction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b59e7870b8ecd17fbb0b8523c8e70383}{%
+           family={O’Curry},
+           familyi={O\bibinitperiod},
+           given={Yigang\bibnamedelimb Pan\bibnamedelima Sue},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8e7487337080557ac86d9af739db41c3}{%
+           family={Pitts},
+           familyi={P\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{fullhash}{9a7844f1628d7b9cde05963424525871}
+      \strng{bibnamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authorbibnamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authornamehash}{9a7844f1628d7b9cde05963424525871}
+      \strng{authorfullhash}{9a7844f1628d7b9cde05963424525871}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Consumer Psychology}
+      \field{number}{1}
+      \field{title}{The attraction effect and political choice in two elections}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{85\bibrangedash 101}
+      \range{pages}{17}
+    \endentry
     \entry{paetzUtilityIndependenceIIA2018}{article}{}
       \name{author}{2}{}{%
         {{hash=a675b1d8b4dfeea76a92d842ca8e7a00}{%
@@ -10732,33 +11032,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027722001524
       \endverb
     \endentry
-    \entry{rstan}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=38cdaa762a62c2f6e7ff4a46c1ce1705}{%
-           family={{Stan Development Team}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{fullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{bibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authorbibnamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authornamehash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \strng{authorfullhash}{38cdaa762a62c2f6e7ff4a46c1ce1705}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 2.26.24}
-      \field{title}{{RStan}: the {R} interface to {Stan}}
-      \verb{urlraw}
-      \verb https://mc-stan.org/
-      \endverb
-      \verb{url}
-      \verb https://mc-stan.org/
-      \endverb
-    \endentry
     \entry{stevensCrossmodalityMatchingBrightness1965}{article}{}
       \name{author}{2}{}{%
         {{hash=5b0a388600f83b2d6842ed395885381e}{%
@@ -10904,6 +11177,67 @@
       \field{labeltitlesource}{title}
       \field{title}{Discrete choice methods with simulation}
       \field{year}{2009}
+    \endentry
+    \entry{trendlZeroAttractionEffect2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=76189ccd1bee53ac193b4e4f6d34e583}{%
+           family={Trendl},
+           familyi={T\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ba857a3e0e931f2450629a5075e6612}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bccdbbd5849541588f0eddb0d9f77b49}{%
+           family={Mullett},
+           familyi={M\bibinitperiod},
+           given={Timothy\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca3a441fa2245c8ef9688b78ebd2f8c}
+      \strng{fullhash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{bibnamehash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{authorbibnamehash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \strng{authornamehash}{fca3a441fa2245c8ef9688b78ebd2f8c}
+      \strng{authorfullhash}{4757332dde6f5f8440e1bbd4dad069cb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the attraction effect, adding a dominated third option to a choice set of two options can alter preferences for the original two options and increase the dominating option’s choice share. This can constitute a violation of the axioms of regularity and independence from irrelevant alternatives, which are core properties of any choice model in which the utility of each option is stable across choice sets. In the past 20 years, the attraction effect has driven the development of a set of inﬂuential models of multiattribute choice. However, two studies (Frederick et al., 2014; Yang \& Lynn, 2014) involving a series of experiments with naturalistic choice options (e.g., snacks, movies) found no evidence for the attraction effect in choice contexts where alternatives are represented without objectively deﬁned (e.g., numerical) attribute dimensions—a ﬁnding that would severely undermine its theoretical importance. Huber et al. (2014) criticized these studies, laying down a set of criteria that should be met by any experiment wishing to test for the attraction effect in real-world consumer choices. Based on these criteria, this article presents a carefully designed experiment testing the attraction effect with movies as naturalistic choice options. The results show a precisely zero attraction effect.}
+      \field{issn}{2325-9973, 2325-9965}
+      \field{journaltitle}{Decision}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A zero attraction effect in naturalistic choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{55\bibrangedash 68}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1037/dec0000145
+      \endverb
+      \verb{file}
+      \verb Trendl_et_al_2021.pdf:/Users/seanconway/Reading/Papers/Trendl_et_al_2021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000145
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/dec0000145
+      \endverb
     \endentry
     \entry{trueblood2022attentional}{article}{}
       \name{author}{5}{}{%
@@ -11283,6 +11617,40 @@
       \range{pages}{19}
       \verb{file}
       \verb Tversky_1972.pdf:/Users/seanconway/Reading/Papers/Tversky_1972.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{tverskyAdvancesProspectTheorya}{article}{}
+      \name{author}{2}{}{%
+        {{hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.}
+      \field{title}{Advances in prospect theory: {Cumulative} representation of uncertainty}
+      \verb{file}
+      \verb Tversky_Kahneman_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Kahneman_1992.pdf:application/pdf
       \endverb
     \endentry
     \entry{tversky1993context}{article}{}
@@ -11697,6 +12065,7 @@
     \endentry
   \enddatalist
   \missing{becker}
+  \missing{spektorHowSimilarityChoice2019}
 \endrefsection
 \endinput
 

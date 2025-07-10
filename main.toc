@@ -1,113 +1,109 @@
 \contentsline {FrontMatter}{\MakeTextUppercase []{Acknowledgments}}{iv}{chapter*.1}%
 \contentsline {FrontMatter}{\MakeTextUppercase []{\uppercase {Abstract}}}{v}{chapter*.2}%
-\contentsline {FrontMatter}{\MakeTextUppercase []{List of Tables}}{viii}{chapter*.4}%
-\contentsline {FrontMatter}{\MakeTextUppercase []{List of Figures}}{ix}{chapter*.5}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{List of Tables}}{xi}{chapter*.4}%
+\contentsline {FrontMatter}{\MakeTextUppercase []{List of Figures}}{xii}{chapter*.5}%
 \contentsline {Chapter}{\numberline {1.}\MakeTextUppercase []{Introduction}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Overview}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}The Attraction Effect}{3}{section.1.2}%
-\contentsline {Chapter}{\numberline {2.}\MakeTextUppercase []{Correlated Valuations as a Mechanism for the Repulsion Effect}}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction}{11}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}From Preferential to Perceptual Choice}{12}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Experiment 1}{19}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Methods}{19}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Participants.}{19}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Stimuli.}{20}{subsubsection.2.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}Design.}{20}{subsubsection.2.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.2.1.4}Procedure.}{21}{subsubsection.2.2.1.4}%
-\contentsline {subsection}{\numberline {2.2.2}Results}{21}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}Catch Trials.}{21}{subsubsection.2.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2.2}Critical Trials.}{22}{subsubsection.2.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Discussion}{25}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Modeling Context-Dependent Perceptual Choice}{25}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}A Thurstonian Choice Model}{28}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Perceptual Correlations as Mechanism for the Repulsion Effect}{32}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Experiment 2}{34}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Methods}{35}{subsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.1.1}Participants.}{35}{subsubsection.2.4.1.1}%
-\contentsline {subsubsection}{\numberline {2.4.1.2}Stimuli.}{35}{subsubsection.2.4.1.2}%
-\contentsline {subsubsection}{\numberline {2.4.1.3}Design.}{38}{subsubsection.2.4.1.3}%
-\contentsline {subsubsection}{\numberline {2.4.1.4}Procedure.}{38}{subsubsection.2.4.1.4}%
-\contentsline {subsection}{\numberline {2.4.2}Results}{41}{subsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.2.1}Data Processing}{41}{subsubsection.2.4.2.1}%
-\contentsline {subsubsection}{\numberline {2.4.2.2}Circle Adjustment Phase Results}{43}{subsubsection.2.4.2.2}%
-\contentsline {subsubsection}{\numberline {2.4.2.3}Choice Phase Results}{48}{subsubsection.2.4.2.3}%
-\contentsline {subsection}{\numberline {2.4.3}Model Simulations}{51}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Discussion}{54}{section.2.5}%
-\contentsline {Chapter}{\numberline {3.}\MakeTextUppercase []{Violations of Independence in Best-Worst Choice}}{61}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{61}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Introducing Best-Worst Choice}{61}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Model-Based Dissociations in Best-Worst Choice}{65}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Experiment 3}{68}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Methods}{69}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Participants.}{69}{subsubsection.3.2.1.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.2}Stimuli.}{69}{subsubsection.3.2.1.2}%
-\contentsline {subsubsection}{\numberline {3.2.1.3}Design.}{70}{subsubsection.3.2.1.3}%
-\contentsline {subsubsection}{\numberline {3.2.1.4}Procedure.}{70}{subsubsection.3.2.1.4}%
-\contentsline {subsection}{\numberline {3.2.2}Results}{72}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Catch Trials.}{72}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Filler Trials.}{72}{subsubsection.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.3}Critical Trials.}{72}{subsubsection.3.2.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.2.4}Maxdiff Modeling}{74}{subsubsection.3.2.2.4}%
-\contentsline {section}{\numberline {3.3}Discussion}{76}{section.3.3}%
-\contentsline {Chapter}{\numberline {4.}\MakeTextUppercase []{Correlated Valuations in Preferential Choice}}{82}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{82}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Expanding the Paradigm to Preferential Choice}{83}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Correlations in Preferential Choice}{86}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Experiment 4}{90}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Methods}{90}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Participants}{90}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.2}Stimuli}{90}{subsubsection.4.2.1.2}%
-\contentsline {subsubsection}{\numberline {4.2.1.3}Design}{92}{subsubsection.4.2.1.3}%
-\contentsline {subsubsection}{\numberline {4.2.1.4}Procedure}{92}{subsubsection.4.2.1.4}%
-\contentsline {subsection}{\numberline {4.2.2}Results}{93}{subsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.1}Data Processing}{93}{subsubsection.4.2.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2.2}Pricing Trials}{95}{subsubsection.4.2.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.3}Choice Trials}{98}{subsubsection.4.2.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.2.4}Model Simulations}{101}{subsubsection.4.2.2.4}%
-\contentsline {section}{\numberline {4.3}Discussion}{104}{section.4.3}%
-\contentsline {Chapter}{\numberline {5.}\MakeTextUppercase []{Comparability in Perceptual Choice}}{107}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{107}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Previous Literature on Comparability}{108}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Comparability Effects in Perceptual Choice}{110}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Experiment 5}{112}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Methods}{112}{subsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.1}Participants}{112}{subsubsection.5.2.1.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.2}Stimuli}{112}{subsubsection.5.2.1.2}%
-\contentsline {subsubsection}{\numberline {5.2.1.3}Design}{115}{subsubsection.5.2.1.3}%
-\contentsline {subsubsection}{\numberline {5.2.1.4}Procedure}{116}{subsubsection.5.2.1.4}%
-\contentsline {subsection}{\numberline {5.2.2}Results}{116}{subsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.1}Data Processing}{116}{subsubsection.5.2.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2.2}Catch and Filler Trials}{116}{subsubsection.5.2.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.3}Critical Trials}{118}{subsubsection.5.2.2.3}%
-\contentsline {section}{\numberline {5.3}Discussion}{120}{section.5.3}%
-\contentsline {Chapter}{\numberline {6.}\MakeTextUppercase []{General Discussion and Conclusions}}{122}{chapter.6}%
-\contentsline {section}{\numberline {6.1}General Discussion}{122}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Conclusions}{126}{section.6.2}%
+\contentsline {Chapter}{\numberline {2.}\MakeTextUppercase []{Correlated Valuations as a Mechanism for the Repulsion Effect}}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{17}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}From Preferential to Perceptual Choice}{18}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Experiment 1}{25}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Methods}{25}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Participants.}{25}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Stimuli.}{26}{subsubsection.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Design.}{26}{subsubsection.2.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.2.1.4}Procedure.}{27}{subsubsection.2.2.1.4}%
+\contentsline {subsection}{\numberline {2.2.2}Results}{27}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Catch Trials.}{27}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Critical Trials.}{28}{subsubsection.2.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Discussion}{31}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Modeling Context-Dependent Perceptual Choice}{31}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}A Thurstonian Choice Model}{34}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Perceptual Correlations as Mechanism for the Repulsion Effect}{38}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Experiment 2}{40}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Methods}{41}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}Participants.}{41}{subsubsection.2.4.1.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.2}Stimuli.}{41}{subsubsection.2.4.1.2}%
+\contentsline {subsubsection}{\numberline {2.4.1.3}Design.}{44}{subsubsection.2.4.1.3}%
+\contentsline {subsubsection}{\numberline {2.4.1.4}Procedure.}{44}{subsubsection.2.4.1.4}%
+\contentsline {subsection}{\numberline {2.4.2}Results}{47}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}Data Processing}{47}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}Circle Adjustment Phase Results}{49}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.3}Choice Phase Results}{54}{subsubsection.2.4.2.3}%
+\contentsline {subsection}{\numberline {2.4.3}Model Simulations}{57}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Discussion}{60}{section.2.5}%
+\contentsline {Chapter}{\numberline {3.}\MakeTextUppercase []{Violations of Independence in Best-Worst Choice}}{67}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{67}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Introducing Best-Worst Choice}{67}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Model-Based Dissociations in Best-Worst Choice}{71}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Experiment 3}{74}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Methods}{75}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Participants.}{75}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Stimuli.}{75}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Design.}{76}{subsubsection.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.1.4}Procedure.}{76}{subsubsection.3.2.1.4}%
+\contentsline {subsection}{\numberline {3.2.2}Results}{78}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Catch Trials.}{78}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Filler Trials.}{78}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}Critical Trials.}{78}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}Maxdiff Modeling}{80}{subsubsection.3.2.2.4}%
+\contentsline {section}{\numberline {3.3}Discussion}{82}{section.3.3}%
+\contentsline {Chapter}{\numberline {4.}\MakeTextUppercase []{Correlated Valuations in Preferential Choice}}{88}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{88}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Expanding the Paradigm to Preferential Choice}{89}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Correlations in Preferential Choice}{92}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Experiment 4}{96}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Methods}{96}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Participants}{96}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Stimuli}{96}{subsubsection.4.2.1.2}%
+\contentsline {subsubsection}{\numberline {4.2.1.3}Design}{98}{subsubsection.4.2.1.3}%
+\contentsline {subsubsection}{\numberline {4.2.1.4}Procedure}{98}{subsubsection.4.2.1.4}%
+\contentsline {subsection}{\numberline {4.2.2}Results}{99}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}Data Processing}{99}{subsubsection.4.2.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}Pricing Trials}{101}{subsubsection.4.2.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.3}Choice Trials}{104}{subsubsection.4.2.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.2.4}Model Simulations}{107}{subsubsection.4.2.2.4}%
+\contentsline {section}{\numberline {4.3}Discussion}{110}{section.4.3}%
+\contentsline {Chapter}{\numberline {5.}\MakeTextUppercase []{Comparability in Perceptual Choice}}{113}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{113}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Previous Literature on Comparability}{114}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Comparability Effects in Perceptual Choice}{116}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Experiment 5}{118}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Methods}{119}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}Participants}{119}{subsubsection.5.2.1.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}Stimuli}{119}{subsubsection.5.2.1.2}%
+\contentsline {subsubsection}{\numberline {5.2.1.3}Design}{122}{subsubsection.5.2.1.3}%
+\contentsline {subsubsection}{\numberline {5.2.1.4}Procedure}{123}{subsubsection.5.2.1.4}%
+\contentsline {subsection}{\numberline {5.2.2}Results}{123}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Data Processing}{123}{subsubsection.5.2.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}Catch and Filler Trials}{123}{subsubsection.5.2.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.3}Critical Trials}{125}{subsubsection.5.2.2.3}%
+\contentsline {section}{\numberline {5.3}Discussion}{128}{section.5.3}%
+\contentsline {Chapter}{\numberline {6.}\MakeTextUppercase []{General Discussion and Conclusions}}{130}{chapter.6}%
+\contentsline {section}{\numberline {6.1}General Discussion}{130}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusions}{133}{section.6.2}%
 \setcounter {tocdepth}{0}
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Bayesian Logistic Regression Model of 2AFC Discriminability from Experiment 1}}{127}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Model Details}{127}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Prior Distributions on Parameters}{129}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Modeling Results}{130}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}Parameter estimates.}{130}{subsection.A.3.1}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Bayesian Hierarchical Modeling of Circle Judgment Data from Experiment 2}}{132}{appendix.B}%
-\contentsline {section}{\numberline {A.1}Model Details}{132}{section.B.1}%
-\contentsline {subsection}{\numberline {A.1.1}$\boldsymbol {\mu }$ Parameterization}{133}{subsection.B.1.1}%
-\contentsline {subsubsection}{\numberline {A.1.1.1}Prior Distributions on Parameters}{135}{subsubsection.B.1.1.1}%
-\contentsline {section}{\numberline {A.2}$\boldsymbol {\Sigma }$ Parameterization}{136}{section.B.2}%
-\contentsline {subsection}{\numberline {A.2.1}Prior Distributions on Parameters}{137}{subsection.B.2.1}%
-\contentsline {section}{\numberline {A.3}Modeling Results}{138}{section.B.3}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Inferential Statistics for Experiment 2 Choice Data}}{141}{appendix.C}%
-\contentsline {section}{\numberline {A.1}Triangle Condition Analysis}{141}{section.C.1}%
-\contentsline {section}{\numberline {A.2}Horizontal Condition Analysis}{142}{section.C.2}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Maxdiff Modeling from Experiment 3}}{144}{appendix.D}%
-\contentsline {section}{\numberline {A.1}Model Details}{144}{section.D.1}%
-\contentsline {section}{\numberline {A.2}Prior Distributions on Parameters}{145}{section.D.2}%
-\contentsline {section}{\numberline {A.3}Parameter Estimates}{146}{section.D.3}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Bayesian Modeling of Price Data from Experiment 4}}{147}{appendix.E}%
-\contentsline {section}{\numberline {A.1}Thurstonian Price Model}{147}{section.E.1}%
-\contentsline {section}{\numberline {A.2}Prior Distributions on all Parameters}{148}{section.E.2}%
-\contentsline {section}{\numberline {A.3}Parameter Estimates}{149}{section.E.3}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Bayesian Modeling of Choice Data from Experiment 4}}{150}{appendix.F}%
-\contentsline {section}{\numberline {A.1}Dirichlet-Multinomial Choice Model}{150}{section.F.1}%
-\contentsline {OnlyAppendix}{\MakeTextUppercase []{Bayesian Hierarchical Logistic Regression for Experiment 5 Data}}{152}{appendix.G}%
-\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{154}{appendix*.6}%
+\contentsline {Appendix}{\numberline {A.}\MakeTextUppercase []{Bayesian Logistic Regression Model of 2AFC Discriminability from Experiment 1}}{135}{appendix.A}%
+\contentsline {Appendix}{\numberline {B.}\MakeTextUppercase []{Bayesian Hierarchical Modeling of Circle Judgment Data from Experiment 2}}{136}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Model Details}{136}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}$\bm {\mu }$ Parameterization}{137}{subsection.B.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.1.1}Prior Distributions on Parameters}{139}{subsubsection.B.1.1.1}%
+\contentsline {section}{\numberline {B.2}$\bm {\Sigma }$ Parameterization}{140}{section.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}Prior Distributions on Parameters}{141}{subsection.B.2.1}%
+\contentsline {section}{\numberline {B.3}Modeling Results}{142}{section.B.3}%
+\contentsline {Appendix}{\numberline {C.}\MakeTextUppercase []{Inferential Statistics for Experiment 2 Choice Data}}{144}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Triangle Condition Analysis}{144}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Horizontal Condition Analysis}{145}{section.C.2}%
+\contentsline {Appendix}{\numberline {D.}\MakeTextUppercase []{Maxdiff Modeling from Experiment 3}}{147}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Model Details}{147}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Prior Distributions on Parameters}{148}{section.D.2}%
+\contentsline {section}{\numberline {D.3}Parameter Estimates}{149}{section.D.3}%
+\contentsline {Appendix}{\numberline {E.}\MakeTextUppercase []{Bayesian Modeling of Price Data from Experiment 4}}{150}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Thurstonian Price Model}{150}{section.E.1}%
+\contentsline {section}{\numberline {E.2}Prior Distributions on all Parameters}{151}{section.E.2}%
+\contentsline {section}{\numberline {E.3}Parameter Estimates}{152}{section.E.3}%
+\contentsline {Appendix}{\numberline {F.}\MakeTextUppercase []{Bayesian Modeling of Choice Data from Experiment 4}}{153}{appendix.F}%
+\contentsline {section}{\numberline {F.1}Dirichlet-Multinomial Choice Model}{153}{section.F.1}%
+\contentsline {Appendix}{\numberline {G.}\MakeTextUppercase []{Bayesian Hierarchical Logistic Regression for Experiment 5 Choice Data}}{155}{appendix.G}%
+\contentsline {BackMatter}{\MakeTextUppercase []{Bibliography}}{157}{appendix*.6}%
