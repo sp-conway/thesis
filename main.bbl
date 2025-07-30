@@ -195,7 +195,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Behavioral science}
+      \field{journaltitle}{Behavioral Science}
       \field{number}{3}
       \field{title}{Measuring utility by a single-response sequential method}
       \field{volume}{9}
@@ -618,7 +618,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in amplification}
+      \field{journaltitle}{Trends in Amplification}
       \field{number}{1}
       \field{title}{Consumer preferences for hearing aid attributes: a comparison of rating and conjoint analysis methods}
       \field{volume}{16}
@@ -808,7 +808,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of statistical software}
+      \field{journaltitle}{Journal of Statistical Software}
       \field{title}{Stan: A probabilistic programming language}
       \field{volume}{76}
       \field{year}{2017}
@@ -835,6 +835,7 @@
       \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -867,6 +868,62 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+    \endentry
+    \entry{cataldoFramingContextEffects2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research on reference points highlights how alternatives outside the choice set can alter the perceived value of available alternatives, arguably framing the choice scenario. The present work utilizes reference points to study the effects of framing in preferential choice, using the similarity and attraction context effects as performance measures. We specifically test the predictions of Multialternative Decision by Sampling (MDbS; Noguchi \& Stewart, 2018), a recent preferential choice model that can account for both reference points and context effects. In Experiment 1, consistent with predictions by MDbS, we find a standard similarity effect when no reference point is given that increases when both dimensions are framed negatively and decreases when both dimensions are framed positively. Contrary to predictions by MDbS, when the two dimensions are framed as tradeoffs, participants prefer whichever alternative performs best in the negatively framed dimension. Performance of MDbS was improved by the addition of a frame-based global attention allocation mechanism. Experiment 2 extends these results to a “by-dimension” presentation format in an attempt to bring participant behavior in line with MDbS assumptions. The empirical and modeling results replicated those of Experiment 1. Experiment 3 used the attraction effect to test the effects of framing when the best-performing alternative on each dimension was identical across target conditions, therefore reducing the potential effects of a global attention allocation mechanism. The effects of framing were indeed greatly reduced, and the performance of MDbS was markedly improved. The results extend framing to the context effects literature, provide new benchmarks for models and theories of context effects, and point to the need for a global attention mechanism.}
+      \field{issn}{00100277}
+      \field{journaltitle}{Cognition}
+      \field{month}{10}
+      \field{title}{Framing context effects with reference points}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{203}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{104334}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cognition.2020.104334
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2020_RefPoints.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2020_RefPoints.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027720301530
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027720301530
       \endverb
     \endentry
     \entry{changWhichCompromiseOption2008}{article}{}
@@ -1360,6 +1417,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{PsyArXiv}
       \field{title}{Context effects when forecasting NCAA men’s basketball rankings}
       \field{year}{2024}
     \endentry
@@ -1910,53 +1968,6 @@
       \field{pages}{100437}
       \range{pages}{1}
     \endentry
-    \entry{haaijer1998utility}{article}{}
-      \name{author}{4}{}{%
-        {{hash=7b8a79794b399d9301e2cf0d9be89007}{%
-           family={Haaijer},
-           familyi={H\bibinitperiod},
-           given={Rinus},
-           giveni={R\bibinitperiod}}}%
-        {{hash=cc97ff839d13a6e6133f3a8fc9a52c25}{%
-           family={Wedel},
-           familyi={W\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=38abb387178e52fbe4c6a3e2f38332a9}{%
-           family={Vriens},
-           familyi={V\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=ba59cdeeae9634227444f8d0a13a3322}{%
-           family={Wansbeek},
-           familyi={W\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {INFORMS}%
-      }
-      \strng{namehash}{786d90af5dbb96fe5c512011021c6895}
-      \strng{fullhash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{bibnamehash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{authorbibnamehash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{authornamehash}{786d90af5dbb96fe5c512011021c6895}
-      \strng{authorfullhash}{4780b738601276f9ecff46e762ed5b33}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Marketing Science}
-      \field{number}{3}
-      \field{title}{Utility covariances and context effects in conjoint MNP models}
-      \field{volume}{17}
-      \field{year}{1998}
-      \field{pages}{236\bibrangedash 252}
-      \range{pages}{17}
-    \endentry
     \entry{hasan2025registered}{article}{}
       \name{author}{4}{}{%
         {{hash=157b27b4995ee42f9242dcf699c01e28}{%
@@ -2027,6 +2038,7 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Econometrica: Journal of the Econometric Society}
@@ -2034,40 +2046,6 @@
       \field{year}{1984}
       \field{pages}{1219\bibrangedash 1240}
       \range{pages}{22}
-    \endentry
-    \entry{hausman1978conditional}{article}{}
-      \name{author}{2}{}{%
-        {{hash=efa8edfd650dfd234af154959e067af8}{%
-           family={Hausman},
-           familyi={H\bibinitperiod},
-           given={Jerry\bibnamedelima A},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4113665da8685d215771271a11d964c8}{%
-           family={Wise},
-           familyi={W\bibinitperiod},
-           given={David\bibnamedelima A},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{fullhash}{636e905d748145a83f5a504fc6b34950}
-      \strng{bibnamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authorbibnamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authornamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authorfullhash}{636e905d748145a83f5a504fc6b34950}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
-      \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
-      \field{year}{1978}
-      \field{pages}{403\bibrangedash 426}
-      \range{pages}{24}
     \endentry
     \entry{hawkinsIntegratingCognitiveProcess2014a}{article}{}
       \name{author}{6}{}{%
@@ -2510,7 +2488,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological bulletin}
+      \field{journaltitle}{Psychological Bulletin}
       \field{number}{5}
       \field{title}{Preference reversals between joint and separate evaluations of options: A review and theoretical analysis.}
       \field{volume}{125}
@@ -2747,7 +2725,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Handbook of pricing research in marketing}
+      \field{journaltitle}{Handbook of Pricing Research in Mmarketing}
       \field{title}{Willingness to pay: measurement and managerial implications}
       \field{year}{2009}
       \field{pages}{37\bibrangedash 60}
@@ -2789,6 +2767,62 @@
       \field{year}{2002}
       \field{pages}{1350\bibrangedash 1368}
       \range{pages}{19}
+    \endentry
+    \entry{kahnemanProspectTheoryAnalysis1979}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{fullhash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{bibnamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authorbibnamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authornamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authorfullhash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00129682}
+      \field{journaltitle}{Econometrica}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{Prospect {Theory}}
+      \field{title}{Prospect {Theory}: {An} {Analysis} of {Decision} under {Risk}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{263}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/1914185
+      \endverb
+      \verb{file}
+      \verb kahneman-tversky-79.pdf:/Users/seanconway/Reading/Papers/kahneman-tversky-79.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1914185?origin=crossref
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1914185?origin=crossref
+      \endverb
     \endentry
     \entry{kamakura1984predicting}{article}{}
       \name{author}{2}{}{%
@@ -3479,7 +3513,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249608000230
       \endverb
     \endentry
-    \entry{martin2021}{misc}{}
+    \entry{martin2021}{online}{}
       \name{author}{1}{}{%
         {{hash=48034aa583703422ccd846b19d175ed5}{%
            family={Martin},
@@ -3500,11 +3534,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/}}
       \field{month}{4}
-      \field{note}{Blog post}
       \field{title}{Informative priors for correlation matrices: An easy approach}
       \field{year}{2021}
+      \verb{urlraw}
+      \verb https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/
+      \endverb
+      \verb{url}
+      \verb https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/
+      \endverb
     \endentry
     \entry{maylorSimilarityAttractionEffects2007b}{article}{}
       \name{author}{2}{}{%
@@ -4091,48 +4129,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1755534516300732
       \endverb
     \endentry
-    \entry{pan1995attractiovoting}{article}{}
-      \name{author}{3}{}{%
-        {{hash=374842294f3f6323c4d22c747565f716}{%
-           family={Pan},
-           familyi={P\bibinitperiod},
-           given={Yigang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=8a12d8c90b3224aa30ff70c449c3e32b}{%
-           family={O'Curry},
-           familyi={O\bibinitperiod},
-           given={Sue},
-           giveni={S\bibinitperiod}}}%
-        {{hash=8e7487337080557ac86d9af739db41c3}{%
-           family={Pitts},
-           familyi={P\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{096adab93b1e2fa3d23e270e04b1178b}
-      \strng{fullhash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{bibnamehash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{authorbibnamehash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{authornamehash}{096adab93b1e2fa3d23e270e04b1178b}
-      \strng{authorfullhash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Consumer Psychology}
-      \field{number}{1}
-      \field{title}{The attraction effect and political choice in two elections}
-      \field{volume}{4}
-      \field{year}{1995}
-      \field{pages}{85\bibrangedash 101}
-      \range{pages}{17}
-    \endentry
     \entry{pettiboneExaminingModelsNondominated2000}{article}{}
       \name{author}{2}{}{%
         {{hash=a1650a07dc6a7ed5575635a88d42f922}{%
@@ -4310,7 +4306,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{2}
       \field{title}{A theory of memory retrieval.}
       \field{volume}{85}
@@ -4745,7 +4741,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{3}
       \field{title}{Choice in context: Tradeoff contrast and extremeness aversion}
       \field{volume}{29}
@@ -4916,7 +4912,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{1}
       \field{title}{How similarity between choice options affects decisions from experience: The accentuation-of-differences model.}
       \field{volume}{126}
@@ -5556,8 +5552,68 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The fragile nature of contextual preference reversals: Reply to Tsetsos, Chater, and Usher (2015).}
+      \field{title}{The fragile nature of contextual preference reversals: {Reply} to {Tsetsos}, {Chater}, and {Usher} (2015).}
       \field{year}{2015}
+    \endentry
+    \entry{tsetsosPreferenceReversalMultiattribute2010a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51755e7d606f668a09889a06588c3dba}{%
+           family={Tsetsos},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=68f539b14c5ba5fb2395b9309d555ad7}{%
+           family={Chater},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{fullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{bibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authorbibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authornamehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{authorfullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A central puzzle for theories of choice is that people’s preferences between options can be reversed by the presence of decoy options (that are not chosen) or by the presence of other irrelevant options added to the choice set. Three types of reversal effect reported in the decision-making literature, the attraction, compromise, and similarity effects, have been explained by a number of theoretical proposals. Yet a major theoretical challenge is capturing all 3 effects simultaneously. We review the range of mechanisms that have been proposed to account for decoy effects and analyze in detail 2 computational models, decision field theory (Roe, Busemeyer, \& Townsend, 2001) and leaky competing accumulators (Usher \& McClelland, 2004), that aim to combine several such mechanisms into an integrated account. By simulating the models, we examine differences in the ways the decoy effects are predicted. We argue that the LCA framework, which follows on Tversky’s relational evaluation with loss aversion (Tversky \& Kahneman, 1991), provides a more robust account, suggesting that common mechanisms are involved in both high-level decision making and perceptual choice, for which LCA was originally developed.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Preference reversal in multiattribute choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{117}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{1275\bibrangedash 1291}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1037/a0020580
+      \endverb
+      \verb{file}
+      \verb Tsetsos_et_al_2010.pdf:/Users/seanconway/Reading/Papers/Tsetsos_et_al_2010.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
     \endentry
     \entry{turnerCompetingTheoriesMultialternative2018a}{article}{}
       \name{author}{4}{}{%
@@ -5673,8 +5729,8 @@
            given={Daniel},
            giveni={D\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {en}%
+      \list{publisher}{1}{%
+        {Springer}%
       }
       \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
       \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
@@ -5684,15 +5740,18 @@
       \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.}
-      \field{title}{Advances in prospect theory: {Cumulative} representation of uncertainty}
-      \verb{file}
-      \verb Tversky_Kahneman_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Kahneman_1992.pdf:application/pdf
-      \endverb
+      \field{journaltitle}{Journal of Risk and Uncertainty}
+      \field{number}{4}
+      \field{title}{Advances in prospect theory: Cumulative representation of uncertainty}
+      \field{volume}{5}
+      \field{year}{1992}
+      \field{pages}{297\bibrangedash 323}
+      \range{pages}{27}
     \endentry
     \entry{tversky1993context}{article}{}
       \name{author}{2}{}{%
@@ -5843,11 +5902,18 @@
       \strng{authorfullhash}{a1062a52631453ff99535d3c36361ffe}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{4}
       \field{title}{Distinguishing {Among} {Models} of {Contextually} {Induced} {Preference} {Reversals}}
+      \field{volume}{17}
+      \field{year}{1991}
+      \field{pages}{767\bibrangedash 778}
+      \range{pages}{12}
       \verb{file}
       \verb Wedell_1991.pdf:/Users/seanconway/Reading/Papers/Wedell_1991.pdf:application/pdf
       \endverb
@@ -6282,7 +6348,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Behavioral science}
+      \field{journaltitle}{Behavioral Science}
       \field{number}{3}
       \field{title}{Measuring utility by a single-response sequential method}
       \field{volume}{9}
@@ -6705,7 +6771,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Trends in amplification}
+      \field{journaltitle}{Trends in Amplification}
       \field{number}{1}
       \field{title}{Consumer preferences for hearing aid attributes: a comparison of rating and conjoint analysis methods}
       \field{volume}{16}
@@ -6895,7 +6961,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of statistical software}
+      \field{journaltitle}{Journal of Statistical Software}
       \field{title}{Stan: A probabilistic programming language}
       \field{volume}{76}
       \field{year}{2017}
@@ -6922,6 +6988,7 @@
       \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
       \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -6954,6 +7021,62 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.3758/s13423-018-1531-9
+      \endverb
+    \endentry
+    \entry{cataldoFramingContextEffects2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0b965e82de7c02147c274bf010ddc728}{%
+           family={Cataldo},
+           familyi={C\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7b70e0f4c888fc83a29ffe686290902f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{fullhash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{bibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorbibnamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authornamehash}{d7795ddaff24efb5be7c24b371387976}
+      \strng{authorfullhash}{d7795ddaff24efb5be7c24b371387976}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research on reference points highlights how alternatives outside the choice set can alter the perceived value of available alternatives, arguably framing the choice scenario. The present work utilizes reference points to study the effects of framing in preferential choice, using the similarity and attraction context effects as performance measures. We specifically test the predictions of Multialternative Decision by Sampling (MDbS; Noguchi \& Stewart, 2018), a recent preferential choice model that can account for both reference points and context effects. In Experiment 1, consistent with predictions by MDbS, we find a standard similarity effect when no reference point is given that increases when both dimensions are framed negatively and decreases when both dimensions are framed positively. Contrary to predictions by MDbS, when the two dimensions are framed as tradeoffs, participants prefer whichever alternative performs best in the negatively framed dimension. Performance of MDbS was improved by the addition of a frame-based global attention allocation mechanism. Experiment 2 extends these results to a “by-dimension” presentation format in an attempt to bring participant behavior in line with MDbS assumptions. The empirical and modeling results replicated those of Experiment 1. Experiment 3 used the attraction effect to test the effects of framing when the best-performing alternative on each dimension was identical across target conditions, therefore reducing the potential effects of a global attention allocation mechanism. The effects of framing were indeed greatly reduced, and the performance of MDbS was markedly improved. The results extend framing to the context effects literature, provide new benchmarks for models and theories of context effects, and point to the need for a global attention mechanism.}
+      \field{issn}{00100277}
+      \field{journaltitle}{Cognition}
+      \field{month}{10}
+      \field{title}{Framing context effects with reference points}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{203}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{104334}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cognition.2020.104334
+      \endverb
+      \verb{file}
+      \verb Cataldo_Cohen_2020_RefPoints.pdf:/Users/seanconway/Reading/Papers/Cataldo_Cohen_2020_RefPoints.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027720301530
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0010027720301530
       \endverb
     \endentry
     \entry{changWhichCompromiseOption2008}{article}{}
@@ -7447,6 +7570,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{PsyArXiv}
       \field{title}{Context effects when forecasting NCAA men’s basketball rankings}
       \field{year}{2024}
     \endentry
@@ -7997,53 +8121,6 @@
       \field{pages}{100437}
       \range{pages}{1}
     \endentry
-    \entry{haaijer1998utility}{article}{}
-      \name{author}{4}{}{%
-        {{hash=7b8a79794b399d9301e2cf0d9be89007}{%
-           family={Haaijer},
-           familyi={H\bibinitperiod},
-           given={Rinus},
-           giveni={R\bibinitperiod}}}%
-        {{hash=cc97ff839d13a6e6133f3a8fc9a52c25}{%
-           family={Wedel},
-           familyi={W\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=38abb387178e52fbe4c6a3e2f38332a9}{%
-           family={Vriens},
-           familyi={V\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=ba59cdeeae9634227444f8d0a13a3322}{%
-           family={Wansbeek},
-           familyi={W\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {INFORMS}%
-      }
-      \strng{namehash}{786d90af5dbb96fe5c512011021c6895}
-      \strng{fullhash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{bibnamehash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{authorbibnamehash}{4780b738601276f9ecff46e762ed5b33}
-      \strng{authornamehash}{786d90af5dbb96fe5c512011021c6895}
-      \strng{authorfullhash}{4780b738601276f9ecff46e762ed5b33}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Marketing Science}
-      \field{number}{3}
-      \field{title}{Utility covariances and context effects in conjoint MNP models}
-      \field{volume}{17}
-      \field{year}{1998}
-      \field{pages}{236\bibrangedash 252}
-      \range{pages}{17}
-    \endentry
     \entry{hasan2025registered}{article}{}
       \name{author}{4}{}{%
         {{hash=157b27b4995ee42f9242dcf699c01e28}{%
@@ -8114,6 +8191,7 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Econometrica: Journal of the Econometric Society}
@@ -8121,40 +8199,6 @@
       \field{year}{1984}
       \field{pages}{1219\bibrangedash 1240}
       \range{pages}{22}
-    \endentry
-    \entry{hausman1978conditional}{article}{}
-      \name{author}{2}{}{%
-        {{hash=efa8edfd650dfd234af154959e067af8}{%
-           family={Hausman},
-           familyi={H\bibinitperiod},
-           given={Jerry\bibnamedelima A},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4113665da8685d215771271a11d964c8}{%
-           family={Wise},
-           familyi={W\bibinitperiod},
-           given={David\bibnamedelima A},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{fullhash}{636e905d748145a83f5a504fc6b34950}
-      \strng{bibnamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authorbibnamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authornamehash}{636e905d748145a83f5a504fc6b34950}
-      \strng{authorfullhash}{636e905d748145a83f5a504fc6b34950}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Econometrica: Journal of the Econometric Society}
-      \field{title}{A conditional probit model for qualitative choice: Discrete decisions recognizing interdependence and heterogeneous preferences}
-      \field{year}{1978}
-      \field{pages}{403\bibrangedash 426}
-      \range{pages}{24}
     \endentry
     \entry{hawkins2019like}{article}{}
       \name{author}{3}{}{%
@@ -8597,7 +8641,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological bulletin}
+      \field{journaltitle}{Psychological Bulletin}
       \field{number}{5}
       \field{title}{Preference reversals between joint and separate evaluations of options: A review and theoretical analysis.}
       \field{volume}{125}
@@ -8834,7 +8878,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Handbook of pricing research in marketing}
+      \field{journaltitle}{Handbook of Pricing Research in Mmarketing}
       \field{title}{Willingness to pay: measurement and managerial implications}
       \field{year}{2009}
       \field{pages}{37\bibrangedash 60}
@@ -8876,6 +8920,62 @@
       \field{year}{2002}
       \field{pages}{1350\bibrangedash 1368}
       \range{pages}{19}
+    \endentry
+    \entry{kahnemanProspectTheoryAnalysis1979}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{fullhash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{bibnamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authorbibnamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authornamehash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \strng{authorfullhash}{d3bcf557edbcd57c46dc3a22d1e8ff94}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00129682}
+      \field{journaltitle}{Econometrica}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{Prospect {Theory}}
+      \field{title}{Prospect {Theory}: {An} {Analysis} of {Decision} under {Risk}}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{263}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/1914185
+      \endverb
+      \verb{file}
+      \verb kahneman-tversky-79.pdf:/Users/seanconway/Reading/Papers/kahneman-tversky-79.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1914185?origin=crossref
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1914185?origin=crossref
+      \endverb
     \endentry
     \entry{kamakura1984predicting}{article}{}
       \name{author}{2}{}{%
@@ -9566,7 +9666,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022249611000964
       \endverb
     \endentry
-    \entry{martin2021}{misc}{}
+    \entry{martin2021}{online}{}
       \name{author}{1}{}{%
         {{hash=48034aa583703422ccd846b19d175ed5}{%
            family={Martin},
@@ -9587,11 +9687,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/}}
       \field{month}{4}
-      \field{note}{Blog post}
       \field{title}{Informative priors for correlation matrices: An easy approach}
       \field{year}{2021}
+      \verb{urlraw}
+      \verb https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/
+      \endverb
+      \verb{url}
+      \verb https://srmart.in/informative-priors-for-correlation-matrices-an-easy-approach/
+      \endverb
     \endentry
     \entry{maylorSimilarityAttractionEffects2007b}{article}{}
       \name{author}{2}{}{%
@@ -10178,48 +10282,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1755534516300732
       \endverb
     \endentry
-    \entry{pan1995attractiovoting}{article}{}
-      \name{author}{3}{}{%
-        {{hash=374842294f3f6323c4d22c747565f716}{%
-           family={Pan},
-           familyi={P\bibinitperiod},
-           given={Yigang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=8a12d8c90b3224aa30ff70c449c3e32b}{%
-           family={O'Curry},
-           familyi={O\bibinitperiod},
-           given={Sue},
-           giveni={S\bibinitperiod}}}%
-        {{hash=8e7487337080557ac86d9af739db41c3}{%
-           family={Pitts},
-           familyi={P\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{096adab93b1e2fa3d23e270e04b1178b}
-      \strng{fullhash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{bibnamehash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{authorbibnamehash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \strng{authornamehash}{096adab93b1e2fa3d23e270e04b1178b}
-      \strng{authorfullhash}{bf03ca25a64f4e9f1ffdaebfdf58fccf}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Consumer Psychology}
-      \field{number}{1}
-      \field{title}{The attraction effect and political choice in two elections}
-      \field{volume}{4}
-      \field{year}{1995}
-      \field{pages}{85\bibrangedash 101}
-      \range{pages}{17}
-    \endentry
     \entry{pettiboneExaminingModelsNondominated2000}{article}{}
       \name{author}{2}{}{%
         {{hash=a1650a07dc6a7ed5575635a88d42f922}{%
@@ -10397,7 +10459,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{2}
       \field{title}{A theory of memory retrieval.}
       \field{volume}{85}
@@ -10832,7 +10894,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of marketing research}
+      \field{journaltitle}{Journal of Marketing Research}
       \field{number}{3}
       \field{title}{Choice in context: Tradeoff contrast and extremeness aversion}
       \field{volume}{29}
@@ -11001,7 +11063,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychological review}
+      \field{journaltitle}{Psychological Review}
       \field{number}{1}
       \field{title}{How similarity between choice options affects decisions from experience: The accentuation-of-differences model.}
       \field{volume}{126}
@@ -11541,7 +11603,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The fragile nature of contextual preference reversals: Reply to Tsetsos, Chater, and Usher (2015).}
+      \field{title}{The fragile nature of contextual preference reversals: {Reply} to {Tsetsos}, {Chater}, and {Usher} (2015).}
       \field{year}{2015}
     \endentry
     \entry{trueblood2013not}{article}{}
@@ -11644,6 +11706,66 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/bdm.1930
+      \endverb
+    \endentry
+    \entry{tsetsosPreferenceReversalMultiattribute2010a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51755e7d606f668a09889a06588c3dba}{%
+           family={Tsetsos},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aed2f2b0b20594d6d7e9b53721d1fb10}{%
+           family={Usher},
+           familyi={U\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=68f539b14c5ba5fb2395b9309d555ad7}{%
+           family={Chater},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{fullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{bibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authorbibnamehash}{98755bea76b588d0a6d05cb333e6768e}
+      \strng{authornamehash}{219fe5a266601b7f5b8b6770ab83b496}
+      \strng{authorfullhash}{98755bea76b588d0a6d05cb333e6768e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A central puzzle for theories of choice is that people’s preferences between options can be reversed by the presence of decoy options (that are not chosen) or by the presence of other irrelevant options added to the choice set. Three types of reversal effect reported in the decision-making literature, the attraction, compromise, and similarity effects, have been explained by a number of theoretical proposals. Yet a major theoretical challenge is capturing all 3 effects simultaneously. We review the range of mechanisms that have been proposed to account for decoy effects and analyze in detail 2 computational models, decision field theory (Roe, Busemeyer, \& Townsend, 2001) and leaky competing accumulators (Usher \& McClelland, 2004), that aim to combine several such mechanisms into an integrated account. By simulating the models, we examine differences in the ways the decoy effects are predicted. We argue that the LCA framework, which follows on Tversky’s relational evaluation with loss aversion (Tversky \& Kahneman, 1991), provides a more robust account, suggesting that common mechanisms are involved in both high-level decision making and perceptual choice, for which LCA was originally developed.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{Preference reversal in multiattribute choice.}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{117}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{1275\bibrangedash 1291}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1037/a0020580
+      \endverb
+      \verb{file}
+      \verb Tsetsos_et_al_2010.pdf:/Users/seanconway/Reading/Papers/Tsetsos_et_al_2010.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020580
       \endverb
     \endentry
     \entry{turnerCompetingTheoriesMultialternative2018a}{article}{}
@@ -11760,8 +11882,8 @@
            given={Daniel},
            giveni={D\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {en}%
+      \list{publisher}{1}{%
+        {Springer}%
       }
       \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
       \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
@@ -11771,15 +11893,18 @@
       \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.}
-      \field{title}{Advances in prospect theory: {Cumulative} representation of uncertainty}
-      \verb{file}
-      \verb Tversky_Kahneman_1992.pdf:/Users/seanconway/Reading/Papers/Tversky_Kahneman_1992.pdf:application/pdf
-      \endverb
+      \field{journaltitle}{Journal of Risk and Uncertainty}
+      \field{number}{4}
+      \field{title}{Advances in prospect theory: Cumulative representation of uncertainty}
+      \field{volume}{5}
+      \field{year}{1992}
+      \field{pages}{297\bibrangedash 323}
+      \range{pages}{27}
     \endentry
     \entry{tversky1993context}{article}{}
       \name{author}{2}{}{%
@@ -11930,11 +12055,18 @@
       \strng{authorfullhash}{a1062a52631453ff99535d3c36361ffe}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{4}
       \field{title}{Distinguishing {Among} {Models} of {Contextually} {Induced} {Preference} {Reversals}}
+      \field{volume}{17}
+      \field{year}{1991}
+      \field{pages}{767\bibrangedash 778}
+      \range{pages}{12}
       \verb{file}
       \verb Wedell_1991.pdf:/Users/seanconway/Reading/Papers/Wedell_1991.pdf:application/pdf
       \endverb

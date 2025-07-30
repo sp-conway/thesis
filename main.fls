@@ -380,6 +380,11 @@ INPUT ./figures/sim_mvnorm_rank.jpeg
 INPUT ./figures/sim_mvnorm_rank.jpeg
 INPUT ./figures/sim_mvnorm_rank.jpeg
 INPUT ./figures/sim_mvnorm_rank.jpeg
+INPUT ./figures/creating_correlations_sim.jpeg
+INPUT ./figures/creating_correlations_sim.jpeg
+INPUT ./figures/creating_correlations_sim.jpeg
+INPUT ./figures/creating_correlations_sim.jpeg
+INPUT ./figures/creating_correlations_sim.jpeg
 INPUT ./chapter3.tex
 INPUT ./chapter3.tex
 INPUT chapter3.tex
@@ -532,7 +537,6 @@ INPUT ./main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
